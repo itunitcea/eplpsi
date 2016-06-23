@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/home', function () {
+Route::get('/', function () {
     return view('welcome');
 });
 
@@ -19,8 +19,8 @@ Route::get('/indDetails', function () {
     return view('indDetails');
 });
 
-Route::get('/manufact', function () {
-    return view('manufactProcess');
+Route::get('/manufacture', function () {
+    return view('manufaacure');
 });
 
 Route::get('/water', function () {
@@ -58,3 +58,27 @@ Route::get('/geoLocation', function () {
 Route::get('/emergency', function () {
     return view('emergency');
 });
+
+
+//manufacture
+
+Route::get('/manufacture', 'ManufactureController@index');
+
+
+//industry
+
+Route::get('/industry', 'IndustryController@index');
+
+Route::get('industry/create', 'IndustryController@create');
+
+Route::get('industry/show', 'IndustryController@show');
+
+//category 
+
+Route::get('/category', 'CategoryController@index');
+
+Route::get('category/create', 'CategoryController@create');
+
+Route::get('category/{id}', 'CategoryController@show');
+
+Route::get('category/{id}/edit', 'CategoryController@edit');
