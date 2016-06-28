@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class WaterController extends Controller
+class AtmoshericController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,7 +15,7 @@ class WaterController extends Controller
      */
     public function index()
     {
-        return view('water.index'); //we should create folder called "category" and file called"index.blade.php"
+        return view('atmosheric.index'); //we should create folder called "category" and file called"index.blade.php"
     }
 
     /**
@@ -25,7 +25,7 @@ class WaterController extends Controller
      */
     public function create()
     {
-        return view('water.create'); //we should create file called "create.blade.php"
+        return view('atmosheric.create'); //we should create file called "create.blade.php"
     }
 
     /**
@@ -36,7 +36,7 @@ class WaterController extends Controller
      */
     public function store(Request $request)
     {
-        return view('water.store');
+        return view('atmosheric.store');
     }
 
     /**
@@ -47,7 +47,7 @@ class WaterController extends Controller
      */
     public function show($id)
     {
-      return view('water.show');  
+      return view('atmosheric.show');  
     }
 
     /**
@@ -58,7 +58,7 @@ class WaterController extends Controller
      */
     public function edit($id)
     {
-        return view('solidwaste.edit');
+        return view('atmosheric.edit');
     }
 
     /**
@@ -84,5 +84,3 @@ class WaterController extends Controller
         //
     }
 }
-
-

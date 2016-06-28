@@ -1,6 +1,6 @@
 @extends('master')
 @section('content')
-          
+
 <h3>Welcome to the EPL - PSI System</h3>
 <div class="row">
 <div class="col-md-6">

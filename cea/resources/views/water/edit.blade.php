@@ -47,8 +47,29 @@
     <option value="6" >Other</option>
 
 
-    <input type="submit" value="SAVE"/>
+    <input type="submit" value="EDIT"/>
 
+</form>
+
+@endsection
+@extends('master')
+
+@section('content')
+
+<h2>Add New Industry</h2>  
+
+<form action="atmosphere" method="post">
+    <label>Industry Name</label>
+    <input type="text" name="name" class="form-control"/>
+    <label>Industry Address</label>
+    <input type="text" name="address" class="form-control"/>
+    <label>Industry TP</label>
+    <input type="text" name="tp" class="form-control"/>
+    <label>Industry Email</label>
+    <input type="text" name="email" class="form-control"/>
+    
+    <input type="submit" value="SAVE"/>
+    
 </form>
 
 @endsection
