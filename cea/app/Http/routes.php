@@ -82,3 +82,13 @@ Route::get('category/create', 'CategoryController@create');
 Route::get('category/{id}', 'CategoryController@show');
 
 Route::get('category/{id}/edit', 'CategoryController@edit');
+
+//Inspection
+
+Route::get('/inspection', 'InspectionController@index');
+
+Route::get('inspection/create', 'InspectionController@create');
+
+Route::get('inspection/{id}', 'InspectionController@show');
+
+Route::get('inspection/{id}/edit', 'InspectionController@edit');
