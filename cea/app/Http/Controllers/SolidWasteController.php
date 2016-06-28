@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class SolidWasteController extends Controller
+class SolidwasteController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,7 +15,7 @@ class SolidWasteController extends Controller
      */
     public function index()
     {
-        return view('solidWaste.index');//We should create folder called "solidWaste" and file called 'index.blade.php'
+        return view('solidwaste.index'); //we should create folder called "category" and file called"index.blade.php"
     }
 
     /**
@@ -25,7 +25,7 @@ class SolidWasteController extends Controller
      */
     public function create()
     {
-       return view('solidWaste.çreate');//
+        return view('solidwaste.create'); //we should create file called "create.blade.php"
     }
 
     /**
@@ -36,7 +36,7 @@ class SolidWasteController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return view('solidwaste.store');
     }
 
     /**
@@ -47,7 +47,7 @@ class SolidWasteController extends Controller
      */
     public function show($id)
     {
-        return view('solidWaste.show');//
+      return view('solidwaste.show');  
     }
 
     /**
@@ -58,7 +58,7 @@ class SolidWasteController extends Controller
      */
     public function edit($id)
     {
-        
+        return view('solidwaste.edit');
     }
 
     /**
@@ -84,3 +84,4 @@ class SolidWasteController extends Controller
         //
     }
 }
+

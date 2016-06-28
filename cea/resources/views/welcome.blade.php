@@ -1,5 +1,16 @@
 @extends('master')
 @section('content')
+<<<<<<< HEAD
+
+
+    <body>
+        <div class="container">
+            <div class="jumbotron">
+                <div class="title">Welcome .. !!! </div>
+            </div>
+        </div>
+    </body>
+=======
           
 <h3>Welcome to the EPL - PSI System</h3>
 <div class="row">
@@ -30,4 +41,5 @@
     
 </div>
             
+>>>>>>> 31b2d68dfd4edde6f72b7e6608f99fc1e990a3ad
 @endsection
