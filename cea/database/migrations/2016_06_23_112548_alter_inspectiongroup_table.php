@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateCategoryTable extends Migration
+class AlterInspectiongroupTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,12 +12,9 @@ class CreateCategoryTable extends Migration
      */
     public function up()
     {
-       Schema::create('category', function($table){
-	$table->increments('idno');
-	$table->string('categoryID')->unique();
-        $table->string('discription');
-	$table->string('listno');
-        $table->string('abc');
+        Schema::table('inspectiongroup', function (Blueprint $table) {
+            $table->foreign('officeID')->references('officeID')->on('office');
+
         });
     }
 
@@ -28,6 +25,8 @@ class CreateCategoryTable extends Migration
      */
     public function down()
     {
-        Schema::drop('category');
+        Schema::table('inspectiongroup', function (Blueprint $table) {
+            //
+        });
     }
 }

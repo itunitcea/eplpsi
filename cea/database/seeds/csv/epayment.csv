@@ -1,0 +1,9 @@
+tranno,custid,pdamt,pddate,RECstat,feeno,tranStat,conFee,pgName,,,CustName,CustTel,CustEmail,paytype
+CEA100020,NULL,3,7/28/2015 15:52,0,NULL,0,0.06,hnb,,,www,111,sunil@cea.lk,3
+CEA100022,NULL,4,7/29/2015 9:56,0,NULL,1,0.08,hnb,,,ABCD,333,sunil@cea.lk,2
+CEA100026,NULL,4,7/30/2015 12:18,0,NULL,0,0.08,sampathnet,,,ABCD,ttt,sunildsl@yahoo.com,2
+CEA100027,NULL,4,7/30/2015 12:22,0,NULL,1,0.08,hnb,,,ABCD,33,sunildsl@yahoo.com,2
+CEA100028,NULL,4,8/5/2015 15:44,0,NULL,1,0.08,hnb,,,ABCD,9999,sunildsl@yahoo.com,2
+CEA100048,NULL,4,8/12/2015 9:35,0,NULL,NULL,NULL,NULL,,,ABCD,33344,sunildsl@yahoo.com,2
+CEA100049,NULL,4,8/12/2015 11:31,0,NULL,NULL,NULL,NULL,,,ABCD,ss,sunil@cea.lk,2
+CEA100054,NULL,9256.5,8/13/2015 12:57,0,NULL,NULL,NULL,NULL,,,BLACHING PLANT,718523891,priyanthaba@gmail.com,2

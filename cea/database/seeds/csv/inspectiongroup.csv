@@ -1,0 +1,323 @@
+insgroupID,officeID,groupname
+1,5,rertet
+2,5,kgkjg
+4,1,"wp group1"
+5,5,ss
+7,1,sstydyrduydt
+8,1,ErTy
+9,1,eee
+10,5,HO
+11,6,
+12,6,Panadura
+13,6,Horana
+14,6,Ingiriya
+15,6,Bulathsinghala
+16,6,Madurawala
+17,6,Kalutara
+18,6,Dodangoda
+19,6,Bandaragama
+20,6,Millaniya
+21,6,Beruwala
+22,6,Mathugama
+23,6,Agalawatta
+24,6,Palindanuwara
+25,6,Walallawita
+26,11,"K.B.K. Bandara"
+27,11,G.A.R.K.Gamlath
+28,7,Kaduwela
+29,7,Dehiwala
+30,7,Kesbawa
+31,7,Homagama
+32,11,"G.M. Thilakasiri"
+33,7,Colombo
+34,7,Moratuwa
+35,8,Kundasale
+36,16,"MLDO 1"
+37,8,Pathadumbara
+38,8,Panwila
+41,9,RenukaDammapali
+42,9,RenukaWasantha
+43,9,RenukaThusari
+45,9,Renukakumari
+46,9,RenukaDassanayake
+47,9,RenukaPathmakanthi
+48,9,RenukaBandula
+49,9,RenukaSriya
+50,9,RenukaSanjaya
+51,9,WasalageAbeywickrama
+52,9,WasalageChandra
+55,9,WasalageAnuradha
+56,9,WasalageSanjaya
+57,9,WasalagePathmakanthi
+58,9,WasalageEkanayake
+59,9,WasalageWasantha
+60,8,"H.H.M.R.P. Kumari"
+61,8,"Gangawata Korale"
+62,11,"S. Gunathilaka"
+63,11,"R.K. Dassanayake"
+64,11,"D.G. Senanayake"
+65,11,"P.S. Senavirathna"
+66,11,C.N.Thilakarathne
+68,27,"Cluster - A  :-  S.S. Muthumala /  N. Abesekara"
+69,27,"Cluster - B  :- Chamila Dadallage / J.K. Nilanthi / T.S. Pinidiyaarachchi"
+70,11,M.Jayawardhana
+71,11,S.B.N.D.Bandara
+72,11,"K.M.C.W.B. Wickramathilake"
+73,14,"Group 01 - RAJES-LOGARAJA"
+74,14,"Group 02 - RAJES-SUNTHAR"
+75,14,"Group 03 - RAJES-NUESHALA"
+76,14,"Group 04 - RAJES-ANTON"
+77,14,"Group 05 - RAJES-THADCHAGINI"
+78,11,"S.J.Indika Priyangani"
+79,14,"Group 06 - ARCHANA-SUNTHAR "
+80,14,"Group 07 - ARCHANA-PARAMESWARAN"
+81,13,Mahaoya
+82,13,Ampara
+83,13,Uhana
+84,15,Rafee
+85,9,"Chandana Senevirathne"
+86,14,"Group 08 - MUYEES-THADCHAGINI"
+87,14,"Group 09 - MUYEES-BAVATHARANI"
+88,14,"Group 10 - MUYEES-RAJES"
+89,14,"Group 11 - MUYEES-ARCHANA"
+90,14,"Group 12 - MUYEES-LOGARAJA"
+94,NULL,"SATHESH - LOGARAJAH"
+95,14,"Group 13 - RAJINI-THADCHAGINI"
+99,14,"Group 14 - RAJINI-ANTON"
+100,14,"Group 15 - RAJINI-SUNTHAR"
+101,14,"Group 16 - RAJINI-SUGANIYA"
+102,14,"Group 17 - RAJINI-RAJES"
+103,14,"Group 18 - RAJES-PARAMESWARAN"
+104,14,"Group 19 - THADCHAGINI-BAVATHARANI"
+106,14,"Group 20 - LOGARAJAH-SATHEESH"
+107,14,"Group 21 - LOGARAJAH-PAVAKARAN"
+108,14,"Group 22 - LOGARAJAH-SUNTHARESON"
+109,14,"Group 23 - LOGARAJAH-GOHULAN"
+110,15,Joga
+111,14,"Group 24 - THADCHAGINI- GOHULAN"
+112,14,"Group 25 - THADCHAGINI-NEWSHALA"
+113,14,"Group 26 - BAWATHARANI-GOHULAN-SUNDAR"
+114,14,"Group 27 - PAVAKARAN-ANTON"
+115,14,"Group 28 - PAVAKARAN-SUNTHARESON"
+116,14,"Group 29 - PAVAKARAN-SATHEESKUMAR"
+117,14,"Group 30 - PAVAKARAN-GOGULAN"
+118,8,"E.R.H.S. Yomkumbura"
+119,8,"K.A. Perera"
+120,9,"Liyanage Weeraratna Pathiratne"
+121,8,"P. Senevirathna"
+122,14,"Group 31 - PARAMESWARAN-NUESHALA"
+123,14,"Group 32 - RAJINI-PARAMESWARAN"
+124,14,"Group 33 - MUYEES-SUNTHAR"
+125,15,Cader
+126,NULL,"Group 34 - PARAMESWARAN-SUNTHAR"
+130,13,Sammanthurai
+131,13,Addalachenai
+132,13,Thirukkovil
+133,13,Nintavir
+134,13,Akkaraipattu
+138,13,Pottuvil
+139,14,"Group 34 - RAJINI-NUESHALA"
+140,14,"Group 35 - ANTON-SUNTHAR"
+143,7,Thimbirigasyaya
+144,14,"Group 36 - GOHULAN-RAJINI"
+145,11,G.A.J.Balasooriya
+146,14,"Group 37 - PARAMESWARAN- SUNTHAR"
+147,8,S.M.S.B.Samarakoon
+148,14,"Group 38 - MUYEES - SUNTHAR -RAJESH"
+149,14,"Group 39 - MUYEES - SUNTHAR- LOGARAJA"
+150,11,H.P.A.Chandana
+151,14,"Group 40 -MUYEES - LOGARAJA -RAESH"
+152,14,"Group 41 - SUNTHAR-UTHAYARAJAH"
+153,14,"Group 42 - RAHEEM-NAVANEETHAN"
+154,14,"Group 43 - MUYEES-ILIYAS"
+155,14,"Group 44- GOHULAN- MUYEES- THADCHAGINI"
+156,14,"Group 45 - RAJINI-BAVATHARANE"
+157,14,"Group 46 - SUNTHAR-SUGANIYA"
+158,14,"Group 47 - K.LOGARAJAH- RAJINI"
+159,15,Sothilingam
+160,15,Rajeswaran
+161,7,Rathmalana
+162,15,Tharmasegar
+163,11,"L.V.T.B.De Mel"
+164,14,"Group   - PARAMESWARAN - LOGARAJAH"
+165,15,Subashini
+166,14,"Group 48- GOHULAN- ANTON"
+168,14,"Group 49- GOHULAN- NEUSHALA"
+169,14,"Group 50-NUWSALA- MUYEES"
+170,14,"Group 51- MUYEES- RAJESH- THADCHAGINI"
+171,11,S.P.S.C.Pathirana
+172,14,"Group 52 Gogulan Sunthar"
+173,14,"Group 51- Gohulan-Neusala-Bavatharani"
+174,14,"Group 52 - P.Anton Tharshanth"
+175,11,"D.A.S.B. Bandara"
+176,11,D.A.S.Bandara
+177,15,Samanthi
+178,23,"Mawanella  A"
+179,14,"Group 53-S.Parameswaran,K.Suganya"
+180,14,"Group 54-Gohulan-Muyees-Rajeswaran"
+181,14,"Group 55-Gohulan-Muyees"
+182,23,"Yatiyanthota A"
+183,9,"Sanjaya & Dasanayaka"
+184,15,Ekanayaka
+185,23,"Aranayaka A"
+186,15,Shyama
+187,23,"Kegalle A"
+188,23,"Rambhukkana A"
+189,23,"Galigamuwa A"
+190,23,"Bulathkohupitiya A"
+191,23,"Ruwanwella A"
+192,23,"Dehiowita A"
+193,23,"Daraniyagala A"
+194,23,"Wrakapola A"
+195,23,"Mawanella B"
+201,14,"Group56-S.KOHULAN - SUNTHAR"
+202,9,DammapaliBandula
+203,14,"Group 57 -S.Gohulan-T.Suntharesan-K.Logarajah "
+204,14,"Group 58 - S.KOHULAN-T.SUNTHR-P.ANTON"
+205,14,"GROUP 59 BAVATHARINE- SUNDARASON"
+206,11,"H.D.Achala Ariyadasa"
+208,14,"GROUP 60 - GOHULAN-SIVAKUMAR"
+209,23,"Aranayaka B"
+210,23,"Yatiyanthota B"
+211,23,"Kegalle B"
+212,23,"Rambhukkana B"
+213,23,"Galigamuwa B"
+214,23,"Bulathkohupitiya B"
+215,23,"Ruwanwella B"
+216,23,"Dehiowita B"
+217,23,"Daraniyagala B"
+218,7,Hanwella
+219,14,"GROUP 61 - GOHULAN-SATHEESH"
+220,7,Maharagama
+221,14,"GROUP 62- UTHAYARAJAN-SUNDARASON-MUYEES-ILLIYAS"
+222,11,R.S.P.Rajarathna
+223,7,Padukka
+224,15,Dissanayaka
+225,7,Kolonnawa
+226,9,"W.k Thalakiriyawa"
+227,9,"A.D.W Samarasinghe"
+228,14,"GROUP 63- PARAMESWARAN-GOHULAN"
+229,13,"Kalmunai Muslim"
+230,13,Karaithivu
+231,15,"Gokulan and Salam"
+232,11,R.M.G.Anura
+236,15,Balasooriya
+237,7,Kotikawatta-Mulleriyawa
+238,11,S.H.K.Sathischandra
+239,9,"E.M.D.B Ekanayake "
+240,11,"T.M.N. Thennakoon"
+241,9,"S.D.P Weerathna"
+242,7,Seethawaka
+243,14,"GROUP 64- S.GOHULAN"
+244,9,"Liyanage,Weeraratna, Ranawaka"
+245,10,"Nuwara Eliya Officers"
+246,7,"Sri Jayawardanapura Kotte"
+247,9,"Pathmakanthi Ranasinghe"
+248,9,"S.M.T.N Disanayake"
+249,9,"D.K.N.K. Dassanayake"
+250,9,"Wasalage Ranasinghe"
+251,24,"embilipitiya p.s"
+252,24,"embilipitiya m.c"
+253,24,"balangoda p.s"
+254,24,"balangoda m.c"
+255,24,imbulpe
+256,24,kolonna
+257,24,opanayaka
+258,24,godakawela
+259,24,kahawattha
+260,24,palmadulla
+261,24,"ratnapura u.c"
+262,24,"ratnapura p.s"
+263,24,elapatha
+264,24,kiriella
+265,24,ayagama
+266,24,kuruwita
+267,24,eheliyagoda
+268,24,nivithigala
+269,24,kalawana
+270,24,waligepola
+271,9,"P.E.W.S Kumarihami"
+272,9,"H.M.N.T. Herath"
+273,26,indrasenabentota
+274,26,indrasenabalapitiya
+275,26,indrasenaambalangoda
+276,26,indrasenahikkaduwa
+277,26,indrasenagoonapeenuwala
+278,26,indrasenakarandeniya
+279,26,amithtawalama
+280,26,amithneluwa
+281,26,amithgallefourgravet
+282,26,amithimaduwa
+283,26,amithyakkalamulla
+284,26,amithhabaraduwa
+285,26,priyanthaniyagama
+286,26,priyanthabaddegama
+287,26,priyanthaakmeemana
+288,26,priyanthabopepoddala
+289,26,priyanthaelpitiya
+290,26,priyanthanagoda
+291,26,priyanthavaliwitiya-divitura
+292,26,deobentota1
+293,26,deobalapitiya2
+294,26,deoambalangoda3
+295,26,deohikkaduwa4
+296,26,deogoonapeenuwala5
+297,26,deokarandeniya6
+298,26,deothawalama7
+299,26,deoneluwa8
+300,26,deogallefourgravet9
+301,26,deoimaduwa10
+302,26,deoyakkalamulla11
+303,26,deohabaraduwa12
+304,26,deoniyagama13
+305,26,deobaddegama14
+306,26,deoakmeemana15
+307,26,deobopepoddala16
+308,26,deoelpitiya17
+309,26,deonagoda18
+310,26,deowelivitiyadivitura19
+312,9,"Sanjaya Jayasinghe"
+313,9,"Sanjaya & Bandula"
+314,11,D.M.Premarathna
+315,23,"Warakapola B"
+316,23,"Rambukkana B"
+317,11,"S.M.A.G. Subasinghe"
+318,11,"J.M.S.M. Jayawardhana"
+319,25,mtmulatiyana
+320,21,Dilini
+321,21,Subasinghe
+322,25,mtpitabaddara
+323,25,mtkotapola
+324,25,mtpasgoda
+325,25,mthakmana
+326,25,mtmalimbada
+327,25,mtakuressa
+328,25,mtwalipitiya
+329,25,mtathuraliya
+330,25,mtkamburupitiya
+331,25,mtthihagoda
+336,27,ffdfdff
+338,25,mtweligama
+339,25,mtmatara
+340,25,mtdevinuwara
+341,NULL,wickramadikwalla
+342,NULL,wickramakirindapulwalla
+343,25,Danushkahakmana
+344,25,Deothushari
+347,25,Pathinayakekotapola
+348,NULL,Chandricadickwella
+351,25,"mtkirinda puhulwella"
+352,25,mtdickwella
+353,14,SUNTHERSON
+354,14,UTHAYARAJAN-SUGANIYA
+355,14,"GROUP 67 - B.M..W.N BANDARA- BAVATHARINE"
+356,14,"GROUP 68 - RAJES-UDAYARAJAN"
+357,14,Uthayarajan-Sathees
+358,14,S.PARAMESWARAN-B.RAJANI
+359,14,S.Gohulan-T.Suntherason-K.Suganiya-N.Archana
+360,14,"GROUP 72 - RAJES-GOHULAN"
+361,13,ma
+362,13,Damana
+363,13,Padiyathalawa
+364,13,"Kalmunai Tamil"
+365,14,"GROUP 73 - RAJES-ARCHANA"

@@ -1,0 +1,33 @@
+officeID,officeName,officetype,prcode,dicode,location,offemail
+2,"Gampaha District Office",3,WE,GQ,Gampaha,epaymentgam@yahoo.com
+6,"Kaluthara District Office",3,WE,KT,NULL,kalutharaepayments@gmail.com
+7,"Colombo District Office",3,WE,CM,"104, Denzil Kobbekaduwa Mawatha",wpoepay@cea.lk
+8,"Kandy District Office",3,CE,KY,Polgolla,ceaepaykandy@gmail.com
+9,"Matale District Office",3,CE,MT," ",ceamatale@gmail.com
+10,"Nuwara Eliya District Office",3,CE,NW," ",ceaepayneliya@gmail.com
+11,"Anuradhapura District Office",3,NC,AD," ",ceancpoepayment@gmail.com
+12,"Polonnaruwa District Office",3,NC,PO," ",ceapdoepay@gmail.com
+13,"Ampara District Office",3,EA,AP," ",cea.amp.epay@gmail.com
+14,"Baticaloa District Office",3,EA,BC," ",onlinepaybatti@gmail.com
+15,"Trincomalee District Office",3,EA,TC," ",epayment.kantale..epo@gmail.com
+16,"Mulative District Office",3,NO,MU," ",ceamldo@gmail.com
+17,"Mannar District Office",3,NO,MN," ",ceamdodeo@gmail.com
+18,"Vauniya District Office",3,NO,VA," ",ceavdoepayment@gmail.com
+19,"Kilinochchi District Office",3,NO,KN," ",ceakdoonpay@gmail.com
+20,"Jafna District Office",3,NO,JA," ",ceanpoep@gmail.com
+21,"Kurunegala District Office",3,NW,KG," ",epaymentnwp@gmail.com
+22,"Putlam District Office",3,NW,PX," ",epaymentnwp@gmail.com
+23,"Kegalle District Office",3,SA,KE," ",cea.epayment.kg@gmail.com
+24,"Rathnapura District Office",3,SA,RN," ",cea.epayments.rt@gmail.com
+25,"Matara District Office",3,SU,MR," ",arunacea@gmail.com
+26,"Galle District Office",3,SU,GL," ",epaymentsgalle@gmail.com
+27,"Hambanthota District Office",3,SU,HB," ",hambantotacea@gmail.com
+28,"Monaragala District Office",3,UV,MG," ",onlinepaymon@gmail.com
+29,"Badulla District Office",3,UV,BD," ",upoceapayments@gmail.com
+30,"EPC Unit",4,WE,CM,Battaramulla,epcepay@cea.lk
+31,"Waste Mangement Unit",4,WE,CM,Battaramulla,wmuepay.cea.lk
+32,"EIA Unit",4,WE,CM,Battaramulla,eiaepay.cea.lk
+33,"NRM Unit",4,WE,CM,Battaramulla,nrmepay@cea.lk
+34,"R & D Unit",4,WE,CM,Battaramulla,rndepay@cea.lk
+35,"Water  Quality Laboratory",4,WE,CM,Battaramulla,wqlepayments@gmail.com
+36,"Air & Noise Laboratory",4,WE,CM,Battaramulla,ceaarmepayments@gmail.com
