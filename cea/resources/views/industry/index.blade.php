@@ -1,50 +1,88 @@
-
 @extends('master')
-
 @section('content')
-
-    <h2>Industry Details</h2>
-    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
-    <a href="{{url('/industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
-    <table class="table">
+    <h3> List of Industries</h3>
+    <a href="{{url('industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <table class="table table-striped">
         <thead>
             <tr>
-                <th>Firstname</th>
-                <th>Lastname</th>
-                <th>Email</th>
-                <th>Option</th>
+            <th>No</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Location</th>
+            <th>Address</th>
+            <th>LA Code</th>
+            <th>Sector</th>
+            <th>Category</th>
+            <th>File No</th>
+            <th>OPTIONS</th>
             </tr>
         </thead>
-        <tbody>
-            <tr>
-                <td>John</td>
-                <td>Doe</td>
-                <td>john@example.com</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="industry/show">Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
-            </tr>
-            <tr>
-                <td>Mary</td>
-                <td>Moe</td>
-                <td>mary@example.com</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
-            </tr>
-            <tr>
-                <td>July</td>
-                <td>Dooley</td>
-                <td>july@example.com</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
-            </tr>
-        </tbody>
+        
+        <tr>
+            <th>26230</th>
+            <th>Karukupane, Bangadeniya, Chilaw.</th>
+            <th>Other</th>
+            <th></th>
+            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Chilaw</th>
+            <th>PAA</th>
+            <th>BM</th>
+            <th>A66</th>
+            <th>NW/PX/PAA/BM/A66//</th>
+            <td>
+                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
+                <a class="glyphicon glyphicon-info-sign btn btn-success">Edit</a> 
+                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
+            </td>
+        </tr>
+        
+        <tr>
+            <th>26255</th>
+            <th>Ananthaya Resorts, Karukupane, Bangadeniya, Chilaw.</th>
+            <th>Other</th>
+            <th></th>
+            <th>Ananthaya Resorts, Karupane, Bangadeniya,Chilaw., , Chilaw</th>
+            <th>PAA</th>
+            <th>BM</th>
+            <th>A66</th>
+            <th>NW/PX/PAA/BM/A66//</th>
+            <td>
+                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
+                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
+            </td>
+        </tr>
+        
+        <tr>
+            <th>26366</th>
+            <th>Hotal of tourism</th>
+            <th>Other</th>
+            <th></th>
+            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Chilaw</th>
+            <th>PAA</th>
+            <th>BM</th>
+            <th>A66</th>
+            <th>NW/PX/PAA/BM/A66//</th>
+            <td>
+                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
+                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
+            </td>
+        </tr>
+        
+        <tr>
+            <th>26367</th>
+            <th>Ananthaya Resorts, Karukupane, Bangadeniya, Chilaw.</th>
+            <th>Other</th>
+            <th></th>
+            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Bangadeniya</th>
+            <th>PAA</th>
+            <th>BM</th>
+            <th>A66</th>
+            <th>NW/PX/PAA/BM/A66//</th>
+            <td>
+                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
+                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
+            </td>
+        </tr>
+        
+        
     </table>
-
 @endsection
-
-
-
-

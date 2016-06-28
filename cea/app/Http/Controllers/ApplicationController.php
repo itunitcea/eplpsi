@@ -12,27 +12,27 @@ class IndustryController extends Controller
      */
     public function index()
     {
-        return view('industry.index');
+        return view('appliction.index');
     }
     
     public function create()
     {
-        return view('industry.create');
+        return view('appliction.create');
     }
     
     public function show()
     {
-        return view('industry.show');
+        return view('appliction.show');
     }
     
     public function edit()
     {
-        return view('industry.edit');
+        return view('appliction.edit');
     }
     
 //    public function delete()
 //    {
-//        return view('industry.delete');
+//        return view('appliction.delete');
 //    }
 }
 
