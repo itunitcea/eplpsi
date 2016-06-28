@@ -1,0 +1,4090 @@
+industryID,chemicalID,chemicalname,trdename,quantity,purpose
+1,1,"NC Thinner","CIC/Anura Chemicals",NULL,"Mix with paints/Sanding sealer"
+5,2,"Sulpuric Acid",,25,
+5,3,"Hidrocloric Acid",,30,
+6,4,,,NULL,
+8,5,Zink,,375,"For Galvanize"
+8,6,"Sulfuric Acid",,8,
+8,7,"Amonium Cloride",,60,"For Galvanize"
+9,8,"Additives for Emulson",,900,Additive
+9,9,"Aditive for Enamal",,100,Aditives
+9,10,Binders,,2400,Binder
+9,11,Extender,,5998,Extender
+9,12,Pigments,,1900,Pigments
+9,13,Resins,,1100,Resins
+9,14,Solvants,,2001,"As solvant"
+12,15,Thickener,Bermocoll,45,
+12,16,Anti-foam,"Foam Master",55,
+12,17,"Dispensing Agent",Nopcosperse,55,
+12,18,"Color Paste",Clarient,90,
+12,19,Pigment,Clarient/Ciba/Cathay,330,
+12,20,"Alkyd Resin",Revertex/Dailypolimer,1650,
+12,21,Methyl/Sobuty/Ketone,Sasol,330,
+12,22,Xylene,,880,
+12,23,LAWS,safra,880,
+12,24,"Butyl Acetate",DOW,1220,
+12,25,"latex-Pidicry l126m",Pidilite,1760,
+12,26,"Calcium Carbonate",LACKARB,4400,
+12,27,Nitrocellulose,,1320,
+14,28,,"Dish Wash Emarald",1.2,"For Dish Wash Cleaning"
+14,29,,"Power Bleach",0.2,"Tile Cleaning"
+14,30,,"all Purpose",0.2,"Pot wash"
+14,31,,Eraser,0.1,"pot Wash"
+15,32,"EnzymeEnzyme E 30",,10,"For get the appearence"
+15,33,Antistain,Ecocolour,15,"For remove the Back Stain"
+15,34,Ditergen,Ditergen,5,"For remove the Starch"
+15,35,Softner,Ecosoft,10,"For get the Smoothly"
+17,36,"High Presure",Britole,NULL,
+17,37,"Car Wash",STR,NULL,
+19,38,"Deegreasing Chemical",,7000,"Remove Rust"
+19,39,"Sulpuric Acid",,400,"Remove Rust"
+19,40,"Phospating Chemical",,300,"Remove Rust"
+19,41,"Costic Soda",,100,Neutralizing
+19,42,"LP Gas",,750,"Oven and Weldind"
+19,43,"Fernace Oil",,3000,Boiler
+19,44,"Cerosone Oil",,200,"Removing Chemical"
+19,45,Oxygen,,NULL,
+19,46,"Co 2 Gas",,NULL,Welding
+20,47,"Nickle Sulphate",,2,
+20,48,"Nickle Chloride",,0.25,
+20,49,"Boric Acid",,1,
+20,50,"Chromic Acid",,1,
+20,51,"Sulfuric Acid",,4,
+20,52,"Hydrochloric Acid",,2,
+20,53,"Sodium Bisulfite",,3,
+20,54,"Sodium Hydroxide",,4,
+20,55,"Zink Chloride",,0.25,
+21,56,TDI,,NULL,
+21,57,Pollioil,,NULL,
+21,58,"Methalin Cloride",,NULL,
+21,59,S.O,,NULL,
+21,60,Ameen,,NULL,
+21,61,Siliicon,,NULL,
+21,62,Aciton,,NULL,
+21,63,Toliyouth,,NULL,
+21,64,S.B.P,,NULL,
+21,65,,,NULL,
+21,66,"Magneecium Oxide",,NULL,
+21,67,"Zinc Oxide",,NULL,
+22,68,Clorine,Indian,2,Pool
+23,69,"Organic Dyes",,5,
+23,70,"Soda Ash",,20,
+23,71,H2O2,,30,
+23,72,"Costic Soda",,12,
+23,73,"Glober Salt",,60,
+24,74,"Stearic Acid",,2,
+24,75,Ttanium,,50,
+25,76,"Soda Ash",,3,"for water treatment"
+27,77,Acetone,,6,"For Manufacturing Fiberglass Items"
+27,78,Catelyst,,3,"For Manufacturing Fiberglass Items"
+27,79,Gelcoat,,25,"For Manufacturing Fiberglass Items"
+27,80,Resin,,200,"For Manufacturing Fiberglass Items"
+27,81,Accelarator,,2,"For Manufacturing Fiberglass Items"
+27,82,"Talk Powder",,15,"For Manufacturing Fiberglass Items"
+35,83,"Alkid Resin","Sin  F5060",100,
+35,84,Toliyun,,20,
+35,85,"Petroliam Resin",,30,
+35,86,"Buthail glycol",,6,
+35,87,Cylin,,3,
+35,88,"Isopropal Alkohol",,2.5,
+35,89,Methanol,,NULL,
+35,90,"Ethali Asitate",,NULL,
+35,91,toliun,,NULL,
+37,92,Sulper,,0.25,
+37,93,"Calcium Carbonate",,10,
+37,94,"Zinc Oxide",,0.25,
+526,95,"Zink Oxide",,10,
+526,96,Sulper,,10,
+526,97,"Calcium Carbonate",,100,
+526,98,"Silicon Dioxide",,50,
+870,99,Dinamite,,1.5,
+870,100,detonater,,3,
+882,101,Amoniam,,0.5,"For metal blasting"
+882,102,"Water Gel",,0.5,
+886,103,"High Presure",,5,
+886,104,"Car Wash",,2,
+898,105,"High Presure",,2,
+898,106,"Car Wash",,0.5,
+902,107,"Amonia Nitrate",,3,
+902,108,Dinamite,,0.5,
+903,109,"Pomic Acid",,NULL,
+24429,110,"Car Wash",,3,
+24429,111,"Tee Pole",,7.5,
+24432,112,"Amonium Nitrate",,2,
+24432,113,Dinamite,,0.5,
+24433,114,"Amonium Nitrate",,0.75,
+24433,115,Dinamite,,0.05,
+24433,116,"Water Jel",,0.15,
+24434,117,"Amonium Nitrate",,1,
+24434,118,Dinamite,,0.4,
+24451,119,"High pressure",,7.5,
+24451,120,"Car Wash",,1.5,
+24455,121,Thinner,,6,
+24477,122,"Amonium Nitrate",,0.5,
+24477,123,Dinamite,,0.2,
+24479,124,"High Presure",,4,
+24479,125,Shampo,,4,
+24480,126,"Car Wash",,6,
+24480,127,Shampo,,5,
+24483,128,Catelog,,5,
+24483,129,Thinner,,6,
+24483,130,paint,,2,
+24484,131,Catelog,,0.5,
+24484,132,paint,,0.5,
+24493,133,"Car Wash",,2,
+24493,134,"High Presure",,5,
+24496,135,"Blasting powder",,NULL,
+24496,136,"Water Jell",,NULL,
+24496,137,"Amonium Nitrate",,NULL,
+24498,138,"Amonium Nitrate",,0.5,
+24498,139,Dinamite,,NULL,
+24498,140,"Blasting Powder",,0.1,
+24503,141,"Blasting Powder",,NULL,
+24503,142,"Amoniam Nitrate",,NULL,
+24503,143,"Water Gel",,NULL,
+24504,144,"Amonium Nitrate",,1,
+24504,145,Dinamite,,NULL,
+24502,146,"Amonium Nitrate",,2,
+24502,147,Dinamite,,0.6,
+24510,148,"Amonium Nitrate",,5,
+24511,149,"Water Gel",,NULL,
+24511,150,"Amonium Nitrate",,NULL,
+24511,151,"Server threat",,NULL,
+24512,152,"Amonium Nitrate",,3,
+24512,153,"Blasting powder",,0.4,
+24512,154,Dinamite,,0.8,
+24512,155,Detonators,,NULL,
+24528,156,"Amonium Nitrate",,0.25,
+24528,157,Dinamite,,NULL,
+24528,158,"Blasting powder",,NULL,
+24528,159,"Server threat",,NULL,
+24531,160,Dinamite,,0.5,
+24531,161,"Amonium Nitrate",,1,
+24531,162,Detonators,,NULL,
+24536,163,Dinamite,,1,
+24536,164,"Amonium Nitrate",,5,
+24545,165,"Amonium Nitrate",,1.5,
+24545,166,"Blasting powder",,0.15,
+24545,167,"Server threat",,NULL,
+24545,168,Jelagnite,,NULL,
+24551,169,"Amonium Nitrate",,0.4,
+24551,170,Dinamite,,NULL,
+24551,171,"Server threat",,NULL,
+24553,172,"Amonium Nitrate",,15,
+24553,173,"Water Gel",,1,
+24553,174,"Blasting powder",,1,
+24556,175,"Amonium Nitrate",,1.2,
+24556,176,"Blasting powder",,NULL,
+24556,177,"Server threat",,NULL,
+24556,178,"Water Gel",,NULL,
+24557,179,"Amonium Nitrate",,5,
+24557,180,Dinamite,,0.5,
+24557,181,"Blasting powder",,0.15,
+24557,182,Detonators,,NULL,
+24564,183,"Amonium Nitrate",,1,
+24564,184,"Water Gel",,0.5,
+24564,185,"Blasting powder",,0.25,
+24566,186,"Amonium Nitrate",,NULL,
+24566,187,"Water Gel",,NULL,
+24566,188,"Blasting powder",,NULL,
+24566,189,"Server threat",,NULL,
+24569,190,Dinamite,,0.15,
+24569,191,"Blasting powder",,0.1,
+24569,192,"Amonium Nitrate",,0.25,
+24570,193,"Amonium Nitrate",,NULL,
+24570,194,Dinamite,,NULL,
+24570,195,"Blasting powder",,NULL,
+24571,196,"Blasting powder",,0.25,
+24571,197,"Amonium Nitrate",,2.5,
+24571,198,"Water Gel",,1,
+24572,199,"Blasting powder",,0.01,
+24572,200,Dinamite,,NULL,
+24572,201,"Amonium Nitrate",,1,
+24572,202,"Server threat",,NULL,
+24573,203,Detonators,,NULL,
+24573,204,"Amonium Nitrate",,4,
+24573,205,"Water Gel",,1,
+24574,206,"Amonium Nitrate",,2,
+24574,207,Dinamite,,0.5,
+24574,208,"Blasting powder",,0.5,
+24574,209,"Server threat",,NULL,
+24574,210,Detonators,,NULL,
+24575,211,"Amonium Nitrate",,2,
+24577,212,"Amonium Nitrate",,NULL,
+24577,213,Dinamite,,NULL,
+24577,214,"Blasting powder",,NULL,
+24577,215,"Server threat",,NULL,
+24579,216,"Amonium Nitrate",,NULL,
+24579,217,"Blasting powder",,NULL,
+24579,218,"Water Gel",,NULL,
+1364,219,"R 134",,1,
+1364,220,"R 404",,1,
+2466,221,teepol,,4.5,"Vehicle washing"
+3610,222,None,None,0,None
+16433,223,,"Car wash",15,"Washing "
+16433,224,,"High pressure",15,Washing
+16434,225,,"High Power",3,"Washing & removal of oil & grease"
+16434,226,,"Body Wash",2,"To clean the body"
+1830,227,"Zinc Oxide",,30,"As an activator"
+1830,228,"Stearic Acid",,15,"As an accellerator"
+1830,229,Sulphur,,35,
+1830,230,"Carbon Black",HI-Tech-India,180,"Rein Forcing Filler"
+3282,231,"Sodium Silicate",Silicate,300,
+15353,232,"Ammonium Nitrate",,39,"Initiate blasting"
+993,233,Cooltreat,Nalco,NULL,"Cooling tower treatment"
+1842,234,"Hydrocloric acid",,NULL,
+1842,235,Picklaid,,NULL,
+1842,236,Vangurd,,NULL,
+1842,237,Phostoner-N,,NULL,
+1842,238,Durafix-Z,,NULL,
+993,239,"# 7338 & # 2818",Nalco,NULL,"Cooling tower treatment"
+993,240,"DM 4.1",Nalco,NULL,"Boiler treatment"
+993,241,Alcatreat,Nalco,NULL,"Boiler treatment"
+993,242,"70% & 90% Chlorine","M/S Tech Water",3,"Water treatment"
+24673,243,"Sodium Bycarbonate",,8,
+24673,244,"Fomic Acid",,7.5,
+24673,245,"Nexo bleach",,1.75,
+1848,246,"Calcium Carbonate",,NULL,
+1848,247,"Toluene di isocyanate",,NULL,
+1848,248,Polyol,,NULL,
+4093,249,"Sodium Hyperchloride 10%",,100,
+4093,250,SLES,,30,
+4093,251,"Sodium Sulphate",,50,
+4093,252,"Soda Ash",,25,
+17742,253,Explosive,,6,Explosion
+17753,254,Explosive,,NULL,
+17740,255,"Ammonia,Water gel , ",,50,Blasting
+17754,256,"Amonium  Nitrate",,15,Blasting
+17754,257,Dynamite,Dynamite,2,Blasting
+17754,258,"Blasting Powder","Blasting Powder",0.01,Blasting
+17830,259,Explosives,,NULL,
+17831,260,Explosive,,NULL,
+17747,261,,,NULL,
+17312,262,Explosive,,1,Explosion
+17746,263,"Dynamite, Ammonia",,500,Blasting
+17826,264,Explosives,,NULL,Blasting
+17327,265,Explosives,,NULL,Explotion
+17371,266,Explosive,,25,Explosion
+17307,267,Explosives,,NULL,Explotion
+17741,268,Explosive,,NULL,Blasting
+17308,269,"Ammonia,Water gel , ",,16,Blasting
+18712,270,"Ammonia,Water gel , ",,NULL,Blasting
+17253,271,Explosive,,NULL,Explosion
+17255,272,Detergent,Dash,5,"Cleaning Vehicles"
+17332,273,Explosives,,NULL,Explotion
+17300,274,Detergent,Flash,5,"Cleaningn Vehicles"
+17118,275,Explosives,,NULL,Explotion
+17183,276,Explosive,,2,Explotion
+17254,277,Explosive,,11,Explosion
+18723,278,"Ammonia, Watter Gel",,NULL,Blasting
+17181,279,Explosives,,NULL,Explotion
+17374,280,,,NULL,
+18731,281,Explosive,,NULL,Explosion
+17182,282,"Ammonia,Dynamate",,NULL,Blasting
+17001,283,Explosives,,NULL,Explotion
+17250,284,"Car washing materials",,NULL,"For washing vehicles"
+17123,285,"Ammonia, Dynamite,detenetor",,NULL,Blasting
+18716,286,Explosives,,NULL,Explotion
+1006,287,"Hydro Carbon","DF 2000V/CIC ",2,"Dry cleaning"
+1006,288,"Clax universal","Johnson Diiversy",25,Laundry
+1841,289,Britol,Britol,5,"cleaning vehicles"
+1006,290,"Clax Build","Johnson Diiversy",25,Laundry
+1006,291,"Clax Hypomagic","Johnson Diiversy",30,Laundry
+1006,292,"Clax Softner","Johnson Diiversy",25,Laundry
+17470,293,Explosive,,9.5,Explosion
+1006,294,"Clax Sid","Johnson Diiversy",25,Laundry
+1006,295,Targo,"Wilson & CO.",0.015,"Spot Cleaning"
+1006,296,"Rust Go","Wilson & CO.",0.015,"Spot Cleaning"
+1006,297,Bongo,"Wilson & CO.",0.004,"Spot Cleaning"
+3305,298,Britol,Britol,15,"Cleaning Vehicles"
+1006,299,"Suma Nova ","Johnson Diiversy",10,"Dish washing"
+1006,300,Spiral,"Johnson Diiversy",10,"Floor cleaning"
+1006,301,"Suma Bright","Johnson Diiversy",8,"Dish washing"
+1006,302,"Suma Silver","Johnson Diiversy",5,"Silver ware polishing"
+1006,303,Suma,"Johnson Diiversy",10,"Pre Soaking"
+1850,304,dI-octylphalate,DOP,40,"Shoe sole"
+18053,305,Explosives,,NULL,Explotion
+10614,306,"Included in raw material list with quantities",,NULL,
+17933,307,Explosive,,250,blastinfg
+17991,308,Bitumin,,14400,"Product asphalt"
+17995,309,Sodium,"Sodium Citrate",NULL,
+17995,310,"Uric acid","Uric acid",NULL,
+17995,311,Calcium,Calcium,NULL,
+17995,312,"Salfosalilylic acid","Salfosalilylic acid",NULL,
+10613,313,"Brasimal Gum",Brasimal,0.5,"Washing Vehicals"
+17930,314,Explosives,,6.5,Explotion
+17935,315,Explosive,,NULL,
+18175,316,Britol,Britol,200,
+18168,317,Hypresher,,10,"For Service"
+17994,318,Explosive,,11,
+994,319,Retarder,"Daratard 17",30,"Slow setting process"
+994,320,Plasticiser,"Daracem 100",15,"Increase workability"
+1832,321,"Aquaphos ",Henkel,NULL,
+10597,322,"high pressure",real,3,cleaning
+1846,323,"Sodium Hydroxide","Caustic soda",0.5,"Cleaning purpose"
+24713,324,"Amonium Nitrate",,0.5,
+24713,325,Dinamite,,0.125,
+1846,326,"Citric acid",,1,"Cleaning purpose"
+24713,327,"Blasting powder",,0.05,
+17846,328,"linear low density polyethylene",LLDPE,2000,"As a raw matireal"
+17842,329,"High power oil, greece,  water",,10,
+3310,330,Binder,"Raw binder",25,
+18391,331,"High power",Dash,5,
+1840,332,TMTP,,1,"Rubber product"
+1840,333,MBTS,,1,
+1840,334,"Zinc Oxide",,4,
+1840,335,"Stric Acid",,4,
+1840,336,Sulphur,,6,
+1010,337,"Standard  Laboratory chemicals",,NULL,"Normal/ Route laboratory work"
+1010,338,Disinfectants,,NULL,"Normal/ Route laboratory work"
+17506,339,Dynamite,,NULL,
+2465,340,"Soap, Shampoo","Britol wash, Shampoo",5,Washing
+2465,341,"Soap, Shampoo","Britol wash, Shampoo",8,Washing
+17506,342,"black powder",,NULL,
+17506,343,"Ammonium Nitrate",,NULL,
+17506,344,Detonator,,NULL,
+10137,345,"kerosine,soap,high pressure",,NULL,"Washing Vehicals"
+18638,346,"Car wash",,4,
+4067,347,Kerosine,,NULL,
+18638,348,Grease,,1,
+1859,349,HCL,,NULL,
+1859,350,"Calcium Chloride",,NULL,
+1859,351,Emulsificate,,NULL,
+1859,352,"3551 and KS 60",,NULL,
+1858,353,"Processing oil",DCP,NULL,"Activators and processing agents"
+1858,354,"Zinc Oxide","Celcon ACP",NULL,"anti degradent"
+1858,355,"Micro wax",,NULL,
+1858,356,MBTS,,NULL,
+1858,357,TMTD,,NULL,
+1858,358,Suphur,,NULL,
+4126,359,"AZITHROMYCIN CAPSULES 7 SUSPENSIONS",ZITHROCIN,NULL,
+1861,360,Tiner,Sisco,4,
+1861,361,"Sandin seeler","Jat holdings",NULL,
+4126,362,"AMOXICILLIN CAPSULES",AXCIL,NULL,
+4126,363,"CHLORPHENIRAMINE TABLETS",ALLERMINE,NULL,
+4126,364,"CLOXACILLIN CAPSULES",CLOXIL,NULL,
+4126,365,"CODEINE PHOSPHATE BPC SYRUP",ASTRIM,NULL,
+16460,366,Paint,CIC,6,"Paint the tinkering parts"
+16460,367,Thinner,"Chemico & Epoxy",5,"To clean the brushes"
+16460,368,"Paste (sanding filler)","Super Cut",3,"To fill the damage area"
+16460,369,Carbite,,1.5,"Gas welding"
+16460,370,Kerosine,,3,"To remove the oil"
+1037,371,"Bleaching powder",,NULL,"Washing purposes"
+4069,372,"Butyl Alcohol",,NULL,
+4069,373,"Methyl Proxitol",,NULL,
+4069,374,"Isoprophyl Alcohol",,NULL,
+4069,375,"Ethyl Acetate",,NULL,
+3307,376,Glyphosate,Glytol,200,"Above chemical;s storage only "
+24724,377,,,NULL,
+4145,378,"PVC Resin",Nakan,800,"Injections of PVC Products"
+2659,379,"teepol, Shampoo, Engine oil",,36.5,"For the vehicle service"
+3307,380,Prophonose,Ocrane,100,"Above chemical;s storage only "
+916,381,"All purpose cleaner","S & S chemicals",2,Cleaning
+916,382,"Toilet bowl cleaner","S & S chemicals",4,Cleaning
+916,383,"Hand soap","S & S chemicals",1,"Soap dispensors"
+916,384,"Air freshner","S & S chemicals",1,"Better air smell"
+3307,385,Mancoceb,Dynamic,200,"Above chemical;s storage only"
+3307,386,Itidakloprid,Gramido,50,"Above chemical;s storage only"
+3307,387,Asifoam,Dipet,100,"Above chemical;s storage only"
+1866,388,Dynamite,,18.2,Blasting
+1866,389,NH4NO3,,150,Blasting
+1866,390,Detonates,,140,Blasting
+2633,391,"Shampoo, Oil, Greese",,NULL,
+927,392,"Drugs & laboratory chemicals",,NULL,
+2422,393,Dynamite,,525,
+2601,394,"Oil. Shampoo",,40,"Vehicle Cleaning"
+17849,395,Ammonium,,NULL,"As a raw material"
+997,396,"H1 Pressure",,4.5,Cleaning
+2458,397,"Car wash, Deterdents, Tyle shine",Dash,3,"Cleaning & Washing vehicles"
+1864,398,No,,NULL,
+10549,399,"Ammonium  Bicoabonate","S Chaina",4,
+3289,400,Ethonol,R/S,667,"Mixed with pine oil"
+3289,401,"Pine Oil","Pine oil",167,
+10549,402,"Sodium Bicarbonate","S Chaina",10,
+10549,403,"Sodium metabisulphide","B.A.S..F Germany",2,
+3289,404,"Titanium Oxide",TiO2,1.7,
+10549,405,"Citric acid",TTCA,1,
+10549,406,"Iso Propile Alchole","S & D",0.5,
+10549,407,"Clina kayet antibakdis infectant","S & D",2,
+24735,408,"Gun Powder, Ammonium, Water gel., Kalu beheth",,NULL,
+2438,409,"Kerosene Oil, Detergents, Lubricants","Britol wash",22,Washing
+4136,410,"Sodium Chloride","Common Salt",20,"Dye Process"
+1076,411,"Task 1","Diversey, Green globe, Certifxd chemical",NULL,Cleaning
+1076,412,Suma,,NULL,Dishwashing
+4136,413,"Calcium Carbonate","Soda Ash",4,"Dye Process"
+4136,414,,,NULL,
+4136,415,"Acetic acid",,0.03,Washing
+4136,416,Soap,,0.03,Washing
+2445,417,"Soap, Shampoo",,5,Washing
+10709,418,"Ammonia, Water Gel, Wedi nool, Kalu beheth",,NULL,
+17923,419,DCP,,0.0005,
+17923,420,Lycine,,0.0002,
+17923,421,"DL Methinine",,0.0002,
+24742,422,"Zinc O xide","Zinc Oxide",45,
+24742,423,Sulpher,Sulpher,25,
+24743,424,"Hexane(minor Amounts)",hexane,1.92,"Use as solvent"
+24743,425,"Industrial Soap","Industrial Soap",0.1,"Anti tack agent"
+24742,426,"Anti Oxident",R.D,10,
+2459,427,"Soap, Car wash",,5.5,"For vehicle washing"
+24743,428,"Zinc stearate","Zinc stearate",0.09,"Anti tack meterial"
+24743,429,"SAE 90","SAE 90",0.025,"machine Lubricant"
+24743,430,Kerosene,"Kerosene Oil",0.5,"Use as solvent"
+24743,431,"Aliphatic Hydrocarbon","EXXSOL DSP 80/100",0.25,"USE AS SOLVENT"
+24743,432,MEK,MEK,0.192,"use as solvent"
+24744,433,"Master Bat","Enter Plastic",40,
+24744,434,Solvent,IPA/WBA,15,
+24744,435,Paint,"Flexo Ink",5,
+10710,436,"soap,car wash",,3,washing
+915,437,"Scale inhibitor",Protec,0.5,Boiler
+1873,438,"Titanium Dioxide",Tiona,150,pigment
+1873,439,"Carbon Black","Furnace Black",50,pigment
+1873,440,Resines,"Ole resines NC, malic de natured",250,binding
+10327,441,"ammonium nitrate",,0.076,
+1873,442,Solvents,"MEK,Ethanol",200,solvent
+10708,443,"detenator,gun powder, ammonia nitrate,wedi nool",,NULL,
+2045,444,PVC,Formalon,200,
+2045,445,"Calcium carbonate","Lanka Minerals",400,
+2045,446,Fabrics,,0.5,
+951,447,"Oxybleach, chlorine bleach",,NULL,
+951,448,Emulcifire,,NULL,
+951,449,Softner,,NULL,
+951,450,"Soap powder","Clanalight dute",NULL,
+24757,451,"ammonium nitrate,water gel",,2070,"for conducting rock blasting"
+24755,452,,"naker high pressure",10,
+24756,453,"Master batch","Ener Plastics",40,"To dye bags"
+24756,454,Solvent,IPA/NBA,15,"To printing"
+24756,455,Ink,"Flexo Ink",5,"To printing"
+10517,456,No,,NULL,
+2147483647,457,amonia,,25,
+18997,458,,,NULL,
+24766,459,Explosives,,NULL,Explotion
+18995,460,thinner,thinner,2,"spray painting"
+18048,461,Hiprenor,Nacer,20,
+19215,462,No,No,0,no
+17941,463,Explosives,,NULL,Explotion
+18991,464,Ammonium,Dianamide,10,blasting
+16597,465,Nil,,NULL,
+16566,466,Nil,,NULL,
+16573,467,Nil,,NULL,
+989,468,"Engine oil","Castrol/ Caltex",85,"Lub service"
+989,469,"Transmission oil",Castrol,9,"Lub service"
+989,470,"Radiator coolant","Wurth - Lanka",4,Services
+989,471,"Brake oil",Lockheed,4,Services
+989,472,Petrol,Placorporation,10,"Services / Repaire"
+989,473,Grease,Caltex,1,Services
+1896,474,Pigments,,180,Colourant
+1896,475,"Acrylic Co polymer",,450,Binder
+24773,476,Explosive,,3.5,Explosion
+1887,477,No,,NULL,
+2443,478,"Amonia, Dainamite",,11.8,"Crush metals"
+10325,479,"White Cement","J.K White Cement",120,Explotion
+16648,480,"Anti Corrosive","Causeway Paint",2,
+10325,481,"Titanium dioxide",Tyostar,6,Explotion
+16648,482,Kerosene,,0.5,
+10325,483,Elotex,tyostar,3,Explosion
+18586,484,"Potasium permanganate",,0.5,
+18586,485,Formaline,,1,
+2137,486,"Sodium carbonate",,36,
+2137,487,"Hydrogen Peroxide",,48,
+2137,488,"Bleaching powder",,12,
+17841,489,"High pressure",Brytol,10,
+17841,490,"Car wash",,10,
+3215,491,No,-,NULL,-
+1890,492,MBTS,,2,Volcanizing
+10222,493,"detergent powder",S.N.D,2,washing
+16469,494,"Anti corrosive","Causeway Paint",2,"To prevent the iron from the corresion"
+917,495,Chlorine,Chlorine,3,"Swimming pool"
+917,496,"356 Morpholine cycloherylamine",Nalco,0.7,Boiler
+12044,497,,,NULL,
+17406,498,Explosive,,0.3,Explosion
+917,499,"3425 Sodium carbonate",Nalco,0.3,Boiler
+917,500,"3DT288 Phoporic acid, Sulfuric acid",Nalco,0.7,"Cooling tower"
+24802,501,"citric acid",,1.5,"preservative and flavours"
+24802,502,"Linu flavour",,1.5,"preservative and flavour"
+24802,503,"sodium benzoate",,1.5,"preservatives and flavour"
+11866,504,Ammonium,,1,
+11864,505,Ammonia,,5,
+11864,506,Silica,,2,
+3201,507,"Methyl Ethyl ketone",MEK,20,"For printing and laminating"
+3201,508,"Ethyl Acetate",,540,"For printing and laminating"
+3201,509,"Polyurethane wet adhesive",,200,"For printing and laminating"
+3201,510,"Normal propyl alcohol",NPA,165,"For printing and laminating"
+3201,511,"Sodium Silicate",,25,"For printing and laminating"
+12074,512,"Polish & Ditergent",,1,
+1902,513,Polypoplen,"HP 500",2000,
+16473,514,"Anti corrosive","Causeway Paint",2,"To prevent the iron from corrosive"
+1046,515,"Printing ink",,71.4,
+1046,516,"Roller wash",,29,
+1046,517,"Fauntain solution",,14.3,
+17378,518,,highprsser,20,
+12027,519,teepol,,10,washing
+3195,520,"Rosin modified phenolic resin","Rosin modified phenolic resin",10,"to make varnish"
+3195,521,"Hydrocarbon resin","Hydrocarbon resin",10,"to make varnish"
+3195,522,"Alkyd resin","Alkyd resin",5,"to make varnish"
+3195,523,"Ketonic resin","Ketonic resin",5,"to make varnish"
+16474,524,,,NULL,
+3195,525,"Pigments (various)","Organic and Inorganic colourants",50,"for ink"
+3195,526,"Petrolium Hydrocarbon","solvent naphtha",75,"for ink"
+3195,527,"Mineral oils","Linseed oil",75,"for ink"
+3195,528,"Micronised waxes","Polyethylene wax",5,"for ink"
+24808,529,"Amoniya, Dainamaite",,NULL,
+24811,530,"High pressure, kerosene",,NULL,"For washing purposes"
+1021,531,,,NULL,
+1021,532,,,NULL,
+1021,533,,,NULL,
+1021,534,,,NULL,
+16650,535,"Anti Corrosive","Causeway Paint",2,"To prevan the iron corrosive"
+1906,536,"Nickel sulphate",,0.04,
+1906,537,"Nickel Chloride",,0.01,
+1906,538,"Benzene Peroxide",,0.25,
+1046,539,"Kerosene oil",,7.1,
+6257,540,"Aluminum colouring",,10,colouring
+6257,541,glue,,10,
+6257,542,paint,,50,
+18668,543,"Ammonium Nitrate",,10,
+18668,544,detanator,,7,
+18668,545,"gun powder",,2,
+18696,546,Explosive,,NULL,Explosion
+16479,547,"Anti corrosive","Causeway Paint",2,"To prevent the iron from corrosive"
+16654,548,"Anti corrisive","Causeway paint",2,
+18680,549,Explosive,,NULL,Explosion
+4996,550,"Calcium hyperchlorate","H1 - clon",0.5,"Swimming pool"
+16481,551,"Anti corrosive","Causeway Paint",2,"To prevent the iron from corrosive"
+1921,552,"Sodium siticate",,20,
+4130,553,,HCL,7.5,"Maintain pH"
+4084,554,,,NULL,
+4084,555,,,NULL,
+4084,556,,,NULL,
+17389,557,Explosives,,NULL,Explotion
+2453,558,Dainamite,,1,"Metal Crushing"
+1922,559,Primex,,NULL,
+1922,560,Adhesive,,NULL,
+3339,561,"Plastic recycle materials",HDP,75,
+4085,562,Polyol,Daltolac,65,Insulation
+4085,563,Isocyanate,Suprasec,100,Foaming
+4085,564,Cyclopentane,Cyclopentane,10,
+18666,565,Explosives,,NULL,Explotion
+24822,566,Britol,Highpressure,NULL,
+4124,567,HDPE,Titan,500," Bags"
+2616,568,"Amoniya, Dainamaite",,6,"Metal Crushing"
+3227,569,"retarding admixture","Pozzolith 300R",150,"To retard the setting of concrete to facilitate transport to long distance"
+24824,570,Explosive,,NULL,Explosion
+17385,571,Explosive,,12.5,Explosion
+18362,572,"Amonium Nitrate","Amonium Nitrate",3,"For Blasting"
+18362,573,Dynamite,Dynamite,1,"For Blasting"
+4129,574,Plastizer,"Rheobuild 1000",NULL,"Adding to mixture"
+4129,575,"Super Plastizer","Glenium c380",NULL,"Adding to mixture"
+4129,576,Lubricant,De-bond,NULL,"De-bonding agent"
+18664,577,Explosive,,1,Explosion
+4142,578,HDPE,Marlocs,1005,
+4142,579,"Calcium Carbonate",CPPL,285,
+4142,580,Colourings,,15,
+3213,581,"Dilute Sulfuric acid","Batery acid",175,"Filling for battery of Motor bikes"
+2799,582,"Amonia, Dainamite",,5.75,"Metal Crushing"
+4064,583,Thinner,CIC,0.2,Mixing
+4064,584,Turpentine,CIC,1,"Cleaning of TIF"
+4064,585,"Dye Penintrat",Zyglo,1,"Leak testing of TIF"
+4064,586,"Transformer Oil",Raj,2285,"Insulation of TIF"
+5134,587,"Domestic cleaning material"," Quiz products, S & D products & Harpic ",1,"Dishwashing, floor washing, oven cleaning, hand washing"
+2752,588,"Amonia, Dainamite",,4.3,"Crush metals"
+2039,589,IPA,,7,
+2039,590,NBA,,6,
+3233,591,"Borex powder and liquid",,NULL,"Timber seasoning"
+4083,592,"Citric acid",,0.5,"To enhance food flavour"
+1927,593,"Di ethyl glycol",,NULL,
+1927,594,"Ethylene Glycole",,NULL,
+1927,595,"Solution of organic",,NULL,
+1927,596,"Citric acid",,NULL,
+1930,597,Amonia,,NULL,
+1930,598,Dynamite,,NULL,
+1924,599,Teepol,,NULL,
+1925,600,Sulfer,,6.6,
+1925,601,"Carbon black",,195,
+1925,602,"Anti oxident",,5.25,
+1000,603,,"Protea EC531",1.7,Scaling
+1000,604,,524/504,2,Biocide
+1000,605,,506,NULL,Biocide
+1937,606,"Caustic soda",,6,
+4109,607,"Sodium hydroxide","Caustic soda",500,Mercerising
+4109,608,H2O2,"Hydrogen peroxide",100,Bleeching
+4109,609,Softners,,1,"Fabric finishing"
+5030,610,"Prepared reagents",Human,0.05,Diagnostic
+5030,611,,Bio-Rad,60,
+5030,612,,Omega,60,
+5030,613,,Bio-Tel,60,
+5030,614,,Giesse,60,
+3239,615,No,-,0,-
+1948,616,Dynamite,,2,
+1948,617,Amonia,,3,
+3286,618,"Dash shampoo",Dash,0.1,
+14640,619,"Car Wash",,2,"Washing "
+16572,620,Nil,Nil,0,Nil
+16564,621,Nil,Nil,0,Nil
+16785,622,"Car wash ",Teepol,NULL,"Cleaning purpose  "
+16809,623,"Car wash","Teepol ",5,"washing "
+16809,624,"High pressure ","Lankem ",2,washing
+11687,625,"real high pressure chemical",lankem,2,
+11755,626,Teapol,,10,washing
+11755,627,"high pressure",,10,washing
+11755,628,grees,,1,
+11755,629,kerosine,,5,
+11718,630,"dynamite,",,25,
+24839,631,Britol,,NULL,
+24839,632,Highpressure,,NULL,
+11718,633,,Explosive,5,
+11718,634,,Detonete,750,
+11718,635,,ANFO,750,
+24703,636,Shampooo,,8,
+12038,637,"High pressure",Britol,NULL,
+11736,638,dynamite,,12,
+11736,639,NH4NO3,,0.25,
+11710,640,Dynamite,,3,
+11710,641,ANFO,,20,
+16784,642,"Car wash ",Teepol,30,"Washing purpose "
+5357,643,"Amonium,Daina ,",,NULL,
+12018,644,grees,caltex,2,
+12018,645,Detergent,Britol,1,
+12018,646,Penatrol,Caltex,4,
+12018,647,"under body digriser",Britol,5,
+11712,648,dynamite,,4,
+11712,649,ANFO,,2,
+16651,650,"Anti Corrosive","Causeway paint",9,"Mix the paint"
+16651,651,Kerosene,,3,"Mix the paint"
+16912,652,"anti corrosive","causeway pain",1,painting
+16912,653,Kerosene,,0.5,painting
+2258,654,Dynamite,,20,
+3224,655,thiner,,80,"for painting"
+11722,656,Dynamite,,2,
+11722,657,ANFO,,5,
+3224,658,Boric/Boruk,,5,"wood seasoning"
+16655,659,"Anti Corrosive","Causeway paint",2,"Mix the paint"
+17403,660,Highpressure,,NULL,
+11852,661,,"Neo body wash",3,
+11913,662,Dynamite,,5,
+11913,663,ANFO,,2,
+24861,664,"Caustic soda",,1,
+24861,665,HNO3,,1,
+11861,666,Ammonia,,0.5,
+11861,667,Dinamite,,0.125,
+16913,668,,"Real high pressure cleaner/day",1,washing
+16913,669,,"Real car wash/day",1,washing
+16649,670,"High Power",,0.5,"Washing & removal of oil & greas"
+16649,671,"Body Wash",,0.5,"to clean the body"
+11911,672,Dynamite,,2,
+11911,673,ANFO,,2,
+3309,674,Resins,Palatal,15,"manufacturing of furniture"
+3309,675,"Gel coat",,5,"manufacturing of furniture"
+11867,676,Ammonia,,NULL,
+11867,677,Dinamite,,NULL,
+3309,678,"matt (300/450g)",,5,"manufacturing of furniture"
+3309,679,Acitone,,1,"manufacturing of furniture"
+16493,680,,"High Power",1,"Washing purpose"
+12149,681,Dynamite,,2,
+24866,682,"Laundry Chemicals, house keeping chemicals, stwerding Chemicals",,NULL,
+12149,683,Ammonium,,5,
+12149,684,,,NULL,
+16652,685,"Car wash",,10,"Washing & removal of oil"
+16652,686,Kerosene,,2,"to clean the body"
+11909,687,highpower,,1,
+11871,688,,Britol,0.5,
+11899,689,Wotiwash,"Car Wash",0.25,
+3274,690,"water base cealer/lacker",sayerlack,15,
+3274,691,"water base colours",sayerlack,10,
+3274,692,"Sealer N.C.",sayerlack,6,
+3274,693,"Thiner N.C.","J.C.I. ",10,
+3274,694,"Colours N.C.",Lanco,5,
+16914,695,"Anti corrosive","Causeway paint",0.05,painting
+16914,696,Kerosene,,0.02,painting
+1947,697,Amonia,,NULL,
+1947,698,"Dina jel",,NULL,
+4107,699,"Penantrin oil",,2,
+4107,700,Grease,,0.5,
+4107,701,Britol,,2,
+24877,702,,"Kalu Beheth",0.35,Blasting
+24877,703,,Diena,0.75,"Blasting purpose"
+24877,704,Ammonia,,1.4,"Blasting "
+24877,705,,Cap,2,"Blasting "
+24877,706,,"Sewa Nool karali",1,"Blasting "
+5353,707,"Bentonite, Sodium Silicate",Gagee,10,
+10445,708,Ammoniuum,,10,
+10445,709,Jelitnit,,5,
+10445,710,bayer,,10,
+10445,711,cap,,50,
+3323,712,HDPE,,NULL,
+3323,713,LDPE,,NULL,
+3323,714,LLDPE,,NULL,
+16915,715,,"High power",1,washing
+18429,716,Explosive,,4,Explosion
+10274,717,"Car wash",Britol,600,Washing
+11900,718,,,NULL,
+11784,719,Teapol,,5,
+11784,720,"High Pressure",,5,cleaning
+11784,721,Kerosine,,2,cleaning
+17243,722,"gun  powder",,NULL,
+1939,723,Paint-Emulsion,Elaxo,NULL,painting
+1939,724,Enamal,CIC,NULL,painting
+1939,725,Spray,CIC,NULL,painting
+4097,726,Detergent,Dash,2,Washing
+22092,727,Ammoniya,,NULL,
+11917,728,Dynamite,,10,
+11917,729,ANFO,,300,
+4108,730,"Sodium Sulphate",,200,"Cotton part dyeing"
+4108,731,"Soda Ash",,42,"Scouring & Dyeing"
+4108,732,"Sodium Hydoxide",,18,"Scouring & Dyeing"
+4108,733,"Hydrogen Peroxide",,16,Bleaching
+4108,734,"Acetic Acid",,8,Dyeing
+11916,735,Dynamite,,0.75,
+11916,736,ANFO,,1,
+11882,737,resine,,1,
+11882,738,Acetone,,0.2,
+11912,739,Dynamite,,NULL,
+11912,740,ANFO,,NULL,
+16916,741,"Anti corrosive","Causeway paint",1,painting
+16916,742,Kerosene,,0.5,painting
+11901,743,Dynamite,,NULL,
+11901,744,ANFO,,NULL,
+11908,745,"highpower ",,0.5,
+16797,746,"Car wash","Teepol ",5,"Washing purpose "
+11915,747,Dynamite,,NULL,
+11915,748,ANFO,,NULL,
+11982,749,Dynamite,,0.5,
+11982,750,ANFO,,2,
+16770,751,"Car wash",Teepol,5,"Washing "
+16789,752,"Car wash ",Teepol,NULL,"Washing "
+18358,753,Explosive,,NULL,Blasting
+11991,754,Dynamite,,NULL,
+11991,755,ANFO,,NULL,
+16774,756,"Car wash ",Teepol,2,Washing
+16917,757,"Anti corrosive/month","Causeway paint",1,painting
+1933,758,"Carbon powder",,1,
+16917,759,Kerosene,,0.05,painting
+1933,760,"Silica UN3",,3,
+1933,761,"Zinc oxide",,1,
+1933,762,"Stearic acid",,0.5,
+1933,763,Sulphur,,1,
+1933,764,TMTD,,0.1,
+5033,765,Hypercrete,,300,"As an accelerator"
+5033,766,D-Bond,,65,"As a releasing agent"
+3209,767,"PVC compound","MAZ prene",400,"Gaslets for aluminiumdoor/window"
+4072,768,"Galva Flux",,NULL,Fluxing
+4072,769,"Amonium Chloride",,NULL,
+4072,770,"Chromic acid",,NULL,Passivation
+4072,771,"Hydrochloric acid",,NULL,Pickling
+16987,772,"Anti - Corrosive","Causeway Paint",5,"To Prevent the iron from Corrosive "
+1940,773,"Wood protector",CIC,NULL,
+1940,774,Seeler,,NULL,
+16987,775,Kerosene,,2,"To Clean the Brush "
+1940,776,Polish,,NULL,
+11866,777,Dinamite,,0.15,
+1028,778,"Engine oil","Castrol, Mobil, Total, Shell",10,"For vehical servicing"
+1028,779,Paint,Caseway,30,"Vehical printing"
+2463,780,"Amonia, Dainamite",,6,"Metal Crushing"
+16758,781,"Anti corrosive ","Causeway paint",10,"to prevent the iron from  corrosive "
+16758,782,,,NULL,
+11992,783,Chlorine,,2,
+4147,784,"Car shampoo",3M,NULL,"Exterior washing"
+16758,785,"Kerosene ",,10,"to clean the brush "
+3234,786,"Linear alkyl benzene / Sulphonic acid",labs,125,"Raw materials for detergents"
+3234,787,"sodium lauryl ether sulphate",SLES,15,"Raw materials for detergents"
+4148,788,Detergent,,13,"Washing and Cleaning"
+16409,789,"Anti corrosive kerosene","Causeway Paint",15,"Painting purpose"
+3234,790,"coconut dye ethanol amine",CDE,2,"Raw materials for detergents"
+3234,791,"Sodium tri poly phospate",STTP,15,"Raw materials for detergents"
+3234,792,Urea,Urea,100,"Raw materials for detergents"
+3234,793,"Monoethanol Amine",MEA,15,"Raw materials for detergents"
+3234,794,Fragrances,"E oil",5,"Raw materials for detergents"
+3234,795,"Sodium carbonate","Soda ash",20,"Raw materials for detergents"
+3234,796,"Sodium Hydroxide","caustic soda",20,"Raw materials for detergents"
+11855,797,,Britol,1,
+11855,798,Kerosine,,1,
+16865,799,Lankem,"High Power",1,Washing
+1955,800,Hydroquinone,,1.5,Inhibhitor
+1955,801,"Paraffin fax",,2,Additive
+1955,802,"tri Phenylphosphite",,1,process
+1955,803,Miscelleneous,,0.25,Additives
+2499,804,"Ferrous, O2, Asetalene, Paint",,4,
+5160,805,Yeast,,NULL,bake
+16988,806,Agrochemicals,Urea,1.5,"Vegetable Production "
+18951,807,,"car wash, Tpole",2,washing
+16988,808,Agrochemicals,"TSP ( Posphate)",0.5,"Poultry Production"
+1301,809,Vistamexx,,5.73,Binding
+1301,810,Metallocine,,34.5,Strength
+3226,811,No,-,0,-
+16793,812,"Anti corrosive ","Mutilac ",4,"to avoid the corrosive "
+16988,813,Agrochemicals,"MOP ( Potash )",0.5,"Animal Production"
+16793,814,"Thinner ","Chemico ",2,"to clean the brushes "
+16793,815,"Kerosene ",,2,"cleaning purpose  "
+1949,816,Dynamite,,2.5,
+1949,817,detanetors,,3.5,
+1949,818,Amonia,,NULL,
+1946,819,Amonia,,NULL,
+1946,820,Dynamite,,NULL,
+1946,821,detanetors,,NULL,
+1946,822,Threds,,NULL,
+16870,823,,"Carwash, Highpressure",2,Washing
+16918,824,,"Real high pressure cleaner",0.1,washing
+16918,825,,"real car wash",2,washing
+16918,826,,"Supper paver",0.5,washing
+16766,827,"Antic corrosive  ","Multilac ",5,"to avoid the corrosive "
+24910,828,"Phosphateless soap","Tee pol",NULL,"To washing Vehicles"
+12008,829,"Car wash",,0.5,
+16380,830,"Amonium Nitrate",,33.33,Blasting
+16380,831,Dinamite,,0.6,Blasting
+11875,832,Kerosene,,1,
+4637,833,Paint,"CIC and Nippolac",NULL,Painting
+16380,834,,"Black Powder",0.066,Blasting
+4637,835,HCl,,NULL,Washing
+18375,836,"black powder",,NULL,
+18375,837,detenator,,NULL,
+16380,838,,"Fuse wire",NULL,Blasting
+6116,839,sulpher,,8,
+6116,840,"Red posperus",,7.5,
+18202,841,Highpressure,,NULL,
+6116,842,"potassium chlorate ",,75,
+18202,843,Carwash,,0.5,
+16766,844,"Thinner ",,2,"to cleaning purpose "
+16766,845,"Kerosene ",,3,"to cleaning purpose  "
+24913,846,"Iso Propyl Alcohol",IPA,5,"To dry printed ink"
+11881,847,Kerosine,,4,
+16920,848,,"Real High Pressure cleaner",0.03,washing
+16920,849,,"Real car wash",0.03,washing
+17233,850,"gun powder",,NULL,
+17233,851,dinamite,,NULL,
+17233,852,"ammonium nitrate",,NULL,
+11979,853,Dynamite,,1.5,
+11979,854,ANFO,,2,
+11979,855,Detonator,,30,
+3538,856,"vehicle washing agents",,NULL,
+1957,857,Sanitier,,NULL,"Cleaning purpose"
+11857,858,Kerosine,,1,
+1957,859,"Detergent and disinfectants",,NULL,"Cleaning purposes"
+24913,860,"Normal butanol alcohol",NBA,3,"To dissolve ink"
+11961,861,Dynamite,,4,
+16921,862,,"Real High Pressure Cleaner",0.03,washing
+16921,863,,"real car wash",0.03,washing
+1017,864,"Standard laboratory chemicals & disinfectants",,NULL,
+2590,865,"I.S.O Propile Asitate","Corrugated boxes",20,
+18180,866,Highpressure,Britol,NULL,
+18180,867,Teepol,,NULL,
+18180,868,Oil,,NULL,
+3284,869,soap,Britol,0.25,"to wash interior and exterior parts of vehicles"
+3284,870,"wc 101",,NULL,
+3284,871,"wc 104",,NULL,
+4620,872,Xylene,,10,Washing
+4620,873,"Butyl Glycol",,15,Production
+4620,874,"Iso propyl alcohol",,5,"Alcohol damp"
+4620,875,"Methyl ethyl ketone",,5,Production
+11676,876,Ammonium,,55,
+11676,877,"water gel",,20,
+11676,878,detanators,,20,
+21724,879,"Normal butanol alcohol",NBA,3,"To dissolve ink"
+21724,880,"Isopropyl alcohol",IPA,5,"To dry printed ink"
+16922,881,,"Real High pressure Cleaner",0.03,washing
+16922,882,,"real car wash",0.03,washing
+11961,883,ANFO,,2,
+4638,884,IPA,,2.5,
+4638,885,NBA,,2.5,
+10264,886,"daracem 100","Grace Product",176,"To prevent early setting and to increase the workability of the concrete"
+6242,887,"Acid dye",,1.5,
+6242,888,"Soda Ash",,4,
+6242,889,"Nylon dye",,1.5,
+6242,890,"Sunlight soap",,2250,
+11856,891,Kerosine,,2,
+16923,892,"Anti Corrosive","Causeway paint",0.7,painting
+16923,893,Kerosen,,0.01,painting
+16923,894,Tiner,,0.05,painting
+4627,895,"Sodium Carbonate",,850,
+3221,896,kerosine,-,5,"wash vehicles"
+4627,897,"Sulphuric Acid",,980,
+11976,898,Dynamite,,1,
+11976,899,ANFO,,5,
+11976,900,Detonator,,7,
+3221,901,soap,,10,"wash vehicles"
+17232,902,"Gun powder",,NULL,
+16875,903,,"Car wash/kerosene",0.5,Washing
+1070,904,Ditergent,Teapol,0.5,Dishwash
+6109,905,sulpher,,12,
+6109,906,pvc,,0.25,
+922,907,"Pentrating oil, Thinner, High pressure oil, Brasso, WD 40",,NULL,"for repairing vehicles"
+24926,908,"So-diam Meta By Salfet ",S.M.S,0.005,"For Processing"
+24926,909,"Zitric Acid ",,0.06,"For Processing"
+3225,910,No,-,NULL,-
+18323,911,Highpressure,,NULL,
+18323,912,Shampoo,,NULL,
+18323,913,Kerasol,,NULL,
+5032,914,"Washing shampoo",,NULL,
+1272,915,"pH Adjuster",,NULL,
+1272,916,Besco,,NULL,
+1272,917,Foculator,,NULL,
+18049,918,"Engine oil",,35,
+11766,919,Ammonia,,2.5,
+2407,920,Hydrex,,5,
+2407,921,"Cleaning chemicals",,NULL,
+2407,922,"surgical sprit",,NULL,
+4696,923,"Acetic Acid",Glacial,20,"Clean the cylinder and felt"
+11977,924,Dynamite,,NULL,
+11977,925,ANFO,,NULL,
+11767,926,,"High presure",6,
+11971,927,Dynamite,,1,
+11971,928,ANFO,,3,
+11967,929,"high pressure",,3,
+24944,930,Grease,Caltex,5,
+24944,931,Oil,caltex,45,
+3304,932,"Isopropyl alcohol",IPA,0.5,
+3304,933,"Normal Butyl alcohol",NBA,0.2,
+11763,934,,"Autu flash solution",2,washing
+12010,935,Dynamite,,NULL,
+12010,936,ANFO,,NULL,
+16410,937,"Anti corrosive",kenlux,8,"Painting & Protact the iron"
+16410,938,Thinner,"Chemico & Epoxy",3,"Cleaning the brushes"
+2037,939,Akcrete,Acrete,60,
+973,940,"Plate developer",Kodak,10,"Processing of printing plates"
+973,941,"Printing ink","General inks",150,"For printing"
+973,942,"Kerosene oil",,2,"For cleaning of machinary parts"
+11931,943,Ammonium,,3,
+11931,944,Dainamite,,1,
+11984,945,Dynamaite,,NULL,
+11984,946,ANFo,,3,
+11984,947,Detornator,,6,
+4695,948,Accelerator,,25,"Water purification"
+4695,949,"pH adjuster",,15,"Water purification"
+4695,950,Polyhene,,NULL,"Water purification"
+16403,951,,"Water gel",0.75,"for blasting"
+4695,952,"Sodium Hypochlorite",,10,"Water purification"
+16403,953,"Ammonium Nitrate",,33.33,"for blasting"
+24947,954,Ammonia,,NULL,
+11983,955,Dynamite,,1,
+11983,956,ANFO,,2.5,
+11983,957,Detornator,,NULL,
+940,958,"X ray fixer & replenisher developer & replenisher","Kodak R;PX -OMAT",33,"Auto processer"
+5196,959,Yeast,,NULL,bake
+940,960,"Sulfanilic acid, Hydrochloric acid, Dimethylsulfoxide, Sodium nitrite","Pointe Scientific INC.",NULL,"Reagents necessary for biochemistry tests are prepaired forms being supplied"
+18177,961,Highpressure,,0.5,
+18177,962,Tee[pol,,NULL,
+11959,963,Granaite,,0.75,
+11959,964,ANFO,,2.5,
+11959,965,Detornator,,8,
+18207,966,,highpressure,10,
+18207,967,,"car wash",3,
+11675,968,Ammonium,,7,
+11675,969,Dinamite,,1.5,
+11675,970,explosive,,0.25,
+16411,971,-,"High power",1,Washing
+12171,972,Ammonia,,5,
+1304,973,Shampoo,"Wurth ",5,
+16403,974,,"Blasting powder",1.8,Explosion
+16403,975,,Detonator,12,Explosion
+1974,976,"IPA ",sASOL,3,"For printing purpose"
+1974,977,NBA,Sasol,2,"For printing purpose"
+940,978,"Glucose oxidase, peroxidase, 4-amino antipyrine pap, sodium dodecylsulfate, picric acid, p-nitrophenyl phosphate, magnesium chloride, chloro-4-phenol","Biolabo reagent",NULL,"Reagents necessary for biochemistry tests are prepaired forms being supplied"
+6613,979,Explosive,,NULL,
+12172,980,Ammonium,,0.5,
+12172,981,Detonater,,1,
+17278,982,"Amonia,Dianamaite, ",,NULL,
+11672,983,"water gel",,2,
+11672,984,Ammonium,,20,
+12169,985,Ammonia,,5,
+12169,986,Detonater,,10,
+12170,987,"Ammonium Nitrate",,5,
+4615,988,"PU Acrylic Paints","UV Paints",200,Finishing
+1034,989,"Car wash shampoo",3M,1,"Car wash"
+1034,990,Degreases,3M,1,"Under garage cleaning"
+11939,991,"water gel",,0.5,
+11939,992,Ammonium,,1,
+11939,993,Explosive,,0.5,
+2612,994,"Amonia, ",,5,"Metal Crushing"
+16375,995,,"Black powder",0.03,Explosion
+16375,996,"Ammonium Nitrate",,0.3,Explosion
+4689,997,"Film developer",Agfa,2,Processing
+4689,998,"Film fixer",Agfa,2,Processing
+16375,999,,Detonaters,0.83,Explosion
+4689,1000,"CTP Developer",Kodak,2,Processing
+5155,1001,"49 E Ink",Fuji,1,"For photo processing"
+3504,1002,No,,NULL,
+24959,1003,Dinamite,,NULL,
+16802,1004,"Antic corrosive ",Multilac,1,"to avoid the corrosive "
+24959,1005,"Amonium Nitrate",,NULL,
+17044,1006,,,NULL,
+24959,1007,"Blasting Powder",,NULL,
+17044,1008,,,NULL,
+1122,1009,"Harpic A3/A4","Johnson & johnson",1,"Toilet cleaning & public area floor cleaning"
+16580,1010,Caco3,Lime,375,"Maintenance to  pH level "
+17048,1011,Oil,,NULL,
+17048,1012,Soap,,NULL,
+17048,1013,Kerosine,,NULL,
+16580,1014,Caco3.mgco3.10H2O,,370,"Maintenance to  pH level "
+6623,1015,"Ammonium Dinamite",,NULL,"Explore granite"
+1150,1016,,"Mortin Bouer",NULL,"For blending"
+12045,1017,Urea,,NULL,Formulation
+12045,1018,"Murate of potash",,NULL,Formulation
+12045,1019,"Tripal Super Posphate",,NULL,Formulation
+4795,1020,"Acetic acid",Glacial,20,"Clean the cylinder"
+16412,1021,"Calicium carboide ",-,4,"for welding"
+16947,1022,"Anti corrosive","Kenlux lit/month",3,"To protect the iron"
+16412,1023,"Anti corrosive","Cause way paint",53,"Painting & Protact the iron"
+16412,1024,Kerosine,-,55,"Cleaning the brushes"
+16947,1025,Thinner,"Chemico & Epoxy",2,"To clean tha brushes"
+16947,1026,Kerosone,,5,"Clening purpus"
+1296,1027,"Laboratory Items",,NULL,
+17245,1028,,"Hi Pressure Cleaner",0.5,"For leaning vehicles"
+17245,1029,,"Car Wash",0.3,"For cleaning vehicles"
+3603,1030,thiner,,0.2,
+3603,1031,"silver paints",,0.2,
+16811,1032,"anti corrosive ","Multilac ",5,"to avoid corrosive  "
+18234,1033,,Detol,NULL,
+18234,1034,"cleaning solution",,NULL,
+16811,1035,"Thiner ","Mulilac ",2,"to cleaning purpose  "
+16413,1036,"Anti corrosive",kenlux,4,"to protact the iron"
+16413,1037,Thinner,-,2,"Cleaning the brushes"
+16413,1038,Kerosine,-,3,Cleaning
+17021,1039,Ammonia,,NULL,
+17021,1040,Dyina,,NULL,
+3588,1041,no,,NULL,
+4686,1042,"Technical Perborate",,12.9,
+4686,1043,"Technical PPDA",,8.8,
+4686,1044,"Technical CMC",,4.8,
+4686,1045,"Heena Mix",,1.6,
+963,1046,"Car wash",Britol/Walwatalin,5,
+963,1047,"Kerosene oil",,20,
+963,1048,"Duplicant oil",Britol/Walwatalin,40,
+10239,1049,Chlorine,Chlorine,0.5,
+10239,1050,"Acid ","HCL (ml)",200,
+10239,1051,"Soap Powder","Soap Powder",0.3,
+4632,1052,"Washing Chemicals",,NULL,
+2722,1053,"P.V.C, CALSIUM CARBANATE",Rasin,NULL,
+16415,1054,"Anti corrosive",kenlux,4,"Painting & Protact the iron"
+17024,1055,Ammonia,,NULL,
+17024,1056,Dyina,,NULL,
+16415,1057,Kerosine,-,3,"Cleaning the brushes"
+16415,1058,Thinner,Chemico,1,"Cleaning the brushes"
+11962,1059,ANFO,,NULL,
+11962,1060,Dynamite,,3.4,
+1299,1061,"Calcium propiyonate",,300,
+17040,1062,,"Car wash",NULL,
+3533,1063,No,,NULL,
+17040,1064,,Hifresher,NULL,
+11970,1065,Dynamite,,NULL,
+11970,1066,ANFO,,NULL,
+12009,1067,Dynamite,,NULL,
+12009,1068,ANFO,,NULL,
+11985,1069,Dynamite,,1,
+11985,1070,ANFO,,13,
+24977,1071,No,,NULL,
+11995,1072,Dynamite,,3,
+11995,1073,ANFO,,3,
+24978,1074,"Car wash",,NULL,
+17039,1075,Ammonia,,1,Blasting
+17039,1076,Dyinamate,,5,Blasting
+1977,1077,"Sodium silicate","C&A silicate",10,
+1977,1078,CMC,"Central chemical",0.5,
+4610,1079,"Citric acid",,NULL,
+10231,1080,"High pressure","Dash (I)",8,"washig Vehicals"
+10231,1081,"washing Liquid Soap","Dash (i)",8,"Body Wash"
+16386,1082,"Ammonium Nitrate",,0.4,Explosion
+16386,1083,,"Water gel",0.2,Explosion
+16386,1084,,"Black powder",0.3,Explosion
+12006,1085,"high pressure",,5,
+16588,1086,Caco3,Lime,200,"Maintenance to  pH level"
+2406,1087,-,,NULL,
+3552,1088,No,,NULL,
+16588,1089,Caco3.mgCo3.10H2O,Dolomite,50,"Maintenance pH level"
+2735,1090,Methanol,,160,
+24963,1091,"High pressure","Dash (L)",8,"washing vehicals"
+24963,1092,"Liquid washing soap",dash,8,"body wash"
+2735,1093,Methanol,,160,
+24979,1094,benzen,,5,
+11969,1095,Dynamite,,0.8,
+11969,1096,ANFO,,4,
+11969,1097,Detornator,,1,
+2073,1098,HCL,,50,"Pickling solution"
+2073,1099,"NH4CL and ZnCl2",,20,"Flux bath"
+2073,1100,NH3,,1,"Flux bath neutralization"
+2073,1101,"Pure Zinc",,350,"zinc bath"
+10240,1102,"Kerosene (L)",,5,
+10240,1103,"High pressure (L)",,10,
+11968,1104,Dynamite,,NULL,
+11968,1105,ANFO,,NULL,
+1287,1106,Shampoo,3M,1,
+16944,1107,"Cacseway paint lit/day",Anti-corrosive,0.3,"To protect the iron"
+24983,1108,CO(NH2)2,Uria,3,
+24983,1109,Ca(NO3)2,"calcium Nitrate ",0.5,
+24983,1110,KCl,"Potassium Chloride ",1,
+16760,1111,"Antic corrosive ","Multlac ",2,"to avoid corrosive "
+24983,1112,CaCl2,"Calcium Chloride ",1,
+16944,1113,Kerosene,,0.5,"cleaning purpose"
+16760,1114,"Thinner ",,1,"Cleaning purpose "
+24983,1115,MgCl2,"Magnesium Chloride  ",1,
+16944,1116,Thinner,"Chemico & Epoxy",0.5,"To clean the brushes"
+16583,1117,Caco3,Lime,500,"Maintenance to  pH level "
+1270,1118,Paint,CIC,NULL,Painting
+16583,1119,Caco3.mgCo3.10H2O,Dolemite,50,"Maintenance to  pH level."
+18286,1120,"Car Wash",,NULL,
+11778,1121,teapol,,3,
+11778,1122,Kerosine,,1,
+16780,1123,"Antic corrosive ","Multlac ",2,"to avoid corrosive "
+16780,1124,"Thinner ","Multlac ",1,"Cleaning purpose "
+16767,1125,"Antic corrosive ","Multlac ",2,"to avoid corrosive "
+16767,1126,"Thinner ","Multlac ",1,"Cleaning purpose "
+1277,1127,"Propyl Alcochol",,25,"Lamination and printing"
+1277,1128,"Ethyl Acetate",,30,"Lamination and printing"
+16418,1129,-,"explosive matireal",NULL,Blasting
+936,1130,"Copper sulphate","Cepio copper salt",NULL,"Deposit copper"
+936,1131,"Nickel sulphate, nickel chlorate, boric acid","Dull nickel salt",NULL,"Deposit nickel"
+4624,1132,Boric,,10,"Gum preparation"
+4624,1133,"Caustic soda",,2.5,"Gum preparation"
+16587,1134,Caco3,Lime,80,"Maintenance to  pH level "
+4624,1135,Borax,,3.5,"Gum preparation"
+16945,1136,Anti-corrosive,"Cacseway paint lit/day",0.5,"To protect the iron"
+16945,1137,Kerosene,,0.5,"cleaning purpose"
+16945,1138,Thinner,"Chemico & Epoxy",0.7,"To clean the brushes"
+16783,1139,,"seelar ",1,"to applied the furniture "
+16783,1140,"Thinner ","Multlac ",1,"to cleaning purpose  "
+16783,1141,,"paste ",0.25,"to fill the damage area "
+16783,1142,,"cosway paint ",1,"to applied the aluminium bars & furniture "
+16786,1143,,thiner,5,"Cleaning purpose "
+16786,1144,"Antic corrosive ","Multlac ",3,"to avoid corrosive "
+16768,1145,"Antic corrosive ",causeway,5,"to avoid corrosive "
+16768,1146,"Thinner ","Multlac ",1,"Cleaning purpose "
+16768,1147,"Antic corrosive ","Multlac ",3,"to avoid corrosive "
+16594,1148,,"High Power",2,"Washing and Clean "
+16594,1149,Bio-degradable,"Body Wssh",1.5,"washing and clean "
+16594,1150,,Kerosene,2,"clean "
+16658,1151,Amoniya,,NULL,
+17015,1152,Shampoo,,NULL,
+17015,1153,Hyfresher,,NULL,
+6589,1154,,,NULL,
+4691,1155,"Sodium Hypochlorite","EM Care",0.01,Cleaning
+4691,1156,"Ethyl Alcohol",Ethanol,0.01,Cleaning
+4691,1157,Dimethylbenzene,Xylene,0.007,Staining
+4691,1158,Haematoxylin,"Natural Black",0.001,Staining
+16385,1159,"Amonium nitrate",,0.4,Explosion
+16385,1160,,"Water gel",0.2,Explosion
+16385,1161,,"Black Powder",0.3,Explosion
+4690,1162,"Sanding Sealer",,15,
+4690,1163,Varnish,,8,
+4690,1164,"Black paints",,1,
+4599,1165,"Isopropyl Alcohol",,0.26,Cleaning
+24991,1166,"V&M NAPTHA, & N PROPYL ALCOHOL","MONO-COAT( E31) (L)",0.5,"MOLD RELEASE AGENT"
+4599,1167,"Printing ink",,3,"To print batch code"
+4599,1168,"Hot melt glue",,15,"To paste flaps"
+17032,1169,Ammonia,,NULL,
+17032,1170,Dynamite,,NULL,Blasting
+16959,1171,"Washing liquid	","High Power",1,"Washing purpose"
+16959,1172,,,NULL,
+16959,1173,,,NULL,
+16989,1174,"Ammonium  Nitrate ","Ammonium  Nitrate ",200,"Rock Blasting "
+16989,1175,"Water gel ","Water gel ",100,"Rock Blasting "
+16989,1176,"Black powder ","Black powder ",150,"Rock Blasting"
+4811,1177,"Ethyl Acetate",,50,"Mix with adhesives"
+4811,1178,Toluene,,50,"Mix with adhesives"
+18621,1179,Explosives,,NULL,Explotion
+4811,1180,"Isopropyl Alcohol",,50,"Mix with adhesives"
+4811,1181,"Normal Propyl alcochol",,50,"Mix with adhesives"
+3543,1182,glue,multibone,1.5,
+3543,1183,Lackers,multilac,0.05,
+17116,1184,Oil,caltex,NULL,
+17116,1185,highpressure,,NULL,
+24991,1186,"V & M NAPTHA N PROPYL ALCOHOL","MONO-COAT  E-331 (l)",0.5,"mold release agent"
+16640,1187,"High power",,NULL,"Washing removed oil & gress"
+1281,1188,"Prosperic Acid",,5,"Cleaning Plate"
+1281,1189,"Kerosene oil",,3,
+2603,1190,NBA,"Exon Mobil",2,printing
+18599,1191,"High pressure,",Real,10,
+18599,1192,"Car wash",Real,2,
+3587,1193,detergent,caltex,0.25,
+17281,1194,"Car wash",,NULL,
+16990,1195,"Ammonium  Nitrate ","Ammonium  Nitrate ",200,"Rock Blasting "
+16990,1196,"Water gel ","Water gel ",100,"Rock Blasting"
+16990,1197,"Black powder ","Black powder ",150,"Rock Blasting "
+1036,1198,"All chemicals used in laboratories in schools & universities",,NULL,
+1024,1199,"Hydrogen peroxide",Peroxide,16,
+1024,1200,Melanol,Matex,7,
+1024,1201,Gilmax,Gilmax,15,
+16991,1202,"Ammonium  Nitrate  ","Ammonium  Nitrate  ",200,"Rock Blasting "
+16991,1203,"Water gel ","Water gel ",100,"Rock Blasting"
+6171,1204,,"Caltex(Engine Oil)",30,
+16991,1205,"Black powder ","Black powder ",150,"Rock Blasting"
+6171,1206,,Grease,5,
+6171,1207,,Britol(detergent),2,
+17280,1208,Hypressure,daess,NULL,
+17282,1209,dynamaite,,0.05,Blasting
+17282,1210,Ammonia,,3,Blasting
+17291,1211,Hypressure,,NULL,
+17291,1212,grease,,3,
+16960,1213,"Anti corrosive	","Causeway Paint		",2,"To prevent the iron from the  corrosion"
+17294,1214,Hypressure,,NULL,
+17294,1215,"Car wash",,NULL,
+16419,1216,"diynamite ","explosive matireal",NULL,Blasting
+1998,1217,Alum,,NULL,
+1998,1218,Resin,,NULL,
+16806,1219,,"paint (CIC0",2,"paint the vehicle "
+6171,1220,,"Kerosene oil",10,
+16815,1221,,"Thinner ",1,"to cleaning purpose  "
+16815,1222,,"paint ( CIC )",2,"paint the tinkering parts "
+17517,1223,Dynaqmite,,0.5,
+17517,1224,gunpowder,,0.05,
+17517,1225,Ammoniam,,4,
+17517,1226,Detanator,,5,
+16812,1227,,"Thinner ",1,"to cleaning purpose  "
+6186,1228,,explosive,0.08,blasting
+1997,1229,"Nickel anold",,NULL,
+1997,1230,"Nickel salt",,NULL,
+6186,1231,,dyna,0.16,blasting
+1997,1232,"Nickel plamin",,NULL,
+6186,1233,,Amonium,0.83,blasting
+16812,1234,,"paint ( CIC )",2,"to paint tinkering parts "
+2009,1235,"Arabic gum",Tochnova,0.2,
+2009,1236,Kerosine,,0.5,
+2009,1237,"plate developen",,0.3,
+16925,1238,,"Real high Pressure Cleaner",0.02,washing
+16925,1239,,"Real car wash",0.02,washing
+2539,1240,"I.P.A (C3HO8)",I.P.A,4,
+16595,1241,,"High Power",300,"Clean and washing"
+16595,1242,Bio-degrable,"Body Wash",400,"Clean and Washing"
+17511,1243,"Gun powder",,0.5,
+16595,1244,,Kerosene,0.5,"use for clean engine"
+17511,1245,dynamite,,5,
+17511,1246,"Ammonium Nitrate",,25,
+2004,1247,"Lime powder ",,1460,limimg
+2004,1248,"Ammonium sulphate ",,146,Deliming
+25018,1249,"Ammoni,",,NULL,
+2004,1250,"Wattle bark tanning extract",,2190,oiling
+17229,1251,"Dinamite, Amonium, Service therd",,0.3,
+18609,1252,,"High pressure",2,
+18609,1253,"Car wash",,0.5,
+2008,1254,Britol,,NULL,
+2008,1255,Oil,Caltex,NULL,
+16926,1256,"Anti crrosive","Causeway paint",0.1,painting
+16926,1257,Kerosene,,0.05,painting
+16641,1258,Bodywash,,NULL,
+16926,1259,tinner,,0.05,painting
+16641,1260,Highpower,,NULL,"To clean the body"
+16799,1261,,"Thinner ",1,"Cleaning purpose "
+16799,1262,,"paint ( CIC )",1,"to paint tinkering parts  "
+16420,1263,Cholrine,"Chlorine powder",0.5,Cleaning
+17637,1264,"water gel",,1,
+17637,1265,"ammonium nitrate",,6,
+17637,1266,"gun powder",,0.225,
+17526,1267,"Explosive, Dianamite, Survice yarn ",,12,
+16612,1268,Kerosine,,3,Cleaning
+16612,1269,"Anti corrosive","causeway paint",1,"prevent corrosion"
+16421,1270,"Anti corresive",Kenlux,0.5,"To protact the iron"
+16421,1271,Thinner,"Chemico & Epoxy",0.2,"Cleaning the bruses"
+16421,1272,-,Kerosine,0.1,"Cleaning "
+16622,1273,Kerosine,,3,Cleaning
+17571,1274,Explosive,,3,Explosion
+25034,1275,"Ammoniun Nitrate, Dinamite",,2,"blasting rocks"
+17215,1276,Dynamite,Dynamite,0.75,Blasting
+17215,1277,"Amonium Nitrate","Amonium Nitrate",0.75,Blasting
+17215,1278,Explosive,Explosive,0.5,Blasting
+18619,1279,Explosives,,5,Explotion
+17217,1280,Dynamite,Dynamite,0.3,Blasting
+17217,1281,"Amonium Nitrate","Amonium Nitrate",1.5,Blasting
+17997,1282,"High pressure oil",,1,
+17525,1283,Dynamite,,NULL,
+17525,1284,"Ammonium Nitrate",,NULL,
+17525,1285,datanator,,NULL,
+18642,1286,"High pressure",Real,5,
+16682,1287,"Explosive material","dina kakai",NULL,blasting
+16682,1288,thread,"sevea nule",NULL,explosion
+16682,1289,Ammonia,,NULL,Explosion
+17555,1290,"Amonium Nitrate",,200,Blasting
+17555,1291,"Dynamite ",,20,Blasting
+17516,1292,"Amonia, Dinamite, Service threats, Motorjell  ",,6,"Blasting "
+25037,1293,Teepol,,4.2,
+25037,1294,Penititrainan,,12,
+17522,1295,Explosive,,NULL,Explotion
+17723,1296,Explosives,,NULL,Explotion
+17523,1297,"Amoniun Nitrate",,5,"for Blasting"
+18198,1298,Highpressure,"K.U. Auto Lanka",NULL,
+18198,1299,Shampoo,,NULL,
+17540,1300,Explosives,,30.5,Explotion
+17559,1301,"Explosives ",,0.3,"Blasting "
+17550,1302,,Brytol,30,
+17512,1303,"Dinamites, Amonia, ",,NULL,"Blasting "
+18432,1304,,"Car wash, High pressure3",3,
+16683,1305,"Explosive material",,NULL,blasting
+17642,1306,Explosives,,NULL,Explotion
+17552,1307,"60/70 Bitumn",,14.1,
+17655,1308,Explosives,,NULL,Explotion
+17728,1309,Explosive,,NULL,
+17657,1310,"Ammonium nitrate, Water gell",,NULL,
+17659,1311,Explosives,,21,Explotion
+17724,1312,Lime,,5,
+17724,1313,Chlorine,,0.25,
+17524,1314,"Amonium Nitrate , Water gel, Dinamite",,NULL,"for blasting"
+18181,1315,Bleach,"Top White",NULL,
+18181,1316,"Bowl Cleaner",Puri,NULL,
+18459,1317,Dynamite,,NULL,
+18459,1318,Ammonia,,5,
+25048,1319,"Sodium By Corbernrte ",,NULL,
+25048,1320,"Ammoniam By Corbernet",,NULL,
+18186,1321,Hi-Pressure,Imasha,5,"For cleaning vehicles"
+11674,1322,Ammonium,,NULL,
+11674,1323,Dinamite,,NULL,
+18452,1324,Explosive,,7,Explosion
+17643,1325,Explosives,,NULL,Explotion
+11717,1326,,"Hi pressure",2,
+11717,1327,,"car wash",2,
+16764,1328,,"Thinner ",1,"to cleaning purpose  "
+16764,1329,,"paint ( CIC )",2,"to apply tinkering parts "
+16927,1330,,"Real High Pressure Cleaner",0.1,washing
+16927,1331,,"Real car wash",0.1,washing
+11716,1332,Ammonia,,1,
+25051,1333,Ammonium,dianamide,NULL,"blasting rocks"
+25052,1334,"Sodium hypochlorite ,",,0.25,
+25052,1335,"Dry Chlorine",,0.75,
+16576,1336,Caco3,Lime,375,"Maintenance to  pH level "
+25052,1337,"Hydrochloric acid",,3,
+16794,1338,,"Thinner ",1,"to cleaning purpose  "
+16794,1339,,"paint ( CIC )",0.5,"to cleaning purpose  "
+16576,1340,,,NULL,
+16576,1341,Caco3.mgco3.10H2O,Dolomite,375,"Maintenance to  pH level. "
+11726,1342,,Dash,400,
+11726,1343,,"Dash (Shampoo)",400,
+16992,1344,"Anti corrosive","causeway paint",10,"Painting & Protact the iron"
+16992,1345,Kerosene,Kerosene,5,"Cleaning the brushes"
+11727,1346,,Teepol,2,
+11727,1347,,Hipresure,1,
+18468,1348,"Black powder",,NULL,
+18468,1349,"Ammonium Nitrate",,NULL,
+18468,1350,Dinamite,,NULL,
+16928,1351,,"real high Pressure cleaner",0.1,washing
+16928,1352,,"real car wash ",0.1,washing
+25060,1353,"Car wash","Dish wash",0.5,
+25060,1354,"High pressure",Flash,0.5,
+18465,1355,Explosive,,2,Explosion
+16810,1356,,"Thinner ",1,"to cleaning purpose  "
+16810,1357,,"paint ( CIC )",1,"paint the tinkering parts "
+18766,1358,Ammonium-05,Dianamide,NULL,blasting
+16577,1359,Caco3,Lime,200,"Maintenance to  pH level "
+16577,1360,Caco3.mgco3.10H2O,Dolomite,30,"Maintenance to  pH level"
+16946,1361,Caco3,Lime,200,"Maintenance to  pH level"
+16946,1362,Dolamit,,100,"Maintenance to  pH level"
+16929,1363,"Anti Corrosive","Causeway paint",0.1,painting
+16929,1364,Kerosen,,0.025,painting
+16929,1365,Tinner,,0.05,painting
+16776,1366,,"Thinner ",1,"to cleaning purpose  "
+16776,1367,,"paint ( CIC )",1,"paint the tinkering parts "
+16993,1368,"High power ","High power ",2,"Washing Motor bikes "
+16787,1369,,"Thinner ",1,"to cleaning purpose  "
+16787,1370,,"paint ( CIC )",1,"paint the tinkering parts "
+16931,1371,"Anti corrosive ","causeway paint",0.1,painting
+16931,1372,Kerosen,,0.05,painting
+18492,1373,Britol,,NULL,
+18492,1374,Dash,,NULL,
+16931,1375,Tinner,,0.05,painting
+11703,1376,Ammonium,,5,
+11725,1377,Kerosene,,1,
+11725,1378,,"hi pressure",1,
+16808,1379,,"Thinner ",1,"to cleaning purpose  "
+16808,1380,,"paint ( CIC )",2,"paint  the tinkering  parts "
+16955,1381,,,NULL,
+16955,1382,Dolomite,,3000,"Maintenance to  pH level"
+16994,1383,"Anti corrosive","Anti corrosive",3,"Painting & Protact the iron"
+16994,1384,Kerosine,Kerosene,2,Cleaning
+11724,1385,Kerosene,,NULL,
+11724,1386,,shampoo,1,
+16578,1387,Caco3,Lime,500,"Maintenance to  pH level "
+16578,1388,Caco3.mgco3.10H2O,Dolomite,300,"Maintenance to  pH level "
+6635,1389,Explosive,,NULL,
+17816,1390,Explosives,,0.9,Explotion
+16801,1391,,Teepol,1,"to cleaning purpose  "
+16801,1392,,"paint ( CIC )",2,"paint the tinkering parts "
+18449,1393,"black powder",,NULL,
+18449,1394,Dynamite,,NULL,
+18449,1395,"Ammoniam Nitrate",,NULL,
+16790,1396,,"Thinner ",1,"to cleaning purpose  "
+16790,1397,,"paint ( CIC )",1,"paint the  tinkering parts "
+25054,1398,Ammonium,Dianamide,NULL,"blasting rocks"
+17832,1399,Explosives,,5,Explotion
+16932,1400,Nil,,NULL,
+16956,1401,Dolomite,,2500,"Maintenance to  pH level"
+16579,1402,Caco3,Lime,500,"Maintenance to  pH level "
+16579,1403,Caco3.mgco3.10H2O,Dolomite,30,"Maintenance to  p H level"
+11731,1404,Teepol,,NULL,
+11731,1405,cabite,,NULL,
+18454,1406,Explosive,,7,Explosion
+11701,1407,,"car wash",1,
+11701,1408,,Hipressure,1,
+16957,1409,,,NULL,
+16957,1410,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+16995,1411,"Anti corrosive","Anti corrosive",5,"Painting & Protact the iron"
+16995,1412,Kerosine,Kerosene,2,"Cleaning the brushes"
+11705,1413,Ammonium,,1,
+10348,1414,"Urea,MOP ,Super Pospate, Dolomaite",,1,"As a fertilizer for grass"
+17796,1415,Explosives,,NULL,Explotion
+10148,1416,"Chlorine ",,0.5,"for feet washing tanks"
+18615,1417,Highpressure,"EKO Chemicle",NULL,
+18615,1418,shampoo,"EKO Chemicle",NULL,
+11685,1419,ammonum,,NULL,
+15388,1420,"Electric Detenator",,26,Blasting
+17541,1421,Explosive,,NULL,Explosion
+15388,1422,ANFO,,26,Blasting
+15388,1423,"Water Gel",,10,Blasting
+16958,1424,"Dolomite/one crop Season",,4000,"Maintenance to  pH level"
+16581,1425,Caco3,Lime,375,"Maintenance to  p H level"
+16581,1426,Caco3.mgco3.10H2O,Dolomite,375,"Maintenance to  p H level"
+18611,1427,"Car wash",Nip,5,"For Service"
+3220,1428,No,,NULL,
+15389,1429,"Electric Detenator",,26,Blasting
+15389,1430,ANFO,,26,Blasting
+15389,1431,"Water Gel",,5,Blasting
+16997,1432,"Anti corrosive","causeway paint",1.5,"Painting & Protact the iron"
+16997,1433,Kerosine,Kerosene,1,Cleaning
+11719,1434,Ammonia,,25,
+11719,1435,,Jel,5,
+16962,1436,"Dolomite/one crop Season",,2000,"Maintenance to  pH level"
+25087,1437,"Ammonium bicarbonate","Biscut ammonia",15,
+18617,1438,"Black  powder",,NULL,
+18617,1439,"Ammonium Nitrate",,NULL,
+18617,1440,Dynamite,,NULL,
+25091,1441,Ammonium,Dianamide,NULL,"rock blasting"
+11713,1442,"Ammonium Nitrate",,1,
+11713,1443,,"water jei",1,
+11713,1444,,Deternator,2,
+16963,1445,"Dolomite/one crop Season",,2500,"Maintenance to  pH level"
+16963,1446,,,NULL,
+11728,1447,Kerosene,,1,
+11728,1448,Teepol,Britol,0.2,
+11728,1449,Hipresure,Britol,NULL,.2
+16592,1450,Caco3,Lime,375,"Maintenance to  pH level "
+3335,1451,"Titanium Dioxide",,NULL,
+3335,1452,"Paraphin vax",,NULL,
+16592,1453,Caco3.mgco3.10H2O,Dolomite,25,"Maintenance to  pH level "
+16964,1454,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+17560,1455,Explosive,,3,Explosion
+15387,1456,"Electric Detenators",,26,Blasting
+15387,1457,ANFO,,26,Blasting
+15387,1458,"Water Gel",,5,Blasting
+25094,1459,Perox,SBP,8,
+16966,1460,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+25098,1461,Petrol,SBP,8,"Make Solution"
+16769,1462,414,"big banyan ",0.1,"Gas filling "
+16582,1463,Caco3,Lime,80,"Maintenance to  pH level "
+16769,1464,"134 ar",,1,"gas filling  auto AC"
+16582,1465,Caco3.mgco3.10H2O,Dolomite,200,"Maintenance to  pH level "
+16769,1466,"R 22",,1,"gas filling "
+16967,1467,"Dolomite/one crop Season",,2500,"Maintenance to  pH level"
+11709,1468,Ammonium,,1,
+15390,1469,ANFO,,26,Blasing
+15390,1470,"Water Gel",,15,Blasting
+16968,1471,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+975,1472,Soap,Britol,NULL,
+3272,1473,"high pressure",,NULL,
+3272,1474,shampoo,,NULL,
+1027,1475,"Base oil",,NULL,
+16591,1476,Caco3.mgco3.10H2O,Dolomite,375,"Maintenance to  pH level. "
+16585,1477,Caco3,Lime,100,"Maintenance to  p H level"
+16585,1478,Caco3.mgco3.10H2O,Dolomite,250,"Maintenance to  p H LEVEL"
+16584,1479,Caco3,Lime,375,"Maintenance to  p H  level."
+16584,1480,Caco3.mgco3.10H2O,Dolomite,375,"Maintenance to  p H level"
+2019,1481,"Phospheric acid",,2,Cleaning
+1285,1482,"Car washing chemicals",Teepol,0.2,"Car washing"
+1285,1483,"High pressure",,2,"Car washing"
+18448,1484,Explosive,,2,Explosion
+16788,1485,,"Thinner ",1,"to cleaning purpose  "
+16788,1486,"Antic corrosive ",cosway,1,"to avoid corrosive "
+2022,1487,Explosives,,NULL,
+3601,1488,"High pressure",,0.5,
+3601,1489,"Tyre shine",,0.5,
+3601,1490,"car wash",,0.02,
+4629,1491,"Sumi One",Metafluthrin,2.7,
+4629,1492,"Sodium benzoate",,NULL,
+2021,1493,IPA,,NULL,
+2021,1494,NBM,,NULL,
+16402,1495,,Afga,0.18,"for X-Ray"
+16869,1496,"Anti corrosive,","Causeway paint",5,"To protect the iron from corrosive"
+16778,1497,,"Thinner ",1,"to cleaning purpose  "
+16778,1498,"Antic corrosive ","cosway ",3,"to avoid corrosive "
+16778,1499,,kerosene,1,"to cleaning purpose  "
+19102,1500,Ammonium,Dianamaide,NULL,"rock blasting"
+12070,1501,Acid,,36,
+12070,1502,calcium,,720,
+6237,1503,"Potassium chlorate",,351.9,
+6237,1504,"red phosphorus",,18.75,
+6237,1505,sulphur,,51,
+6237,1506,"Potassium dichromate",,9.6,
+6237,1507,"black manganese",,127.5,
+6237,1508,"glass powder",,87,
+6237,1509,"gum resin",,9,
+6237,1510,"carbon black",,2.25,
+6237,1511,"hide glue",,75,
+6237,1512,chemifix,,24,
+10519,1513,"Black Gun powder",,0.25,Blasting
+10519,1514,Dynamite,,0.75,Blasting
+10519,1515,"Ammonium Nitrate",,2,Blasting
+16869,1516,Tinner,Chemico,3,"To clean the brushes"
+16869,1517,Kerosene,-,3,"To clean the brushes"
+16869,1518,Paste,Gloss,0.1,"To fill the damages"
+16869,1519,-,Garner,0.05,"Mixed with gloss"
+12070,1520,,,NULL,
+3597,1521,Labsa,"S & S enterprices",NULL,
+3597,1522,Sies,,NULL,
+3597,1523,"So dash",,NULL,
+3597,1524,CMC,,NULL,
+3597,1525,"Sodium Sulphate",,NULL,
+16775,1526,,Teepol,1,"to cleaning purpose  "
+16866,1527,Paint,CIC,7,"Paint the tinkering parts"
+18614,1528,highpressure,,NULL,
+18614,1529,shampoo,,NULL,
+10603,1530,"Water gel",,1,
+16866,1531,Tinner,"Chemico & Epoxy",6,"To clean the brushes"
+10603,1532,"Ammonia ",,2,
+16866,1533,"Paste(sanding filler)","Super cut",3,"To fill the damage area"
+16866,1534,Carbide,-,1,"Gas welding"
+10133,1535,"Dynamite ",,2.5,
+10133,1536,"Ammonia ",,15,
+4634,1537,Chlorine,Hydromat,0.75,"for swimming pool"
+10133,1538,"galwedi beheth",,0.5,
+10448,1539,"Wedi nool, kalu beheth, detanator, Ammonium Nitrate, jelatnite",,NULL,
+16377,1540,,Dash,5,"for washing and removal of oil & grease"
+16807,1541,"Antic corrosive ","CIC ",2,"to avoid corrosive "
+16807,1542,,"Thinner ",1,"to cleaning purpose  "
+18610,1543,"Lubricant oil",,NULL,
+25116,1544,Detergents,Cleana,1,"as a cleaning chemical"
+1271,1545,,Keemor,30,Washing
+25116,1546,Detergent,"Britol ",0.5,"as a cleaning chemical"
+16881,1547,-,Carwash,5,Washing
+10602,1548,Dynamaite,"Water jel",1,Blasting
+10602,1549,"Kalu Beheth",,0.2,Blasting
+10602,1550,Ammonia,,1.5,Blasting
+3510,1551,"Sodium hydroxide","Caustic soda",4536,
+10602,1552,"Service Threads",,10,Blasting
+18421,1553,Explosive,,4.5,Explosion
+10602,1554,deternators,,5,Blasting
+3510,1555,"Calcium carbonate",Dolamite,13608,
+3510,1556,"Sodium Carbonate","Soda ash",18144,
+19118,1557,Ammonium,Dianamide,NULL,"rock blasting"
+3510,1558,"Magnesium sulphate","Mag sulphate",908,
+3510,1559,"Sulphonic acid",Labsa,3629,
+4630,1560,"Soda ash",,50,
+4630,1561,"Sodium chloride",,10,
+4630,1562,"Isopropyl Alcohol",,10,
+4630,1563,"Calcium carbonate",,100,
+4630,1564,"Tributoxy Ethyl phosphate",,20,
+6557,1565,"Dynamite,  Ammonium niterate",,13,
+25123,1566,Explosive,,2,Explosion
+16714,1567,,Afga,5.2,"Used for X ray purpose "
+6185,1568,,dyna,0.15,blasting
+6185,1569,,amonium,0.8,blasting
+6185,1570,,explosive,0.08,blasting
+16880,1571,-,Carwash,2,Washing
+1282,1572,"Caustic soda",,400,
+1282,1573,"Soda ash",,250,
+1282,1574,"Sodium silicate",,190,
+16880,1575,-,"High pressure",0.5,Washing
+1282,1576,Detergent,,270,
+1282,1577,"Hydrogen peroxide",,1500,
+1282,1578,Salt,,800,
+1282,1579,"Whiting agent",,80,
+941,1580,"Furnace oil","Casting Alumintom",NULL,
+18629,1581,Highpressure,Wintry,NULL,
+3327,1582,No,,NULL,
+10587,1583,"Dynamite ",,1,
+10587,1584,"Ammonia ",,0.75,
+10587,1585,Kalubeheth,,0.25,
+10546,1586,Dynamite,,5,Blasting
+10546,1587,"Service Threads",,1,Blasting
+10546,1588,"Electrical caps",,7,Blasting
+10546,1589,"normal Caps",,4,Blasting
+18612,1590,"gun powder",,0.01,
+18612,1591,Dynamite,,NULL,
+18612,1592,"Ammonium Nitrate",,NULL,
+6247,1593,Sodium,"E 500",120,
+6247,1594,"Ammonium bicarbonate","E 503",85,
+6247,1595,Lecithin,"E 322",30,
+16731,1596,,Afga,0.17,"Ues for X ray"
+11673,1597,"High pressure",Britol,NULL,
+2027,1598,Teepol,,2,"Cleaning materials"
+2027,1599,"Nitric acid",,0.2,CIP
+16862,1600,-,Carwash,2,Washing
+2027,1601,"Caustic soda",,0.2,cip
+16862,1602,-,Highpressure,1,Washing
+2476,1603,"Calcium cabanate","Filler master batch",275,
+3361,1604,No,,NULL,
+949,1605,"Calcium carbonate",,100,"To remove oil marks"
+949,1606,"Green Luster",,2,"For polishing the scratch mark"
+949,1607,"Black Luster",,2,"For polishing the scratch mark"
+11688,1608,Tar,,NULL,
+25133,1609,"Dynamite ",,2,
+25126,1610,"caustic soda ",,5,"to wash the dirt and grease "
+10702,1611,"Amoxy 50","Amocillin (mg)",15,
+10702,1612,"Enrovet (mg)",,30,
+25137,1613,Shampoo,3M,15,"for washing"
+25140,1614,"Dynamite, ammonia. kalu beheth",,NULL,
+18630,1615,Highpressure,,NULL,
+18630,1616,oil,,NULL,
+1291,1617,"Ammonium bi carbonate",,2.4,
+12072,1618,Dynamite,,2,
+12072,1619,ANFO,,4,
+1291,1620,"Sodium bi carbonate",,0.8,
+1291,1621,"Potassium sobate",,0.1,
+1291,1622,"Magnessium citrate",,6,
+16864,1623,"Calcium cabanet",Lime,5,"Cleaning purpose"
+3328,1624,No,,NULL,
+16423,1625,-,"High power",25,washing
+25144,1626,"High pressure (L)",,15,
+25144,1627,"Kerosene Oil (L)",,10,
+16734,1628,,Afga,0.17,"Ues for X ray"
+25145,1629,"Lab Reasent",,3,Intestigation
+25148,1630,Bleach,,NULL,"To get colour"
+25148,1631,Enzyme,,NULL,"To get colout"
+12022,1632,"Carbon black(N330)","BIRLA CABAN",800,"For compounding rubber"
+12022,1633,"Carbo Black (N660)","BIRLA CABAN",327.5,"For compounding rubber"
+1991,1634,Dynamite,,NULL,
+1991,1635,Amonia,,NULL,
+12032,1636,"iso butonol ethelene",,NULL,
+12032,1637," normal butonol ethelene",,NULL,
+10451,1638,"Gun Powder",,NULL,Blasting
+1856,1639,Soaps,Dash/britol,10,washing
+10451,1640,Ammonia,,5,Blasting
+1856,1641,oil,Caltex,50,"for vehicle"
+10451,1642,"Kalu beheth",,2,
+10451,1643,dynamite,,2,
+10451,1644,cap,,20,
+10451,1645,"Thread Rolls",,2,
+3267,1646,No,,NULL,
+16715,1647,,Afga,0.17,"Ues for X ray"
+2007,1648,"car wash",,8,
+16715,1649,,,NULL,
+25152,1650,"Sodium Silicate",,33,
+18415,1651,"Ammonium Nitrate",,NULL,
+18415,1652,"gun powder",,NULL,
+4653,1653,Shampoo,,NULL,
+16747,1654,Formaline,,0.17,"For testing"
+16747,1655,Methanol,,0.016,"For testing"
+25157,1656,Methenol,,NULL,
+1844,1657,Amonia,,NULL,
+3196,1658,No,,NULL,
+1844,1659,Diga,,NULL,
+19094,1660,,,NULL,
+25158,1661,Paint,,NULL,
+10449,1662,"Car Wash Shampoo (L)",,1,
+10449,1663," Kerosene(L)",,5,
+10449,1664,"High pressure (L)",Brito,15,
+16429,1665,"Calciuam carbonite",Lime,20,"Cleaning the poultry shed"
+929,1666,Bitol,"Car wash, High pressure",NULL,
+929,1667,"Kerosene oil","Penetrating oil",NULL,
+1847,1668,"car wash",Britol,NULL,
+2456,1669,Dainamite,,80,
+2456,1670,Amonia,,400,
+2456,1671,"Electric Detanates",,40,
+1298,1672,Britol,,1,
+16748,1673,Formaline,,0.17,"For testing"
+1298,1674,3M,,0.5,
+1298,1675,"Soft chemical",,5,
+1298,1676,"Auto glum",,1,
+16748,1677,Methanol,,0.15,"For testing"
+2053,1678,Amonia,,40,
+2053,1679,Dynamite,,7,
+3293,1680,"Acetone cleaning solvent","Jet holdings",2,
+1257,1681,"Washing liquids",,NULL,
+3293,1682,Cataloy,"Apploy metalfiller",1,
+3293,1683,"Easy bleach","Jet holdings",1,
+3293,1684,"PU solvent","Jet holdings",50,
+3293,1685,"PU sealer","Silicone coatings",50,
+3293,1686,"Putty MDF","Jet holdings",1,
+3293,1687,"Top coat thinner","Lankem paints",150,
+4622,1688,"Sodium bi carbonate",,20,"For leavening agent"
+934,1689,"Concrete Admixture","Adcrete Supercrete",120,"To concrete durability & delay concrete & water setting time"
+3045,1690,,"Daratad 17",75,
+4782,1691,Shampoo,Dash,2,"Car washing"
+16593,1692,Caco3,Lime,375,"Maintenance to  p H level"
+16593,1693,Caco3.mgco3.10H2O,Dolomite,375,"Maintenance to  p H level"
+16589,1694,Caco3,Lime,300,"Maintenance to  pH level "
+16589,1695,Caco3.mgco3.10H2O,Dolomite,300,"Maintenance to  pH level. "
+16593,1696,,,NULL,
+16590,1697,Caco3,Lime,360,"Maintenance to  pH level. "
+16590,1698,Caco3.mgco3.10H2O,Dolomite,30,"Maintenance to  pH level. "
+16596,1699,"Anti crossive","Causeway Paint",3,"Prevent iron corrosive"
+16596,1700,,Paint,1.5,"Prevent iron corrosive "
+15354,1701,"Electric Detenator",,26,Blasting
+15354,1702,ANFO,,26,Blasting
+15354,1703,"Water Gel",,5,Blasting
+15355,1704,"Electric Detenators",,20,Blasting
+15355,1705,ANFO,,20,Blasting
+15355,1706,"Water Gel",,15,Blasting
+16684,1707,hipower,,10,cleaning
+16684,1708,shampoo,,15,cleaning
+15375,1709,"Sodium  Benzoate",,0.25,Preservative
+15376,1710,"Electric Detenators",,26,Blasting
+15376,1711,ANFO,,26,Blasting
+15376,1712,"Water Gel",,5,Blasting
+16685,1713,"Algae drop",,2,"healthy growth"
+16685,1714,"calcium magnesium carbonate ",dolamide,1000,"adjust soil & water Ph"
+16685,1715,Lime,,100,"adjust Ph"
+16685,1716,"Moxem OX",,1,
+1834,1717,"Alkyl benzene sulphonic acid","Dish wash liquid",0.5,
+1834,1718,"Sodium hypochloride",Chlora,0.002,
+25164,1719,"Nitric acid","Nitric acid",3,"CIP cleaning"
+25164,1720,"Sodium Hydroxide","Caustic soda",2,"CIP cleaning"
+4648,1721,Detergent,,2,"For bleaching"
+4648,1722,"Caustic soda",,6,"For bleaching"
+946,1723,Acetone,,80,"To fill acetalene cylinders"
+4648,1724,Stabilizers,,2.5,"For bleaching"
+4648,1725,"Hydrogen peroxide ",,12,"For bleaching"
+4648,1726,Whitener,,2,"For bleaching"
+946,1727,"Mono ethanol amine",MEA,140,"To extract CO2"
+946,1728,"Sodium Carbonate","Soda ash",50,"To remove sulphur in CO2"
+3238,1729,"Calcium carbonate",Vinofil,5,"Extender material"
+946,1730,"Potassium permangenate",PPM,0.6,"To remove NOx, MEA, traces in CO2"
+3238,1731,"Cobalt Carbonate, Manganese Napthanate",Driers,15,Driers
+946,1732,"Sulphuric acid",,1.33,"To purify N2O"
+3238,1733,"Ethyl Methy ketoxine",MEK,30,Antioxidant
+946,1734,"Sodium Hydroxide","Caustic soda",1.33,"To purify N2O"
+3238,1735,"Silicone emulsion","Dow corning 35",25,"Levelling agent"
+3238,1736,"Polyethylene waxes","Luwax A",25,"Rub resistant properties"
+4745,1737,Shampoo,,NULL,
+2064,1738,Dymithiforkide,thiner,NULL,
+2064,1739,"dyfhyni methene",Fixer,0.05,
+4616,1740,"PVC Granules White",SPC,5000,
+4616,1741,"PVC Granules Black",SPC,5000,
+4616,1742,EVA,TPI,10000,
+4616,1743,"High Styrene","Rich chemicals",5000,
+4616,1744,"EVA Blowing agent","HPL addities",5000,
+4616,1745,"Aluminium silicate","KS 207",4000,
+4616,1746,"Precipitated silica","HISIL 255G",4000,
+4616,1747,"PU adhesive",BOOSTIK,2000,
+4616,1748,"Zinc oxides","Red seal",1000,
+4616,1749,"Dicumyl Peroxide",Perkadox,1000,
+2014,1750,"Ethyl Acetate",,150,"Mixing solvent adhesive"
+2014,1751,"ISO propyl alcohoal",,10,"Mixing solvent ink"
+2014,1752,"N propanol",,10,
+3230,1753,"Master batch","Master batch",2,"for colouring the products"
+25172,1754,"Kerosene and Soap",,NULL,
+16430,1755,-,Dianamate,NULL,"for blasting"
+25173,1756,HEC,,1,
+25173,1757,IPA,,2,
+25174,1758,"Kerosene Oil and Soap",,NULL,
+25173,1759,"Linear Alkryl Benzene",,50,
+25173,1760,"Hydrochloric Acid",,2,
+25173,1761,50dash,,50,
+25173,1762,Caustic,,4,
+25173,1763,"Sodium Suilphate",,10,
+1952,1764,"Costic soda",,14.4,
+4660,1765,Detergent,,2,"To service"
+1952,1766,"Borax powder",,3,
+1952,1767,"Boric acid",,6,
+3235,1768,No,,NULL,
+2564,1769,"Super boiling",SBP,8,"Glue Preparation"
+10126,1770,Dynamite,,2,
+10126,1771,"Ammonium Nitrate",,5,
+10126,1772,"Gun Powder",,1,
+2564,1773,"Point Petrol",,8,"To prepare Glue"
+16608,1774,"phosphate free bio degradable","dash car wash",10,washing
+16608,1775,"solvent free bio degradable","high power",10,washing
+16608,1776,kerosine,,1,cleaning
+13807,1777,"Ammonium Nitrate",,9.6,
+13807,1778,Dynamite,,3.2,
+13807,1779,"Black powder",,1.6,
+10666,1780,formaline,formaline,100,
+10666,1781,"KMNO 4",kondis,100,
+16969,1782,"Dolomite/one crop Season",,1500,"Maintenance to  pH level"
+2437,1783,"Calcium carbonate",,860,"cleaning Agents"
+25180,1784,Tinner,,NULL,
+25180,1785,Catlfaste,,NULL,
+2437,1786,"Sodium carbonate",,80,"Cleaning Agents"
+25180,1787,Paints,,NULL,
+3216,1788,No,,NULL,
+16971,1789,"Dolomite/one crop Season",,2000,"Maintenance to  pH level"
+2017,1790,"Titanium dioxide",Titox,60,
+14492,1791,"Amonium, Dianamid,Cap",-,2.5,Blasting
+2017,1792,"Trilion B powder",EDTA,8,
+2017,1793,"Magnisium Sulphate",Magsal,10,
+2017,1794,"Sodium silicate",Silicate,30,
+12042,1795,Soap,Naker,5,Cleaning
+12042,1796,Kerosine,,10,cleaning
+12042,1797,Hipresssure,Naker,10,cleaning
+3199,1798,No,,NULL,
+3829,1799,No,,NULL,
+16970,1800,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+16527,1801,"Anti corrosive",Multilac,8,"Painting & Protact the iron"
+16527,1802,Thinner,Epoxy,1,painting
+16527,1803,Kerosene,,0.1,Cleaning
+1279,1804,"Methyl,Ethyl Ketone",MEK,1733.3,Solvent
+1279,1805,"Low grade petrol",SBP,1666.6,
+1279,1806,"Zinc Oxide",ZNO,NULL,"Gross linking"
+1279,1807,"Magnesium oxide",,NULL,"Gross linking"
+16965,1808,"Dolomite/one crop Season",,3000,"Maintenance to  pH level"
+25193,1809,"Amonium Nitratr",,4,
+25193,1810,"water Gel",,1,
+25193,1811,Detonators,,NULL,
+13812,1812,,"Car wash",2,
+13812,1813,,"kerosine oil",5,
+16524,1814,"Anti corrosive","causeway paint",0.5,painting
+16961,1815,"Washing liquid","High Power",1,"Washing purpose"
+16524,1816,Thinner,,0.02,painting
+3316,1817,Calcium,,250,
+3316,1818,Malex,,500,
+3316,1819,L.L.D.,,18,
+25197,1820,"Amoniaum nitrate",,1,
+25197,1821,"Water Gel",,0.5,
+25197,1822,"Blak Poder",,0.25,
+3321,1823,No,,NULL,
+958,1824,"Isocyanide & polyole",,250,"Production of sole"
+958,1825,"Methylene chloride, toluene, trichlorothyene",,25,"Production of sole"
+17109,1826,Explosive,,NULL,Explosion
+17081,1827,Explosives,,4.1,Explotion
+3296,1828,No,,NULL,
+1061,1829,"Wood powder",,15,
+1061,1830,"Colcium carbonate",,10,
+1061,1831,"PVC resins",,50,
+4700,1832,Shampoo,,10,
+1919,1833,detergent,,NULL,
+1061,1834,"Impact modifire",,8,
+1061,1835,"Processing aid 7 lubricant",,7,
+16939,1836,"Dolomite/one crop Season",,10,"Maintenance to  pH level"
+4121,1837,"Car shampoo",Vindya,3,"Car wash"
+16939,1838,Lime,,14,"Maintenance to  pH level"
+18998,1839,"Tpole,Car wash","Tpole,Car wash",4,Washing
+2351,1840,"Amonium Nitrate",Amonia,2,
+16617,1841,"Anti corrosive","causeway paint",6,"prevent corrosion"
+2351,1842,Dynamite,,0.5,
+17068,1843,"High pressure",,NULL,
+3360,1844,"Iso proppolyl alcohol",IPA,4,
+3360,1845,Acetone,Acetone,1,
+3360,1846,"Caustic soda","Caustic soda",0.25,
+19001,1847,"Tpole, Car wash","Tpole, Car wash",4,Washing
+2085,1848,Cyphenothrin,Gorkilat,1,pesticide
+2085,1849,Imiprothrin,parlle,1,pesticide
+2085,1850,Fragnace,,1,"aerosol fragnance"
+25208,1851,,"car wash",NULL,
+1042,1852,Polyole,Huaffon,315,"To make sole"
+1042,1853,Catalyst,Huaffon,350,"To make sole"
+1042,1854,Hardner,Huaffon,9,"To make sole"
+1042,1855,Isocyanate,Huaffon,10,"To make sole"
+1836,1856,Amonia,,2,
+19013,1857,"Tpole, Car wash","Tpole, Car wash",3,washing
+3866,1858,No,,NULL,
+16618,1859,"Anti corrosive",,0.5,"prevent corrosion"
+16599,1860,Caco3,Lime,500,"Maintenance to  pH level. "
+16618,1861,tinner,,0.5,"mix with paint"
+16599,1862,Caco3.mgco3.10H2O,Dolomite,300,"Maintenance to  pH level. "
+16906,1863,Phenol,,NULL,
+16906,1864,Chlorine,,NULL,
+19016,1865,Ammonium,Dianamide,10,blasting
+1031,1866,"Chlorine powder",Zirus,0.01,"To sanitize vegetables"
+1031,1867,"Floor cleaner",M100,1.05,"To clean the floor"
+1031,1868,Sanitizer,Result,0.01,"To sanitize tables & equipments"
+4608,1869,"Formic acid,Acetic acid and detergent",,65,
+11783,1870,KCl,,100,Production
+19020,1871,"Tphole, Car wash",,3,washing
+3297,1872,"car wash",Dipol,3,"to wash vehicles"
+4604,1873,"Calcium carbonate resin",,600,
+16620,1874,"Anti corrosive",,10,"prevent corrosion"
+16620,1875,kerosine,,4.5,
+16795,1876,,Teepol,1,"to cleaning purpose  "
+16795,1877,,"high power ",1,"to cleaning purpose  "
+1052,1878,"Chlorine powder",Zirus,0.1,Sanitation
+25210,1879,No,,NULL,
+1052,1880,"Floor cleaner",M100,0.2,Cleaning
+1052,1881,Sanitizer,Result,0.06,Sanitation
+4676,1882,"Sodium tripoly phosphate",,NULL,
+25211,1883,,,NULL,
+4676,1884,"Sodium metasilicate",,NULL,
+4676,1885,"Potassium hydroxide",,NULL,
+942,1886,"Melamine moulding compound","Carmel chemical",NULL,"Table wares"
+25211,1887,"Ammonia Nitrate , Explosive, Water Jel",,NULL,
+942,1888,"Glazing powder",,NULL,"Grinding & polishing"
+4676,1889,"Phospheric acid",,NULL,
+4676,1890,"Sodium sulphate",,NULL,
+4676,1891,"Sodium carbonate",,NULL,
+4676,1892,"Sodium perborate",,NULL,
+4676,1893,"Sodium chloride",,NULL,
+4676,1894,"Sodium hydroxide",,NULL,
+966,1895,,"Costic soda",0.2,
+966,1896,,"Activated clay",0.2,
+16623,1897,paint,CIC,4,"painting tinkering parts"
+16623,1898,tinner,,5,cleaning
+25212,1899,No,,NULL,
+2877,1900,Shampoo,,2,"Vehicle servise"
+2877,1901,greese,,1,"Service vehicles"
+1333,1902,Polypoplyne,,NULL,
+2877,1903,Oil,,5,"Service Vehilcles"
+1062,1904,"Caustic soda",NACH,8,"Scouring & bleaching"
+1062,1905,"Hydrogen peroxide",H2O2,10,"Scouring & bleaching"
+1062,1906,"Soda ash",Na2CO3,10,"Dying (Reactive)"
+1062,1907,"Sodium sulphide",Na2SO4,40,"Dying (Reactive)"
+1062,1908,"Ammonium sulphide ",(NH4)2SO4,0.2,"Dying (Reactive)"
+1062,1909,"Acetic acid",CH3COOH,4,Neutralizing
+1062,1910,"Magnesium chloride",MgCl2,1.5,Fiinishing
+3210,1911,"Liquid soap",Dipol,1,cleaning/washing
+3210,1912,"iron phosphate",,1,"preteatment of steel"
+3869,1913,Imulsifer,Emulsifier,0.2,"to make printing mixture"
+4655,1914,,"Ecosofy 5035",NULL,
+4655,1915,,"Valumax A818",NULL,
+3869,1916,Fixer,Fixer,0.05,"to make printing mixture"
+2058,1917,Dina,,NULL,
+2058,1918,Anmonium,,NULL,
+3897,1919,No,,NULL,
+4641,1920,,Cresote,0.1,"Wood preservation"
+4641,1921,,"Furnace oil",0.1,"Wood preservation"
+1043,1922,"Imported wool dye",Lanasol,1.5,Dying
+3854,1923,No,,NULL,
+25214,1924,Bleech,,10,"For fading"
+25214,1925,Enzyme,,2,"For fading"
+2414,1926,"Calcium lignosulfanate","Bottesperse CASA",250,retarder
+2414,1927,Gluconate,,250,
+2414,1928,PNS,,250,
+4789,1929,Acetylene,,NULL,"For welding"
+4789,1930,"Refrigerenet gas",,NULL,
+3318,1931,"Calcium carbonate",,80,
+1044,1932,Surfactant,Britol,0.2,Cleaning
+3263,1933,No,,NULL,
+4644,1934,HCl,,0.02,"for titrations"
+4644,1935,"Sulphuric acid",,10,"for titrations"
+4644,1936,"Di ethyl ether",,0.04,"for extraction"
+4644,1937,"Ethyl Acetate",,0.06,"for extraction"
+3889,1938,"Dental materials and drugs",,NULL,
+25219,1939,Benzaldehyde,,0.1,
+25219,1940,"Ethyl Acetate",,0.1,
+25219,1941,"Ethyl butarate",,0.25,
+3334,1942,No,,NULL,
+5035,1943,"Engine oil","Scrvo - Lanka I.OC",20,"Oil changing"
+5035,1944,Antatertrading,Britol,5,washing
+25222,1945,Shampoo,3M,NULL,"Car washing"
+25221,1946,"Sodium Bi Sulphite chemanex",,7,"Seperation fraction and dirts"
+25221,1947,Nexobleech,,2.5,Bleeching
+25221,1948,"Fermic Acid",,6,Coagulating
+25221,1949,"Oxalic Acid",,6,Coagulating
+3333,1950,"add mixture",Adcrete,2870,
+4995,1951,Detergent,Teepol,10,Cleaning
+4995,1952,Disinfectant,"Alcohol, , cydex,betadine",1,Antiseptic
+3596,1953,"Kerosine oil",,5,
+3596,1954,"vehicle washing powder","3 M",10,
+4317,1955,"Sodium sulphite",BASF,5,
+4317,1956,"Sodium Bi sulphite",BASF,11,
+980,1957,Pancreol,,600,"Bating agent"
+25226,1958,"Dainamite, Aminia, ",,NULL,
+980,1959,"Chrom powder",,6000,"Chrom tanning process"
+4333,1960,"Alpha Amayles","Spezyme fred",10,
+4333,1961,"Gluco amyles","Distillase Asprk",10,
+3842,1962,"vehicle washing liquid","High pressure-Dash",20,"to wash vehicles"
+3875,1963,Acetic,,NULL,
+3875,1964,Thiosulphate,,NULL,
+3875,1965,Silverchloride,,NULL,
+3887,1966,No,,NULL,
+4402,1967,"Urea fomalaenphene",,50,
+3903,1968,Aquasole,,NULL,
+3903,1969,"Fixer D/F","500 g per day",NULL,
+3903,1970,"Carbolic acid",,NULL,
+3903,1971,Hardiner,,NULL,
+4344,1972,"Acitic acid",,NULL,
+1816,1973,Ammonia,,NULL,
+1816,1974,"Water Gel",,NULL,
+3852,1975,"soap liquid","nenty kem lanka limited",10,"to wash vehicles"
+3319,1976,"Calcium carbonate",,NULL,
+2646,1977,Amonia,,5,"Crush metals"
+25230,1978,"Ammonium niterate",,NULL,
+1035,1979,"Isopropyl alcohol, normal butinol, normal propyl alcohol","IPA, NBA, PA, Ethyl",15,"Printing, mixing of flexo graphi c inks"
+1579,1980,"Ammonium niterate",,0.5,
+3306,1981,No,,NULL,
+4379,1982,Amonia,,NULL,
+4379,1983,Dynamite,,NULL,
+1580,1984,"Ammonium niterate",,8,
+2599,1985,Amonia,,10,
+4408,1986,"Amonium Nitrate",,NULL,
+986,1987,Disinfectants,TCL,0.03,"For infectious waste "
+3242,1988,"Calcium carbonate",,7500,
+3242,1989,Titanium,,10,
+3242,1990,"Formalin acid",,NULL,
+986,1991,Detergent,Teepol,NULL,"For wall & floor"
+4385,1992,"Ethyl acetate",,NULL,
+937,1993,"Manufactured laboratory  reagent","Human diagnostic biorad accurey",NULL,"For laboratory testing purpose only"
+1526,1994,"Ammonium niterate",,10,
+1526,1995,"Water Gel",,2,
+3295,1996,Glysine,,10,"for chemical process and addhesive"
+3295,1997,"Caustic soda",NaOH,2,"for chemical process and addhesive"
+1784,1998,"Ammonium niterate",,NULL,
+25232,1999,"Amoniam Nitrate",,5,
+25232,2000,Dainamite,,2,
+1056,2001,"Kerosene oil",,8,
+4416,2002,"Fire salt",,NULL,
+3886,2003,No,,NULL,
+3899,2004,No,,NULL,
+3864,2005,No,,NULL,
+10149,2006,Ammonium,,10,
+10149,2007,dynamite,,2,
+10149,2008,"Service Threads rolls",,5,
+10149,2009,Deternator,,5,
+16586,2010,Caco3,Lime,370,"Maintenance to  pH level. "
+16586,2011,Caco3.mgco3.10H2O,Dolomite,25,"Maintenance to  pH level. "
+11677,2012,"Car wash",Britol,0.5,
+11677,2013,"High pressure",Britol,2.5,
+11756,2014,ANFO,,NULL,
+11756,2015,Dynamite,,NULL,
+14071,2016,,yleast,20,"increst the items"
+25240,2017,Medicine,,NULL,
+4585,2018,"Amonium Nitrate",Amonium,10,
+4585,2019,"water jel",,4,
+3207,2020,"Epoxy Phenolic Lacquer",Easen,120,
+972,2021,"Common chemicals used in analytical laboratory",,NULL,
+19092,2022,"Ammonium,black powder",Dianamide,1.5,rockblasting
+3207,2023,"P.V.C. compound","W.R. Grace",300,
+3207,2024,"Metal printed ink","DIC Lanka",8,
+3207,2025,"Aromatic solvent","Solveso 100",10,
+4418,2026,Dynamite,,NULL,
+3828,2027,"UV ink",,1,
+4409,2028,Amonia,,5,
+4409,2029,Dyna,,NULL,
+992,2030,"Methyl ethyl ketone ferroxide",catalyst,1.8,
+992,2031,Acetone,Acetone,15,
+992,2032,"Cobalt naphthalate",Accelerator,0.2,
+1500,2033,Shampoo,3M,3,
+4419,2034,Dynamite,,NULL,
+3833,2035,"Aluminium dust",,5,
+1059,2036,Hyperurete,"Millanium/ Hethong",3200,"To reduce water content in concrete"
+25246,2037,Grees,,0.5,
+25246,2038,tepol,,0.25,
+4367,2039,"Amonium Nitrate",,NULL,
+4367,2040,"water jel",,NULL,
+3273,2041,No,,NULL,
+1495,2042,"Sodium bisulphide",,5,
+1495,2043,"Formic acid",,5,
+1495,2044,"Oxallic acid",,2,
+1519,2045,Ammonium,,250,
+10632,2046,"Dynamite, aMMONIA, Detonator , Service threads",,NULL,
+3249,2047,Coolent,Aquatex,NULL,
+14530,2048,NaHCO3,Yeast,0.05,bakking
+25252,2049,No,,NULL,
+10606,2050,"sodium hydrocide",,NULL,
+3667,2051,Dye,,NULL,
+3860,2052,oil,Caltex,NULL,
+3632,2053,"Caustic soda",CKNI,25,washing
+3860,2054,"Kerosine oil",,2,
+3860,2055,Soap,,1,
+3632,2056,"Nitric acid",Indij,25000,washing
+10389,2057,"Reactive ",Ambitix,NULL,
+1514,2058,"N- butanol",,3,
+10389,2059,Naptholene,,0.25,
+10389,2060,Vat,,NULL,
+1514,2061,"Ethyl Acetate",,3,
+1514,2062,"iSO Propyl alkohol",,3,
+1514,2063,"N propanol",,3,
+10220,2064,clorine,,NULL,"for the pool"
+3880,2065,Acetone,Acetone,0.5,
+2637,2066,"Amonium Nitrate",,100,"To crush metals"
+3641,2067,"2,3 Dihydro 2,2 dimethyl 7 bensafuranyl methyle carbomate","Carbofuran 75 wp",50,"To formulate"
+3641,2068,"Polyvinyl alcohol ",Gelvitol,2.755,"To formulate sticker"
+18950,2069,,"Car wash and lubricants",2,"servicing vehicles"
+3832,2070,"Berilium Nitrate",,0.9,
+3832,2071,Sulphur,,0.5,
+3832,2072,"Aluminium powder",,0.4,
+3641,2073,"Methyl violet",Dye,0.52,"To formulate sticker"
+10375,2074,"Car wash (L)",,1,Washing
+1512,2075,Grease,Caltex,11,"for servicing"
+3838,2076,No,,NULL,
+11735,2077,Ammonium,,5,
+11735,2078,Detonater,,25,
+3626,2079,"Aluminium sulphate",,400,"For water treatment"
+3626,2080,"Caustic soda",,200,"For water treatment"
+3626,2081,"Sulphuric acid",,100,"For water treatment"
+3626,2082,"Sodium Hypochloride",,100,"For water treatment"
+3626,2083,Sodiumchloride,,100,"For water treatment"
+3627,2084,"Hydrochloric acid",,60,"To produce treated water"
+3627,2085,Sodiumchloride,,50,"To produce treated water"
+3627,2086,"Industrial salt",,10,"To produce treated water"
+3827,2087,No,,NULL,
+17366,2088,,,NULL,
+16615,2089,Ammonia,,1700,"for cooling purpose"
+3907,2090,"sodium Haxa Metaphosphate","Calagan ",1,
+3907,2091,"Sodium Benzoil","Sodium Benzoil",0.25,
+17094,2092,"Shower Shampoo",,NULL,"Washing vehicles"
+16616,2093,Ammonia,,170,"FOR COOOLING"
+16952,2094,,Phenol,NULL,Disinfectant
+3907,2095,"Pottasium Hydroxide","Caustic potash",15,
+4359,2096,"Quartenary ammonium compound","Barquart MB-80",26,
+3907,2097,"Sodium Lauryl Ether Sulphate",SLES,10,
+3907,2098,"Linear Alkyl Benzene sulfinic acid",LABSA,2,
+16621,2099,"Anti corrosive","causeway paint",9,"prevent corrosion"
+16621,2100,kerosine,,4,cleaning
+3891,2101,No,,NULL,
+18372,2102,Explosive,,NULL,
+17105,2103,"High pressure, Kerocine",,NULL,
+14261,2104,Chlorine,-,0.25,Washing
+4361,2105,"C5 resin",Promax,500,
+4361,2106,talc,Promax,36,
+14261,2107,,Harpics,0.5,Washing
+14261,2108,,"Tiles Cleaner",0.5,washing
+17102,2109,"Car Wash",,NULL,
+17102,2110,Highpressure,,NULL,
+17102,2111,Kerosine,,NULL,
+3863,2112,"Laboratory Sodium Hypochloride milton",,13,
+3863,2113,"Hibiscrub lotin",,0.07,
+3863,2114,"X-ray - ray fikar , ray developer",,8800,
+1458,2115,Formaline,,25,
+1601,2116,"Amonium Nitrate",,10,
+1601,2117,"water jel",,1.5,
+3823,2118,"high pressure",,10,
+25266,2119,Amonia,,1,
+1547,2120,Amonia,,15,
+17087,2121,Explosive,,NULL,Explosion
+3871,2122,"Citric acid",,0.3,"Katta sambol"
+3871,2123,"sodium benzoate",,0.15,"Maldive fish sambol"
+3871,2124,"Acetic acid",,0.3,"Pickles, chutney"
+3871,2125,"Mono sodium glutamate",,0.1,"Chineese chilli paste"
+5002,2126,Shampoo,Dash,3,washing
+17104,2127,Highpressure,,NULL,Washing
+17104,2128,Kerosine,,NULL,
+17104,2129,"Vehicle Oil",,NULL,
+5002,2130,"Paste ware","3 M",0.2,"Apply for protection"
+5002,2131,Compound,Autogram,1,"Remove marks"
+14302,2132,-,-,0,-
+3859,2133,No,,NULL,
+25272,2134,"Cetyl Alcohol, Stearic Acid,",,NULL,
+10423,2135,grease,,0.1,
+10423,2136,Oil,,4,
+10423,2137,"High Pressure",,1,
+25275,2138,"Liquid soap","Brytol ",1,"washing and cleaning"
+1525,2139,"Amonium Nitrate",,250,
+10382,2140,Oil,,2,
+10382,2141,Grease,,2,
+14317,2142,,tepole,5,washing
+1525,2143,"water gel",,12.5,
+3831,2144,No,,NULL,
+10422,2145,"Paint& Thinner",,NULL,
+1494,2146,Urea,,250,
+3850,2147,No,,NULL,
+3640,2148,"Base oil","150 BS J500 500 SN",150000,"Lubricants blending"
+3640,2149,Additives,"OLOA 59718",7500,"Lubricants blending"
+1496,2150,"Citric acid",,10,"food additives"
+1496,2151,"Acetic acid",,0.02,"food additives"
+3892,2152,Alum,"Aluminium sulphate",NULL,
+3892,2153,"Soda ash",,NULL,
+3892,2154,Lime,,NULL,
+3892,2155,"poly aluminium chloride",,NULL,
+1496,2156,"Sodium benzoate",,0.5,"food preservatives"
+10429,2157,Ammoniam,,1,
+10429,2158,kalubeheth,,2,
+3665,2159,"Fullers eather","Gallon v-2",200,"Remove colour"
+10429,2160,"Jelatnight (Karal)",,5,
+10429,2161,Cap,,5,
+14318,2162,,Tepole,1,washing
+3878,2163,No,,NULL,
+3778,2164,Sulphur,,0.72,"For the preparation of rubber ompound"
+3778,2165,ZnO,,0.12,"For the preparation of rubber ompound"
+10367,2166,ASSG,,NULL,"For dying"
+17095,2167,Explosives,,NULL,Explotion
+3883,2168,oil,caltex,20,
+3883,2169,chemical,Dulaksha,5,
+17089,2170,Explosive,,NULL,Explosion
+1523,2171,"water gel",,1,
+1523,2172,Ammonia,,2,
+19119,2173,lubricants,Dash,NULL,
+14319,2174,,tepole,2,washing
+3890,2175,No,,NULL,
+3834,2176,No,,NULL,
+1463,2177,Shampoo,,2,
+14366,2178,-,Yeast,0.2,Fermentation
+17093,2179,Explosive,,0.11,
+2474,2180,H2O2,"hydrogen Peroxide",600,Bleaching
+3836,2181,"Carbon Black",,NULL,
+3836,2182,"Rubber process oil",,NULL,
+2474,2183,Sulpher,"Sulpher (Dust)",85,Fungicide
+3836,2184,"Zinc oxide",,NULL,
+3836,2185,"stearic acid",,NULL,
+3836,2186,"China clay",,NULL,
+3836,2187,"Ground sulphur",,NULL,
+2474,2188,"Zink Dithio Carbonate",Dispozal,15,Dying
+3836,2189,Whilting,,NULL,
+2474,2190,"Sodium Silicate","Sodium silicate",50,Bleaching
+10420,2191,Ammonium,,10,
+10420,2192,"Jelat night",,10,
+10420,2193,Cap,,40,
+10420,2194,Kalubeheth,,2.5,
+3901,2195,No,,NULL,
+10391,2196,"Ammonium nitrate ",,0.05,
+10391,2197,"Determiners ",,2,
+10391,2198,"Dynamite ",,0.25,
+10391,2199,Kalubeheth,,0.05,
+3857,2200,No,,NULL,
+1510,2201,"Car shampoo",,1.5,
+1510,2202,Alum,,NULL,
+25285,2203,Dilunt,Mindray,0.3,
+25285,2204,Rinse,Mindray,0.15,
+25285,2205,Lyse,Mindray,0.05,
+25285,2206,"Biochemical Reagent",,0.3,
+3229,2207,"Boric acid",,1.5,"for pest  control"
+3229,2208,"Borex dust",,1,"for pest  control"
+6152,2209,,explosive,0.2,blasting
+6152,2210,,dynamite,0.5,blasting
+6152,2211,"anonium nitrate",,2,
+10378,2212,Ammonium,,10,
+10378,2213,Jelatnight,,10,
+10378,2214,kalubeheth,,1,
+10378,2215,Cap,,10,
+3664,2216,K.oil,,9,
+3664,2217,Alcohol,"Exon Mobile",11.25,
+3664,2218,"Cotton west",,7.84,
+3664,2219,"F. solution",Stabilat,1.12,
+3664,2220,"R. wash",Huber,2.75,
+3664,2221,"Auti set of powder",Microspray,0.1,
+3840,2222,,"car wash",3,detergent
+13919,2223,,Tepol,1,Washing
+3858,2224,No,,NULL,
+17092,2225,Dynamite,,NULL,
+17092,2226,Ammonium,,NULL,
+17092,2227,"Black powder",,NULL,
+1454,2228,"Car shampoo",,NULL,
+4586,2229,"Quartenary Ammonium","Barquart MB-80",30,"For disinfectant purpose"
+4586,2230,Formalin,,NULL,
+3647,2231,"Vat dyes","Vat dyes",0.2,Dying
+10437,2232,"Gun Powder",,NULL,
+3894,2233,No,,NULL,
+17456,2234,Explosives,,6.5,Explotion
+3647,2235,"Caustic soda","Caustic soda",0.4,Dying
+3647,2236,Salt,S-lt,0.4,Dying
+4336,2237,"high presuure liquid",britol,NULL,
+18383,2238,Explosive,,3.5,Explosion
+3837,2239,IPA,Sasol,3,printing
+3837,2240,NBA,Sasol,2,printing
+3681,2241,Sulphur,,0.06,
+3681,2242,ZnO,,1,
+3681,2243,M.B.T.S.,,1,
+3681,2244,"Carbon ",,20,
+10418,2245,Ammonia,,2.5,
+10418,2246,Dinamite,,5,
+10418,2247,Cap,,10,
+3682,2248,Kesoline,,500,
+3682,2249,M.B.T.S.,,5,
+3682,2250,Sulphur,,9,
+3682,2251,"Stearic acid",,12,
+3682,2252,"Zinc Oxide",,18,
+17458,2253,Explosives,,NULL,Explotion
+4387,2254,"Costic soda",,1000,
+4387,2255,"Hydrojen peroxide",,4000,
+4387,2256,"washing liquid",,1000,
+3910,2257,No,,NULL,
+25289,2258,Hominiside,,NULL,
+19037,2259,lubricants,"Lubricants T-pole",1,"wasing snd vehicle servicing"
+4412,2260,"Water jel",,2,
+4412,2261,"Amonium Nitrate",,5,
+17460,2262,"Coastic Soda","Car Wash",NULL,Washing
+17460,2263,Shampoo,Britol,NULL,Washing
+25290,2264,Hominiside,,NULL,
+3826,2265,"Dean  greaser",Britol,5,"wash  vehicles"
+3826,2266,Kerosine,Lanka,4,"wash  vehicles"
+3904,2267,Detergent,,1,cleaning
+3904,2268,"Tile cleaning solvents",,1,cleaning
+10400,2269,Ammonium,,10,
+10400,2270,Dinamite,,3,
+10400,2271,Detonators,,5,
+10400,2272,thread(roll),,8,
+16707,2273,Dianamite,"Explosive matireal",NULL,"For blasting"
+3629,2274,Retarder,"Daratard 88",100,"To retard the setting of concrete"
+3851,2275,No,,NULL,
+16699,2276,,"Dina Kakai",1.5,Blasting
+4397,2277,"Aluminium sulphate",,NULL,
+4397,2278,"Calcium hydroxide",,NULL,
+16699,2279,Amonia,-,4,Blasting
+17418,2280,,"High pressure & Shampoo",NULL,
+16701,2281,Dinamate,"Dina Kakai",1.5,Blasting
+16701,2282,Amonia,-,4,Blasting
+16700,2283,Dinamite,"Dina Kakai",2,Blasting
+16700,2284,Amonia,-,4,Blasting
+4318,2285,"Sodium sulphite",BASF,10,"To prevent storage discolouration"
+4318,2286,"Sodium sulphite",BASF,2.2,"Anti coagulant"
+4318,2287,"Oxalic acid",BASF,1.5,Coagulation
+3881,2288,"High pressure",Britol,5,
+4688,2289,"E/size powder",,4.16,
+3868,2290,Detergent,"Diva, Rinso",0.5,"wash clothes"
+3868,2291,Lisol,Lisol,0.1,"floor cleaning"
+3868,2292,"Laboratory chenmicles","Jhonson & Jhonson, Human",0.05,"lab tests"
+16759,2293,,"paint ",12,"to "
+11922,2294,phenol,,NULL,
+11922,2295,,Hipressure,NULL,
+3468,2296,No,,NULL,
+18351,2297,Dynamite,,NULL,
+18351,2298,Ammonium,,NULL,
+18351,2299,"Black powder",,NULL,
+3313,2300,Thinner,"Asian paints",6,"for painting"
+3771,2301,Teepol,,20,"Washing & cleaning"
+18350,2302,"Gun Powder",,NULL,
+17420,2303,"Car wash, High pressure",,NULL,
+10388,2304,Dinamite,,0.2,
+10388,2305,kalubeheth,,0.1,
+10388,2306,Ammonium,,0.5,
+3287,2307,"Ferric chloride","Ferric chloride",2,Engraving
+25299,2308,,teepol,NULL,
+25299,2309,,greece,NULL,
+18384,2310,Explosives,,NULL,Explotion
+3205,2311,No,,NULL,
+17449,2312,Explosives,,NULL,Explotion
+4989,2313,"Tropical chloride of lyme, Teepol, Cydex",,NULL,"For disinfect & cleaning"
+4989,2314,"Formaline, Xylene, methanol, pictic acid",,NULL,"Path lab"
+3253,2315,No,,NULL,
+18887,2316,thinner,thinner,0.5,painting
+5004,2317,Disinfectants,"Pinc oil",NULL,
+3219,2318,No,,NULL,
+5004,2319,"Lab chemicals",,0.03,"For testing "
+5004,2320,TCL,,2,"To decontaminate"
+18389,2321,Explosives,,NULL,Explotion
+10399,2322,"Gun Powder, Ammonia, Caps, service threads, Dina",,NULL,
+25304,2323,Dynamite,,NULL,
+25304,2324,Ammonium,,NULL,
+10401,2325,galbeheth,,NULL,
+10401,2326,"Service thread (m)",,NULL,
+10401,2327,Ninamite,,NULL,
+10401,2328,Detanators,,NULL,
+10401,2329,"ammonium nitrate ",,NULL,
+3255,2330,No,,NULL,
+10364,2331,Ammonia,"Ammonium Nitrate",1250,blasting
+10364,2332,"Kata beheth","Gun Powder",0.5,blasting
+10364,2333,Dynamite,Dyna,0.6,blasting
+10364,2334,Cap,Deternators,1,blasting
+3192,2335,No,,NULL,
+10364,2336,"Service threads (feet)",,30,blasting
+3689,2337,HDPE,Marlex,50,
+3689,2338,LLDPE,,1600,
+3825,2339,"Nickle salt",,2,
+3825,2340,"Magneseum Oxide",,10,
+25307,2341,No,,NULL,
+25308,2342,"Amonium Nitrate",,20,
+25308,2343,Dinamite,,10,
+25308,2344,"Black Powder",,6,
+25308,2345,detonators,,40,
+2708,2346,Amonium,Amonium,5,
+2708,2347,Dainamite,Dainamite,1,
+3893,2348,No,,NULL,
+3624,2349,"Sdium acid pyro phosphate","Antilope powder",10,"Chemical leavenar"
+3624,2350,"Sodium benzoate","Benzoic acid",0.2,"Food preservation"
+3624,2351,"Calcium propionol","Propromic acid",10,"Bread preservation"
+3624,2352,"Sodium bicarbonate","Baking soda",2,Neutralization
+3624,2353,"Ascorbic acid","Vitamin C",0.5,"Flour inprover"
+17450,2354,Gelatine,,NULL,
+18365,2355,"High pressure, Car wash",,NULL,
+17450,2356,Colourine,,NULL,
+17450,2357,Flavors,,NULL,
+17457,2358,Expplosive,,3.75,
+10362,2359,"Grease oil",,NULL,
+3888,2360,No,,NULL,
+3843,2361,"vehicle washing liquid",Britol,5,
+25311,2362,Tripol,,NULL,
+18354,2363,"Gun powder",,NULL,
+18354,2364,Dynamite,,NULL,
+3874,2365,No,,NULL,
+3637,2366,"Aluminium sulphate",Alum,5000,"For purification & disinfection"
+3637,2367,"Cacium hydroxide",Lime,3200,"For purification & disinfection"
+3637,2368,"Chlorine gas",Chlorine,1530,"For purification & disinfection"
+3830,2369,No,,NULL,
+3766,2370,"Soda ash",,15000,
+3766,2371,"Caustic soda",,12000,
+3844,2372,"soap liquid",Britol,7,
+3766,2373,"Chlorine bleach",,30000,
+2635,2374,"Amonia ",,50,
+2635,2375,Dainamite,,20,
+3846,2376,No,,NULL,
+3885,2377,No,,NULL,
+4050,2378,,"Blank 600",0.4,
+19063,2379,,"T-pole,Car wash",0.5,"servicing vehicles"
+4050,2380,,"Lac 60",0.4,
+4050,2381,"Rubber white",ERW,0.7,
+4050,2382,,"235 MC",0.4,
+18715,2383,"Amonium Nitrate, ","Detanator, Survice Threads",NULL,"Blasting "
+3841,2384,"High pressure",Goal,20,"to wash vehicles"
+17366,2385,Dash,,NULL,
+17366,2386,Highpressure,,NULL,
+19068,2387,,"Car wash and T-pole",0.5,"washing and servicing"
+25322,2388,"Ammonium ",,5,
+25322,2389,gunpowder,,NULL,
+25322,2390,dynamite,,1,
+3845,2391,No,,NULL,
+18714,2392,Explosives,,NULL,Explotion
+17364,2393,Ammonium,,0.1,"For Explosion"
+3615,2394,Acetone,MERK,2,"Analysis of RM & FP"
+3615,2395,Ammonia,MERK,0.5,"Analysis of RM & FP"
+3615,2396,"Crystal violate",MERK,0.002,"Analysis of RM & FP"
+16672,2397,chlorine,"bleaching powder",100,disinfection
+16672,2398,dolamite,,1000000,"adjust soil & water ph"
+18722,2399,Explosives,,2,Explotion
+25325,2400,No,,NULL,
+16674,2401,"calcium carbonate",lime,300,disinfection
+16940,2402,,Disinfectant,NULL,"disinfect the equipments "
+16674,2403,"calcium magnicium carbonate",dolomite,800,"adjust soil & water Ph"
+18702,2404,Explosives,,3.25,Explotion
+17362,2405,Explosive,,5.2,Explosion
+14536,2406,Nil,Nil,0,Nil
+25326,2407,"Yeast and colourings",,NULL,
+17361,2408,"Car Wash",,0.5,"washing "
+3845,2409,"Caustic soda",,0.2,
+10291,2410,"Gunpowder, ",,0.3,"For blasting"
+3873,2411,No,,NULL,
+16717,2412,,"High power  (Dash)",1.5,"To remove oil & grease  "
+16717,2413,,Tepol,1.5,"To wash & remove oil & dirt"
+25331,2414,detergent,"surf exel",3,cleanind
+25331,2415,detol,,NULL,disinfection
+10305,2416,"High pressure",,5,"To remove mud"
+10305,2417,Shampoo,,1,Washing
+3882,2418,No,,NULL,
+18718,2419,Explosives,,NULL,Explotion
+19060,2420,Ammonium,Dianamide,2,"rock blasting"
+18721,2421,Explosives,,NULL,Explotion
+25336,2422,detergent,"surf exel",3,cleaning
+17359,2423,Highpressure,,NULL,
+3896,2424,No,,NULL,
+14532,2425,Nil,Nil,0,Nil
+16895,2426,,"Real car wash",8,"to wash "
+16895,2427,,"Real high pressure cleaner",0.88,"washing purpose"
+25345,2428,No,,NULL,
+14539,2429,"Car wash, High Power",-,3.5,washing
+25349,2430,"Stain remover","spot lifter",0.1,"Removing fabric stain"
+14534,2431,"Ammonium, Dianamid, Cap",-,4.5,Blasting
+16907,2432,,Dash,0.6,"to wash oil & dirt fro the vehicles"
+3645,2433,"Sulpuric acid",,0.5,"Milk testing"
+3645,2434,"Amyl alcohol",,0.05,"Milk testing"
+3645,2435,"Ethyl alcohol",,0.6,"Milk testing"
+3645,2436,"Nitric acid",,20,Cleaning
+3645,2437,"Sodium hydrocside",,20,Cleaning
+3645,2438,Chlorene,,4,Cleaning
+3645,2439,"Hydrogen peroxide",,10,Sterilizing
+3898,2440,"vehicle washing liquid","3M / auto glami / mawoglemi",50,
+10297,2441,Dynamite,"3 pecies",NULL,
+10297,2442,"Service thread  pecies",,1,
+10297,2443,Cap,,3,
+10297,2444,ammonia,,1,
+3912,2445,No,,NULL,
+3280,2446,No,,NULL,
+3614,2447,"Solvent IPA & NBA",IPA,NULL,"For mixing of ink"
+14375,2448,"Car  Wash",,0.005,washihg
+3657,2449,Snowcal,CaCO3,2.5,
+3657,2450,,Keolin,0.5,
+3657,2451,,Sulphur,0.45,
+4986,2452,Urea,,NULL,"to make liquid fertilizer"
+4986,2453,"Muriate of potash  (MOP)",,NULL,"to make liquid fertilizer"
+4986,2454,"Triple super phosphate  (TSP)",,NULL,"to make liquid fertilizer"
+3613,2455,"Solvant IPA, NBA",IPA,8,"For mixing of ink"
+4852,2456,"Sodium Chloride",,5,"for cleaning Diamonds and pots"
+4852,2457,"Sulfuric acid",,1,"for cleaning Diamonds and pots"
+4852,2458,"Hydrocloric acid",,5,"for cleaning Diamonds and pots"
+4852,2459,"Borax powder",,5,"for cleaning Diamonds and pots"
+4852,2460,"Pottassium Nitrate",,0.5,"for cleaning Diamonds and pots"
+4852,2461,"Wine spirit",,4,"for cleaning Diamonds and pots"
+4852,2462,"Meethail alcohol",,4,"for cleaning Diamonds and pots"
+4824,2463,"Penet oil",caltex,300,"to avoid rusting"
+4824,2464,"High pressure  oil",,20,"to clean vehicles"
+3639,2465,"Posolith 300R","Posolith 300R",300,"Postpone hardening"
+4854,2466,"white dye",,0.055,"for colour"
+4854,2467,"carbon black",,NULL,"for colour"
+18336,2468,Highpressure,Nacre,0.25,
+18336,2469,Shampoo,Nacre,0.5,
+18294,2470,"Paints,  Polish,  Oxygen,  Asetelin",,NULL,
+4910,2471,"Sodium bi carbonate",,NULL,
+4910,2472,"Mono amonium Phosphate",NH4H2PO4,25,
+18314,2473,Highpressure,Flash,0.1,
+18314,2474,Shampoo,Flash,0.1,
+25372,2475,Dinomite,,0.75,"For blasting"
+25372,2476,"Gun powder",,0.4,"For blasting"
+25372,2477,"Service thread (m)",,1,"For blasting"
+25372,2478,"Dtanators, ",,1,"For blasting"
+25372,2479,"ammonia nitrate",,1,"For blasting"
+25373,2480,"Soap, Kerocine",,NULL,
+25378,2481,paints,,NULL,
+25378,2482,thinner,,3,"for painting"
+25378,2483,terpentine,,1,"for painting"
+1462,2484,"Sodium bisulphate",,15,"Prevent discolouration"
+4812,2485,"R.M. 60","German shampoo",2,
+4812,2486,"Car shampoo",Dash,2,
+4816,2487,Detergent,3M,NULL,
+4821,2488,Detergent,,0.5,"for cleaning"
+18295,2489,Highpressure,"Sango Oil",0.25,
+3683,2490,,Soaps,NULL,
+4957,2491,,"Bakin powder",0.5,
+4957,2492,,Ajinamoto,0.5,
+3684,2493,"Wood preservatives",CIC,1.5,
+25384,2494,"Soap, Kerocine",,NULL,
+18253,2495,"Car Wash",Neo,NULL,
+18253,2496,Highpressure,Neo,NULL,
+4826,2497,"sodium meta bi sulphite",S.M.B.,5,preserving
+4855,2498,"high pressure",,4,
+10346,2499,"liquid Ag",,NULL,
+25387,2500,"Amoniam Nitrata",,0.5,
+25387,2501,"Black Powder",,0.25,
+25387,2502,Dinmait,,0.2,
+10321,2503,"Sodium by carbonate ",Soda,9,
+10321,2504,"Ammonium bi carbonate","Ammonia ",2,
+10321,2505,"Sodium benzoate  ",,0.2,
+4856,2506,No,,NULL,
+4839,2507,No,,NULL,
+4851,2508,No,,NULL,
+5027,2509,"Laundry chemicals",,NULL,
+4680,2510,"Chlorine Tablets",,0.01,"To sanitize vegetables"
+4680,2511,"Floor Cleaner",,0.98,"To clean the floor"
+4680,2512,Sanitizer,,0.01,"To sanitize tables and equipments"
+25394,2513,kerosine,,NULL,
+25394,2514,"Shampoo ",,NULL,
+25396,2515,"Amonam Nitrrate",,2,
+25399,2516,"Pottasiunm metabisulphate ",,0.4,"As a preservative"
+25399,2517,"Sodium benzoate",,0.2,"As a preservative"
+25399,2518,"Citric acid",,21,"As an acidulant"
+4103,2519,Enzyme,,15,"Enzyme effect"
+4817,2520,No,,NULL,
+25399,2521,Detergents,Teepol,5,Washing
+4103,2522,"Black dye",,10,"Black colouration"
+4103,2523,Softner,,5,
+25399,2524,"Sodium hydroxide",,25,"Wasete water treatment plant"
+25399,2525,"Trisodiunm phosphate",,1,"Wasete water treatment plant"
+25400,2526,Shampoo,,0.5,
+25400,2527,kerosine,,3,
+18319,2528,"Tiner, Cataloy,Paints",,NULL,
+4822,2529,"car wash",Britol,NULL,
+3690,2530,Admixture,POLOLITH,600,"To retard & the harden the concrete"
+4846,2531,No,,NULL,
+25408,2532,Admixture,POLOLITH,600,"To retard & the harden the concrete"
+25411,2533,"Amoniam Nitratr",,1,
+25411,2534,"Water gel",,0.5,
+25411,2535,"Black Powder",,0.1,
+1520,2536,"Sodium sulphite",,0.125,
+1520,2537,"Formic acid",,0.45,
+1520,2538,"Sodium bisulphite",,0.5,
+4838,2539,No,,NULL,
+4813,2540,"Hydro cloric acid",HCL,0.1,"For dying accessories"
+4813,2541,"Iso propyl alcohol",IPA,0.25,"for cleaning"
+4813,2542,"Carbolic acid",Carbolic,0.25,"for cleaning"
+4813,2543,,"pigment dye",2.5,Printing
+4813,2544,,"Rubber paint",2.5,Printing
+4820,2545,"Daratard 205 L","Daratard ",15,"to control  settings of cement"
+18303,2546,"High pressure, Shampoo",,NULL,
+4853,2547,"chlorine powder",Zirus,0.015,"to sanitize vegetables"
+4853,2548,"Floor Cleaner","M 100",1.25,"To clean the floor"
+4853,2549,sanitizer,Result,0.02,"to sanitizetables and equipments"
+10598,2550,dynamite,,1,
+10598,2551,"ammonia nitrate",,2,
+10598,2552,"Detanators, ",,10,
+10598,2553,"gun powder",,0.3,
+4819,2554,No,,NULL,
+4860,2555,"Ferric chloride",,1.7,
+4860,2556,"sulfuric acid",,0.2,
+4860,2557,"Hydro cloric acid",,NULL,
+4832,2558,shampoo,Britol,1,
+10712,2559,"High Pressure",,10,
+10712,2560,"Lubricant Oil",,8,
+10712,2561,"Kerosene oil",,5,
+18296,2562,Highpressure,Dash,NULL,
+18296,2563,Soap,C.N.P,NULL,
+10586,2564,Dynamite,,0,
+3330,2565,No,,NULL,
+3654,2566,Polyol,"Dow 3010",100,Garments
+3654,2567,"Toluene D1 isocyanate","Dow T80",80,Upholestring
+3654,2568,Amines,"Niax 107",50,"House hold cleaning"
+3654,2569,"Silicone ","Niax 107",50,"Hose hold cleaning"
+3654,2570,"Methylene chloride","L 580",50,"Hose hold cleaning"
+18236,2571,paint,,NULL,
+18236,2572,Tiner,,NULL,
+10496,2573,"Dynamite karal",,5,
+10496,2574,"ammonia nitrate",,2.5,
+10496,2575,"Kalu beheth",,0.25,
+10496,2576,Detanators,,5,
+10496,2577,"Service thread (feet)",,30,
+25430,2578,"Amonium hydroxide ","Liquid Amonia",2.5,"Wetting agent"
+9285,2579,detergents,Britoal,NULL,
+25430,2580,"Diron ","Torysan S 89",2.5,"Dry film preservative agent for paints"
+25430,2581,"Non ionic derivatives","Wettem 9938",8,"Wetting agent"
+10493,2582,Shampoo(L),Britol,0.5,"remove Mud"
+10493,2583,"High pressure (L)",Britol,0.5,"Remove Mud"
+3902,2584,No,,NULL,
+10506,2585,dynamite,,1,"For blasting"
+10506,2586,"ammonia nitrate",,2,"For blasting"
+10506,2587,"Dtanators, ",,5,"For blasting"
+10506,2588,"gun powder",,0.2,"For blasting"
+10506,2589,"Service thread (m)",,30,"For blasting"
+4149,2590,SLES,,2.6,"Primary Surfactant"
+4149,2591,"SoftCAT Polymer",,1.6,"Skin Conditioner"
+4149,2592,"Cetyl alcohol",,1.5,Emulsifier
+4149,2593,"Stearic acid",,1,Emulsifier
+4149,2594,Glycerine,,1.5,Mosturizer
+10518,2595,"ammonia nitrate,dynamite",,NULL,
+4149,2596,EDTA,,0.5,"Chelating agent"
+4149,2597,"Propylene glycol",,0.5,Solvent
+2712,2598,"Dash Wash ",Dash,0.5,
+2712,2599,"High Power ",Dash,5,
+3895,2600,No,,NULL,
+10502,2601,"ammonia nitrate,dynamite,gun powder,detenators",,NULL,
+10505,2602,"gun podwder",,0.15,
+10505,2603,"Service thread (m)",,0.25,
+10505,2604,"dynamite karal",,2,
+10505,2605,"ammonia nitrate",,0.2,
+10511,2606,"water gel",,1.5,
+10511,2607,"gun powder",,0.2,
+10511,2608,detenators,,10,
+10511,2609,"Service thread (m)",,15,
+10511,2610,"ammonia nitrate",,5,
+3602,2611,Aceton,,0.04,
+18289,2612,Paint,"Cause way",NULL,
+18289,2613,Thinner,,NULL,
+10530,2614,Dynamite,,10,Blasting
+10530,2615,"Gun powder",,5,Blasting
+10530,2616,"Service thread (m)",,50,Blasting
+10530,2617,"Dtanators, ",,12,Blasting
+10530,2618,"ammonia nitrate",,25,blasting
+3204,2619,paints,,NULL,
+10515,2620,Dynamite,,4,
+10515,2621,"ammonia nitrate",,1.5,Blasting
+10515,2622,"service Threads (m)",,15,
+10515,2623,Cap,,2,
+10507,2624,"used as pescribed in the lisence",,NULL,
+3202,2625,No,,NULL,
+10494,2626,Dynamite,,0.5,Blasting
+10494,2627,"Service threads (feet)",,30,blasting
+25438,2628,NO,,NULL,
+3337,2629,Degreaser,Britol,0.2,cleaning
+3337,2630,"Auto cream",Britol,0.2,"Body cleaning"
+3337,2631,"Soap (car wash)",Britol,0.5,"Vehicle body wash"
+3337,2632,"Engine oil ","D.S. 40/super plus  S.A. E. 40",10,"Refilling of Engine"
+3337,2633,Kerosine,,1,"washing parts"
+10503,2634,"ammonia nitrate",,3,
+10503,2635,"kalu beheth",,1,
+10503,2636,"Dynamite ",,2,
+3271,2637,No,,NULL,
+3237,2638,Acetone,SASON,15,"for painting"
+10524,2639,"gun powder",,6.8,blasting
+10524,2640,"ammonia nitrate",,51.4,blasting
+10524,2641,"Service thread (m)",,274,blasting
+10524,2642,Deternators,,17,blasting
+10524,2643,"Dynamite ",,13.7,blasting
+4857,2644,No,,NULL,
+10532,2645,"gun powder",,500,
+10532,2646,"water gel",,1,
+10532,2647,"ammonia nitrate",,2,
+10536,2648,"lime powder",,NULL,
+10536,2649,EM,,1,
+10533,2650,"gun powder",,0.15,
+10533,2651,deternators,,3,
+10533,2652,"ammonia nitrate",,0.75,
+10533,2653,"Service thread (m)",,6,
+10533,2654,"water jel",,3,
+4815,2655,"Calcium Carbonate",,1419.05,
+4815,2656,"Hexylene Glycol",,100.46,
+4815,2657,"Mono Ethylene Glycol",,309.9,
+4815,2658,"PEGASOL 3040",,211.12,
+4815,2659,"Tittanium dioxide",,1954.6,
+4815,2660,"Calcium Corbonate",,1154.71,
+25446,2661,Ammonia,,0.5,
+25447,2662,"Ammonia Nitrate ",,15,
+4849,2663,"Acidfant  Baith ",,NULL,
+4849,2664,"Ferrous sulphuric acid",,NULL,
+25447,2665,"Water jel ",,3,
+4858,2666,"Car shampoo",Britol,2,
+25448,2667,"Ammoniam nitrate, Dynamite , Service thread, Kalubeheth.",,NULL,
+25449,2668,"Ammonia Nitrate ",,15,
+25449,2669,"Water Jel",,3,
+25450,2670,kalubeheth,,0.1,
+25450,2671,"Dynamite ",,0.2,
+25450,2672,"Service thread (m)",,10,
+4657,2673,Detergent,,5,"Wash vehicles"
+3317,2674,No,,NULL,
+3900,2675,No,,NULL,
+3329,2676,"Chlorine (Disinfect treated water)",,NULL,"to disinfect the treated water"
+3906,2677,no,,NULL,
+25454,2678,"Acid, Vine sprit , Coastic, salt",,NULL,
+10697,2679,"ammonia nitrate",,2,Blasting
+10697,2680,"gun powder",,0.5,Blasting
+10697,2681,"Dynamite ",,1,Blasting
+10679,2682,"Car wash per 1 three wheel",,1,
+9334,2683,"Dainamaite,Amoniam",,NULL,
+10681,2684,"Dyna, service threads, ammonia, black powder",,NULL,
+10562,2685,"ammonia nitrate",,0.2,
+10562,2686,"Dynamite ",,1,
+10562,2687,deternators,,5,
+10562,2688,"Service thread (kerali)",,1,
+4850,2689,No,,NULL,
+25456,2690,"water jel",,1,
+25456,2691,"kalu beheth",,0.01,
+25456,2692,"ammonia nitrate",,2,
+25456,2693,"Service thread (rolls)",,2,
+10043,2694,Pozoolipn,"B.A.St 400",9.6,
+10034,2695,Explosive,,NULL,
+10034,2696,"Water Gel",,NULL,
+14621,2697,"Ammonium Nitrate",,5,Blasting
+14621,2698,Dynamite,,2,Blasting
+14631,2699,Carbide,,1,Tinkering
+25460,2700,"Blasting materials",,NULL,
+10307,2701,"Engine oil",Caltex,4,
+10307,2702,"Grease ",Caltex,250,
+10307,2703,"High pressure",dash,500,
+10287,2704,"Dynamite ",,0.5,
+10287,2705,"ammonia nitrate",,2.5,Blasting
+10287,2706,"Gun Powder",,0.2,
+10287,2707,"Service thread codes",,1,
+14622,2708,Ammonium,,15,Blasting
+14622,2709,Dianamid,,8,Blasting
+14622,2710,"Black powder",,2.5,Blasting
+14635,2711,"Car Wash",,2,"Wahing Vehile"
+14623,2712,Ammonium,,10,Blasting
+14623,2713,Dynamite,,5,Blasting
+14623,2714,"Black powder",,2,Blasting
+14615,2715,Carbite,-,1,Welding
+14636,2716,"Car Wash",,1,"Washing Vehicle"
+14633,2717,"Car Wash",,0.5,"Washing Vehicle"
+14633,2718,"Dash Powder",,1,"Washing Vehicle"
+10276,2719,"ammonia gas",,NULL,"for freezing water"
+10295,2720,"gun powder",,0.5,
+10295,2721,"ammonia nitrate",,2.5,
+10295,2722,"Dynamite ",,1,
+10295,2723,"Service thread (m)",,1,
+10295,2724,deternators,,5,
+10282,2725,"gun powder",,0.2,blasting
+10282,2726,"water gel",,1,blasting
+10282,2727,deternators,,5,blasting
+10282,2728,"ammonia nitrate",,2,blasting
+10284,2729,"Service thread (m)",,10,
+10284,2730,"ammonia nitrate",,10,
+10284,2731,"Dynamite ",,10,
+25465,2732,oxygen,,NULL,
+25469,2733,"high pressure","greeth pull",5,"for washing"
+25469,2734,oil,save,10,"for washing"
+25471,2735,farafin,,5,
+25471,2736,salt,,1,
+25471,2737,"coastic soda",,0.2,
+25471,2738,"batik nepthol & dye",,0.5,
+10641,2739,thinner,CIC,3,
+10641,2740,paints,CIC,1,
+9327,2741,"ammonium, Dynamite",,NULL,
+3879,2742,Solvents,IPA,3,"For diluting"
+3879,2743,Solvents,NBA,1,"For diluting"
+3276,2744,"Rubber emulsion paste","WT 200/CE",50,"used for printing on fabric panels"
+3276,2745,"Pigment ink","Print perfect LC 40",6,"used for printing on fabric panels"
+3276,2746,"Cross Linking aqent (fixer)","Fixer DF",2,"used for printing on fabric panels"
+14626,2747,Ammonium,,7,Blasting
+14626,2748,Dianamid,,4.5,Blasting
+14624,2749,Ammonium,,2,Blasting
+14624,2750,Dianamid,,0.5,Blasting
+14607,2751,N/A,,NULL,
+14629,2752,Nil,,NULL,Nil
+14625,2753,Ammonium,,2,Blasting
+14625,2754,Dianamid,,0.5,Blasting
+14613,2755,Nil,,NULL,Nil
+33,2756,"Poly Propline/ Poly Esterine",,2000,
+9305,2757,"Amonium, ",,NULL,
+25498,2758,"perl glue",,100,
+25498,2759,floor,,100,
+10662,2760,Tpol(l),,1,
+10633,2761,,,NULL,
+10637,2762,thinner,,8,"to disolve paint"
+10637,2763,paint,,5,"for painting vehicles"
+10637,2764,catloi,,1,"for repair vehicles"
+25508,2765,Tihinner,,NULL,
+25508,2766,Paint,,NULL,
+10646,2767,"LAVSA , Coastic soda, Sodium Salfate,,H.E.C, E.DTA, S.LE,S, Sodium Chloride,TORGITOL, HCL , Q Ammpnia, IPA Surgical sprit, Cinnamon, Cirus, Sandlwood, Oil, Jesmine, Orchid,Apple, Strawberry Essence, ",,NULL,
+25511,2768,Thinner,,0.25,
+25511,2769,Carbide,,0.25,
+25517,2770,"Oxygen ",,NULL,
+25517,2771,Acetylene,"  ",NULL,
+25517,2772,"Spray paint",,NULL,
+10644,2773,Thinner,,10,"Painting Vehicals"
+25528,2774,Thinner,,NULL,
+25528,2775,Paint,,NULL,
+10648,2776,Tipole,,0.75,
+10648,2777,"Rial car wash",,0.5,
+10626,2778,"high pressure",,1,"washing vehicles"
+10188,2779,"high pressure, car wash",,NULL,
+10172,2780,"Service treads (M)",,30,Blasting
+10172,2781,Dynamite,,1,Blasting
+10172,2782,Caps,,1,Blasting
+10195,2783,"gun powder",,0.25,
+10195,2784,"Service thread (m)",,30,
+10195,2785,"ammonia nitrate",,3,
+10195,2786,"Dynamite ",,0.8,
+10202,2787,"Dynamite ,kalu beheth,ammonia,,service threads",,NULL,
+9310,2788,"Ammonium , Detonetor,",,NULL,
+10171,2789,"Service thread (m)",,10,"For blasting"
+10171,2790,Gunpowder,,0.1,"For blasting"
+10171,2791,"Dynamite ",,1,"For blasting"
+10171,2792,Cap,,1,"For blasting"
+10171,2793,"ammonia ",,2,"For blasting"
+25556,2794,"ammonia nitrate,service thread ,,cap,kalubeheth",,NULL,
+10204,2795,"Car wash, high pressure, oil",,NULL,
+19658,2796,"Dissel, Gun Powder, Dinamite",,NULL,Quarry
+14533,2797,Nil,Nil,0,Nil
+9292,2798,"Dynamite, Ammonium",,NULL,
+9365,2799,"Glucose, Distill Water",,NULL,
+10189,2800,dynamite,,0.3,"for blasting"
+10189,2801,"Ammonium nitrate",,2,
+10189,2802,kalubeheth,,0.3,
+10189,2803,"service thread",,NULL,
+10189,2804,cap,,1,
+10211,2805,"Coastic soda","Coastic soda",0.65,
+10211,2806,S.T.P.P,,0.65,
+10211,2807,,Labsa,1.6,
+10211,2808,"Iso propyl alchol",IPA,0.5,
+14535,2809,Nil,Nil,0,Nil
+25585,2810,E300,"Ascorbic acid",0.4,
+25585,2811,E1520,"Propylene glycol",1.5,
+25585,2812,E472,Monodigysaride,3,
+24424,2813,Nil,Nil,0,Nil
+10209,2814,"Dynamite ",,5,Blasting
+10209,2815,Caps,,10,Blasting
+10209,2816,"Service thread meters",,20,
+10209,2817,"Ammonium ",,1,Blasting
+10209,2818,"Kalu beheth",,0.05,
+10166,2819,Ammonium,,2.5,Blasting
+10166,2820,Dyna,,5,Blasting
+10166,2821,"Kalu beheth",,2.5,Blasting
+10190,2822,metal,,NULL,
+25595,2823,Dinamite,,0.1,
+25595,2824,"Amoniam Nitrate",,0.5,
+25595,2825,"Black Powder",,0.1,
+10170,2826,Gunpowder,,0.1,
+10170,2827,"Service thread (m)",,10,
+10170,2828,"Dynamite ",,1,
+10170,2829,cap,,NULL,
+10170,2830,"ammonia nitrate",,2.5,
+25598,2831,Gunpowder,,0.1,blasting
+4182,2832,thiner,,2,
+25611,2833,Gunpowder,,0.1,blasting
+25598,2834,"Service thread (m)",,10,BLASTING
+25598,2835,"Dynamite ",,1,BLASTING
+25598,2836,cap,,NULL,BLASTING
+25598,2837,"ammonia nitrate",,2,BLASTING
+4290,2838,"Chloring powder",Zirus,0.01,"Sanitige vegetables"
+25618,2839,"Sodium bisulphite",,10,
+25618,2840,Nexobleach,,2.5,
+25618,2841,"Formic Acid",,4,
+25618,2842,"Oxalic Acid",,6,
+10201,2843,"E.M Super","Anim EM Super",NULL,"control bad odor"
+25620,2844,"Dynamite ",,0.8,
+25620,2845,"ammonia nitrate",,4,
+25620,2846,kalubeheth,,0.1,
+9283,2847,"Amonia, TMTD, Sulfuric",,NULL,
+10206,2848,"Gun powder",,0.1,
+10206,2849,"water jel",,0.7,
+10206,2850,"ammonia nitrate",,0.3,
+25635,2851,Cougulentor,,2.5,
+25635,2852,P.H+(L),,0.75,
+10186,2853,"Dynamite, Gun powder, Deternator, ammonium nitrate",,NULL,"For blasting"
+25637,2854,"High Pressure",,NULL,
+25638,2855,"gun powder",,0.31,
+25638,2856,"service threads",,13.3,
+25638,2857,dynamite,,0.8,
+25638,2858,deternators,,8,
+25638,2859,"ammoniam nitrate",,4,
+25640,2860,"Bathik dye",Napthol,0.2,"Cloth dye and wak"
+25639,2861,"Citric acid, Fumaric acid, Malic acid",,15,"Food addive for jelly /pudding preservatives"
+25639,2862,"Sodium bicarbonate",,NULL,
+25639,2863,"Potassium sobate",,0.75,
+25648,2864,"Gun Powder,",,0.1,Blasting
+25649,2865,"gun powder",,0.1,blasting
+25649,2866,"service threads(m)",,10,blasting
+25649,2867,gynamite,,1,blasting
+25649,2868,cap,,1,blasting
+25649,2869,ammonium,,2,blasting
+1912,2870,"Amonium ",,NULL,
+25654,2871,Gunpowder,,0.1,Blasting
+25654,2872,"Service thread (m)",,10,Blasting
+25654,2873,"Dynamite ",,1,Blasting
+25654,2874,"ammonia nitrate",,2,Blasting
+25654,2875,cap,,1,Blasting
+25659,2876,Gunpowder,,0.1,Blasting
+25659,2877,"Service thread (m)",,10,Blasting
+25659,2878,"Dynamite ",,1,Blasting
+25659,2879,cap,,1,Blasting
+25659,2880,"ammonia nitrate",,2,Blasting
+25662,2881,Sulphur,,1.2,
+25662,2882,TMTD,,0.6,
+25661,2883,,,NULL,
+9284,2884,"sulfur,","Sulfur, P.V.I, T.B.B.S",NULL,
+19573,2885,EBT,"D - trans allethrin",10.4,
+10028,2886,"Sulpiuric Acid",,100,
+10028,2887,"Sodium Carbonate",,100,
+9282,2888,"Sodium Benzoate, Citric Acide, Sodium Citrate",,NULL,
+4492,2889,,,NULL,
+4559,2890,,,NULL,
+2131,2891,"Amoniyam Naitrat",,2,
+2131,2892,"water jel",,500,
+2131,2893,detanetors,,4,
+2131,2894,,,NULL,
+19560,2895,"Dye,Salt, Hydogen peroxide,Sodium,Costic soda",,15,
+4540,2896,"High presher",American,2,
+4480,2897,Vitamins,,50,
+3131,2898,Dainamaite,,0.5,
+25683,2899,Naitetrajan,,NULL,
+25685,2900,NA,,NULL,
+3086,2901,"Hedum karaka",,NULL,
+3108,2902,,,NULL,
+19525,2903,,Ammoilast,NULL,
+2147483647,2904,"Lubricant Oil",Caltex,5,
+25694,2905,"Detergents Used",,NULL,
+2762,2906,,,NULL,
+2166,2907,Amonia,,NULL,
+10319,2908,"Dynamite, Kalu Beheth, Service thread, Ammonium, Deternators",,NULL,"For blasting"
+2777,2909,NA,,NULL,
+19594,2910,"paraffin oil",caltex,10,
+25701,2911,,,NULL,
+10612,2912,"Liquid Soap",,0.001,
+10612,2913,Kerosene,,0.001,
+10698,2914,"ammonia nitrate, Gun powder , detonator. dyna",,NULL,
+25705,2915,Ocsigan,,NULL,
+19570,2916,"Di Methyl, Amino Ethanol, Dye premix,Perfume, Di phenyl Oxide",,61,
+10685,2917,"Gun powder ",,0.1,blasting
+10685,2918,"Dynamite ",,0.2,Blasting
+10685,2919,"Service thread (m)",,10,
+25706,2920,Ocsigan,,NULL,
+10516,2921,Gunpowder,,NULL,"For blasting"
+2259,2922,Dynamite,,NULL,
+2259,2923,Amonia,,NULL,
+10474,2924,Gunpowder,,NULL,
+25708,2925,,,NULL,
+10541,2926,Gunpowder,,24,"For blasting"
+10541,2927,"Service thread (m)",,480,"For blasting"
+10541,2928,"Dtanators, ",,240,"For blasting"
+10541,2929,"ammonia nitrate",,96,"For blasting"
+10541,2930,"water jel",,24,"For blasting"
+10540,2931,"Gun powder",,0.1,
+10540,2932,Deternators,,0.05,
+10540,2933,"Service thread (m)",,20,
+25710,2934,,,NULL,
+25711,2935,,,NULL,
+2291,2936,"Amonium Nitrate",,NULL,
+2291,2937,Dynamite,,NULL,
+2291,2938,"Bleaching powder",,NULL,
+10180,2939,"high pressure,shampoo",,NULL,
+10176,2940,"high pressure",,NULL,
+44,2941,SLES,KAO,20,
+44,2942,"Cetyl Alcohol",KAO,8,
+44,2943,GMS,Nikkol,5,
+44,2944,Propylene,Neochem,4,
+10528,2945,"Service thread (m)",,10,
+10528,2946,"ammonia nitrate",,0.5,
+10528,2947,"Dynamite ",,0.5,
+10528,2948,Gunpowder,,0.25,
+10408,2949,"Dynamite ",,5,
+10408,2950,"ammonia nitrate",,10,
+10408,2951,"Service thread (m)",,5,
+10408,2952,"kalu beheth",,2.5,
+10408,2953,"cap ",,5,
+25724,2954,,NC,2,
+25725,2955,"Ammonia Nitrate ",,15,
+10504,2956,Gunpowder,,0.15,
+10504,2957,Dynamyte,,0.15,
+10504,2958,"ammonia nitrate",,1,
+25725,2959,"water Jel",,2,
+25726,2960,,NC,2,
+25729,2961,,"Gun powder",NULL,
+25729,2962,"Ammonia Naitrate",,NULL,
+10373,2963,"Dynamite ",,0.5,
+10373,2964,"ammonia nitrate",,1,
+10373,2965,"Kalu Beheth",,0.1,
+10373,2966,"Service thread (m)",,1,
+10373,2967,Cap,,1,
+10369,2968,"ammonia nitrate",,1,
+10369,2969,"Dynamite ",,1,
+10369,2970,"Service thread (m)",,10,
+10369,2971,"kalu beheth",,0.5,
+19582,2972,"Dinamite, Aminium Nitrate",,0.5,
+10538,2973,Paints,multilac,5,
+25743,2974,"water jel",,2,
+25743,2975,"ammonia nitrate",,15,
+25743,2976,"Service thread (m)",,5,
+25743,2977,Gunpowder,,0.25,
+19595,2978,"Kerosion Soap","Venis CALTEX",12,"Vehicle cleaning"
+25745,2979,Kerosine,,NULL,
+25745,2980,Thinner,,NULL,
+25745,2981,oxygen,,NULL,
+9293,2982,Detergent,Dash,13,
+25748,2983,"Amonium nitrate",,1.5,
+25756,2984,"Dish wash ml","Citron ",450,"To clean Glass wear and plates "
+25756,2985,"Germicidal Toilet clear ",Puri,200,"to clean toilet"
+19554,2986,"SL 571",kriso,60,
+25764,2987,NO,NO,NULL,NO
+25768,2988,,"Stlit star ",50,
+4543,2989,Highpersher,,0.5,
+19575,2990,,,NULL,
+19606,2991,"Sodium Propiyant,Potaciam Sobette",,850,
+25774,2992,Dinamaite,,5,
+25774,2993,"Amoniam  Nitrate",,15,
+25774,2994,"Black Powder",,2,
+2864,2995,Mipol,,NULL,
+19531,2996,,,NULL,
+10583,2997,"Dynamite ",,0.5,
+10583,2998,"ammonia nitrate",,1,
+10583,2999,Gunpowder,,0.25,
+10583,3000,"Service thread (m)",,20,
+25775,3001,,N/A,NULL,
+10223,3002,"calcium carbonate",,300,"to increase the degradability"
+25777,3003,,,NULL,
+19695,3004,"Ink, Carbide",,1.5,
+19550,3005,"Formaline,Kondis","Formal Synide,Potaciam Palmgnate",2,
+10616,3006,"ammoniam bicarbonate,sodium bicarbonate,SMS,essence",,NULL,
+19945,3007,,,NULL,
+3079,3008,"Bad smell comtrl chemicle",,NULL,
+25786,3009,"Hydrocholric Acid",Unimal,3.8,
+25787,3010,"Hydrocholric Acid",Unimal,3.8,"Gern Killing Smell"
+10163,3011,"water jel",,3,
+10163,3012,"Service thread (m)",,70,
+10163,3013,Gunpowder,,1,
+10163,3014,"ammonia nitrate",,10,
+25791,3015,"Hydrocholric Acid",Unimal,3.8,"Gern Killing Smell"
+25795,3016,"Bad smell control Chemical",,NULL,
+2927,3017,,,NULL,
+19905,3018,"Kerosine oil","Kerosine oil",2,
+25797,3019,"Beging Powder",,1,
+19651,3020,"Water Jel, Amonium",,NULL,
+3077,3021,"Beging Powder",,1,
+19935,3022,"Shampoo,Grees,Oil","Auto Champ,Valmaline,Palmaline",23,
+3078,3023,"Amonium naitrat",,5,
+4502,3024,"Tetrailvor edhane",R134a,500,"for ac"
+3080,3025,Chictonic,,100,
+4552,3026,Highpersher,"amavican wasing",2,
+3085,3027,Cloring,,1,
+3058,3028,,,NULL,
+25800,3029,"Water gel",,1,
+25800,3030,"Amonium Nitrare",,2.5,
+25800,3031,"Black Powder",,0.25,
+25803,3032,"Nytric Acid",,2,
+25803,3033,"Costic Soda",,3,
+2753,3034,Anomium,,5,
+2182,3035,Amoniyam,,2,
+25805,3036,"Detergent ",,10,
+2182,3037,Dinarmit,,300,
+25805,3038,"Kerosene ",,3,
+2943,3039,Tiner,,NULL,
+25809,3040,Dainamite,1,NULL,
+3102,3041,"Potasiyam Sobert",,400,Food
+25815,3042,Shop,,NULL,
+2870,3043,,,NULL,
+25832,3044,Dinamaite,,700,
+25833,3045,Thiner,C.I.C,4,
+19677,3046,"Jelatine Dinamite,Amonium Nitrate, Blasting powder,",,NULL,
+25839,3047,Dainamite,,NULL,
+10017,3048,"Folic Acide",,0.525,"For Rubber"
+10017,3049,"sodium bisulfide",,0.5,"For Rubber"
+10017,3050,"Necso Bleech",,0.125,"For Rubber"
+18507,3051,Kerosine,,NULL,
+18507,3052,"Car Wash",,NULL,
+18500,3053,Dynamate,,1,Blasting
+18500,3054,Ammonia,,4,Blasting
+19732,3055,"Sodium Hydroxide  ",,250,
+19732,3056,"Nitric Acid  ",,200,
+19732,3057,"Sulfuric Acid",,600,
+19732,3058,"Stanous Sulphate  ",,60,
+19732,3059,"Etching Chemical ",,125,
+19732,3060,"Conversion Couting ",,20,
+19778,3061,"Potassium Nitrate ",,250,
+19778,3062,"Polythene ",,100,
+19778,3063,"Sulfur ",,50,
+25871,3064,"Amonium Nitrate",,1,"to Blast Rock"
+25871,3065,Dinamite,,0.25,"to blaste rock"
+19731,3066,"Sodium nitrate, Nitric acid, ",,1045,
+25877,3067,Glyphosate,Glytoll,NULL,
+19861,3068,"IPA, NBA",,NULL,
+19738,3069,,,NULL,
+19857,3070,Omega,Criso,375,
+19758,3071,"Caustic Soda, Sulpuric acid",,3,
+17080,3072,Ammonia,,1,Blasting
+25898,3073,"Thinner ",,1,
+25898,3074,"Spray paint ",,0.25,
+25903,3075,Malox,,500,
+25903,3076,"Calcium ",,200,
+25909,3077,,"Soap ",NULL,
+25910,3078,Bytol,,5,
+25915,3079,Kerosine,,NULL,
+25915,3080,Thinner,,NULL,
+25915,3081,"Plates washing solution",,NULL,
+1629,3082,Reshin,Reshin,50,
+1629,3083,mat,mat,15,
+1629,3084,Katlise,neurocks,1,
+2425,3085,"Amoniyam Naitrat",,1,
+2425,3086,Dainamait,,1,
+2425,3087,"wedi Beheth",,0.2,
+2371,3088,"Wedi Beheth",,NULL,
+1813,3089,,,NULL,
+2235,3090,Dainamait,,NULL,
+2235,3091,Amoniya,,NULL,
+1548,3092,Dipole,,20,
+25918,3093,Amonieam,"Amoniem salfa",5,
+25918,3094,Daina,,NULL,
+2261,3095,Dainamait,,2,
+2261,3096,Amoniyam,,NULL,
+2238,3097,Dainamait,,NULL,
+2238,3098,"Amoniyam Naitrate",,NULL,
+1708,3099,britol,,NULL,
+25926,3100,Glue,,11,pasting
+25926,3101,IPA,,54,"alcolourvdamping units"
+25926,3102,"Rollar wash",,51,"cylinder cleaning"
+25926,3103,varnish,,50,overcoating
+25926,3104,"Fountan solution",,5,"maintain PH value & conductivity"
+8105,3105,,,NULL,
+8105,3106,Detergents,NO,NULL,"To wash"
+18553,3107,Tetrafloroethene,R1349,NULL,
+18553,3108,monoclorodifloromethane,R22,NULL,
+18553,3109,clorodifloromethane,R4049,NULL,
+23213,3110,Hipressure,Britol,3,"Vehicle cleaning"
+23125,3111,"Teepol , Britol",,0.5,"Vehicle cleaning"
+10680,3112,"Potassium permanganate",,NULL,
+25948,3113,"Sodium sulfate ",,2.5,
+16849,3114,Kerosene,,6,Cleaning
+23228,3115,"Hi power Chemical",britol,10,
+25956,3116,Highpressure,,NULL,
+25956,3117,Shampoo,,NULL,
+25957,3118,Kerosine,,NULL,
+25957,3119,Thinner,,NULL,
+25957,3120,Paint,,NULL,
+14099,3121,,"Car wash",10,cleaning
+14100,3122,,"car wash",5,clean
+9804,3123,Amoniya,,2,"to Blast Rock"
+23084,3124,"Feenoal, Formaldihym,Fotasium Fermanganate","Farm Flimd, formalin, Condis ",1000,
+14047,3125,,"car wash, t-pool",4,clean
+14045,3126,n/a,,NULL,
+9209,3127,"Formalic acid",,NULL,
+14478,3128,,,NULL,
+14480,3129,,,NULL,
+14479,3130,,,NULL,
+14481,3131,,,NULL,
+14483,3132,,,NULL,
+14486,3133,,,NULL,
+14487,3134,"Amonium, Dianamid, Black powder",-,30,Blasting
+14488,3135,"Amonium, Dianamid, Black Powder",,14,Blasting
+14494,3136,,,NULL,
+14495,3137,,,NULL,
+14485,3138,,,NULL,
+14484,3139,,,NULL,
+14489,3140,"Amonium, Dianamid,Cap",,18,Blasting
+14490,3141,"Amonium, Dianamid,Cap",,12,Blasting
+14497,3142,,,NULL,
+14256,3143,"CAustic Soda",,2,"For Dye"
+14498,3144,,,NULL,
+6711,3145,Detergents,,NULL,Washing
+14256,3146,"Soda Ace",,7,"For dye"
+14256,3147,"Glove Salt",,15,"For dye"
+14256,3148,Paraoxcite,,1,"For Dye"
+14493,3149,"Amonium, Dianamid,Cap",,5,Blasting
+14259,3150,Madecine,,NULL,"Health care activities"
+23242,3151,"Carbolic Acid",,1,
+14254,3152,"Soult,Colures,Thinopal",,2,
+14254,3153,,,NULL,
+14254,3154,Colures,,0.4,
+14254,3155,Thinopal,,0.15,
+14254,3156,"Caustic soda",,0.3,
+14254,3157,"Bleaching powder",,0.2,
+17376,3158,Ammonia,,2000,Blasting
+14260,3159,Nil,,NULL,
+23140,3160,"bleaching powder",clorine,5,
+14257,3161,"Caustic Soad",,0.1,Dye
+14257,3162,Thinopal,,0.1,Dye
+14257,3163,"Bleating Powder",,1,Dye
+14257,3164,Soult,,15,Dye
+14257,3165,Colors,,2,Dye
+14264,3166,"Car Wash",,2,Washing
+14264,3167,"High Power",,1,Washing
+14253,3168,"Caustic Soda",,0.1,Dying
+14253,3169,Thinopal,,0.1,Dying
+14253,3170,"Bleaching Powder",,1,Dying
+14253,3171,Soult,,25,Dying
+14253,3172,Colour,,6.5,Dying
+14255,3173,Thinopal,,0.1,Dying
+14255,3174,"Caustic Soda",,0.1,Dying
+14255,3175,"Bleaching Powder",,1,Dying
+14255,3176,Soult,,15,Dyying
+14255,3177,Colour,,2,Dying
+23266,3178,"Aluminium Pospate, Clorine, Calcium Hydricide, ",Clorine,2073,
+14252,3179,"Caustic Soda",,0.1,Dying
+14252,3180,Thinopal,,0.1,Dying
+14252,3181,"Bleating Powder",,1,Dying
+14252,3182,Soult,,15,Dying
+14252,3183,Colour,,2,Dying
+25981,3184,Amonium,Amoniya,3,Blasting
+14250,3185,"Cauustic Soda",,0.1,Dying
+14250,3186,Thinopil,,0.1,Dying
+14250,3187,"Bleaching Powder",,1,Dying
+14250,3188,Soult,,15,Dying
+14250,3189,Colour,,2,Dying
+14251,3190,"Caustic Soda",,0.1,Dying
+14251,3191,Thinopal,,0.1,Dying
+14251,3192,"Bleaching Powder",,1,Dying
+14251,3193,Colour,,2,Dying
+23171,3194,Dioctylphatlate,DOP,50,"To soft the PVC material"
+18288,3195,,R134,NULL,
+23173,3196,"Britol, Car wash",,203,
+22812,3197,"Aluminium Pospate, Clorine, Calcium Hydricide,",,15,
+22821,3198,"Flexo ink, IPA, NBA",Sitana,18.5,
+22788,3199,"Water jel,ANFU,Black powder, safty fuses",,57,
+22828,3200,"Hipressure, Kerosion",Britol,30,
+18274,3201,"Two in one",,2,
+25998,3202,"Auto Wash",Teepool,50,Washing
+18274,3203,Mauripan,,1.5,
+18274,3204,Calcium,,0.23,
+18274,3205,"Bun Improver",,0.13,
+26000,3206,"All Purpose Cleaner",Tirus,0.2,
+18305,3207,resin,resin,NULL,
+22810,3208,"Water jel,ANFU,Black powder, safty fuses",,6,
+22805,3209,"Water Jel, Amonium",,13,
+18299,3210,Highpressure,Dash,NULL,
+18299,3211,Grees,Caltex,NULL,
+26005,3212,Highpressure,Dash,NULL,"For washing vehicles"
+2823,3213,,,NULL,
+26006,3214,LABSA,,NULL,
+26006,3215,MIA,,NULL,
+26006,3216,IPA,,NULL,
+26006,3217,MEG,,NULL,
+2962,3218,"Car Wosh",,10,
+18298,3219,Paint,,NULL,
+18298,3220,Thiner,,NULL,
+18298,3221,Cabite,,1,
+2869,3222,Paint-Emulsion,,NULL,
+22851,3223,"Water jel,ANFU,Black powder, safty fuses",,18.5,
+22813,3224,"Dinamite, Aminium Nitrate",,5,
+14477,3225,,,NULL,
+22792,3226,"Britol, Car wash",,NULL,
+3004,3227,,Paint,3,
+14507,3228,,,NULL,
+14456,3229,"Amonium, Dianamid,Cap",,5,Blasting
+14456,3230,"Amonium, Dianamid,Cap",,34,Blasting
+14501,3231,"Car wash, High Power",,3.25,"Vehicle Wa"
+14503,3232,"Car wash, High Power",,0.75,"Vehicle Washing"
+14499,3233,"Car wash, High power",,3.5,"Vehicle Wash "
+14505,3234,"Car Wash, High Power",,3.5,"Vehicle Washing"
+22808,3235,"Jelatine Dinamite,Amonium Nitrate, Blasting powder,",,0.4,
+22807,3236,"Water Jel, Amonium",,12,
+22801,3237,"Sodium citrate, Benadic solution",Detona,0.2,
+12175,3238,Teepol,,NULL,washing
+26029,3239,,Dash,5,
+26033,3240,Ammonia,,5,
+26033,3241,Dinamite,,NULL,1
+26036,3242,Ammonium,,2,
+26036,3243,Dainamite,,5,
+22806,3244,"Water jel,ANFU,Black powder, safty fuses",,50,
+22776,3245,"Nitric acid,Caustic soda, Hydregen peroxide, stabilizers, Flavours,colours,",,632.3,
+26046,3246,NH4NO3,"Ammonia ",10,
+26046,3247,A:L/TNT/NH4NO3,Wartejell,2,
+18237,3248,Cabite,,0.5,
+18237,3249,Paint,,NULL,
+18237,3250,Catloi,,NULL,
+9691,3251,"Aluminium Sufate",,600,"maintain pH"
+18115,3252,"Washing material",,1,
+26049,3253,"calcium carbonate  ",,10,
+26050,3254,"High density polythylene",,2380,
+26050,3255,"Muster batch",,35,
+21404,3256,Hipressure,,0.1,
+21410,3257,Tinner,,4,
+26059,3258,"Ammonia ",,NULL,
+26059,3259,dynamite,,NULL,
+26058,3260,"kerosene ",,0.25,
+21391,3261,"fiber glass, Rasin",,30,
+21362,3262,"Paint, Thinner",CIC,4,
+26065,3263,"Paint ","Multilac ",3,
+14263,3264,"Car wash",,0.1,washing
+14263,3265,chemical,,0.3,washing
+14263,3266,"Kerosene oil",,0.5,washing
+14265,3267,"Car Wash",,0.5,Washing
+14265,3268,Oil,,0.1,Washing
+14258,3269,Calcium,,10,Product
+14258,3270,Colure,,0.8,protct
+14258,3271,Virgin,,0.25,protct
+14266,3272,Shampoo,,0.5,
+26086,3273,Paint,,NULL,
+9671,3274,"Ammonium, ","Detanater,bulk powder",12,"for metal minng"
+26101,3275,,"olomite plaster of paris",NULL,maqnufacturing
+26108,3276,"Ammonium nitrate,water gel,detanators",,NULL,
+21622,3277,"Car wash","Wilita carwash",25,wash
+26137,3278,"Ammonia Nitrate ",,NULL,
+21237,3279,"benadicts solution ",,3,"check for urine sugar"
+21237,3280,"Sodium citrate ",,2,ESR
+26146,3281,Ammonia,,NULL,
+26146,3282,Dynamate,,NULL,
+26146,3283,Detaneroter,,NULL,
+21459,3284,"Kerosion, Car shampoo, Hipressure",Best,420,"Vehicle cleaning"
+21471,3285,"Teepol ,Greece, Keroson",,2,
+26152,3286,Kerosene,,NULL,
+26152,3287,Hipresure,,NULL,
+26152,3288,Teepol,,NULL,
+21358,3289,"Ink, Keroson",Veron,12,
+9157,3290,"Isoprophyl alcohol",,0.001,"Skin disinsfection"
+9157,3291,Sawloan,,0.003,"Wound cleaning"
+26158,3292,"Car wash shampoo",,NULL,0.2
+26163,3293,"sulfuric acid",,10,
+26141,3294,Supercrete,Supercrete,120,
+26168,3295,Calcium,M.R.K,100,
+21396,3296,"filler, Thiner, Ink",CIC,NULL,
+21476,3297,"Ink, Thiner",,NULL,
+13231,3298,,,NULL,
+9104,3299,"Formic acid",BASF,25,
+9104,3300,"Sodium sulfide",BASF,12,
+9104,3301,Amonia,CIC,35,
+21440,3302,"filler, Thiner, Ink",CIC,NULL,
+9118,3303,Alam,"Devi Trading",8,
+26184,3304,"Jelly dynamite",,0.2,blasting
+26184,3305,Ammonia,,0.4,
+9118,3306,Roashine,"PVC compound",1,
+9118,3307,"Basine dye",,200,
+13341,3308,,,NULL,
+21407,3309,"Soap,  Soda",Uniliver,NULL,
+20080,3310,paint,,2,
+21786,3311,"Calcium Chloride ",Cacl2,20,
+21786,3312,,Hcl,30,
+21786,3313,,Di-Amene,30,
+9110,3314,Regent,,NULL,
+19668,3315,"Ammonia nitrate ",,0.5,
+9102,3316,"High pressure",HP,5,
+9102,3317,Soap,teepoal,2,
+19671,3318,"Dynamite ",,1,
+19671,3319,"gun powder",,0.25,
+19671,3320,"detonator ",,4,
+9850,3321,,"Engine oil",NULL,
+9131,3322,Shampoo,,NULL,
+9131,3323,"High pressure",,NULL,
+9864,3324,,"SHAMPO, SOAP,GREESE",NULL,"FOR WASHING AND CLEANING"
+21775,3325,"Sulfuric acid ",,32,
+21775,3326,"Sodium carbonate",,9.6,
+21775,3327,"Sodium phosphate",,9.6,
+21775,3328,"Sodium phosphate",,9.6,
+21775,3329,"Sodium silicate",,9.6,
+21775,3330,"Zinc  phosphate",,9.6,
+13329,3331,,,NULL,
+21244,3332,"Sodium hypochlorite",,1.5,"use against bacteria"
+21244,3333,"Polymer ",,2,"dewater the activated sludge at the belt press"
+21376,3334,"Catloy, Poti, Piller, Ink","Casway, CIC",1,
+13313,3335,"deasel, car wash shampoo",,NULL,
+25818,3336,,,NULL,
+9122,3337,Shampoo,,NULL,
+13310,3338,,,NULL,
+9681,3339,"Urea formaldehyde",,10000,
+22794,3340,"Ammonia nitrate ",Deepak,2000,
+22794,3341,"Sulfur powder","Sun ",100,
+22794,3342,"Aluminium powder",,25,
+22794,3343,"Sodium nitrate ",Deepak,400,
+21295,3344,"Xylene, Low Aromatic white sprit, Phthalic Anhydride, Malic Anhydride, Pentaerythritol","Xylene, LAWS, PA, MA, Penta",2825,"For manufacture of Alkyd Rasin"
+20250,3345,,"Dynamite ",NULL,
+20250,3346,,"Ammonia ",0.5,
+21154,3347,"Poly Proplyne",Reliayancebic,300,
+21287,3348,Glycol,,20,
+21287,3349,Cyline,,20,
+21287,3350,Mercury,,50,
+21274,3351,"Titanium Dioxide, Whitting Talc, Colour Paste, Emulsion Binder","TR 633, MICARB, Fine Paste CC, Primal",905,"For opacity of paint fifiller, Obtain Colours for binding Properts"
+21122,3352,"ethial , NP4, Polvin, IP 4",,10,
+9099,3353,"Urea Formaldehyde  ","UFORES 201 p",NULL,
+9099,3354,"Powder Resine",,NULL,
+9103,3355,"Sodium bisulphite",,7.5,
+9103,3356,"Sodium sulphite",,1,
+9103,3357,"Necdo bleaw",,1.9,
+9103,3358,"Formic acid",,7.5,
+21242,3359,"Titainium Dioxide, Acryalic Binder, Alkyd Resin, White cement, CaCo3","Ticon TR 33, Chemacryl 1955, Alkyd , J.K.White, CaCo450",1413,"Pigment for filler, Binder for powder filler, Filler for Slconcoat"
+13329,3360,detergent,,3,
+13329,3361,detergent,,3,
+13326,3362,"karosene, soap",,NULL,
+9147,3363,"liqui soap",Brytol,1,
+26211,3364,Amonia,,NULL,
+9912,3365,tar,bitumin,16000,
+9853,3366,"Sodium sulphite",,3.75,
+9853,3367,"Sodium Bisulphite",,15,
+9853,3368,"Formic acid",,10.5,
+9508,3369,"Car wash",Smash,NULL,
+9508,3370,"Under wash",Smash,NULL,
+9508,3371,"High pressure",Dash,NULL,
+9903,3372,"Ammonium nitrate,water gel,detanators",,NULL,
+9903,3373,,"water gel",NULL,
+21289,3374,"Surgical Spreet, Sodium hydrocloride, Other",,0.09,"sterile, testing"
+9504,3375,"Hidrogen peroxide",,8,
+9504,3376,"Coastic soda",,0.8,
+9504,3377,Detergent,,4,
+21114,3378,"Potasium aluminate, Sodium carbonate, Hypoclorite, ","Alam, Soda Ash, Nalco, Mleaching powder",257,"Water treatment Plant"
+21316,3379,"Ethyle Acc",,65,"Stic and printing"
+23260,3380,"LDPE, Master Batch",,NULL,
+21291,3381,"Chemical Shampoo",britol,2,
+26227,3382,"Optima concentrate",,NULL,
+26227,3383,"Nafthaliga liquid ",,NULL,
+26227,3384,"Soduim Cluconate powder ",,NULL,
+14355,3385,,Britol,0.01,0.5
+14355,3386,,Britol,0.01,"Car   wash"
+21204,3387,"Hydrogen peroxide ",,NULL,
+21204,3388,,,NULL,
+21204,3389,"Sodium hydrosulphate",,NULL,
+21139,3390,"Nitrate ",,1,
+19961,3391,"Dinamite, Amonium",,0.7,
+9521,3392,Amonia,,8,
+9521,3393,Dinamite,,NULL,
+9521,3394,Detageator,,NULL,
+9500,3395,Dinamite,,NULL,
+9500,3396,Ammonia,,NULL,
+9500,3397,"Explosives ( Wedi beheth)",,NULL,
+19915,3398,Tinner,,0.4,
+19983,3399,"Kerosene  ",,10,
+19983,3400,oil,,100,
+19983,3401,paint,,5,
+9908,3402,Ammonium,,4,
+9908,3403,,Dinamite,NULL,1
+9908,3404,,Threads,NULL,
+19947,3405,"Tinner, Primer paint, Top coat paint",,12,
+19888,3406,,,NULL,
+19940,3407,,"Water jel",NULL,
+19940,3408,"ammonia nitrate ",,3,
+19953,3409,"Kerosene ",,NULL,
+19953,3410,"Thinner ",,NULL,
+13430,3411,,DAINA,0.3,
+13430,3412,Ammonium,,0.5,
+13430,3413,,CAP,5,
+13189,3414,WATERGEL,,6,
+13189,3415,CAP,,6,
+13189,3416,"BLACK DUST",,0.1,
+13189,3417,AMMONIA,,1000,
+20057,3418,"Tinner, Cataloy, Ink",Causeway,6,
+160,3419,"Aluminium Silicate",,NULL,
+20010,3420,Niyo,,NULL,washing
+442,3421,"Sodium Shalpite",B.A.S.F,6,
+442,3422,"Sodium Bisulphite",,10,
+442,3423,"Formic Acid",,9,
+442,3424,"Nexo Bleach",,4,
+19920,3425,"Teepol , Britol",,NULL,
+20046,3426,Detergent,,NULL,
+19937,3427,Detergent,,0.75,"Vehicle cleaning"
+20034,3428,"Kerosion, Greece, Oil",caltex,10,
+20032,3429,"Soap, Costic Soda",Teepool,NULL,
+19946,3430,Dash,,0.3,"Vehicle cleaning"
+20043,3431,Detergent,,1,"Vehicle cleaning"
+20271,3432,"Water jel,ANFU,Black powder, safty fuses",,13,
+20950,3433,"Kerosion, Car wash",Britol,7,
+20355,3434,Kerosion,,1.5,
+26306,3435,"Aluminium , Jel Caps, Explosiveuale",,0.25,
+26309,3436,"Car Wash, Kerosion",,NULL,
+20031,3437,"Flat bar",,NULL,
+20031,3438,Angles,,NULL,
+20031,3439,Rods,,NULL,
+20031,3440,Pipes,,NULL,
+20031,3441,"Plates ",,NULL,
+20031,3442,"Steel wire",,120,
+26314,3443,"Kerosion, Car wash",,NULL,
+19964,3444,"Ammonium sulphate",,NULL,
+19964,3445,,,NULL,
+23102,3446,Clorine,,NULL,
+26317,3447,"Water Jel, Amonium",,NULL,
+21621,3448,"IPA, NBA",Sithara,5,
+22205,3449,"Digieesor, Coustic Soda, Teepol",,NULL,
+26347,3450,"Car wash, Hipressure",,NULL,
+22548,3451,"Hipressure, Teepol, Soap",,1,Cleaning
+19601,3452,"White Oil","HV Hevy 44, Extra supper 68",1000,
+13331,3453,,,NULL,
+8968,3454,"Iso Prophyle Alcohol",IPA,NULL,
+8968,3455,"Normal Beuton Alcohol",NBA,NULL,
+19970,3456,"Water Jel, Amonium, Detanator",,2.5,
+8989,3457,"Emusifier 3551",,NULL,
+8989,3458,"Exp 122",,NULL,
+8989,3459,HCl,,NULL,
+8989,3460,CaCl2,,NULL,
+8978,3461,Bio-sid,,2,
+8978,3462,"2 D- 100",,2,
+8977,3463,Acetone,,50,
+8977,3464,Toluene,,50,
+8977,3465,"Ethyl Acetate",,NULL,
+8967,3466,"Explosives, ",,NULL,
+8967,3467,Waterjel,,0.42,
+8962,3468,"Sodium Bisulfite",BASF,12,
+8962,3469,Acid,BASF,12,
+8962,3470,"Necsho Bleach",,4.05,
+8963,3471,Nitroglycerene,Dynamite,10,"For U/G rock blasting"
+8963,3472,"Ammonium Nitrate",ANFO,40,"For U/G rock blasting"
+19527,3473,"Feenole, Amonium",,5,"washing cages"
+21719,3474,Clorine,Clorine,200,
+22072,3475,"Chlorine,Amonium, Compounds",,0.27,"Cleaning and Disinfecting"
+13334,3476,"shampo,",,7,
+26389,3477,"Ammonium nitrate",,NULL,
+26389,3478,,"water gel",NULL,
+26389,3479,,Threads,NULL,
+21769,3480,Hipressure,Vanish,10,
+23103,3481,"Hi power Chemical, Car Wash","Multi Bright",2,Cleaning
+23234,3482,"Hydrogen Peroxide, Soda Ash, Sodium Silicate, Caustic Soda, Poem Agent Detergent, Acitic Acid, Oxalic Acid, Ammonium Sulphate, Levelling Agent, Binder, Fixer, Thickner, Taitanium Dioxide, Imulsifier, Di Ammonium Phospate, Liquid Ammonia, Urea",,168,"Dyeing, Bleaching, Washing, Paste"
+11014,3483,,teapoal,NULL,
+26399,3484,"Potassium Nitrate",,NULL,
+10947,3485,"waterjel,Amonium nitrate",,5,
+10960,3486,"hdpe,calcium,pallate","150,75,75",NULL,
+12600,3487,AMMONIA,,1.5,"FOR BLASTING"
+12600,3488,"GUN POWDER",,200,
+10799,3489,,"thiner,spraypaint",4,
+26420,3490,"Emusifier 3551",,NULL,
+26420,3491,"Exp 122",,NULL,
+26420,3492,HCL,,NULL,
+26420,3493,CaCl2,,NULL,
+26421,3494," GUN POWDER",,0.3,
+26421,3495,"WATER GEL",,0.65,
+26421,3496,AMMONIUM,,3.3,
+19966,3497,"Jelatine Dinamite,Amonium Nitrate, Blasting powder,",,NULL,
+11027,3498,hypresure,"vindya camicles",200,"to washing"
+24755,3499,"neker highpressure",,NULL,
+19814,3500,"Citric acid, fumaric acid, malic acid, Sodium bicarbonate, Potassium sobate",,15.75,"food additive for jelly, pudding preservatives"
+21971,3501,"Hipressure, Teepol, Soap",,1,Cleaning
+8717,3502,"Citric acid",,2,
+8794,3503,,"water gel",1,
+8794,3504,"Ammonium nitratrate",,3.5,
+8794,3505,," srevice threads",NULL,
+10995,3506,"Sink Oxide",,30,
+10995,3507,"stiarik acid",,15,
+10995,3508,"Carbon Black",,300,
+10995,3509,Antyoxident,,10,
+10995,3510,H.O..R.,,5,
+26448,3511,"Costic soda, Farm Oil, Soda Ash",,635,
+20773,3512,"AL2 (OH)3",Alum,12,"For tretment  system"
+11006,3513,hypresure,Britoal,2,
+11006,3514,grees,calted,500,
+11006,3515,oil,oil,10,
+20725,3516,"Ammonia Nitrate , Explosive, Water Jel",,31,
+11449,3517,,carwash,1,
+22795,3518," Shampoo, Oil",,NULL,
+21018,3519,"Costic soda, Farm Oil, Soda , Kerosion",,NULL,
+26456,3520,AMMONIUM,,2,
+26456,3521,"GUN POWDER",,0.2,"FOR BLASTING"
+11282,3522,Amonia,,10,
+23529,3523,"Washing Powder, Coastic Soada",Deeva,1.5,cleaning
+22839,3524,"Coastic Soda, Nitrit Acid",,42,"Water Cleaning"
+19806,3525,IPA,,3,
+11379,3526,,Britoal,2,Washing
+19602,3527,"kerosene ",,8,
+22003,3528,"Monovet, Clorine","Monovet, Clorine",NULL,
+21960,3529,"Teepol ,Greece, Keroson",,NULL,
+26469,3530,"Ammonia Nitrate , Explosive, Water Jel",,NULL,
+26468,3531,"outo thiner",C.I.C.,NULL,
+26468,3532,Paint,"C.I.C paint",NULL,
+26468,3533,,catloy,NULL,
+21080,3534,,"Naftol Vat",0.75,
+21812,3535,"Thiner, Carbite, Ink","CIC Thiner, Carbite, CIC Ink",5,
+19974,3536,"Ammonia Nitrate , Explosive, Water Jel",,10,
+19981,3537,"Dinamite, Amonium",,40,
+19971,3538,"Jelatine Dinamite,Amonium Nitrate, Blasting powder,",,5,
+10724,3539,Hypreshure,Britoal,10,
+8772,3540,"Sodium bisulphite",,12.5,
+8772,3541,"Sodium sulphite",,3.75,
+8772,3542,,Nekshobleech,2.75,
+8772,3543,,"Fomic acid",3.75,
+10735,3544,dinamite,,NULL,
+10735,3545,Amonia,,2,
+21843,3546,"Dinamite, Amonium",,0.7,
+21720,3547,"ISO Profile Alcohol, Methyle Ethyle keeton, Toluvene, Normal Butonol Alchol","IPA, MEK, NBA",11,Printing
+21792,3548,Detergents,Britol,1.5,Cleaning
+11106,3549,,sigre,150,washing
+20782,3550,Methanol,,163,"Its like canndle. Used for keep food warm"
+21321,3551,"Soap, ","T& G ",5,
+11104,3552,,"Car wash",300,Washing
+11104,3553,,"soap powder",200,washing
+20353,3554,"high pressure liquid","Teepol, Nildara HP synthetic",21,Cleaning
+22811,3555,"Ammonia Nitrate , Explosive, Water Jel",,25,"Metal Mining and blasting"
+11599,3556,,"SBP Petral",20,
+20115,3557,"Sulper, Coastic Soda, Poly aluminium cloride",PAC,NULL,
+21251,3558,"Clorine, ","Clorine, Sanitol",0.2,
+21304,3559,"Car Wash",,6,
+21197,3560,"Kerosion, Hi pressure, Tepool",,50,cleaning
+26521,3561,"Ammonium nitrate",,2,
+26521,3562,,"Service threads",1,
+26521,3563,,Dinamite,0.25,
+26521,3564,,"Detanater,bulk powder",3,
+22028,3565,"Chlorine, Triclosan","Chlorine,  Neetol",4.6,Cleaning
+19544,3566,"Boron, Boric Acid",,7.5,
+11625,3567,,Carwash,3,
+11625,3568,,Hyprsure,3,
+11625,3569,,"engine oil",3,
+26546,3570,"Kerosion, Hi pressure, Car wash",,1.2,Cleaning
+20779,3571,"Water jel,ANFU,Black powder, safty fuses",,255,"Metal Mining and blasting"
+21259,3572,IPA,,1,
+20927,3573,"IP, MB",,5,
+20971,3574,"Sulpuric acidn , Nitrit acid",,120,
+1772,3575,Prima,Prima,300,
+1555,3576,dul,,2,
+1591,3577,medicine,,NULL,
+11092,3578,,Britoal,4,washing
+10976,3579,,Dinamight,1.5,
+10976,3580,Amonia,,5,
+11460,3581,,"Spray paint",2,
+2103,3582,"E.M,K.P",Kamilis,NULL,
+2103,3583,Resin,Resingum,NULL,
+11457,3584,,haipreshure,1,
+11457,3585,,Britoal,500,
+11461,3586,,"Cluch Oil",500,
+20897,3587,"Clorine,",,1.5,
+22267,3588,"Titanium Dioxide,Carbon black, synthetic coloured matter, Calcium carbomate, Rasin","TIOXIDE,CARBAN BLACK, PIGMENT",870,"To make colour"
+11079,3589,,"Engine oil",10,
+11079,3590,,"gear oil",2,
+11079,3591,,grease,4,
+11068,3592,,britoal,NULL,
+11076,3593,,Grease,5,
+11076,3594,,"hypressure powder",0.5,
+2373,3595,,sanlait,2,
+20766,3596,"Cellulose 1, 11","Burmacoal 1, 11",1000,
+26609,3597,Soap,Britol,2,Cleaning
+20928,3598,"Sulper, ZDEC, Furnece Oil",,3.75,
+11491,3599,,Hypresure,2,washing
+11491,3600,,oil,2,
+11501,3601,,hypreasure,1,washing
+23232,3602,"Clorine,","Bleaching Powder, Maxtneat 3100, 2004 & 3221",3,"Disinfection, Cleaning, Reducing Oxigen level, Controll PH value, Remove cover"
+11493,3603,,hypresure,1,washing
+23331,3604,"Carbite, Oxygen Gas",,2,Cleaning
+2100,3605,Thinar,clc,NULL,04
+20231,3606,"Kerosion, Car wash",Teepool,10,Cleaning
+20129,3607,"Sodium hydrocloride, ",,6.5,
+20658,3608,"Dyna, Amonia",,3,"Metal Mining and blasting"
+20291,3609,"Ammonia Nitrate , Explosive, Water Jel",,NULL,
+22058,3610,"Kerosione, Hi pressure, ",,NULL,
+2175,3611,kerodin,,2,
+2175,3612,"engine oil",,5,
+11016,3613,,"patrocate thiner",0.25,
+2284,3614,,rasako,1,
+20938,3615,"Sodium acid pyrophosphate, Sodium bicarbonate","SAPP, Sodium bicarbonate",580,"food ingredient"
+1912,3616,Dainomait,,NULL,
+1912,3617,"wedi nuul",,NULL,
+20929,3618,"Thiner base paint, varnish",,100,"To paint"
+26618,3619,"Calcium Carbonate, Calcium Magnicium","Dolamite, Kalsite",25000,
+2224,3620,"amoniom naitret",amoniya,2,
+10984,3621,,Thiner,5,
+10984,3622,,"paint ",10,
+26632,3623,"sodiyam salfet",,NULL,
+7593,3624,No,,NULL,
+19742,3625,Shampoo,Dash,2,Cleaning
+26673,3626,"Ammonia Nitrate , Explosive, Water Jel",,NULL,
+20219,3627,"Hipressure, Kerosione",Britol,0.15,Cleaning
+2102,3628,Thinar,,NULL,
+2237,3629,"amoniom naitret",,500,
+2237,3630,"Wedi beheth",,NULL,
+20703,3631,"Ammonia Nitrate , Explosive, Water Jel",,2.2,"Metal Mining and blasting"
+26691,3632,"Ammonia Nitrate , Explosive, Water Jel",,6.3,"Metal Mining and blasting"
+20690,3633,"Amonium, Detonate, Dinamite",,5.5,"Metal Mining and blasting"
+22382,3634,"High Pressure, Liquid, Car wash",DASH,5,cleaning
+20936,3635,"Ammonia Nitrate , Explosive, Water Jel",,NULL,
+2342,3636,asatalin,,500,
+11553,3637,Nitrocelliulose,,2600,
+11603,3638,"Lithium Alkyledencil",,20,
+11603,3639,"Sultphonic Azid",,2,
+11603,3640,"Costic soda",,50,
+26705,3641,,,NULL,
+26714,3642,"Detergents /Hi Preesure shampoo",,1,Washing
+26722,3643,"Deaina Maite",,NULL,
+7793,3644,"High Pressure / Cerozene oil/csa wash",,NULL,Washing
+7811,3645,Hi-pressure,,40,Washing
+7811,3646," Deasil",,6,Washing
+7776,3647,shampo,Neo,3,Cleaning
+8251,3648,"Amonia Naytrate",,25,Blasting
+8309,3649,"Amonia Naytrate",,NULL,
+26727,3650,,Paint,10,
+26727,3651,,Thiner,15,
+26727,3652,,carbite,NULL,
+26692,3653,,Caltex,1,"For Cleaninig"
+26695,3654,,Soap,0.5,"For Cleaninig"
+26695,3655,,"Car Wash",0.5,"For Cleaninig"
+26696,3656,,Caltex,1,"For Cleaninig"
+4511,3657,Thiner,,1,
+26728,3658,,Sampo,0.2,"For Cleaninig"
+26729,3659,Detergent,,1,Cleaning
+7550,3660,"Blastng Agent",,2,Blasting
+7550,3661,"Ammonium NItrate",,100,Blasting
+7550,3662,Dianamite,Dina,20,Blasting
+7550,3663,cap,,200,Blasting
+26733,3664,"Hi Pressure",,5,Cleaning
+26733,3665,Shampoo,,1,Cleaning
+7786,3666,Teepol,,2,Washing
+7786,3667,Oil,,1,Washing
+7777,3668,Oil,,0.5,Cleaning
+7777,3669,Hi-pressure,,1,Cleaning
+7777,3670,Shampoo,,1,Cleaning
+7918,3671,catlo,,6,Painting
+7918,3672,Tinner,,3,Painting
+7918,3673,"Paint (CIC)",,3,Painting
+7918,3674,Potty,,8,
+26739,3675,,Causeway,0.02,"Vehical Painting"
+26739,3676,,"2 K",0.01,"Vehical Painting"
+26739,3677,,Debia,0.01,"Vehical Painting"
+2275,3678,Thinar,,NULL,
+26747,3679,"Nilma Buler",Highpresser,250,"For Cleaninig"
+26758,3680,"Car wash",,0.5,"For Cleaninig"
+26758,3681,"High Presure",,20,"For Cleaninig"
+8354,3682,"Amonia Naytrate",,2,Blasting
+8354,3683,"Water Gel",,1,Blasting
+8354,3684,"Black Power",,0.1,Blasting
+26761,3685,"Amonia Naytrate",,250,Blasting
+26761,3686,"Explosive Material",,50,Blasting
+26761,3687,Dinamite,,100,Blasting
+26761,3688,Detonaters,,3,Blasting
+8267,3689,"Amonia Naytrate",,2,Blasting
+2394,3690,"New Wite  Form",,1,
+26768,3691,,Greese,500,
+26768,3692,,"Engine Oil",0.04,
+26771,3693,"Amonia Naytrate",,25,Blasting
+26771,3694,"Lead Wire",,15,Blasting
+26771,3695,"Black Powder",,5,Blasting
+26771,3696,Jeltenite,,8,Blasting
+26774,3697,"Lubricating oil",,NULL,Washing
+7551,3698,Detonators,,0.3,Blasting
+7551,3699,"Ammonium NItrate",,3,Blasting
+7551,3700,gelagnite,,0.025,Blasting
+26794,3701,"Amonia Naytrate",,2,"For Blasting"
+26794,3702,"Water Gel",,1,"For Blasting"
+26794,3703,"Black Powder",,0.1,
+26797,3704,"Amonia Naytrate",,0.9,"For Blasting"
+26773,3705,"Amonia Naytrate",,0.9,"For Blasting"
+26773,3706,"Lead Wire",,1.5,"For Blasting"
+26773,3707,"Black Powder",,0.2,"For Blasting"
+26804,3708,,,NULL,
+20085,3709,"High Pressure, Liquid, Car wash","Britol,Multi Britol",1,Cleaning
+26805,3710,"Water jel,ANFU,Black powder, safty fuses",,18,"Metal Mining and blasting"
+20362,3711,"Aluminia ,Dynamite, blasting powder",,11,"Metal Mining and blasting"
+16844,3712,,"High power",NULL,"Washing purpose"
+16849,3713,,"high power, tee pol",NULL,
+22053,3714,"Shampoo, Hy Pressure",Britol,10,Cleaning
+26820,3715,"water gel","explosive material",NULL,blasting
+26820,3716,"ammonium nitrate",,NULL,blasting
+25329,3717,,phenol,100,disinfection
+26825,3718,,"car wash",10,washing
+26825,3719,,shampoo,100,washing
+16374,3720,"Explosive materials",-,NULL,"Blasting the rock"
+16551,3721,,,NULL,
+16552,3722,"wind screen",clearner,15,washing
+16552,3723,,greese,2,cleaning
+16626,3724,"anti corossive",paint,1,painting
+16626,3725,,tinner,0.5,"mix with paint"
+16624,3726,paint,"anti corrosive",10,painting
+16624,3727,,kerisine,4.5,
+16613,3728,,"anti corrosive",5,painting
+16625,3729,ammonia,,NULL,cooling
+26837,3730,"Gelignite , Nylone, Ammonia",,0.25,"Rock Blasting"
+26838,3731,"Amonium Nitrate",,2,"For Blasting"
+26841,3732,"Amonium Natrate",,2,"For Blasting"
+26843,3733,,"anti corrosive",9,painting
+26843,3734,,kerosine,4,cleaning
+21782,3735,"Hexane,Soap,Zinc Stearate, SAE 90,Kerosene,MEK,Aliphatic hydrocarbon,Struck N","Hexane,Industrial Soap,Zinc Stearate,SAE 90,Kerosene Oil,MEK,EXXSOL DSP 80/100,Struck N,",1.5,"Solvent,Anti tack agent, Machine Lubticant"
+21730,3736,"Hipressure, Kerosione",,NULL,
+19799,3737,"HDPE,HIPS,GPPS",BASF,150,
+26866,3738,"Amonium Nitrate",,3,"For Blasting"
+16850,3739,Chlorine,"Bleaching Powder",0.5,Disinfectant
+26868,3740,"Amonium Nitrate",,5,Blasting
+16862,3741,,"High power, Carwash",NULL,"Cleaning, Washing"
+26878,3742,"Water jel,Detonate, amonium Nitrate, safty fuses",,2,"Metal Mining and blasting"
+8359,3743,,Britol,0.0001,"For Washing"
+26886,3744,"Water jel,Detonate, amonium Nitrate, safty fuses",,15,"Metal Mining and blasting"
+20707,3745,"Detonate, Dynamite,Amonium,Service ",,21,"Metal Mining and blasting"
+20433,3746,"Amonium, Detonate, Dinamite",,1.2,"Metal Mining and blasting"
+22050,3747,"Tinner, Paint",,3.5,"Wasshing Cloth"
+20655,3748,"D.O.P , AC 3000, PVC","Dioctuyl Phaterate, forming Agent",1752.5,
+21549,3749,"Normal Alchol, ISO Proply Alchol","NBA, IPA",3,
+26898,3750,"Amoniya ",,5,
+26898,3751,"Water Jel",,500,
+19686,3752,"Tinner, O2, Carbide",CIC,NULL,Cleaning
+26910,3753,"Soap, Soda, Nil",Sunlight,1,cleaning
+21787,3754,"Ink, Alchoel",,8,
+20196,3755,"Clorine,",,0.22,
+22067,3756,"Britol, DASH",Britol,4,Cleaning
+21348,3757,"Shampoo, Police, Keburator cleaner","Reeborn, Abro",2.5,cleaning
+2155,3758,Polithin,,NULL,
+2155,3759,plastic,,NULL,
+26937,3760,"Tinner, Paint",,3,
+26940,3761,"Tinner, Paint",,3,Cleaning
+26945,3762,"Dyna, Amonia",,0.5,"Metal Mining and blasting"
+21958,3763,"O2, Acitlin, Spray ink",,NULL,
+2367,3764,Amoniya,,4,
+2367,3765,"Kalu Beheth",,200,
+21583,3766,"SLES,LABS,Glisareen, Soap, carbolic acid, HCL,DPA,Coastic Soda,",,40,
+1245,3767,"Bleaching Powder",,NULL,
+5084,3768,Thintha,,NULL,
+21717,3769,"ISO Propyl Alcohol, Normal Butyl Alcohol","Mobil, Sosol",9,"Maintain Viscosinity"
+20190,3770,"Aluminia ,Dynamite, blasting powder",,505,
+1175,3771,Disel,,4,
+22590,3772,"Coastic Soda, Clorine, Kerosine",,2.1,
+26968,3773,O.C,,NULL,
+22575,3774,"Nitric acid,Caustic soda,Sulfuric",,19,Cleaning
+1183,3775,Grees,,NULL,
+20942,3776,"Cofene, Sawlon",,0.8,
+26969,3777,"Sodium Silicate, Iron Oxide,Aluminum Oxide, Other oxdides",,3.4,"To Colour & Polish "
+1182,3778,,klabait,1,
+3373,3779,Clorin,,NULL,
+20875,3780,"Water jel,Detonate, amonium Nitrate, safty fuses",,3,"Metal Mining and blasting"
+21707,3781,"Kerosion, Hi pressure, Tepool",,NULL,
+1208,3782,"Chlorine Power",ZIRUS,0.002,
+21920,3783,"Poti, Tin ner,catloy",,0.5,
+21938,3784,"Coastic Soda, Bleaching Powder,Soap, Colouring ",,3.1,Cleaning
+3542,3785,"Pull Out",450,NULL,
+5078,3786,"Paint, Thinner",,4,
+22589,3787,"Methonol,Toliun,Beutool Glykool,MIBK",,NULL,
+21813,3788,,,NULL,
+21073,3789,"Car Wash Soap",,5,
+26105,3790,Highpreasure,,1.5,
+3580,3791,Tinar,Diuko,5,
+13806,3792,,,NULL,
+13808,3793,"Ammonium Nitrate",,4,
+13808,3794,Dynamite,,0.8,
+13808,3795,"Black Powder",,0.4,
+2791,3796,Amonia,,NULL,
+2790,3797,Amoniya,,NULL,
+5127,3798,"Floor Powder",M100,0.1,
+1137,3799,Thinar,,NULL,
+3139,3800,Paint,,NULL,
+1249,3801,"Floor Cleaner",M100,0.002,Cleaning
+3154,3802,Asitalin,Carbaite,28,
+1131,3803,"Car Wash ","Blink ",2,"For Washing"
+1237,3804,Soap,Sanlait,15,
+1236,3805,Poty,cic,2,
+1236,3806,"Paint ",Cosway,5,
+1236,3807,Tiner,Cosway,10,
+3138,3808,Paint,,NULL,
+27098,3809,Tiner,,NULL,
+10945,3810,"Asitorn ",,5,
+10945,3811,catlas,,1,
+10945,3812,Asilated,,0.5,
+2095,3813,Braitol,,NULL,
+14436,3814,,"Car Wash   High power",0.02,"body Washing"
+13711,3815,,"ammonia ",50,"Blasting "
+13711,3816,,"Black powder ",5,"Blasting "
+14434,3817,,"Car wash  ",0.1,"body  washing"
+13710,3818,"Ammonium nitrate ","Ammonia ",5,"Blasting "
+13710,3819,"Potassium nitrate ","Black Powder ",0.5,"Blasting "
+13710,3820,,"Water gel ",1.5,"Blasting "
+13710,3821,,"Detonator ",10,"Blasting "
+2334,3822,"Car Wash",,NULL,
+4936,3823,"Oven Cleaner",liteol,1,
+4939,3824,Thiner,c.ic,NULL,
+13713,3825,"Ammonium Nitrate ","Ammonia ",5,"Blasting "
+13713,3826,"Potassium Nitrate ","Black Powder",1,"Blasting "
+13713,3827,,"water gel",1.5,"Blasting "
+13713,3828,,"Detonator ",10,"Blasting "
+27122,3829,Tiner,,NULL,
+3135,3830,,,50,
+23444,3831,Paint,,NULL,
+21630,3832,"Teepol,Shampoo",,NULL,
+14460,3833,"Ammonia, Dynamite, Black Powder",,3,Blasting
+14455,3834,"Amonium, Dynamite, Black Powder",,32.5,Blasting
+14458,3835,"Amonia, Dynamite, Black powder",,40.2,Blasting
+2252,3836,Dainamait,,NULL,
+14457,3837,"Amonia, Dynamite, Black powder",,2.5,Blasting
+14453,3838,"Amonia, Dynamite and Black powder",,6.5,Blasting
+14454,3839,Chlorine,,0.5,Cleaning
+14459,3840,"Water jel, Amonia, Black powder ",,34,Blasting
+2363,3841,"tylostion tartrate",,NULL,
+2363,3842,febantel,,NULL,
+2318,3843,Dainamait,,1,
+2318,3844,"amoniyam Naitrat",,3,
+13712,3845,"Ammonium Nitrate ","Ammonia ",5,"Blasting "
+13712,3846,"Potassium Nitrate","Black powder l",0.5,balasting
+13712,3847,,Detonator,10,balasting
+14461,3848,,,NULL,
+4837,3849,"Car Wash",,NULL,
+4878,3850," Washing liquid",,NULL,
+13714,3851,"Ammonium Nitrate ",Ammonium,20,balasting
+13714,3852,"Potassium Nitrate","Black Powder",1,balasting
+13714,3853,,"water gel",8,balasting
+4926,3854,Naitrijant,,1,
+13714,3855,,Detonator,10,balasting
+4926,3856,oxcijant,,1,
+27137,3857,"Amonium, Dianamid, Water jel",,3.5,"blasting "
+27140,3858,"Water Gel,Detanating,Amonium Nitrate",,NULL,
+13716,3859,"Ammonium Nitrate ","Ammonia ",5,balasting
+13716,3860,"Potassium Nitrate","Black Powder ",0.5,balasting
+13716,3861,,"Water Gel  ",1.5,balasting
+13716,3862,,Detonator,10,balasting
+4881,3863,"Washing liquid",,NULL,
+2868,3864,"CIC Paint",,2,
+27158,3865,"Black Powder",,12,"For Blasting"
+27158,3866,"Lead Wire",,4800,"For Blasting"
+27158,3867,"Water Gel",,240,"For Bllasting"
+27158,3868,"Amonium Nitrate",,1200,"For Blasting"
+27160,3869,,Britol,0.1,"For Cleaning"
+2873,3870,,,NULL,Iron
+3027,3871,Tiner,CIC,NULL,
+4923,3872,"Sodiyam Haidrocsaid",,600,
+4923,3873,"sitrik asid",,1200,
+4880,3874,Grees,,NULL,
+14572,3875,chlorine,,0.3,
+22509,3876,"Highpreasure Petrrgens",Britol,0.5,"Wash the vehicles"
+14570,3877,Nil,,NULL,
+3057,3878,"Hight Pesher",,1,
+20694,3879,"Polyurethane glue ,Dimethygnate,Dimenthy ,Cyclouey ","Pu,MDL,N-N",NULL,
+14571,3880,Amornium,,5,"Rock blast"
+14571,3881,Dianamid,,0.5,"Rock blast"
+14571,3882,"Block powder",,0.5,"Rock blast"
+27184,3883,"Washing Powder ",3M,15,
+21487,3884,"Urea,Sulphate of Amonia,Rock Phosphate,Trple super phasphate,",,NULL,
+2858,3885,Dainamaite,,500,
+27186,3886,Daunamaite,,5,
+27188,3887,Amonia,,2,
+22043,3888,"PP Based calcium carbanate ,Steric Asid,Paratn Wax",Plastiblenol,NULL,
+14616,3889,Nil,,NULL,
+22564,3890,Britol,,10,"To clean the vehicles"
+14617,3891,Nil,,NULL,
+20730,3892,"Hydragen Perocside,Fomalin,Condis","Fomalin,Condis",NULL,
+2273,3893,Thiner,,1,
+3125,3894,Esti,"Mayura Pan",400,
+2919,3895,Tinar,,15,
+19780,3896,"LABSA,SLES,Sadum  Carbanate,BKC,IPA","LABSA,SLES,Soda Ash,Aquccide,Surgical Spirit",NULL,
+20771,3897,"Dianamaite,Detanetus,Sevanul,","Dianamaite,Cash,Sevanul,",NULL,
+20672,3898,"Dianamaite,Amonia Naitrate,Sevanul",,NULL,
+3122,3899,O.C,Lop,1,
+11072,3900,Detergent,Welson,0.2,
+2320,3901,Thintha,,NULL,
+3114,3902,Aminium,,3,
+2779,3903,Amonia,,500,
+27223,3904,Soap,,250,
+27223,3905,Shampoo,,250,
+14618,3906,Nil,,NULL,
+14609,3907,NIL,,NULL,
+2270,3908,"amoniyam Naitrat",,3,
+1176,3909,Thiner,,40,
+5126,3910,"Dish Wash ",Trio,4,
+5126,3911,"Germ KIller ",Trio,1,
+5126,3912,"Tile Cleaner",Din,NULL,
+3795,3913,O2,Local,5,"gas cutting"
+3795,3914,Actylen,Local,2,"gas cutting"
+3795,3915,"Lp gas",Local,5,"gas cutting"
+4767,3916,Gas,,1,
+27268,3917,"Dianamaite,Detanetus,Sevanul,",,NULL,
+5105,3918,Haipesher,,500,
+5105,3919,Tripol,,500,
+27270,3920,"Watajel,Amonium,Detanotus,Sevanul",,NULL,
+20182,3921,Carwash,Dash,0.25,"For washing"
+20180,3922,"Highpreasure Soap",Britol,10,
+27280,3923,"Ammonia Nitrate , Explosive, Water Jel",,7,
+27282,3924,,Paints,0.3,"For Painting"
+22040,3925,"Exray developer, Exray fixer",Akfa,2,
+1202,3926,"Power Bleach",,NULL,
+22206,3927,"Teepol , Keroson",,8,Cleaning
+2118,3928,Thiner,,NULL,
+20738,3929,"Caco3, Ball Clay, Sulphur, Zinic Oxide",,165,
+21489,3930,"Kerosene, Anti Corrosive","ICC Dulux",1.5,Cleaning
+27291,3931,Tinar,,NULL,
+2249,3932,Amoniya,,NULL,
+2431,3933,Thintha,,NULL,
+2431,3934,Tinar,,NULL,
+1366,3935,Tinar,,NULL,
+1366,3936,Thintha,,NULL,
+14611,3937,NA,,NULL,
+14608,3938,Nil,,NULL,
+14612,3939,Nil,,NULL,
+14619,3940,NA,,NULL,
+14620,3941,NA,,NULL,
+14639,3942,"car wash",,0.5,"bike washing"
+14639,3943,"Dash Powder",,1,"Bike washing"
+14637,3944,"Car Wash",,2,Wshing
+14632,3945,"Car Wash",,1,Washing
+14638,3946,"Car wash",,1,washing
+1437,3947,Tinar,,40,
+1437,3948,Thintha,,15,
+1413,3949,R134,,NULL,
+1408,3950,Thintha,,2,
+22583,3951,"Haisoal,Kerosene",,4,
+22032,3952,"Glass cleaner,Tile cleaner",Britol,NULL,
+21761,3953,"Master batch,Solvant,Paint","Enter Plastic,IDA/NBA,Flexo ink",NULL,
+21774,3954,"(CO)NH2,C2(NO3)","Yuria,Calcium,Potasioum",NULL,
+22846,3955,"Highpreasure ",Britol,NULL,
+20466,3956,"Amonia,Daina,Nul,Cap",,NULL,
+23129,3957,Kerosine,,5,
+19553,3958,Saop,Britol,2,
+27312,3959,Pani,,NULL,
+20904,3960,NaoCl,"Soduim Hydrroctde",250,"Raw water treatment"
+19838,3961,"Sulfer ,TMTD",,1.2,
+24886,3962,"Master bach,Solvant,Paint","Enter Plastic,IDA/NBA,Flexo ink",NULL,
+27313,3963,"Esssence,Colourin","Star bran,Star brand ",NULL,
+27317,3964,"Polrpropylene,Highdensity Polythene","PP,HDPE,,Colour,Pet",NULL,
+22546,3965,"Coconut Shell,CaCO3,Kavolin",,NULL,
+20259,3966,"Amonia,Daina,Nul,",,NULL,
+27322,3967,"Oxigen,Asitilin",,NULL,
+21862,3968,,,NULL,
+22712,3969,"Under Body cleaner",Multibright,500,
+22678,3970,"Highpresure ,Oil",,1,
+22702,3971,,"Britol Shampoo",0.5,"For washing"
+22675,3972,Highsprey,Excel,1,
+22720,3973,"Car Wash,High preasure",,NULL,"For washing"
+22631,3974,Paint,,NULL,
+23080,3975,"Food grade chemicals",,2,
+22717,3976,"Hishpresure,Kerosene,Oil,Greeze",,NULL,"For washing "
+27329,3977,"Soiuum Hydroxide ","Coustic Soda",NULL,"Emptry Bottle Washing "
+27330,3978,"Wax,Acid",,NULL,
+27351,3979,,"Corron cat PE & PEF,Corro zink",15,"Painting "
+20319,3980,"Soap and Shampoo",,10,
+27359,3981,"ISO Promac ALCHOHOL","IPA,NBA",10,
+27368,3982,"Cap,Amonia,",Nitetrate,NULL,
+27371,3983,"CapDamina,Amonia",,NULL,
+22830,3984,"SO2 Food grade,Clorine","Sodium Metal,Calcium hypo cloride",5,
+22840,3985,"Soap,Kerosene",,NULL,
+22826,3986,"Amoniam Niterate,Dianamyte,",,18,
+22824,3987,Clorine,,NULL,
+27377,3988,"Chemical Solvents,SBP,Acetone,Hexane",,NULL,"For cleaning "
+21982,3989,"Highpreausre,Teepol",Britol,NULL,
+27379,3990,,Paints,6,"For Painting"
+27380,3991,"Ojatima ",,10,
+27383,3992,paints,,6,"for painting"
+27388,3993,"Urea,Amonia,Potass","Urea,3A,MOP",NULL,
+22068,3994,"Britol,Teepol",,NULL,"For washing"
+20153,3995,"Highpreausre,",Britol,2,
+23457,3996,"Power hi presure,Bar wash",Okson,NULL,
+21523,3997,"Sulphate,Ur,","Amonia,Potash",NULL,"Manufacturing fertilizer products"
+20667,3998,"150 propyl alcohol",,5,"Cleaning "
+22562,3999,"Dash ",,5,
+21499,4000,"Car wash",Dash,0.25,
+19572,4001,"Glucose Oxide,Cholestoroil,",,NULL,
+20759,4002,"Hi presure,Soap",Grinful,5,
+21592,4003,"Methonol,Toliun,",,2000,
+21559,4004,Exsol,,NULL,
+27396,4005,"Aluminium Sulphate",Alum,250,
+4778,4006,diesel,,40,Testing
+4778,4007,"Engine Oil",,40,Reparing
+4778,4008,"Hydraulic Pil ",,40,Reparing
+21529,4009,"IPA,NBA",,2,
+19869,4010,Glycoos,,NULL,
+21488,4011,"Sulfuric Acid",,250,Cleaning
+22517,4012,Paint,"Nipalac,Multilac",5,
+27410,4013,"sodium chloride",salt,6,"procution procedure"
+10822,4014,,S.B.P.,1.5,
+21889,4015,"Amonium, Detonate, Dinamite",,4.2,"Metal Mining and blasting"
+22038,4016,Fomalic,,NULL,Speciment
+4020,4017,Carbon,"N 330",10,
+4020,4018,calcium,hebeirunde,10,
+4020,4019,"zink oxide","glorchem enterprise",1,
+4020,4020,sulper,"glorchem enterprise",1,
+4020,4021,M.B.T.S,Zhedong,1,
+4020,4022,M.B.T.,Zhedong,1,
+4020,4023,D.P.G,Zhedong,1,
+4020,4024,I.P.P.D.,Zhedong,1,
+27431,4025,"Amonium, Detonate, Dinamite",,35,"Metal Mining and blasting"
+27379,4026,paints,,6,painting
+27301,4027,,Britol,500,cleaning
+27437,4028,,bulet,1,cleaning
+27440,4029,"washing powder",Diva,1,"cleaning of cloths"
+27382,4030,,Britol,0.5,cleaning
+21536,4031,"Cl, HCl",,0.4,"For swimming pool"
+20127,4032,,Brytol,10,"For washing"
+21735,4033,H.D.P.,Marlex,250,
+20295,4034,"Amonia,Dianamite,Detanator",,NULL,
+27455,4035,"Petrolium based sandy sealer, PVC Varnish",,NULL,
+22643,4036,"Coastic Soda,Bleaching powder",,500,"For washing closthes"
+20611,4037,"Tinner, Anti corrosive ",CIC,NULL,
+22730,4038,Razen,Ranin,1,
+27458,4039,"Waterjel,Amonium",,NULL,
+19716,4040,Glue,Bostic,16,
+23271,4041,"High Pressure, Liquid, Car wash",Vanish,3.5,Cleaning
+23150,4042,Britol,,5,Cleaning
+21709,4043,"Coastic Soda,Teepol,Clorine",,50,
+20662,4044,"High presure Liude",,4,
+27476,4045,Amonia,,1,
+22261,4046,"Normal butanol Alchol, ISO Propyz Alchol, Toluene","South Afnicz, Exxon Nobil Singopor",132,"For printing of HDPE film"
+23248,4047,"Steek k- 20,HCL Acid,Copper salt","Steek k-20,HCL,Gibinal,Coastic soda",1,
+22335,4048,Pigment,"Master Badge",1.5,Clouring
+20892,4049,"High presure Liude","New white",6,"For washing vehicle"
+22345,4050,"Shampoo, Police, Keburator cleaner",,NULL,
+20958,4051,"Disinfectant urociet",,NULL,
+27480,4052,Aseton,Aseton,2,cleaning
+27480,4053,Thiner,Thiner,2,cleaning
+22226,4054,"Shampoo, Hy Pressure",,NULL,
+20947,4055,"Carwash, Hipresure",Britol,500,
+27481,4056,"Hydrejen Proxide,Sodiam Cloride,Sofnar,",,25,
+22264,4057,"Calcium Carbite",,400,
+21659,4058,Highpreasure,,NULL,
+22389,4059,"Isopropyl Alchol solvent",,3,Cleaning
+21041,4060,Dianamaite,,2,
+22314,4061,"Hydro furic",HF,20,"Glass acid wash"
+22321,4062,"Bonding Agent, MIBK","Tyloc On 10, MIBK",0.6,
+22402,4063,"Hipower, Auto cream, CIC Shampo",,NULL,Cleaning
+22365,4064,"Car wash, Hipressur, Kerosion",,8.5,Cleaning
+27502,4065,"Methanol, Ethiyl acid,SBP,BG","Bethyl Glaxo",NULL,
+27505,4066,"Deganator, Water Jel",,NULL,
+22266,4067,"Methanol, ethail Acetate, Butyal Glycol","Methanol, E.A , B.G",136,
+22218,4068,"Soap, Kerosine",,NULL,Cleaning
+22370,4069,"Dye, IPA solvent, NBA solvent",Shitara,40,Printing
+22227,4070,Methyl,,500,
+20804,4071,"Amonia Nightrait,Water jel,",,5,
+20351,4072,"Silico , Magnese",,800,
+22601,4073,"Kerosine,Soap,Water,High presure ",,4,
+20962,4074,"Paint ",Causway,NULL,
+22537,4075,"Hi. Presure,Car wash,Kerosine",,30,
+22403,4076,Clorine,,1,cleaning
+22291,4077,"Potassium Permanganate, Moeltin , formaln solution",,15,
+19637,4078,"Kerosine,Soap water,Alam laim",,5,"For washing "
+20691,4079,"LABS Liqued, Kerosene",,30,Cleaning
+20682,4080,"Amonia, Charcoal dust,Gendagam",,15,"For cracker preparation"
+21755,4081,,,NULL,
+21698,4082,"E.M. Solution",,NULL,
+11665,4083,Thiner,Petrocem,1,
+11665,4084,paint,CIC,1,
+11665,4085,Filar,CiC,0.25,
+11665,4086,Carbite,0.5,NULL,
+11665,4087,lacar,,0.25,
+27561,4088,"Ink, Thinner",,NULL,"Spray Panting"
+20978,4089,"Cement, White Cement, CaCo3, Ragins,Polymer",,NULL,

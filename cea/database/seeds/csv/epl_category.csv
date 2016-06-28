@@ -1,0 +1,142 @@
+categoryID,listNo,discription,idno,abc
+A01,CH,"Chemicals manufacturing or formulating or repacking industries",1,A
+A10,CH,"Oil (mineral oil or petroleum) refineries",2,A
+A11,CH,"Dye and dye intermediate manufacturing or formulating industries",3,A
+A12,CH,"Paints (emulsion or enamel), inks, pigments, varnish, polish manufacturing or formulating industries",4,A
+A13,CH,"Petrochemical (basic or intermediates) manufacturing or formulating industries",5,A
+A14,CH,"Industrial gas manufacturing, processing or refilling industries",6,A
+A15,CH,"Asphalt processing plants",7,A
+A16,CH,"Industries involved in the manufacture of polymers or polymer based products or polymer or polymer based products, recycling industries",8,A
+A17,CH,"All types of tyres, tubes manufacturing or tyre retreading industries",9,A
+A18,CH,"Industries involved in manufacturing or reconditioning of batteries",10,A
+A19,CH,"Any industry involved in the use of asbestos fibres as a raw material",11,A
+A02,CH,"Soaps, detergents, softener or any other cleansing preparations manufacturing industries having a production capacity of 1,000 kilograms per day or more",12,A
+A20,CH,"Industries involved in manufacturing, extracting or formulating pharmaceuticals or cosmetic products including intermediates",13,A
+A21,CH,"Adhesives manufacturing industries excluding natural gums",14,A
+A22,CH,"Match sticks manufacturing industries and explosives manufacturing or formulating industries",15,A
+A23,TL,"Batik industries where 10 or more workers are employed",16,A
+A24,TL,"Textile processing (i.e. bleaching, dyeing, printing) industries or garment washing industries or textile sand blasting industries or commercial laundries where 10 or more workers are employed",17,A
+A25,TL,Tanneries,18,A
+A26,TL,"Lather finishing industries having effluent generating operations",19,A
+A27,TL,"Jute processing industries",20,A
+A28,TL,"Industries involved in bleaching or dyeing of natural fibre or natural fibre based industries where 25 or more workers are employed",21,A
+A29,TL,"Power looms having 25 or more machines or power looms with sizing activities",22,A
+A03,CH,"Bulk petroleum liquid or liquefied petroleum gas storage or filling facilities having a total capacity of 150 or more metric tons excluding vehicle fuel filling stations",23,A
+A30,FD,"Sugar manufacturing industries or sugar refineries",24,A
+A31,FD,"Fermentation industries (Distilleries, Breweries) or alcoholic beverages bottling plants or bottling plants having bottle washing operations",25,A
+A32,FD,"Food manufacturing and processing industries including bakery products and confectioneries where 25 or more workers are employed",26,A
+A33,FD,Abattoirs,27,A
+A34,FD,"Coconut oil or cinnamon oil extraction industries where 25 or more workers are employed",28,A
+A35,FD,"Plants or animal oil/fats extraction industries having production capacity of 10 litres or more per day excluding coconut oil and cinnamon oil extraction industries",29,A
+A36,FD,"Instant tea or coffee processing industries",30,A
+A37,FD,"Non-alcoholic beverages manufacturing industries where 25 or more workers are employed",31,A
+A38,FD,"Desiccated coconut mills or coconut processing industries where 10 or more workers are employed",32,A
+A39,FD,"Rice mills having wet process and having a production capacity of 5,000 kilograms or more per day",33,A
+A04,CH,"Indusries involved in the use of fibreglass as a raw material where 10 or more workers are employed",34,A
+A40,FD,"All hatcheries or poultry farms having 2,500 or more birds or piggery, cattle, goats farms having animals 50 or more or having rating* for mixed farming 2,500 or more.",35,A
+A41,FD,"Animal feed manufacturing industries having a capacity of 25 or more metric tons per day.",36,A
+A42,FD,"Cigarettes or other tobacco products manufacturing industries where 50 or more workers are employed",37,A
+A43,BM,"Industries involved in surface treatment of metal or plastic including electroplating, galvanizing and powder coating industries",38,A
+A44,BM,"Iron and steel mills",39,A
+A45,BM,"Foundries with any type of furnaces",40,A
+A46,BM,"Non-ferrous metal processing industries including secondary process, smelting and recovery of metals",41,A
+A47,ME,"Metal fabricating industries or machinery, machinery parts or hardware items or electrical and electronic goods and equipment manufacturing or assembling industries where 24 or more workers are employed",42,A
+A48,MP,"Cement industries (clinker grinding, manufacturing or repacking)",43,A
+A49,MP,"Concrete batching plants having a production capacity of 50 or more cubic meters per day",44,A
+A05,CH,"Synthetic rubber, natural rubber manufacturing or processing or rubber based industries excluding industries which manufacture less than 100 kilograms of ribbed smoke rubber sheets per day",45,A
+A50,MP,"Glass or glass based product manufacturing industries",46,A
+A51,MP,"Lime kilns having a production capacity of 20 or more metric tons per day",47,A
+A52,MP,"Ceramic industries where more than 25 or more workers are employed",48,A
+A53,MP,"Mechanized mining activities with multi bore hole blasting or single bore hole blasting activities with production capacity having 600 or more cubic meters per month",49,A
+A54,MP,"Crushing or processing of non-metallic minerals (i.e. limestone, dolomite, apatite.rock phosphate, sand stone, feldspar, quartz, ilmenite, rutile, zircon, mica, graphite, kaolin, etc) excluding lime shell and granite crushing ctivities",50,A
+A55,MP,"Granite boulders making or processing industries (extracting, blasting, slicing, polishing)",51,A
+A56,MP,"Granite crushing (Metal crushing) industries having a total production capacity of 25 or more cubic meters per day",52,A
+A57,SZ,"Common wastewater (industrial or sewage) treatment plants",53,A
+A58,SZ,"Incinerators having a feeding capacity of 5 or more metric tons per day",54,A
+A59,SZ,"Water treatment plants having a treatment capacity of 10,000 or more cubic meters per day",55,A
+A06,CH,"Activated carbon or carbon black manufacturing industries or charcoal manufacturing industries having a production capacity one or more metric ton per batch",56,A
+A60,SZ,"Municipal solid waste and other solid waste composting plants having a capacity or 10 or more metric tons per day",57,A
+A61,SZ,"Solid waste recovery/recycling or processing plants having a capacity of 10 or more metric tons per day",58,A
+A62,SZ,"Soild waste disposal facility having a disposal capacity of 10 or more metric tons per day",59,A
+A63,SZ,"All toxic and hazardous waste treatment facility or disposal facilities or recycling/recovering or storage facilities",60,A
+A64,TW,"Industries involved in chemical treatment and preservation of wood excluding Boron treatment",61,A
+A65,TW,"Saw mills having a milling capacity of 50 or more cubic meters per day or wood based industries where 25 or more workers are employed",62,A
+A66,SL,"Hotels, guest houses, rest houses having 20 or more rooms",63,A
+A67,SL,"Hostels and similar dwelling places where occupancy level is exceeding 200 or more",64,A
+A68,SL,"Health care service centres generating infectious wastes, including medical laboratories and research centres",65,A
+A69,TR,"Automobile or bicycle manufacturing or assembling industries",66,A
+A07,CH,"Industries involved in manufacturing extracting or formulating Ayurvedic, Indigenous medicinal products where 25 or more workers are employed",67,A
+A70,TR,"Vehicles service stations or container yards having vehicle service activities excluding three wheeler and motor cycles services and interior cleaning",68,A
+A71,TR,"Railway workshops or all bus depots having vehicle servicing activities",69,A
+A72,TR,"All vehicle emission testing centres",70,A
+A73,SP,"Electrical power generating utilities excluding standby generators and hydro or solar or wind power generation",71,A
+A74,PP,"Printing presses with lead smelting o newspaper printing or printing process which generates wastewater or colour photographs processing centres ",72,A
+A75,PP,"Paper and Pulp Industries or corrugated cartons manufacturing industries",73,A
+A76,OT,"Any industry where 200 or more workers per shift are employed",74,A
+A77,OT,"Industrial Estates approved under the part IVC of the National environmental Act including Katunayake and Biyagama Export processing Zones",75,A
+A78,OT,"Zoological gardens",76,A
+A79,OT,"Transmission towers providing facilities for telecommunication and boradcasting",77,A
+A08,CH,"Chemical fertilizer manufacturing, formulating, processing or repacking Industries",78,A
+A80,OT,"Any industry not included above which discharges 10 or more cubic meters of wastewater per day or using toxic chemicals in its process",79,A
+A09,CH,"Pesticides, insecticides, fungicides and herbicides manufacturing, formulating or repacking industries",80,A
+B01,CH,"Soaps, detergents, softener or any other cleansing preparations manufacturing industries having a production capacity less than 1,000 kilograms per day",81,B
+B10,TL,"Natural fibre based industries where less than 25 workers are employed excluding industries involved in bleaching or dyeing of natural fibre",82,B
+B11,TL,"Power looms having less than 25 machines",83,B
+B12,TL,"Hand Looms or knitting or embroidery industry having more than 10 looms",84,B
+B13,TL,"Garment industries where 25 or more workers and less than 200 workers per shift are employed",85,B
+B14,FD,"Sugar cane based industries excluding sugar factories of sugar refineries",86,B
+B15,FD,"Food manufacturing and processing industries including bakery products and confectioneries where 5 or more workers and less than 25 workers are employed ",87,B
+B16,FD,"Cinnamon oil extracting industry where less than 25 workers are employed",88,B
+B17,FD,"Rice mills having wet process with a production capacity of less than 5,000 kilograms per day",89,B
+B18,FD,"Grinding mills having production capacity of more than 1,000 kilograms per month",90,B
+B19,FD,"Poultry farms have 250 or more and less than 2,500 birds or piggery, cattle, goats farms having animals 5 or more and less than 50 or having rating * for mixed farming 250 and less than 2,500",91,B
+B02,CH,"Bulk petroleum liquid storage facilities excluding filling stations or liquefied petroleum gas (LP Gas) storage or filling facilities having a total capacity less than 150 metric tons",92,B
+B20,FD,"Animals feed manufacturing industries, having a capacity of less than 25 metric tons per day",93,B
+B21,ME,"All ice manufacturing industries",94,B
+B22,ME,"Metal fabricating industries or machinery, machinery parts or hardware items or electrical and electronic goods and equipment manufacturing or assembling industries where less than 25 workers are employed. ",95,B
+B23,MD,"Concrete batching plants having a capacity less than 50 cubic meters per day",96,B
+B24,MD,"Single borehole blasting with industrial mining activities using explosives, having a production capacity of less than 600 cubic meters per month",97,B
+B25,MD,"Granite crushing (Metal crushing) industries having a total production capacity of less than 25 cubic meters per day excluding manual crushing operations using hand tools",98,B
+B26,SZ,"Municipal solid waste and other solid waste composting plants (excluding household composting) having a capacity of less than 10 metric tons per day",99,B
+B27,SZ,"Solid waste recovery/recycling or processing plants having a capacity of less than 10 metric tons per day",100,B
+B28,SZ,"Solid waste disposal facilities a disposal capacity of less than 10 metric tons per day",101,B
+B29,SL,"Hostels and similar dwelling places where occupancy level or 25 or more boarders and less than 200 borders",102,B
+B03,CH,"industries involved in the use of fibre glass as a raw material where less than 10 workers are employed",103,B
+B30,TR,"Vehicle repairing and maintaining garages including spray painting or mobile air-conditioning activities",104,B
+B31,TR,"Recycling or recovering centres of refrigerants form air-conditioners or refrigerators",105,B
+B32,TR,"Three wheeler or motor cycle servicing activities or vehicle interior cleaning activities",106,B
+B33,OT,"Any industry not included above which discharges 3 or more and less than 10 cubic meters of industrial processing wastewater per day",107,B
+B04,CH,"Ribbed smoke rubber sheet manufacturing industries having a production capacity of more than 50 kilograms and less than 100 kilograms per day ",108,B
+B05,CH,"Activated carbon or carbon black manufacturing industries or charcoal manufacturing industries having a production capacity less than one metric ton per batch",109,B
+B06,CH,"Industries involved in manufacturing, extracting or formulating Ayurvedic, indigenous medicinal products where more than 10 workers and less than 25 workers are employed",110,B
+B07,TL,"Batik industries where less than 10 workers are employed",111,B
+B08,TL,"Commercial laundries where less than 10 workers are employed",112,B
+B09,TL,"Leather finishing industries having dry process operations",113,B
+C01,NULL,"All vehicle filling stations (liquid petroleum and liquefied petroleum gas)",114,C
+C10,NULL,"Tea factories excluding instant tea processing",115,C
+C11,NULL,"Concrete pre-cast industries",116,C
+C12,NULL,"Mechanized cement blocks manufacturing industries",117,C
+C13,NULL,"Lime kilms having a production capacity of less than 20 metric tons per day",118,C
+C14,NULL,"Plaster of Paris industries where less than 25 workers are employed",119,C
+C15,NULL,"Lime shell crushing industries",120,C
+C16,NULL,"Tile and brick kilms",121,C
+C17,NULL,"Single borehole blasting with artisanary mining activities using explosives, having capacity of less than 600 cubic meters per month",122,C
+C18,NULL,"Saw mills having a milling capacity of less than 50 cubic meters per day or industries involved in Boron treatment of wood or timber seasoning ",123,C
+C19,NULL,"Carpentry workshops which use multipurpose carpentry machine or wood based industries where more than 5 workers and less than 25 workers are employed",124,C
+C02,NULL,"Manufacturing of candles where 10 or more workers are employed",125,C
+C20,NULL,"Residential hotels, guest houses, rest houses with 05 or more and less than 20 rooms",126,C
+C21,NULL,"Vehicle repairing or maintaining garages excluding spray-painting or mobile air-conditioning activities",127,C
+C22,NULL,"Repairing, maintaining or installation centres of refrigerators and air-conditioners",128,C
+C23,NULL,"Container yards excluding where vehicle servicing activities are carried out",129,C
+C24,NULL,"All electrical and electronic goods repairing centre where more than 10 workers are employed",130,C
+C25,NULL,"Printing presses and later press machines excluding lead smelting",131,C
+C03,NULL,"Coconut oil extraction industries where 10 or more workers and less than 25 workers are employed",132,C
+C04,NULL,"Non-alcoholic beverages manufacturing industries where 10 or more workers and less than 25 workers are employed",133,C
+C05,NULL,"Rice mills having dry process operations",134,C
+C06,NULL,"Grinding mills having production capacity of less than 1,000 kilograms per month",135,C
+C07,NULL,"Tobacco barns",136,C
+C08,NULL,"Cinnamon fumigating industries with sulphur fumigation having capacity of 500 or more kilograms per batch",137,C
+C09,NULL,"Edible salt packing and processing industries",138,C
+W03,SD,ssssaaaa,139,W
+W22,NULL,"aaaaaaa fff",140,W
+P09,NULL,jjjj,141,P

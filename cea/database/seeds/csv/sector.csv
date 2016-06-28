@@ -1,0 +1,15 @@
+scode,sdescription,Alistnorange,Blistnorange,Clistnorange
+BM,"Metal Industry",43-46,-,-
+CH,"Chemical & Petrochemical",1-22,1-6,1-2
+FD,"Food & Food Related Industry",30-42,14-21,3-10
+ME,"Machinery & Equipment",47,"22,31","22,24"
+MP,"Mineral & Mineral Product",48-56,23-25,11-17
+OT,"Other Activities",76-80,33,-
+PP,"Paper & Printing",74-75,-,25
+SL,"Lodging & Helth Service",66-68,29,20
+SP,Power,73,-,-
+SZ,"Waste Disposal / Waste Water / Water Treatment",57-63,26-28,-
+TC,"Tele Communication Tower ",79,NULL,NULL
+TL,"Textile & Leather",23-29,7-13,-
+TR,"Transport Related Services",69-72,"30,32","21,23"
+TW,"Timber & Wood",64-65,-,18-19

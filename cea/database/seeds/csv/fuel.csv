@@ -1,0 +1,2401 @@
+industryID,fualtype,purpose,fuelconsumption,fid
+1,No,,NULL,1
+2,Diesel,"For Genarater",NULL,2
+4,"Hydrolic oil & Diesel","To genarate hydrolic presure",5000,3
+5,Chocoal,"For Burner",250,4
+6,Diesel,"For Genarator",NULL,5
+7,Kerosin,"Vehicle washing",10,6
+8,"Furnace Oil","To melt Zinc",125,7
+9,Diesal,"For Genarator during the power failer",30,8
+10,"Furnes Oil","For Aluminum Melt",30,9
+14,"LP Gas","For Cooling and Laundry purpose",56,10
+16,Diesal,"For Genarator during the power failer",NULL,11
+17,Diesal,"For Vehicle Servising",5,12
+19,Diesal,"For Genarator",15,13
+20,Diesal,"For Genarator",NULL,14
+20,"Furnanse Oil","For Boiler",NULL,15
+20,"Kerosen Oil",Pollishing,NULL,16
+22,Diesal,"For Genarator during the power failer",NULL,17
+23,"Furnace Oil","For Burner",NULL,18
+24,?????,"???????? ????",NULL,19
+25,"Furnace Oil","For Boiler",50,20
+25,gas,,60,21
+29,Diesal,"For Genarator during the power failer",NULL,22
+30,Diesal,"For Genarator during the power failer",NULL,23
+36,"Kerosene  Oil","For Vehicle Servising",NULL,24
+606,"ඇමෝනියා ගෑස්",,NULL,25
+607,Diesal,,NULL,26
+612,ඩීසල්,,NULL,27
+667,වීසල්,"ජෙනරේටරය සදහා",10,28
+680,"Cutting Oil","ත්‍රෝබ් ලේත් යන්ත්‍රය සදහා",NULL,29
+746,ඩීසල්,"ජෙනරේටරය සදහා",28,30
+865,ඩීසල්,"කම්ප්‍රෙෂර් යන්ත්‍රය සදහා",3,31
+869,ඩීසල්,,10,32
+870,Diesal,"For Compresure",30,33
+868,Diesel,,20,34
+898,"koreosin oil","For washing",0.5,35
+902,Diesal,"For Generator",10,36
+24440,"LP Gas",,12.5,37
+24479,"koreosin oil","For washing",1,38
+24498,Diesal,"For Compresure",10,39
+24503,Diesal,"For Compresure",10,40
+24531,Diesal,"For Compresure",8,41
+24535,Diesal,"For Generator",40,42
+24535,"koreosin oil","for boiler",150,43
+24545,Diesal,"For Compresure",25,44
+24551,Diesal,"For Compresure",25,45
+24553,Diesal,,50,46
+24565,Diesal,,10,47
+17122,dissel,"production heat",3500,48
+1430,"LP Gas","Food Preparation",20,49
+3610,N/A,,NULL,50
+1829,SBP,"To dissolve bonding gum compound to make tyre cement",20,51
+2650,,,NULL,52
+1830,Diesel,"To fire the thermic fluid boiler",70,53
+1040,Diesel,"For generator",NULL,54
+3282,No,,NULL,55
+1830,No,,NULL,56
+3282,,,NULL,57
+15353,Diesel,"Fuel for generator",20,58
+24608,Dessel,Fuel,250,59
+24614,,"Only DG",38,60
+24617,Dessel,"Machine Operate ",125,61
+16443,Husk,"For boiler",150,62
+16444,Husk,"For boilers",750,63
+1842,Deisel,,NULL,64
+16445,Husk,"Used for boilers",400,65
+4223,L.P.Gas,"For Cookers",NULL,66
+16447,Husk,"Used for boilers",200,67
+16448,Husk,"Used for boiler",300,68
+993,"Furnance oil 600 secs","For boiler",250,69
+1855,Diesel,,NULL,70
+1855,Gas,,NULL,71
+4088,Diesel/Petrol,"For forklift",15,72
+16451,HUSK,"FUEL FOR BOILER",750,73
+16449,HUSK,BOILER,300,74
+1006,Diesel,"Generator, boiler & cooking",NULL,75
+17750,Deisel,,NULL,76
+24679,Dessel,Macine,20,77
+17745,Diesel,"for machines",20,78
+17742,Diesel,Vehicles,20,79
+17753,Diesel,,20,80
+17740,Dessel,"Machine operete",200,81
+17754,Diesel,"For Compresher",100,82
+17830,Diesel,"For machines",20,83
+17831,diesel,,NULL,84
+17747,Diesel,"For vehicles",40,85
+17312,Diesel,Equipments,200,86
+17746,Dessel,Machine,20,87
+17736,Diesel,"For genaretor",50,88
+17319,Diesel,Machineries,400,89
+17309,Dessel,Machine,300,90
+17826,Diesel,"For Machines",50,91
+17327,Diesel,"For Machine",30,92
+17330,Dessel,"Machine operete",400,93
+17371,Diesel,Machineries,75,94
+17307,Diesel,,NULL,95
+17741,Diesel,"For Machines",60,96
+18712,Dessel,Machine,5,97
+17253,Diesel,Machineries,NULL,98
+17332,Diesel,"For machines",300,99
+17257,Diesel,Machineries,NULL,100
+17777,Diesel,"For machine",10,101
+17118,Diesel,"For machinery use",NULL,102
+17183,Diesel,"For machinary use",60,103
+17120,Diesel,"For Machines",15,104
+17254,Diesel,Machineries,100,105
+17181,Diesel,"For vehicle",200,106
+17155,"Paddy Husk","For Boiler",800,107
+17374,Diesel,"For production",300,108
+18731,Diesel,Machineries,NULL,109
+18734,Dessel,"Machine operate",NULL,110
+17049,Diesel,"To break granite and transport",NULL,111
+17256,Diesel,,NULL,112
+18730,Dessel,"operate genarater",100,113
+17182,Dessel,"For Machine",70,114
+17001,Diesel,,80,115
+17119,Diesel,"For Machines",75,116
+17123,Dessel,"For Machine",10,117
+18716,Diesel,"For machines",30,118
+17117,Diesel,"For Machines",20,119
+17121,Diesel,"For Machines",50,120
+17054,Diesel,"For Machnes",3,121
+18330,Diesel,"Machineries and vehicles",1.6,122
+18174,Dessel,Generetor,6.5,123
+16450,Husk,"For boilers",300,124
+1850,Electricity,"Recycling and manufacturing",200,125
+17061,"Paddy Husk","To generate stream by boiler",NULL,126
+1006,"Furnase oil","Generator, boiler & cooking",1700,127
+1006,"LP Gas","Generator, boiler & cooking",350,128
+18170,Diesel,"For transport",NULL,129
+17470,Diesel,,NULL,130
+18039,Diesel,"For current generation",60,131
+18053,Diesel,"For break granite",50,132
+10615,Deisel,"Crushing ",15,133
+3305,No,,NULL,134
+995,"Furnance oil","For boiler",1200,135
+995,Diesel,Generators,50,136
+995,"LP Gas","For cooking",180,137
+18036,,,NULL,138
+10614,"kerosene and diesel","Diesel- For generator.Kerosene - drier machine",NULL,139
+18036,Diesel,"For transport",30,140
+17942,,Machinery,NULL,141
+18055,"burnt oil","lit the burner",NULL,142
+17939,"Diesel ",Machinery,40,143
+17933,"Deesal ",,NULL,144
+17945,Diesel,"For machinerry & vehicle use",75,145
+17991,Dessel,"Transport meterials",30,146
+10613,,,NULL,147
+17930,Diesel,"For machine",30,148
+17505,"Deisel ","For machines ",20,149
+17935,"Diesel ",Vehicles,10,150
+16452,Husk,"For boiler",750,151
+18173,Diesel,"For transport the product",NULL,152
+17994,"Diesel ",Machinery,NULL,153
+18173,,,NULL,154
+17066,Diesel,"For Machines",20,155
+10609,kerosene,"To remove crude oil and grease and tar",2,156
+16455,Husk,"For Boiler",375,157
+17059,Diesel,"For Machine",25,158
+16456,Husk,"For boiler",750,159
+994,Diesel,"To operate stand by generator during power failure",NULL,160
+1832,Diesel,"Generator and folk lift",NULL,161
+3241,No,,NULL,162
+17846,desel,"lit the burner",200,163
+17846,"LP gas","lit the burner",50,164
+17842,Oil,"For vehicles",NULL,165
+18037,"Diesel ",Vehicles,7,166
+17835,"Diesel ",Vehicles,20,167
+3310,,,NULL,168
+18503,Diesel,"For machinary use",NULL,169
+1010,Diesel,"Incinerator, generators",57,170
+16457,Husk,"For boiler",1000,171
+16458,Husk,"For boilers",375,172
+17506,desal,"for mashines",10,173
+2465,"Kerosene oil","Vehicle Cleaning purpose",10,174
+16459,Husk,"For boilers",375,175
+17324,"Dessal  ","operate machine ",20,176
+17847,"Diesel ",Machinery,20,177
+18499,Diesel,"For machines and vehicles",420,178
+1265,"LP Gas",Cooking,220,179
+1859,Diesel,"Heat generating quipments",100,180
+1859,"Thermic fluid",,NULL,181
+3312,"Caltex, Mobil","For vehicles",15,182
+18414,"Woode ","Boiling paddy ",100,183
+24721,Disel,"For Generates",45,184
+1037,"LP Gas",Cooking,5,185
+18639,"Hydrolic oil",Machinery,NULL,186
+18418,"Desal ","Operate Machine  ",5,187
+2610,Disel,"for machine usage",150,188
+1068,"LP Gas",Cooking,NULL,189
+17844,"Diesel ",Vehicles,10,190
+2659,"Kerosene oil","For Cleaning",2,191
+916,,Generators,NULL,192
+1866,Diesel,"Mechine Operation",300,193
+2422,Diesel,"Mechine Operation",NULL,194
+927,Diesel,"For generator",250,195
+2601,Eletracity,"Operate machines",NULL,196
+1865,Diesel,"Generator operating",NULL,197
+17849,desal,"for machins",20,198
+997,Diesel,"For generator",NULL,199
+24733,Diesel,"For power Generation and running vehicals",200,200
+3289,N/A,-,NULL,201
+24735,diesel,"for breaker & drilling",10,202
+2445,"Kerosene oil","For Vehicle Washing",5,203
+10709,Diesel,"drilling and breaking",10,204
+2446,"Kerosene oil",,10,205
+1076,Diesel,"For generator",NULL,206
+1076,"LP Gas",Coocking,NULL,207
+24742,"Rice husk","for Boiler machine",1500,208
+24743,Diesel,"Steam boiler",275,209
+17989,,Machinery,150,210
+915,"Furnace oil",Boilers,1500,211
+2588,"Kerosene oil",,50,212
+10708,diesel,"for compressor and tractor",20,213
+3262,No,-,0,214
+10707,diesel,"for generator",35,215
+1054,Diesel,"For generator",NULL,216
+24747,disel,"for genarators",100,217
+24757,"diesel ","for machineries",4000,218
+10517,Diesel,"For Generator",NULL,219
+10510,Diesel,Generator,5,220
+16461,Husk,"For boiler",750,221
+15351,Diesel,"Ignite the raw material",3500,222
+18997,,,NULL,223
+24766,Diesel,"Machinary use",NULL,224
+18995,,,NULL,225
+16462,Husk,"For boiler",750,226
+24768,Diesel,"For machinary  use",5,227
+16463,Husk,"For boilers",750,228
+17941,"Diesel, oil","For machinary use",NULL,229
+10492,Diesel,"For generator",40,230
+19215,no,no,0,231
+16570,"Paddy husk",Boiling,NULL,232
+16570,"Paddy husk",Boiling,NULL,233
+16597,"paddy husk",Boiling,260,234
+16597,,Boiling,NULL,235
+989,Petrol,"Carberator cleaning",10,236
+16464,Husk,"For boiler",500,237
+2550,Disel,"To operate machines",15,238
+10608,Diesel,"For generator",25,239
+1014,Diesel,Generator,NULL,240
+16465,Husk,"For boilers",750,241
+24778,"LP Gas","Cooking & preperation",40,242
+24773,"Diesel ",Machinery,40,243
+1887,Diesel,"For vehicles",NULL,244
+1887,Gas,,NULL,245
+17845,"Diesel ",Machinery,NULL,246
+2443,Disel,"To operate machines",10,247
+3292,Diesel,"Diesel generator",NULL,248
+18586,Diesel,"For machinary use",100,249
+24783,"LP Gas",Cooking,2,250
+18103,Desal,,NULL,251
+24787,Disel,"For Machine",40,252
+16466,Husk,"For boilers",500,253
+1071,"LP Gas",Cooking,5,254
+3231,No,-,NULL,255
+24790,"LP Gas",Cooking,40,256
+16467,Husk,"For boiler",500,257
+24794,"LP Gas",Cooking,2,258
+6192,"Diesel ","For machines",50,259
+16468,Husk,"For boilers",150,260
+1073,"LP Gas",Cooking,40,261
+3215,Diesel,"Diesel generator",NULL,262
+1898,Diesel,"Mechine Operation",6,263
+17406,"Diesel ",Machinery,10,264
+14156,Deisel,Generator,40,265
+16470,Husk,"Fro boilers",500,266
+917,"Diesel & Furnace oil","For boiler & generator",1020,267
+16573,"Paddy husk",,NULL,268
+16573,"paddy husk",Boiling,450,269
+1901,Diesel,,10,270
+24803,"Diesel ",Machinery,30,271
+3222,No,-,NULL,272
+11866,Diesel,"power generation",5,273
+24802,"LP gas,diesel,petrol","for dryer ,vehicles and generator",NULL,274
+12044,"paddy husk",boiler,NULL,275
+16566,"paddy husk",Boiling,NULL,276
+11864,Diesel,,10,277
+6191,diesel,"for mining",50,278
+16566,,Boiling,400,279
+16765,"Fire Wood","Bake ",30,280
+17387,Deisal,"Generator ",800,281
+1069,"Diesel engine oil","For generator",0.88,282
+1069,Diesel,"For generator",NULL,283
+1069,"Palm oil","Frying of food ",14,284
+17465,"Diesel ","For Generator and Vehicle",20,285
+6159,diesel,"for machines",40,286
+17400,"Diesel ",,NULL,287
+3201,No,-,NULL,288
+2763,Disel,"Operate machines",50,289
+17384,Diesel,"For genarators",400,290
+24808,Disel,"Metal crushing",8,291
+16475,Husk,"For boilers",500,292
+24811,Diesel,"For genarator",5,293
+1906,petrol,,NULL,294
+1906,Kerosene,,NULL,295
+12020,"burnt oil","electricity genaration",10,296
+16476,Husk,"For boilers",500,297
+3195,"Kerosine oil","cleaning machinery after soaking cotton waste",25,298
+16568,"paddy husk","Boiling water",120,299
+2835,Disel,"Operate machines",10,300
+16477,Husk,"For boiler",500,301
+1909,Diesel,"To clean vehicles",2,302
+1909,Kerosene,"To clean vehicles",2,303
+16478,Husk,"For boiler",500,304
+4998,Diesel,"For generator",NULL,305
+18668,Desal,,30,306
+16564,"paddy husk","Boiling water",280,307
+16800,"Fire wood ","Bake ",40,308
+18680,"Diesel ","For Machines ",50,309
+1908,"Burning oil","For boiller",250,310
+16480,Husk,"For boiler",200,311
+4996,"LP Gas",Cooking,NULL,312
+4996,Diesel,"For generator",50,313
+3228,Diesel,"Boilers and generators",30,314
+17375,Diesel,Machinery,NULL,315
+16562,"paddy husk","Boiling water",280,316
+5006,"LP Gas",Cooking,40,317
+17389,Diesel,"For machines",30,318
+5014,"LP Gas",Cooking,45,319
+1917,Diesel,Transport,1000,320
+2453,Disel,"To genarate compresure machines ",30,321
+4987,Diesel,"Electricity break down",NULL,322
+3339,No,-,NULL,323
+18666,Diesel,"For machine",30,324
+18366,"Diesel ","For Machines ",NULL,325
+4992,"LP Gas",Cooking,NULL,326
+2616,Disel,"Operate machines",30,327
+24822,Diesel,Machinery,10,328
+24822,Kerasol,Machinery,10,329
+18363,"Diesel ","For Machines ",NULL,330
+17392,"Deisel ","Boiler and generatort",1,331
+5138,"LP Gas",Cooking,10,332
+17755,Diesel,"For Genarator",175,333
+1920,Diesel,"Diesel generator",NULL,334
+17232,,,NULL,335
+5038,"LP Gas",Cooking,NULL,336
+3227,Diesel,"For truck mixers/ concrete pumps/ Generators",500,337
+18352,"Diesel ","For Machines ",40,338
+24824,Diesel,"Machinery use",10,339
+18427,Diesel,"Generator, Loader",200,340
+5140,"LP Gas",Cooking,5,341
+17385,Diesel,"Machinery use",200,342
+24825,"Paddy husk","Steam Generation",NULL,343
+3598,Diesel,"Crane and crane",50,344
+18664,Diesel,,10,345
+5129,"LP Gas",Cooking,15,346
+18648,Diesel,"Machinery use",30,347
+5133,"LP Gas",Cooking,13,348
+2799,Disel,"Metal crushing",NULL,349
+5040,"LP Gas",Cooking,12,350
+3213,No,-,NULL,351
+2752,Disel,"Operate machines",10,352
+5003,Diesel,"For generator",NULL,353
+5003,"LP Gas","Cooking & Cloth drirer",NULL,354
+16754,"Paddy husk ","Boiling of water",600,355
+2439,Disel,"Operate machines",40,356
+3302,No,-,NULL,357
+2613,Disel,"To operate machines",30,358
+3233,Diesel,"Diesel generator",NULL,359
+5142,"LP Gas",Cooking,2,360
+2554,Disel,"Operate machines",20,361
+1927,Diesel,"For vehicles",600,362
+5139,Diesel,"For generator",NULL,363
+1927,Kerosene,kiln,2500,364
+3338,No,-,NULL,365
+1924,Diesel,"Generator operating",NULL,366
+5001,"Furnace oil",Boiler,600,367
+1932,wood,"Boiling raw materials",NULL,368
+1000,"Furnace oil",Boiler,550,369
+5030,Diesel,"For generator",NULL,370
+2999,Disel,"Metal crushing",15,371
+3239,No,-,NULL,372
+3286,No,-,NULL,373
+16755,"Paddy husk","Boiling ",300,374
+14640,"Kerosene ","Washing  Parts of Motobike",1,375
+16756,"Paddy husk ","Boiling ",500,376
+16572,"paddy husk","Boiling water",100,377
+16572,,,NULL,378
+16763,"Paddy husk ",Boiling,600,379
+16773,"Paddy husk ","Boiling ",600,380
+16482,Husk,"For boiler",500,381
+16485,"Paddy husk","For boiler",800,382
+16486,"Paddy husk","For boiler",800,383
+16489,"Paddy husk ","For boiler",500,384
+16762,"Fire wood ","Barking ",100,385
+16813,"L.P.gas ","Cooking ",13.5,386
+11755,kerosine,cleaning,NULL,387
+11755,diesel,cleaning,NULL,388
+24851,Electricity,"For food Mixer",NULL,389
+11718,Diesel,"For compress",25,390
+11822,Diesel,,165,391
+11736,Diesel,"electricity genaration",NULL,392
+5357,,,NULL,393
+10219,Diesel,"Generator/ steam boiler",894,394
+1938,Diesel,"Heating of aggregates and vehicles",4500,395
+2847,Disel,"Operate machines",NULL,396
+11722,Diesel,"Drilling rock",10,397
+11680,Diesel,"power genaration",125,398
+2547,Disel,"Operate machines",6,399
+16487,Husk,"For boiler",500,400
+24859,Desal,"to starting power generator",250,401
+3224,Diesel,"Diesel Generator",NULL,402
+11852,Diesel,,NULL,403
+11852,Greeze,,NULL,404
+11852,Kerozene,,NULL,405
+16490,Husk,"For boiler",500,406
+24861,"furness oil, crude oil",meltinh,80,407
+11861,Diesel,,25,408
+2760,Disel,"Operate machines",20,409
+11861,Oil,,1,410
+16491,"Paddy husk","For boiler",500,411
+18373,Diesel,"For Machines",NULL,412
+2405,Diesel,"for loaders,Truks,pump cars and generators",1100,413
+16757,"Fire wood ","Barking ",50,414
+18665,Diesel,Generator,NULL,415
+10459,Disel,"power generation",100,416
+24866,Diesel,"Power generation",45,417
+12149,Diesel,"bore the rock",50,418
+3309,No,-,NULL,419
+16496,Husk,"for boiler",500,420
+16570,"paddy husk","Boiling water",275,421
+11933,Diesel,,15,422
+6610,,,NULL,423
+3274,No,-,NULL,424
+12151,Diesel,Tractor,NULL,425
+4107,Kerosine,"For service purposes",3,426
+24877,diesel,"For Compressor and Bacco machines",20,427
+16565,"paddy husk","Boiling water",150,428
+18378,Diesel,"for generator",NULL,429
+1947,Diesel,Crushers,50,430
+18428,Diesel,,250,431
+10445,"diesel ","lime stone mining ",NULL,432
+11831,"Paddy husk",,1500,433
+3323,No,-,NULL,434
+18429,Diesel,"For Machinery",100,435
+17243,Diesel,,20,436
+11785,"Paddy husk","Power genaration",NULL,437
+16441,"Paddy husk","For boilers",1000,438
+5353,"Diesel,Cerocene Oi,","Drying,Power genarating",10,439
+16574,"paddy husk","Boiling water",300,440
+4108,"Furnance oil","For boilers",520,441
+4108,Wood,"For boilers",12,442
+3298,No,-,NULL,443
+16563,"paddy husk","Boiling water",260,444
+998,Diesel,"To operate the boiler &   stand by generator",94.6,445
+16567,"paddy husk","Boiling water",200,446
+24887,Diesel,Heating,0.4,447
+16575,"paddy husk","Boiling water",280,448
+16569,"paddy husk","Boiling water",255,449
+16571,"paddy husk","Boiling water",200,450
+18358,Diesel,"For Machines",30,451
+18337,Diesel,"For Machines",NULL,452
+1933,Kerosene,"For Boiler",60,453
+5033,Diesel,Transport,35,454
+3209,No,-,NULL,455
+4072,"Furnance oil","Burner heating",20,456
+2463,Disel,"Operate machines",20,457
+1028,Diesel,"Generator (When power cut)",10,458
+1945,"Furnace oil","For Boiler",130,459
+6111,Diesel,"For generator",NULL,460
+16758,"diesel ","Operating generator in power failure time ",5,461
+5137,"L P Gas",Cooking,10,462
+1020,Diesel,Generator,NULL,463
+3234,Diesel,Generator,NULL,464
+1955,Diesel,"oil heating",40,465
+1067,"LP Gas",Cooking,7,466
+1067,Diesel,Generator,100,467
+17205,diesal,,NULL,468
+1843,Diesel,"For vehicles",NULL,469
+5024,Diesel,Generator,NULL,470
+3226,Diesel,"for cranes and heavy equipments",NULL,471
+5036,"LP Gas",Cooking,60,472
+1946,Diesel,"Mechine Operation",50,473
+16988,Diesel,"Operation of Machenaris",10,474
+24909,Diesal,"Operate Machine",NULL,475
+2068,Diesel,"Compressure machine",10,476
+4791,Kerosene,Washing,NULL,477
+18377,Diesel,"for generator",26.49,478
+11824,"Paddy husk","for Boileruwa",600,479
+4662,Diesel,"For boiler",40,480
+16918,Kerosen,washin,0.1,481
+18375,Deisel,,NULL,482
+18202,Diesel,"Vehicle useage",3,483
+6116,Diesal,"for generators",5,484
+6116,,,NULL,485
+16380,"Diesel ","for drilling",2.5,486
+6165,Diesel,"for sand by generator",NULL,487
+18996,,,NULL,488
+18379,Diesel,,NULL,489
+18205,Diesel,"Production process",50,490
+1016,"LP Gas",Cooking,NULL,491
+1275,Diesel,"For generator",NULL,492
+3538,No,-,NULL,493
+10260,Diesel,"For Machinaries",50,494
+1957,Diesel,generator,NULL,495
+16921,Kerosen,washing,0.05,496
+2590,Diesel,"To operate gnarators",NULL,497
+1017,Diesel,"Generator, boiler & incinerator",NULL,498
+1017,Gas,"For lab use",NULL,499
+3284,No,-,NULL,500
+4620,"LP Gas","Printer & oven heating",750,501
+16922,Kerosen,washing,0.05,502
+19019,,,NULL,503
+11676,Diesel,"to machines",100,504
+24925,Diesel,,NULL,505
+10264,Diesel,"To operate the ready mixed plant",50,506
+3190,diesel,"For vehicles and power generators",1000,507
+4627,"LP Gas","Drying ovens",430,508
+4627,"Furnance oil","Welding Torches",260,509
+3221,No,-,NULL,510
+1070,"LP Gas",Cooking,75,511
+6196,Diesel,Generator,NULL,512
+18228,Petrol,"for Generators",NULL,513
+6109,"Burned oil","for boiler",150,514
+922,"Karosene & Diesel",,30,515
+2276,Diesel,Generator,NULL,516
+24926,"Paddy husk","For boiler",80,517
+24935,Kerosine,"To clean vehicle",10,518
+4606,Diesel,"For generator",NULL,519
+3190,"Furnace Oil","for rodmill furnaces",4000,520
+18194,Diesel,"For generator and Cooking",NULL,521
+18194,Wood,"For generator and Cooking",30,522
+18194,Gas,"For generator and Cooking",3,523
+6198,Diesel,"Stand by generator",NULL,524
+4611,"Furnance oil",drying,850,525
+2598,Disel,"Metal Quarry",NULL,526
+3225,Diesel,Generators,NULL,527
+6199,Diesel,"Stand by generator",NULL,528
+3257,Diesel,,2700,529
+2802,Disel,"Metal Crush",NULL,530
+3483,No,,NULL,531
+10233,,"Stand by",3.9,532
+2407,Diesel,"For boilers and generator",130,533
+11767,Kerosine,Washing,4,534
+4696,Diesel,"For generator",250,535
+11772,"Paddy husk","for boiling paddy",NULL,536
+2037,Diesel,"For vehicle",350,537
+24946,Diesel,"Generators & Jonylift machines ",8,538
+973,"Kerosene oil","Cleaning of machine parts, printing rollers",2,539
+11931,Diesel,"For compressor",20,540
+5168,"L P gas",Cooking,NULL,541
+2624,Disel,"To operatrate machines",15,542
+24947,Diesel,"Operate Machine ",10,543
+4751,Diesel,"For generator",NULL,544
+16403,Diesel,"For mechinery operation",30,545
+5196,"L P gas",Cooking,37,546
+4603,Kerosene,"For firing",10,547
+2625,Disel,,NULL,548
+18207,deisel,,5,549
+18207,"kerosene oil",,5,550
+18923,Diesel,"Emergency use",0.1,551
+12171,Diesel,,50,552
+11675,Diesel,"for machines",100,553
+17278,Deisel,"For machins ",25,554
+18183,Kerasol,"Removing Tar from Vehicles",NULL,555
+12169,Diesel,,50,556
+11672,Diesel,"For machines",600,557
+12170,Diesel,,NULL,558
+4615,Diesel,,NULL,559
+18206,Diesel,"For Vehicles",15,560
+5000,Diesel,"For generator",NULL,561
+1973,Diesel,"For vehicle",100,562
+16375,Diesel,"operation of mechineries",153,563
+3504,No,,NULL,564
+4693,Diesel,"For generator",70,565
+1122,"LP Gas",Cooking,37.5,566
+1122,Diesel,"For generator",NULL,567
+24962,L.P.gas,cooking,10,568
+6623,Diesel,"For equipments",4,569
+1150,Diesel,"For generator & vehicles",50,570
+4795,Diesel,"For generator",250,571
+18195,Kerasol,,NULL,572
+1074,"LP Gas",Cooking,40,573
+1296,"Domestic and Medical Gas",,NULL,574
+11792,Diesel,"for Boiler",40,575
+18308,Diesel,,NULL,576
+16580,,,NULL,577
+3603,No,,NULL,578
+17021,Deisel,"Machine operate",30,579
+11773,"Paddy husk","For boiler",1000000,580
+4632,"Diesel/Furnance oil","To run boiler and generators",NULL,581
+17024,Deisel,"Machine operate",30,582
+3533,No,,NULL,583
+1299,Diesel,,NULL,584
+1299,Gas,"For bakery production",NULL,585
+18320,Diesel,"Vehicle use",300,586
+18197,Diesel,,NULL,587
+1033,Diesel,"To operate ovens",100,588
+1978,Diesel,"For generator",NULL,589
+16580,Deisal,"Operating Generator ",120,590
+24977,L.P.gas,cooking,10,591
+5189,"Diesel ","For generators",10,592
+17039,Deisel,"Machine operate",20,593
+990,"Kerosene oil","Operate machines",NULL,594
+18924,Diesel,Emergency,0.1,595
+1977,Gas,kiln,500,596
+4610,"Furnance oil","For boiler",300,597
+10231,Penitrating,"Reduce Corrosive effect on vehicals",15,598
+6141,Diesel,"Standby Generator",NULL,599
+16386,Diesel,"operation of mechineries",120,600
+1072,"LP Gas",Cooking,30,601
+17042,Deisel,"Machine operate",NULL,602
+24963,kerosene,"washing vehicals",3,603
+3552,"L.P. gas","for furnace",20,604
+5816,,,NULL,605
+1292,Gas,"For Cookers",0.2,606
+16588,Diesal,"Operating generator.",110,607
+1246,"LP Gas",Cooking,NULL,608
+10240,Kerosene,washing,5,609
+2073,Diesel,"to fire the furnace and heat the annealing oven  ",600,610
+16416,"fire wood","Baking ",100,611
+6337,Diesel,"Standby Generator",NULL,612
+10146,"Diesel ","For air pressure ",NULL,613
+12024,"Paddy husk",Boiler,1200,614
+6337,,,NULL,615
+1270,Gas,Welding,NULL,616
+5131,"LP Gas",Cooking,3.3,617
+2892,No,,NULL,618
+6169,diesel,"standby generator",NULL,619
+16418,Diesel,"For drilling ",10,620
+4624,"Furnance oil",Combustion,1500,621
+3198,Diesel,boiler,35,622
+16761,"kerosene ","operating  of Generator ",3,623
+17221,Diesel,"For Machines",5,624
+16385,Diesel,"Operation of compressor",120,625
+1261,"LP Gas","Gas oven",40,626
+1261,Diesel,,15,627
+12028,"paddy husk","For boiler",NULL,628
+3428,No,,NULL,629
+4599,Diesel,"For stand by operation",4.16,630
+10472,Disel,,NULL,631
+5025,Diesel,"For generator",NULL,632
+5025,"Kerosene oil","Burn hospital waste",2.8,633
+11935,Diesel,"power generation",75,634
+6168,Diesel,"Standby generator",NULL,635
+18621,,"For machinary use",20,636
+1057,Diesel,"For generator",NULL,637
+3543,No,,NULL,638
+16989,"Diesel ","Operating Compressure ",20,639
+4811,L.P.Gas,Heaters,72,640
+5013,Diesel,"Operating standby generators, hot water boiler & incinerator",100,641
+1280,"Petrol and Kerosene","Washing and cleaning",1.5,642
+1002,"Petrol/ diesel",Transportation,20,643
+1281,Diesel,"To generator",NULL,644
+6336,diesel,"standby generator",NULL,645
+4670,Diesel,"For generator",250,646
+3587,kerosine,"cleaning parts",1,647
+6339,diesel,"standby generator",NULL,648
+4639,Petrol,"For vehicles",30,649
+4639,Diesel,"For vehicles",50,650
+5039,"LP Gas",Cooking,NULL,651
+16990,"Diesel ","Operation of  machineries   ",25,652
+4631,Diesel,"For generator",75,653
+6164,diesel,generator,NULL,654
+3393,No,,NULL,655
+15386,Diesel,"Fuel for generator",50,656
+16991,"Diesel ","Operation of  machineries  ",30,657
+2307,Diesel,"firing ",75,658
+1988,Diesel,"for machines",15,659
+25011,Diesel,,NULL,660
+16594,Diesel,"Operating Generator.",6,661
+16419,Diesel,"For drilling rocks",10,662
+6171,"kerosene oil","washing vehicles",10,663
+17517,Diesel,,50,664
+16638,Gas,,30,665
+16638,Disel,,10,666
+17726,Deisel,Generator,200,667
+17224,Deisal,,10,668
+17535,Diesel,,35,669
+15392,Diesel,"Operation of Generator",80,670
+25018,Disel,"For engine",10,671
+17511,Diesel,,NULL,672
+17229,Deisel,"boring machins ",5,673
+16420,Diesel,"Incase of power supply failure",NULL,674
+17637,Diesel,,25,675
+17526,Deisel,Compresurs,NULL,676
+17519,"Kerosene ","Burners heating",125,677
+25030,Diesel,"Machine operete",700,678
+16612,,,NULL,679
+16516,Husk,"for boilers",500,680
+17571,Diesel,"Machinery use",35,681
+16622,,,NULL,682
+18628,Diesel,"For machinary use",5,683
+17529,Diesel,20,NULL,684
+25034,Diesel,"for mashinery",60,685
+16521,husk,"for boilers",500,686
+17521,Diesel,Machine,15,687
+17727,Diesel,,20,688
+17727,Diesel,,NULL,689
+17547,Diesel,,400,690
+17534,Gas,"For kitchen purpose",27,691
+17534,Diesel,"For generetor",NULL,692
+16594,,,NULL,693
+19009,"paddy husk","boiling rice",15,694
+19010,"Paddy husk","For boiling",50,695
+19011,"paddy husk","boiling rice",50,696
+19012,"Paddy husk",boiling,50,697
+17533,Diesel,"For machinary use",80,698
+17516,"Diesel ","For machines ",80,699
+17555,Diesel,"operate excavator & compressor ",300,700
+19018,"Paddy husk",Boiling,100,701
+18430,Diesel,"for Loader & Generator",75,702
+17723,Diesel,"For machine",75,703
+17549,"Diesel  ","for compressor ",100,704
+17523,"Diesel ","for Machines",100,705
+17540,Diesel,"To crush metal",NULL,706
+18203,"LP gas","For cooking",NULL,707
+17512,"Diesel ","Boring rocks  ",NULL,708
+18315,Diesel,"operate generatr",NULL,709
+16683,diesel,"fuel for generator",2,710
+17642,Diesel,Compressure,20,711
+25043,Diesel,"for Boilers & Generators",NULL,712
+17552,Diesel,"Heat tar and metal",3600,713
+17655,Diesel,"For machinary use ",NULL,714
+18189,Diesel,"For generator",100,715
+17657,Diesel,"For compressure",NULL,716
+25046,Diesel,"For Machinery",100,717
+17659,Diesel,"For machine",40,718
+17565,Diesel,Vehicle,40,719
+17524,Diesel,"for compressor, Excavator ",120,720
+18181,Diesel,"For Generator",7,721
+18193,Diesel,"For Generator",32,722
+24991,,,125,723
+24991,L.P.G,"For heating",125,724
+11674,Diesel,"For machines",NULL,725
+18452,Diesel,"For Machinery use",NULL,726
+17643,Diesel,"For machinary use",20,727
+11932,Diesel,Generator,15,728
+11717,oil,"for service",5,729
+11716,Diesel,"for engine",20,730
+17646,Diesel,"For machinary use",40,731
+25052,"Diesel ","For generators",NULL,732
+12041,"Paddy husk","For boiler",NULL,733
+18468,Diesel,,75,734
+16576,Deisel,"Operating for  Generator",50,735
+25053,Deisal,"For Rastem engine",25,736
+16928,Kerosen,washing,0.05,737
+6556,,,NULL,738
+25048,Deisel,"Operate generetor ",10,739
+16992,"Kerosene ","To Clean the Painting Burss ",0.16,740
+25060,"Petrol, Cerocine",,1,741
+18469,Diesel,"For machinery",20,742
+6547,,,NULL,743
+16929,N/A,,NULL,744
+16946,Diesel,"Operating water pumbs",120,745
+11681,Diesel,,NULL,746
+6546,,,NULL,747
+16993,,,NULL,748
+12014,"Paddy husk","For Boiler",3000,749
+6543,,,NULL,750
+16931,N/A,,NULL,751
+11703,Diesel,"for holing matal",50,752
+25067,Diesel,,NULL,753
+25066,Deisel,"For vehicle",30,754
+16994,,,NULL,755
+11936,Diesel,"for machineries",8,756
+16955,Diesel,"Operating water bump ",10,757
+18449,Diesel,,40,758
+17832,Diesel,"For machinary use",30,759
+17539,Diesel,"for machines",700,760
+16932,Nil,,NULL,761
+16956,Diesel,"Operating Generator",10,762
+18311,Diesel,"For Vehicle",30,763
+10664,Diesel,generator,5,764
+18454,Diesel,"For Machinery use",20,765
+16579,Deisel,"operating generator",25,766
+16957,Diesel,"Operating Generator",10,767
+18640,Diesel,Machine,52,768
+11705,Diesel,"Explosive purpose",20,769
+10348,Disel,"for two wheel tractor",1,770
+16995,,,NULL,771
+17796,Diesel,"For machinary use",NULL,772
+17541,Diesel,"For machinery Use",100,773
+11685,Diesel,"For machineries",500,774
+15388,Diesel,"operation of Generator",350,775
+16958,Diesel,"Operating Generator",10,776
+11738,Diesel,"For machineries",25,777
+16860,"Paddy husk",Boiling,100,778
+15389,Diesel,"operation of generator",120,779
+11719,Diesel,,10,780
+3220,Diesel,"Generator (stand by only/ Sound proof)",NULL,781
+16997,,,NULL,782
+16962,Diesel,"Operating Generator",10,783
+12030,"Paddy husk","For boiler",4500,784
+2018,Diesel,"Generator operating",12,785
+18617,Diesel,,30,786
+18464,Diesel,"For Machinery use",5,787
+25089,"Diesel ","for machines ",NULL,788
+15393,Diesel,"operation of generator",120,789
+6625,Diesel,"For Macheneries",6,790
+10120,diesel,"For generator",NULL,791
+11713,Diesel,"Explosive purpose",10,792
+16963,Diesel,"Operating Generator",10,793
+15391,Diesel,"Operation of Machinery",80,794
+6554,desal,Generator,NULL,795
+985,Diesel,,NULL,796
+3335,"fire wood","to heat paints",10,797
+17560,Diesel,"For Machinery",60,798
+16964,Diesel,"Operating Generator",15,799
+15387,Diesel,"operation of generator",100,800
+16996,Diesel,"For drilling rocks",30,801
+25094,Disel,"For generators",8,802
+15413,Diesel,"operation of Machinery",50,803
+16966,Diesel,"Operating Generator",10,804
+16987,,,NULL,805
+16877,"Paddy husk","Boiling of water",200,806
+25098,"Diesel & Petrol ","For Generator/ Solution",8,807
+3194,"furnace oil","for boilers and stand by generator",100,808
+3194,Diesel,"forboiler and standby generator",100,809
+16967,Diesel,"Operating Generator",10,810
+16582,Deisel,"operating generator.",20,811
+6542,desal,"Generator oparate",0.333,812
+15390,Diesel,"operation of Generator",50,813
+16968,Diesel,"Operating Generator",10,814
+1027,Diesel,,NULL,815
+16585,Deisel,"Operating generator",200,816
+16584,Deisel,"Operating generator",200,817
+4647,Diesel,,2,818
+16376,Diesel,"For mechinery (drilling)",10,819
+18448,Diesel,"For machinery",15,820
+10114,Diesel,"For Stand by generator",NULL,821
+2022,Diesel,"Start compreshure ",100,822
+17721,Diesel,"Heating of Bitumen",NULL,823
+913,Kerosene,"To remove greese",1,824
+4629,"Furnance oil",Dryer,650,825
+3601,No,,NULL,826
+10519,"Diesal (L)","For rock drilling and crushing machnaries",25,827
+2388,Kerosene,,1,828
+4613,Diesel,"For generator",NULL,829
+947,"Furnance oil","For boiler",500,830
+10134,"Diesel ","For Generators",NULL,831
+6237,"fire wood, wood scrapings, diesel","steam boiler, generator",1850,832
+1278,"Furnance oil","As boiler fuel",350,833
+16402,Diesel,"For operation of generator",1,834
+996,Diesel,Generator,NULL,835
+3597,No,,NULL,836
+10603,Diesel,"Metal Crushing ",NULL,837
+2656,"Petrol, Diesel, Kerosene","Vehicles, Pressure Pump",20,838
+10133,Diesel,"For generators",NULL,839
+4634,Diesel,"For generator",NULL,840
+4634,L.P.Gas,"To Kitchen",13,841
+10448,Diesal,"Compressor Machine ",5,842
+931,"Domestic gas","Culture testing",NULL,843
+16377,"Not applicable",,NULL,844
+1271,Diesel,"For generator",20,845
+18421,Diesel,"For Machinery",NULL,846
+10602,Diesel,"For operating machinaries",35,847
+10602,"Oil  (L)","For machinaries",2,848
+10602,Grease,"For machinaries",2,849
+3510,"Kerosine oil","to heat",NULL,850
+3510,Diesel,"for vehicles",NULL,851
+3510,"Furnace oil","to heat",212,852
+4630,Diesel,"For boiler",50,853
+25123,Diesel,"For Machinery",10,854
+13916,Deisel,"Rock dril",5,855
+6557,"Diesel ",generator,30,856
+6185,diesel,compresure,NULL,857
+1282,"Furnance oil","For boiler",200,858
+941,"Furnance oil","To make aluminium circles",0.5,859
+16714,Diesel,"Operation of generator",2,860
+10587,diesel,"breaker machines ",25,861
+10546,Diesel,"Compressor machines, tractor, JCB machines",55,862
+4794,Diesel,"For forklift",3.33,863
+2029,Diesel,"Generator operating",NULL,864
+19108,firewoods,baking,NULL,865
+3327,No,,NULL,866
+16731,Diesel,"Operation of generator ",2,867
+11673,Kerosine,cleaning,NULL,868
+4612,Kerosene,"Maintainance of machines",0.5,869
+6247,diesel,"for generator",0.06,870
+6566,,,NULL,871
+2027,Diesel,"For steam boilers",100,872
+25129,Kerosen,Washing,2,873
+6564,Diesal,,NULL,874
+10702,"Biomass (yard)",Insulation,1.5,875
+3361,No,,NULL,876
+25140,Diesel,"Compressor machine",10,877
+11688,Diesel,Generator,500,878
+1024,"Furnance oil","Steam boilar",1015,879
+1291,Kerosene,"For boiler",165,880
+1291,Diesel,"For generator",21,881
+25144,"Kerosene oil",Washing,NULL,882
+16734,Diesel,"For operation of generator ",2,883
+3328,Diesel,"standby generator",NULL,884
+10128,diesel,"for generators",25,885
+6478,kerosine,"to clean vehicles",0.008,886
+25146,Disel,"Metal crushing",20,887
+25148,"L.P. Gas","Drying garments",NULL,888
+1991,Diesel,"For vehicles",NULL,889
+12032,Diesel,,NULL,890
+17982,Diesel,,10,891
+16428,"Fire wood /Kg","Drying floor",150,892
+10451,Deisel,"For compressor excavator",50,893
+3267,Diesel,Generator,NULL,894
+16715,Diesel,"For operation of generator",2,895
+16859,"Paddy husk","Boiling of water",200,896
+2007,Diesel,"Generator operating",NULL,897
+12022,"Paddy husk","for boiler",3000,898
+19109,firewoods,baking,NULL,899
+18415,Diesel,,NULL,900
+25152,"Furasance oil","reheating furance",3500,901
+1844,Diesel,"Compressure machine",NULL,902
+3196,"Hydraulic oil","machinery process",210,903
+4682,Diesel,"For generator",500,904
+929,Kerosene,"For washing vehicles",2,905
+2456,Diesel,"To operate machines",150,906
+16748,Diesel,"For operation of generator",0.26,907
+1257,"Petrol, Diesel",,NULL,908
+16747,Diesel,"For operation of generator",2,909
+3293,No,,NULL,910
+4622,L.P.Gas,"For baking",900,911
+4622,Diesel,"For generator",20,912
+3045,"Diesel ","To operate machines",1000,913
+934,Diesel,Cooler,120,914
+16593,Deisel,"Operating generator",200,915
+16589,Deisel,"Operating generator",250,916
+16590,Deisel,"Operating generator",120,917
+15354,Diesel,"Fuel for generator",50,918
+16684,kerosine,cleaning,1,919
+15355,Diesel,"Fuel for generator",50,920
+15356,Diesel,"Fuel for generator",50,921
+15357,Diesel,"fuel for generator",50,922
+15359,Diesel,"fuel for generator",NULL,923
+15376,Diesel,"Fuel for generator",120,924
+15377,Diesel,"Fuel for generator",50,925
+15385,Diesel,"Fuel for generator",10,926
+15394,Diesel,"Fuel for generator",20,927
+16685,diesal,"operating generator",30,928
+2662,"Disel ",,50,929
+2662,Gas,"To operate ovens",95,930
+3260,No,,NULL,931
+10551,Disel,"For generators",5.2,932
+4643,"Furnance oil","To generate heat",0.6,933
+4643,L.P.Gas,"manufacturing purposes",20,934
+25166,kerosine,,60,935
+4648,"Furnace oil",,200,936
+2711,Disel,,NULL,937
+4745,Kerosene,"For cleaning",3,938
+3238,"Kerosine oil","cleaning the machine rollers",50,939
+4616,"Furnance oil","To run boiler",1585,940
+19002,,,NULL,941
+16718,Diesel,"Use for waste water treatment plant,incinerator and generator",133.5,942
+3230,"Hydrolic oil","to run machines",NULL,943
+16430,Diesel,"For drilling",10,944
+4660,Diesel,"For generator",NULL,945
+1952,"Furnace oil","operating boilers",950,946
+3235,Diesel,"sound proof stand by generator",NULL,947
+10126,Diesel,"Drilling and other machines",50,948
+16608,kerosine,cleaning,10,949
+10666,diesel,"for generators",5,950
+16969,Diesel,"Operating Generator",10,951
+2002,Diesel,"Mixer machine",400,952
+13807,Diesel,"Operating of compresser",20,953
+3216,No,,NULL,954
+2423,Diesel,"Mechine Operation",NULL,955
+16971,Diesel,"Operating Generator",10,956
+19115,diesel,machineries,200,957
+10147,diesel,"for crusher machine",NULL,958
+12033,Diesel,Generator,NULL,959
+2017,Diesel,"Fork lift truck and stand by generator",NULL,960
+16533,Gas,"Baking Popups ",4.16,961
+3199,No,,NULL,962
+1581,Disel,"For machines",50,963
+14492,Deisel,"Compressuer Operating",20,964
+1849,Diesel,"Generator operating",20,965
+3829,"Kerosine oil","to wash vehicles",20,966
+16970,Diesel,"Operating Generator",10,967
+1857,Diesel,,NULL,968
+16904,Diesel,"Operation of generator during  power cut time",10,969
+16527,N/A,,NULL,970
+16965,Diesel,"Operating Generator",10,971
+12040,"Diesel and Burned oil","power generation",NULL,972
+13812,"kerosine oil","washing engine parts",10,973
+16614,"paddy husk","boiling of water",550,974
+16524,Kerosene,wasing,0.03,975
+3316,No,,NULL,976
+946,"Auto diesel","as raw material to produce CO2 & for generator",4800,977
+945,Petrol,Transportation,NULL,978
+3321,No,,NULL,979
+958,,"For generator",2,980
+17109,Diesel,"For Machinery",NULL,981
+2066,Diesel,"Generator operating",200,982
+3296,No,,NULL,983
+17081,Diesel,,0.83,984
+4661,Diesel,"For generator",NULL,985
+17795,Diesel,"For Genarator",NULL,986
+25202,"Diesel ","Tractor ",20,987
+17082,Diesel,"For Machinery use",10,988
+4121,Kerosene,"Engine clean up",1.5,989
+16939,Diesel,"Operating Generator",15,990
+1075,Diesel,"For boiler",50,991
+4146,Diesel,"For forklift",3.33,992
+4146,Petrol,"For forklift",3.33,993
+17068,Kerosine,"For remove oil patches.",1,994
+3360,No,,NULL,995
+1220,"LP Gas","Use for ovens",100,996
+1836,Diesel,"Mechine Operation",2.2,997
+16906,Diesel,"to operate generator during power cut time",4,998
+3866,L.P.gas,machinery,110000,999
+19016,,,NULL,1000
+3866,Diesel,machinery,18000,1001
+3866,"Ferrous oil",Boilers,5000,1002
+16599,Deisel,"Operating generator",110,1003
+1031,"LP Gas","For cooking",9,1004
+4608,"Fire wood","For boiler",8000,1005
+4604,Diesel,"For generator",NULL,1006
+3297,"Engine oil","to put engine",5,1007
+943,Diesel,"For testing of trocfor after assembling & repairs",5,1008
+16382,Diesel,"Operate  Jaw Crusher & compressor  ",40,1009
+25210,No,,NULL,1010
+2724,Disel,"To operate burners",500,1011
+25211,Diesel,"for vehicle ",NULL,1012
+4676,Diesel,"For vehicles",NULL,1013
+4676,Petrol,"For vehicles",NULL,1014
+16607,Diesel,"to operate the generator during power cut time",7,1015
+966,"Furnace oil","For boilors",833.3,1016
+25212,No,,NULL,1017
+1062,"Furnace oil",Boiler,NULL,1018
+3210,L.P.gas,"for curing oven",40,1019
+4655,Diesel,"For generator",10,1020
+3869,No,,NULL,1021
+2058,Diesel,"for machines",100,1022
+4641,Diesel,"For forklift",NULL,1023
+4641,"Furnance oil","For boiler",NULL,1024
+3897,Diesel,"for boiler",50,1025
+1043,Diesel,"Water heating",40,1026
+3854,No,,NULL,1027
+1045,"Furnace oil","Heater & casting",110,1028
+4789,Diesel,"For generator",NULL,1029
+3318,No,,NULL,1030
+918,Petrol,"For vehicles",100,1031
+3263,No,,NULL,1032
+4644,Diesel,"To generator",15,1033
+3889,No,,NULL,1034
+25220,"firing oil","boiling aluminium",200,1035
+25219,L.P.Gas,"To processing",4,1036
+4619,"Furnance oil",Heating,600,1037
+3334,Diesel,"machinery, Generator, vehicles",3000,1038
+25221,Diesel/firewood,"for generators",40,1039
+3333,Diesel,"machinery, Generator, vehicles",1500,1040
+4995,Diesel,,NULL,1041
+3596,"Kerosine oil","to wash vehicles",5,1042
+3369,No,,NULL,1043
+980,Diesel,"For generator",20,1044
+980,"Furnace oil","For boiler",400,1045
+4333,"Furnace oil",heating,200,1046
+3842,No,,NULL,1047
+3875,No,,NULL,1048
+3887,No,,NULL,1049
+3847,"Hydraulic Diesel","machinery process",NULL,1050
+3903,No,,NULL,1051
+1816,Diesel,"For compressor",25,1052
+3852,No,,NULL,1053
+1543,Diesel,"For compressor",20,1054
+4308,Kerosene,"Generator operating",50,1055
+3319,No,,NULL,1056
+25230,Diesel,"For machinery",30,1057
+1579,Diesel,"For machinery",100,1058
+3306,No,,NULL,1059
+1580,Diesel,"For machinery",20,1060
+3242,No,,NULL,1061
+986,Diesel,,NULL,1062
+1526,Diesel,"For machinery",40,1063
+937,Diesel,"For generator",50,1064
+3295,L.P.gas,"to heat",26,1065
+1784,Diesel,"For machinery",30,1066
+25232,"Diesel ","To gril granite",20,1067
+1056,Kerosene,"Washing & cleanig vehicles",4,1068
+1302,Diesel,"For Cookers",30,1069
+3886,No,,NULL,1070
+3899,No,,NULL,1071
+3864,Diesel,"Generator, Incinerator",6,1072
+25235,Diesel,"Fuel for generator",20,1073
+15414,Diesel,"Fuel for Generator",80,1074
+10149,Diesal,"For Blasting",NULL,1075
+11937,Diesel,"Power generation",15,1076
+16586,Deisel,"Operating generator",120,1077
+10150,Kerosene,"Pump water",NULL,1078
+11756,Diesel,"Production Process",100,1079
+11684,Diesel,,75,1080
+17356,Deisel,"for compressure",10,1081
+25239,"Furners oil","To heat glucose and Sugar",40,1082
+3207,"L.P. Gas",Oven,650,1083
+3207,"Diesel ",Generator,NULL,1084
+972,Diesel,"For generator",NULL,1085
+1544,Diesel,"For generator",NULL,1086
+19092,Diesel,machineries,60,1087
+4418,Diesel,"Mechine Operation",100,1088
+1479,Diesel,"For generator",NULL,1089
+3828,No,,NULL,1090
+10622,DG,,26,1091
+3833,No,,NULL,1092
+1824,Diesel,"For generator",13.3,1093
+3273,"fire wood","to assemble thread",1,1094
+1519,Petrol,"For sprayer",2,1095
+25248,"Diesel ",Transport,550,1096
+10632,Diesal,"drilling ",5,1097
+4360,Diesel,"Generator operating",500,1098
+3249,"Furnace oil","Melting of Aluminium",4000,1099
+25250,Petrol,Transport,50,1100
+25250,Diesel,Transport,550,1101
+25252,No,,NULL,1102
+4432,Diesel,,NULL,1103
+3667,"Furnace oil","For boiler",25,1104
+1522,Diesel,"For generator",200,1105
+3860,"Kerosine oil","to wash vehicles",2,1106
+3632,"Furnace oil",Heating,200,1107
+10389,Kerosene,"for lighting Furnance",5,1108
+1536,Diesel,"For machinery",100,1109
+10220,"diesel ",,200,1110
+10220," LP gas(kg)",,30,1111
+18957,LPG,cooking,1,1112
+1542,"Fire wood",,NULL,1113
+1542,L.P.Gas,,5,1114
+3880,Diesel,"stand by generator",NULL,1115
+3630,Diesel,"For high pressure washing cart",20,1116
+1476,Diesel,"For generator and vehicles",13.3,1117
+4311,"Furnace oil",,500,1118
+2637,Disel,"To operate machines",700,1119
+3832,No,,NULL,1120
+3641,Kerosene,"Oil burner",2,1121
+2692,Disel,"Use for the standby generator",NULL,1122
+11735,Diesel,,NULL,1123
+3838,No,,NULL,1124
+3626,"Naptha/ Diesel","For gas turbine combussion process",920000,1125
+3627,Diesel,"For gas turbine combussion process",800000,1126
+3827,No,,NULL,1127
+16615,NA,,NULL,1128
+17101,Diesel,,25,1129
+17094,Kerosine,"Washing vehicles",1,1130
+3907,No,,NULL,1131
+16616,,,NULL,1132
+25264,"Diesel ",,NULL,1133
+18372,Diesel,"For Machinery",4,1134
+3891,No,,NULL,1135
+1458,Diesel/firewood,"for generators",NULL,1136
+14364,,,NULL,1137
+3863,"furnace oil and Diesel","standby generators and boilers",480,1138
+1601,Diesel,"for compressor",20,1139
+25266,Diesel,"for machines",10,1140
+3823,No,,NULL,1141
+3824,Diesel,Generator,1000,1142
+14261,Diesel,Generator,50,1143
+25268,Disel,"To use genarators",40,1144
+17087,Diesel,"For  machinery",20,1145
+1038,"LP Gas",,1,1146
+3871,"Kerosine and Diesel","drying and power generation",110,1147
+3859,No,,NULL,1148
+10382,"Caltex ","Threewheeler engine ",14,1149
+1525,Diesel,"for machines",2000,1150
+3617,"Heavy diesel","For boiler",1300,1151
+3831,No,,NULL,1152
+3850,Diesel,"power cuts",NULL,1153
+10417,biomass,"For vaporizing",2,1154
+25278,Diesal,"For generator",200,1155
+17088,Chaff,"Boiling of paddy",600,1156
+3640,"Diesel, Furnace oil","Vehicles, boilers",230,1157
+2619,Diesel,"To operate machines",100,1158
+3892,NA,,NULL,1159
+10429,Diesel,"foe air compressure",15,1160
+1496,"Furnace oil","For Boiler",100,1161
+3665,"Furnace oil 800 cc",Boiler,1200,1162
+3665,Diesel,Generator,400,1163
+14318,,,NULL,1164
+10424,kerosine,"for lantems",1,1165
+3878,Diesel,Generator,NULL,1166
+10367,"Kerosene (L)","Lighting the furnance",1,1167
+3694,Diesel,Vehicles,40,1168
+17095,Diesel,"For machinary use",2,1169
+17089,Diesel,"For Machinery use",20,1170
+10431,"Gas, Diesel, Kerosine","for power generating",NULL,1171
+3883,Diesel,,NULL,1172
+10411,Kerosene,"To light the furnance to heat wax",3,1173
+1523,Diesel,"for compressor",40,1174
+19119,,,NULL,1175
+930,Diesel,"For generator",4,1176
+1569,Diesel,"for machines",20,1177
+10414,Diesel,"for blasting",NULL,1178
+1005,Diesel,"For generator",7.25,1179
+17093,Diesel,"For Machinery",10,1180
+3834,No,,NULL,1181
+955,"Furnace oil","For generator & boiler",225,1182
+14300,"paddy husk","ues as a fuel for boiler",100,1183
+1055,Gas,"For cooking",NULL,1184
+2474,"Diesel ","To operate machines",NULL,1185
+3836,Diesel,"to operate fork lift",12,1186
+10420,Diesel,"For pressure machines",10,1187
+1515,Diesel,"For generator",NULL,1188
+1460,Diesel,,NULL,1189
+10391,"Diesel ","Pump Pressure machines ",2,1190
+3857,No,,NULL,1191
+10415,Diesal,,50,1192
+1047,"L.P Gas",Cooking,1,1193
+3229,No,,NULL,1194
+10378,Diesel,"For pressure machines",10,1195
+6152,diesel,compresure,20,1196
+3664,Kerosene,"Cleaning of machines",NULL,1197
+3664,Diesel,"For generator",NULL,1198
+3840,No,,NULL,1199
+17092,Diesel,,NULL,1200
+3858,"Hydraulic oil",Machinery,NULL,1201
+1454,Diesel,,NULL,1202
+10437,diesel,"for compressure",10,1203
+3894,No,,NULL,1204
+3647,"L.P Gas","For batik printing",10,1205
+17103,Diesel,,NULL,1206
+10395,Diesel,"For generators",NULL,1207
+10409,Diesal,"for the loader",20,1208
+3837,No,,NULL,1209
+10418,Diesel,"For drilling",10,1210
+17443,Diesel,"For Machinery",8,1211
+10434,Diesel,"For blasting",20,1212
+3910,No,,NULL,1213
+3622,Diesel,"For generator",NULL,1214
+3826,No,,NULL,1215
+3904,"LP gas",cooking,2,1216
+1524,"L.P Gas","For cooking",NULL,1217
+2738,Diesel,"To operate machines",40,1218
+16707,Diesel,drilling,10,1219
+10383,Diesel,,NULL,1220
+3629,Diesel,"For vehicles",400,1221
+1537,Diesel,"For vehicles",50,1222
+1537,Petrol,"For vehicles",20,1223
+3851,No,,NULL,1224
+16699,Diesel,drilling,2,1225
+16701,Diesel,"operate the driller",10,1226
+16700,Diesel,"operate the driller",10,1227
+3631,Kerosene,"Melting, roling",3,1228
+3631,"Furnace oil","Melting, roling",50,1229
+3881,No,,NULL,1230
+3678,"Furnance oil, kerosene",Melting,10,1231
+3764,Diesel,"For generator",NULL,1232
+3877,No,,NULL,1233
+4698,Diesel,"For generator",NULL,1234
+3868,Diesel,Generator,2,1235
+3669,Diesel,Generator,100,1236
+3468,No,,NULL,1237
+18351,Diesel,,NULL,1238
+3313,Diesel,Generator,NULL,1239
+3313,Diesel,Generator,NULL,1240
+18350,Diesel,,NULL,1241
+10388,Diesel,"For blasting",20,1242
+2686,Diesel,"To operate machines",2400,1243
+3287,"Kerosine oil",Casting,40,1244
+10381,Kerosene,Lighting,1,1245
+25299,Kerosine,washing,2,1246
+921,"Pretreating oil",Cleaning,1,1247
+3205,No,,NULL,1248
+25300,cerosin,,2,1249
+4989,"Furnace oil","At laundry",430,1250
+4989,"LP Gas","For cooking",112.5,1251
+3253,L.P.gas,"bend plastic sheets",NULL,1252
+11777,diesel,,NULL,1253
+3219,"Furnace oil",boiler,300,1254
+5004,Kerosene,"Lab testings, wax cleaning & for generator",1,1255
+18389,Diesel,"For machinary use",50,1256
+18867,Diesel,"machinery operation",6,1257
+25304,Diesel,,NULL,1258
+3255,Diesel,oven,NULL,1259
+3255,L.P.gas,"water stick machine",NULL,1260
+18868,Diesel,"machinery operation",5,1261
+10364,diesel,"for the drilling machine",5,1262
+3192,Diesel,Generator,NULL,1263
+16721,Diesel,"For oven",13.34,1264
+3642,"Furnace oil","To manufacture aluminium  wearr",110,1265
+3825,L.P.gas,"to heat heaters",NULL,1266
+2725,Diesel,"To operate machines",30,1267
+3688,"Used elements","To heat the barrel",NULL,1268
+25307,"Kerosine oil",Washing,20,1269
+2708,Disel,"To operate machines",60,1270
+2645,Diesel,"To operate machines",20,1271
+17100,Diesel,,2,1272
+3624,"Gas & diesel","Cooking & baking",250,1273
+17457,Diesel,"For Machinery",5,1274
+3888,No,,NULL,1275
+3656,"Furnace oil","To burn",472,1276
+2510,"Kerosene Oil ","To dry Soil",20,1277
+18371,Diesel,,NULL,1278
+3843,No,,NULL,1279
+10403,Diesel,"for the compressure",10,1280
+3812,"Petrol (Octane 92)","Final test drive of vehicles",25,1281
+18354,Diesel,,NULL,1282
+3874,Diesel,Generator,NULL,1283
+18364,Diesel,"For machinery",2,1284
+3830,Diesel,"when change filter",2,1285
+3637,Diesel,Transport,100,1286
+18728,Diesel,,NULL,1287
+3766,"Furnace oil","To fire the boier",NULL,1288
+3844,No,,NULL,1289
+3846,No,,NULL,1290
+3885,No,,NULL,1291
+4050,No,,NULL,1292
+18715,"Deisal ","Borring machine",5,1293
+3841,No,,NULL,1294
+3636,,"Machinery & motor vehicles",20,1295
+3705,"Kerosene oil",Washing,3,1296
+25322,diesel,Drilling,10,1297
+3845,Diesel,Generator,70,1298
+3845,"Kerosine oil",Boiler,100,1299
+17364,Diesel,"For Machinery",NULL,1300
+3615,Diesel,"For generaor & boiler",100,1301
+18722,Diesel,"For vehicles",20,1302
+25327,Diesel,"For Machinery",NULL,1303
+16674,diesal,"operating power generator during power failiures",10,1304
+17365,"Diesel ","For boring machine ",NULL,1305
+16940,Diesel,"For Vehicles & generator during power cut ",NULL,1306
+17362,Diesel,"For machinery",20,1307
+18702,Diesel,"For compressure",NULL,1308
+3628,Diesel,"Container handling equipment",NULL,1309
+10291,Diesel,"For drilling machine",20,1310
+18727,Diesel,"For compressure",NULL,1311
+14536,NA,NA,0,1312
+14536,NA,NA,0,1313
+3873,No,,NULL,1314
+10299,Diesel,"for transport",20,1315
+25331,"kerosine,",burning,3,1316
+3882,L.P.gas,cooking,35,1317
+3704,Diesel,"To operate machines",20,1318
+19060,Diesel,"for machinery operations",20,1319
+3909,No,,NULL,1320
+25336,kerosine,burning,3,1321
+25336,diesal,"for generator",30,1322
+3699,Diesel,"To wash sand",35,1323
+3896,"Furnace oil","to fire voiler",1800,1324
+16895,Kerosene,"to operate motors",33.3,1325
+14532,NA,NA,0,1326
+25345,No,,NULL,1327
+25349,"Kerosine oil",boiler,40,1328
+14539,Nil,Nil,0,1329
+14534,Diesel,"Compressuer Operating",35,1330
+3898,No,,NULL,1331
+3645,Diesel,"For generaor & boiler",70,1332
+3645,"Furnace oil","For generaor & boiler",450,1333
+10297,Diesal,"for the compressor",20,1334
+3912,No,,NULL,1335
+3280,No,,NULL,1336
+3614,Diesel,"For generator",NULL,1337
+3657,Kerosene,"For boiler",10,1338
+4986,No,,NULL,1339
+4852,Diesel,Generator,300,1340
+3818,Diesel,Exavator,10,1341
+4824,No,,NULL,1342
+9290,"Kerosine oil","Wash the vehicale",1,1343
+3639,Diesel,"For generator",50,1344
+4854,No,,NULL,1345
+18336,Kerosine,"For servicing of motor bikes",1,1346
+18054,Deisel,"Operate Machine",80,1347
+9306,Diesel,,NULL,1348
+10288,Disel,Driling,NULL,1349
+25372,Diesel,"For commpressure and backhoe machine",25,1350
+18870,Diesel,"machinery operation",6,1351
+1462,"Rubber wood","To get the temperature",4,1352
+1462,Diesel,"For generator",15,1353
+4812,No,,NULL,1354
+18869,Diesel,"Mechinary operation",5,1355
+3701,Diesel,"Incineration ",100,1356
+4816,No,,NULL,1357
+18873,Diesel,Mechinary,6,1358
+18295,Kerosine,"For washing",1,1359
+4821,No,,NULL,1360
+4910,No,,NULL,1361
+3683,"Kerosene oil","For cleaning",2,1362
+4957,Diesel,Generator,175,1363
+3774,Diesel,"For generator",NULL,1364
+4914,No,,NULL,1365
+4826,"fire wood","boiler firing",2,1366
+10346,"Diesel ","For generator",NULL,1367
+1508,Diesel,"For generator",20,1368
+10321,L.P.G,"For baking purpose ",NULL,1369
+4856,No,,NULL,1370
+18909,"Paddy husk",Boiling,300,1371
+18909,,,NULL,1372
+4839,No,,NULL,1373
+5027,Diesel,"For generator",NULL,1374
+4851,No,,NULL,1375
+4680,"L.P Gas","For cooking and frying",16,1376
+1284,Kerosene,"For vehicles",20,1377
+4855,No,,NULL,1378
+18327,Diesel,"For brake metals",NULL,1379
+25397,"Diesel ",,NULL,1380
+4817,Diesel,Generator,NULL,1381
+25399,"Furnace oil","For boiler",350,1382
+4103,"Fire wood","For heating",4,1383
+3780,"Kerosene oil","For washing ",NULL,1384
+4822,No,,NULL,1385
+14278,"paddy husk",bannur,500,1386
+4424,Diesel,vehicles,NULL,1387
+4846,Diesel,Generator,NULL,1388
+9291,"Diesel, Kerosine Oil,",,NULL,1389
+1520,"Fire wood",,1,1390
+4838,"Hydrolic oil",,NULL,1391
+4813,"Kerosine oil",,25,1392
+4813,Diesel,,NULL,1393
+4853,"LP gas","cooking and frying of foods",NULL,1394
+10598,diesel,"for brakers",20,1395
+4819,No,,NULL,1396
+9332,"Kerosine oil","Washing Vehicals",NULL,1397
+4860,No,,NULL,1398
+4832,No,,NULL,1399
+4357,Kerosene,"operating boilers",NULL,1400
+10712,"Kerosene oil","Washing purpose",5,1401
+3821,Diesel,"To put muddy soil",NULL,1402
+25426,"Paddy husks","Boiling and dring paddy",NULL,1403
+10586,diesal,"machine operating",NULL,1404
+3687,Diesel,"Only when the power failure",3,1405
+18284,Diessel,"For generator",NULL,1406
+25429,No,,NULL,1407
+10496,Deisal,Compressor,5,1408
+25431,No,,NULL,1409
+3902,No,,NULL,1410
+10506,diesel,"for compressure",5,1411
+18273,Gas,"Food processing",12.5,1412
+18273,"Fire wood",,5,1413
+10518,diesel,"drilling machine",20,1414
+4149,Diesel,"For boiler",25,1415
+10502,diesel,"for compressure",15,1416
+3895,Diesel,Generator,NULL,1417
+10505,diesel,"for compressure",1,1418
+3700,Diesel,,60,1419
+10511,diesel,"for comopressue",15,1420
+3602,No,,NULL,1421
+18292,"Fire wood","for boiling of water",NULL,1422
+3204,No,,NULL,1423
+10515,Diesal,Compressor,10,1424
+10507,diesal,"fpr Compressor",10,1425
+3202,"LP gas","for bakery production",NULL,1426
+25438,No,,NULL,1427
+10494,"diesel ","drilling ",5,1428
+3337,Diesel,Generator,NULL,1429
+10503,"Diesal (L)",,30,1430
+3271,No,,NULL,1431
+10497,"Paddy husks","Boiling Rice",30,1432
+3237,Diesel,"For generator",NULL,1433
+10537,,,NULL,1434
+10537,Diesel,crushing,5,1435
+10524,diesel,"for compressure",10,1436
+10532,diesel,"for drilling machine",25,1437
+4857,No,,NULL,1438
+25443,"LP gas","For water heating",37.5,1439
+10533,diesel,"for compressure",2,1440
+4815,Diesel,"For generator",6,1441
+4815,Petrol,"For fire engines",NULL,1442
+4815,"L.P. Gas","For cooking",6,1443
+4825,Diesel,"For generator",10,1444
+25446,"diesel ","Compressor ",8,1445
+25447,"Diesel ","For Machines ",35,1446
+4849,No,,NULL,1447
+25448,"diesel ","For machines ",10,1448
+25449,"Diesel ",,35,1449
+25450,"Diesel ",,3,1450
+25451,"Diesel ","Compressor ",2.5,1451
+3317,,"for production process",NULL,1452
+25453,"diesel ","Drilling ",10,1453
+3900,"Furnace oil","Fire boiler",NULL,1454
+9329,"Kerosine oil",,NULL,1455
+3329,No,,NULL,1456
+3906,No,,NULL,1457
+10688,Diesal,"for engine",20,1458
+25454,Kerosene,"For furnances",2,1459
+10697,Diesal,"For the compressor",10,1460
+10681,Diesal,"For drilling machine",20,1461
+10557,Diesel,"operating of metal mall",40,1462
+10562,diesel,"for compressure",20,1463
+10585,diesel,"for blasting",NULL,1464
+10591,diesel,"for generator",10,1465
+25456,diesel,"for compressure",5,1466
+10043,diesel,,NULL,1467
+10034,Diesel,"Composer & Bracker",21,1468
+14628,Diesel,"For Loader",25,1469
+14621,Diesel,"For Generator",10,1470
+25460,Diesal,"for machinary",10,1471
+9280,Diesel,,NULL,1472
+10307,Kerosene,Washing,2,1473
+10287,diesel,"For drilling purpose",NULL,1474
+14622,Diesel,"Compresure operation",7,1475
+14635,Nil,,NULL,1476
+14614,Nil,,NULL,1477
+14623,Diesel,"Compresure operation",5,1478
+14636,"Not use",,NULL,1479
+10276,diesel,"for generators",0.03,1480
+10295,diesel,blasting,6,1481
+10282,diesel,blasting,NULL,1482
+10284,diesel,,NULL,1483
+9312,Diesel,"for Generator ",20,1484
+10277,"diesel ","for the burner",20,1485
+25469,oil,"for machines",3,1486
+3879,Diesel,,NULL,1487
+9327,Diesel,,NULL,1488
+10643,"kerosene ","Boilers ",40,1489
+25495,Gas,Burn,60,1490
+10661,"Diesel ","Compressor ",3,1491
+18539,Gas,Burn,60,1492
+3276,Diesel,Generator,NULL,1493
+14626,Diesel,"Compresure operation",20,1494
+14607,Nil,Nil,0,1495
+14624,Diesel,"Compresure operation",5,1496
+14629,Diesel,"Machine operating",10,1497
+14625,Diesel,"Compresure operation",5,1498
+14613,Nil,Nil,NULL,1499
+14631,Nil,Nil,NULL,1500
+9317,,,NULL,1501
+9316,Diesel,"For Genarator",20,1502
+10635,Diesal,"for the folklift",5,1503
+10631,Diesal,"For machinaries",10,1504
+9360,Diesel,,NULL,1505
+25512,Diesel,"To manufacture compost",NULL,1506
+25520,"Diesel ","For loading machine",NULL,1507
+9317,Diesel,,4,1508
+25526,Diesel,vehicle,100,1509
+10630,Diesal,"For land master engine",3,1510
+10626,diesel,"for washing",1,1511
+10172,Diesal,Drilling,10,1512
+10195,diesel,"for drilling",10,1513
+9318,Diesel,,100,1514
+10202,diesel,"for drillng",10,1515
+10192,Diesal,"For the compressor machine",20,1516
+9310,Diesel,,20,1517
+10171,Diesel,"for drilling",20,1518
+25556,Diesel,"for driling",22,1519
+25558,Diesel,"For mechines",NULL,1520
+25566,no,,NULL,1521
+25572,desel,"for the transportation of bus",4500,1522
+9292,Diesel,"Drill Stone",2,1523
+10189,Diesel,drilling,15,1524
+25579,,permanent,36,1525
+25585,Diesel,"for oven",2,1526
+14535,Nil,Nil,0,1527
+25588,"LP gas",Cooking,24,1528
+25588,Diesel,"For generator",6,1529
+24424,NA,NA,0,1530
+10169,Diesal,"for machines",20,1531
+10209,Disel,Drilling,5,1532
+10166,Diesal,Drilling,20,1533
+10210,"LP gas","food production",30,1534
+25591,"Burned oil","To operate boiler",110,1535
+10170,diesel,"for drilling",25,1536
+25607,Desel,"to operate machines",60,1537
+9297,Diesel,,NULL,1538
+25598,diesel,"for drilling",20,1539
+10205,Diesal,"Loader functioning",20,1540
+4290,"LP Gas","Frying & cooking",9,1541
+25620,"Diesel ","For Drilling ",10,1542
+9304,Diesel,,NULL,1543
+10206,Diesal,Drilling,10,1544
+10186,Diesal,Drilling,NULL,1545
+25638,diesel,"for drilling",10,1546
+10181,Diesal,Machine,6,1547
+9299,Diesel,,35,1548
+10182,Diesal,"Power generation",0.25,1549
+25640,Kerosine,"melting paraffine wax",3,1550
+25649,diesel,"for drilling",20,1551
+9283,"Diesel, kerosine ",,15,1552
+1912,,,NULL,1553
+25653,,,NULL,1554
+25654,Diesal,"for drilling",20,1555
+25659,Diesal,"for the drilling",20,1556
+25662,Wood,ToBoiler,200,1557
+25661,,,NULL,1558
+9284,Diesel,,50,1559
+25667,,,NULL,1560
+19573,Kerosine,"To dry coil ",400,1561
+10028,Diesel,"Elecric Genarator",NULL,1562
+9303,Diesel,,NULL,1563
+19563,"Furness oli","To boiling ",50,1564
+25670,Diesel,"For two wheel tractor",12,1565
+4492,,,NULL,1566
+10036,Disel,genarator,40,1567
+4588,,,NULL,1568
+2253,,,NULL,1569
+19591,Dissel,"To operate generator",4,1570
+4559,"Electric and gas","start the machine",NULL,1571
+2131,,,NULL,1572
+4546,Disal,,20,1573
+19584,,,NULL,1574
+4504,Desal,Loder,50,1575
+3112,,,NULL,1576
+4540,,"Three wheel",1,1577
+3131,,,NULL,1578
+25683,,,NULL,1579
+25684,,,NULL,1580
+25685,,"Lp Has -Wulening",20,1581
+3086,,,NULL,1582
+3108,,,NULL,1583
+25689,,,NULL,1584
+25694,"Lubricant oil , Greace",,NULL,1585
+2762,,,NULL,1586
+2762,,,NULL,1587
+2777,,,NULL,1588
+25699,desel,"for the compressure",10,1589
+10612,"Kerosene (gal)",Washing,1,1590
+25702,,,NULL,1591
+10698,Diesal,"For compressor",NULL,1592
+25705,,,NULL,1593
+10685,Diesal,,3,1594
+25706,,,NULL,1595
+19570,"Fire wood",,1000,1596
+19570,,,NULL,1597
+10516,Diesel,"for commpresure",5,1598
+25708,,,NULL,1599
+10541,Diesal,"For generator",5,1600
+19555,Dissel,"To operate generator",1000,1601
+10540,Diesal,"Drilling machine",6,1602
+25710,,,NULL,1603
+25711,,,NULL,1604
+25712,desel,"for the generator",NULL,1605
+19576,Dissel,"To operate generator",150,1606
+25718,kerosine,,40,1607
+10404,kerosine(bottles),"for washing",5,1608
+10408,Diesal,compressor,10,1609
+25725,"Diesel ","For machines ",30,1610
+10504,Diesal,"For Compressor",5,1611
+25726,piesel,"Paint ",4,1612
+25729,"Diesel ",,NULL,1613
+10373,Diesal,"For compressor",7,1614
+10369,Diesal,Compressor,10,1615
+25733,"Burned oil ",100,NULL,1616
+1783,Disel,"start the lodary",10,1617
+25737,"Diesel ","For generator",NULL,1618
+25740,,,NULL,1619
+25742,Kerosine,,NULL,1620
+25743,Diesal,"operating machines",150,1621
+19595,CALTEX,"Oil Change",10,1622
+25748,Diesel,,4,1623
+25756,Diesal,"For generator",1,1624
+25756,Gas,Cooking,8,1625
+25757,Diesel,,NULL,1626
+19554,"paraffin Oil","To operate boiler",200,1627
+19586,dissel,"To operate generator",NULL,1628
+19587,"Dissel ","To bake",60,1629
+25768,"Diesel  ","Cutting ",200,1630
+19575,Dissel,Jenerator,NULL,1631
+19606,Dissel,"To bake",5,1632
+2864,,,NULL,1633
+10583,Diesal,"For machines",20,1634
+25775,,,NULL,1635
+25777,,,NULL,1636
+10616,Diesal,oven,130,1637
+3082,,,NULL,1638
+4594,Disel,"start the compersher",NULL,1639
+19550,Dissel,"To Ligting",10,1640
+19689,Electricity,"To operate machine ",83,1641
+25782,,,NULL,1642
+25782,Disal,,NULL,1643
+3079,,,NULL,1644
+25786,,,NULL,1645
+19659,Dissel,"air pressure machine",20,1646
+25787,,,NULL,1647
+10163,Diesal,"for drilling",20,1648
+25791,,,NULL,1649
+3093,,,NULL,1650
+25795,,,NULL,1651
+3091,,,NULL,1652
+1760,Disel,"eya comperesher",20,1653
+2927,,,NULL,1654
+19905,"Kerosine Oil",,4,1655
+25797,,,NULL,1656
+19651,Diseel,"To operate drill machine",NULL,1657
+3077,,,NULL,1658
+3078,Disal,"Krampresher Mashing",10,1659
+3080,"Land oli",,NULL,1660
+3092,,"Mashin Oli",NULL,1661
+3085,,,NULL,1662
+3059,,,NULL,1663
+3026,,,NULL,1664
+25804,Deisal,,15,1665
+25803,"Diesel ",,NULL,1666
+25803,"Burned oil",,NULL,1667
+2753,,,NULL,1668
+25801,Electric,"make the bread",NULL,1669
+3090,,,NULL,1670
+1713,"Disel , electic","metal crashing",500,1671
+2943,,,NULL,1672
+25809,,,NULL,1673
+25809,Disal,,10,1674
+3102,,,NULL,1675
+25815,,,NULL,1676
+2870,,,NULL,1677
+1752,Disel,,8,1678
+2902,,,NULL,1679
+25819,desel,"for the generator",35,1680
+2758,,,NULL,1681
+10024,Desel,"for Engin",8,1682
+4590,Disel,"metal crashing",NULL,1683
+3098,,,NULL,1684
+25832,Disal,,10,1685
+19887,Electricity,"To ioperated machine",NULL,1686
+1560,Disel,,NULL,1687
+25840,diesel,"For generator",NULL,1688
+25839,,,NULL,1689
+10016,Diesel,"for Electric Genarator",100,1690
+18507,Kerosine,"Wash to vehicle parts",5,1691
+10031,Diesel,"for Electric Genarator",NULL,1692
+18500,Deisal,"Operating machine",25,1693
+19866,Diesel,"mobile crane and furnace",10,1694
+10033,Diesel,"for Electric Genarator",4,1695
+19735,"Furness Oil","For melting Aluminium",NULL,1696
+25860,DESEL,"TO OPERATE MACHENES",50,1697
+25865,desel,"to operate generator",30,1698
+25867,DESEL,,50,1699
+19802,"Furness Oil","Aluminium Melting",NULL,1700
+25871,Diesel,"Composer & Bracker",30,1701
+19731,"furnece oil","Aluminium melting",500,1702
+10026,"kerosene oil ",,5,1703
+10037,"Kerosine oil",,NULL,1704
+19759,"Furnace oil, Diesel","Steam generation and Electric power generation",750,1705
+19738,Diesel,"Fork lift and generator",3,1706
+19734,"Fuernece oil","Aluminium Melting",5,1707
+19868,"Fire wood","To operate boiler",15,1708
+19765,Diesel,"Back_- up generator",NULL,1709
+19857,Diesel,"To operate generator",210,1710
+19761,"furnece oil","Aluminium Melting",50,1711
+19782,Diesel,Compressure,40,1712
+19758,"Fernece oil","To operate boiler",1700,1713
+19763,Diesel,"Oil change",NULL,1714
+17080,Deisal,"For Machine",12,1715
+8622,Petral,"Made of Solution",1.5,1716
+9300,Diesel,"For Machine",NULL,1717
+25909,"Diesel ",,NULL,1718
+1813,Diesel,,5,1719
+25918,Deisel,,10,1720
+25925,Diesel,"For Generators",30,1721
+18509,"rice husk",boiler,NULL,1722
+25926,"Diesel ","For Generators ",1500,1723
+8751,kerosine,Washing,NULL,1724
+18530,"rise husk",boiler,NULL,1725
+8729,kerosene,Washing,NULL,1726
+25932,Deisal,"For Machine",NULL,1727
+8733,Diesel,,NULL,1728
+25936,"Diesel ","For compressor ",25,1729
+23213,Kerosine,cleaning,1,1730
+23228,Diesel,"To operate generator",10,1731
+25950,Diesel,"For machines",5,1732
+25950,Kerosine,"For boiler",80,1733
+10262,"Paddy Husk ","For the boiler and generator",800,1734
+14088,dessel,engine,1450,1735
+14094,diessel,"machinary used",5,1736
+18293,Gas,,NULL,1737
+9804,Diesel,Composer,NULL,1738
+23241,"coconut chells","To operate boiler",NULL,1739
+23129,Kerosine,cleaning,6,1740
+23084,Diesel,"To operate generator",NULL,1741
+9213,"Fire wood, Diesel",,NULL,1742
+14045,diesel,generator,2,1743
+14478,,,NULL,1744
+14480,,,NULL,1745
+14479,,,NULL,1746
+14481,,,NULL,1747
+14482,,,NULL,1748
+14483,,,NULL,1749
+14486,,,NULL,1750
+14487,Diesal,"Compressor Operating",20,1751
+14488,Diesal,"Compressor Operation",20,1752
+14496,Diesal,"For Loader and Trator",25,1753
+14494,Diesal,"For Loader and Tractor",NULL,1754
+14494,Diesal,"For Loader and Tractor",22,1755
+14495,Diesal,"For loader and Tractor",25,1756
+9175,Diesel,"For Genarators",NULL,1757
+9540,Diesel,"For loader",NULL,1758
+14485,,,NULL,1759
+14484,,,NULL,1760
+14489,Deisel,"Compressuer Operating",20,1761
+14490,Diesel,"Compressuer Operating",20,1762
+14497,Deise,"For Loader and Tractor",25,1763
+14498,,,NULL,1764
+14256,Nil,,NULL,1765
+9801,Diesel,"For compressor",NULL,1766
+9810,Diesel,"For engine",5,1767
+14493,Deisel,"Compressuer Operating",5,1768
+9987,Diesel,"to opperate Engine",1.5,1769
+9561,Diesel,"to the Compessor",2,1770
+9544,Diesel,,NULL,1771
+8679,"wood,",,NULL,1772
+17376,Deisal,"For Machine",400,1773
+9170,Diesel,"for generator",NULL,1774
+14260,NA,,NULL,1775
+8726,Diesel,Crushering,NULL,1776
+23096,"Diesel , Gas",Baking,225,1777
+23266,Diesel,"To operate generator",NULL,1778
+25981,diesal,"compresor operation",10,1779
+8761,Diesel,10,NULL,1780
+22812,Diesel,Grilling,10,1781
+22774,Diesel,"To operate generator",400,1782
+22788,Diesel,"Compressure & Vehicle",100,1783
+22828,Diesel,"To operate generator",20,1784
+25999,Deisal,,NULL,1785
+18274,Diesel,Production,20,1786
+22810,Diesel,"To operate drill machine",NULL,1787
+26000,"Liquid Petrclium Gas","Cooking & Frying Of Food",15,1788
+22805,Diesel,"To operate machine",10,1789
+26005,Kerosine,"Washing of vehicles",0.5,1790
+2823,,,NULL,1791
+18276,Gas,"Domestic use",1.5,1792
+2962,,,NULL,1793
+26012,DESEL,"FOR THE COMPRESSHER",50,1794
+2869,,,NULL,1795
+22813,Dissel,Drilling,NULL,1796
+26015,DESEL,,3,1797
+3004,Current,,NULL,1798
+14477,,,NULL,1799
+14507,,,NULL,1800
+14456,Diesel,"Compressuer Operating",25,1801
+22825,Diesel,"Metal crushing",NULL,1802
+26021,DESEL,"FOR LIGHTNING",NULL,1803
+14501,,,NULL,1804
+14503,,,NULL,1805
+14499,,,NULL,1806
+14505,,,NULL,1807
+22787,Diesel,Gringing,100,1808
+22803,Diesel,"To operate generator",150,1809
+12175,kerosine,,NULL,1810
+12175,greese,,NULL,1811
+22778,Diesel,"To operate generator",800,1812
+26032,Diesel,,NULL,1813
+26035,Deisal,"For Machine",20,1814
+22797,Diesel,"water Boiling ",100,1815
+22797,,,NULL,1816
+22776,"Furness Oil, LP gas, Diesel","To operate boiler",NULL,1817
+26045,"Diesel ","for machines",NULL,1818
+26046,Diesel,"for Blast",50,1819
+26047,Diesel,"for machines ",NULL,1820
+9102,"diesel, engine oil, carasoil","for hoist & engine cleaning",30,1821
+18113,Diesel,Machinery,5,1822
+9117,electricity,"for bakery purposes",NULL,1823
+18176,Diesesl,"For Machinery",10,1824
+9678,diesel,generator,400,1825
+10054,Diesel,,NULL,1826
+9111,electracity,"for machinery",NULL,1827
+10055,Deisel,,2,1828
+10061,wood,,NULL,1829
+26057,"electricity ","for machines ",242,1830
+21410,Diesel,"For heating Chamber",NULL,1831
+26059,"Diesel ","for blast ",NULL,1832
+26058,"kerosene ","For washing ",0.25,1833
+26066,"Gas ","for preparing food  ",NULL,1834
+26084,"Electricity ","for machines ",10,1835
+26088,DISEL,"FOR THE MACHINE",NULL,1836
+26095,DIESEL,"FOR THE OPERATION OF MACHINES",75,1837
+9671,Diesel,"for machinery",0.22,1838
+9679,Diesel,"power generation",0.3,1839
+8694,Kerosine,"For lighting",NULL,1840
+26105,,,NULL,1841
+26108,Diesel,"for machinery",0.1,1842
+26117,"Kerosene ","washing equipment ",2,1843
+22360,"Kerosine ","For broiler ",30,1844
+19872,"Diesel, Furnace oil","vehicles, boiler ",230,1845
+26137,"Diesel ","For machines ",NULL,1846
+22219,Electricity,"for machines",2,1847
+26146,Deisal,"Operating machine",200,1848
+13311,"by generator",,NULL,1849
+21358,Keroson,,NULL,1850
+26158,Electricity,"for machines ",NULL,1851
+26160,DESEL,"FOR BLASTING OF METAL",15,1852
+26107,Diesel,"for machinery",100,1853
+26141,Diesel,"for machinery",350,1854
+26173,Gas,"For bakery production",NULL,1855
+26173,Electricity,"for bakery production ",NULL,1856
+9105,Electracity,,NULL,1857
+13231,,,NULL,1858
+26183,desel,"for the compressure",20,1859
+9117,Diesel,"Food processing",100,1860
+9117,Gas,"Food processing",50,1861
+9104,Gasoline,"For rubber drying machine",200,1862
+26184,"Diesel ",,NULL,1863
+13341,,,NULL,1864
+13341,,,NULL,1865
+9873,diesel,"for machinery",NULL,1866
+9909,electracity,"power generation",NULL,1867
+9910,Diesel,"for generators",NULL,1868
+21394,"Fuernece oil , Coconut oil",,200,1869
+9889,,,NULL,1870
+9850,Diesel,"clean engines",0.012,1871
+9864,Diesel,"clean engines",NULL,1872
+21775,"Diesel and gas","for fork lifter and ovens for curing ",8,1873
+21339,"Diesel, Petrol",,60,1874
+13329,,,NULL,1875
+13313,desel,washing,15,1876
+21244,"Diesel ","for waste water treatment ",60,1877
+26198,DESEL,"FOR DAMAGING OF METAL",50,1878
+9891,,,NULL,1879
+12536,DESEL,"FOR THE LOADER",20,1880
+25818,,,NULL,1881
+21113,"LP Gas","Heating of raw metarials",1000,1882
+9911,Diesel,"clean engines",NULL,1883
+12614,DESEL,"TO OPERATE MACHINES",20,1884
+12625,DESEL,"FOR THE LOADER",10,1885
+21117,Diesel,"For vehicle & Generator ",235,1886
+13310,,,NULL,1887
+21105,Diesel,"For generators",NULL,1888
+9681,Diesel,"for generators",NULL,1889
+9644,Diesel,"for machinery",1500,1890
+21318,Diesel,,NULL,1891
+23165,Diesel,"To operate generator",NULL,1892
+22794,"Diesel ","for generators ",175,1893
+21295,Diesel,heating,100,1894
+22100,L.P.Gas,"For cooking",12,1895
+21186,Diesel,"To operate generator",NULL,1896
+21228,"Hydraulic oil","To operate the bailing press",NULL,1897
+21287,"D.S. 40","for machines ",5,1898
+21287,"Diesel ","for vehicles ",50,1899
+21264,"Burned oil ","for boiler ",25,1900
+21122,Diesel,"To Operate Machinery",2,1901
+9702,Diesel,"for machinery",300,1902
+21144,"Fernece oil grade 800","To operation Furneces",425,1903
+9103,Diesel,60,NULL,1904
+9103,"fire wood","For rubber drying",2,1905
+9907,electracity,"power generation",NULL,1906
+26211,Diesel,,NULL,1907
+21267,"furnece oil","To operate boiler",225,1908
+9883,electracity,"power generation",NULL,1909
+9890,electracity,"power generation",NULL,1910
+9912,Diesel,"for machinery",0.5,1911
+26210,Diesal,"For Genarator",NULL,1912
+9853,Diesel,"for generators",0.19,1913
+13326,electrocity,"starting the vehicle",70,1914
+13326,electrocity,"starting vehicle",70,1915
+13326,,,NULL,1916
+9888,,,NULL,1917
+13340,,,NULL,1918
+9508,Kerasole,Cleaning,NULL,1919
+9903,Diesel,"for machinery",0.02,1920
+8351,Diesal,"For Genarator",NULL,1921
+8351,Diesal,"For Genarator",200,1922
+21114,Diesel,"To operate generator",750,1923
+13240,,standby,3.6,1924
+8354,,,NULL,1925
+23260,Diesel,"To operate generator",200,1926
+21292,Diesel,Drier,20,1927
+26227,Diesel/Petrol,"for fork lift, motors ",NULL,1928
+8352,Diesal,"For Genarator",30,1929
+23267,Diesel,"for generators and vehicles  ",18,1930
+21102,"Diesel and kerosene ","cleaning ",250,1931
+21329,"Diesel ","for generators ",NULL,1932
+14366,,,NULL,1933
+14366,Deisol,"For Owen",0.03,1934
+26232,Diesal,"For Genarator",0.3,1935
+9113,Diesel,"Use for generators ( In a case of electricity failure)",NULL,1936
+26237,Kerosin,"For Washing",0.05,1937
+9521,Diesel,,NULL,1938
+9500,Diesel,,20,1939
+26253,Diesal,"For Genarator",NULL,1940
+26259,Diesal,"For Genarator",0.005,1941
+20079,"Diesel ",,10,1942
+9908,Diesel,"for machinery",0.03,1943
+19940,"Diesel ","for machines ",NULL,1944
+19919,"Diesel ","for generator ",NULL,1945
+19999,"Diesel ","for machines",NULL,1946
+26271,,,NULL,1947
+13430,DISEL,"FOR THE COMPRESSURE",10,1948
+13189,DISEL,"FOR THE COMPRESSURE",25,1949
+26286,desel,"for machineries",10,1950
+19825,"furnaces oil ","for dissolve aluminium ",20,1951
+20271,Diesel,,5,1952
+26298,,,NULL,1953
+26305,Diesal,"For Genarator",NULL,1954
+22232,"Furness Oil",,NULL,1955
+26310,,,NULL,1956
+22205,Diesel,"To operate Engine",500,1957
+19584,Kerosion,Drying,576,1958
+13331,,,NULL,1959
+17528,d,"Operating machine",40,1960
+8103,,,NULL,1961
+8977,Electracity,,NULL,1962
+8967,Diesel,"To operate the loader",10,1963
+20357,Diesel,,300,1964
+8962,Diesel,"Operating the generator",144,1965
+13312,,,NULL,1966
+8995,Diesel,"Operating generator",NULL,1967
+21801,Kereson,Washing,2,1968
+13334,,,NULL,1969
+10959,Desal,,15,1970
+19793,Diesel,"To operate generator",100,1971
+26388,Diesel,"for generators",0.05,1972
+26389,Diesel,"for machinery",0.06,1973
+26390,Deisal,"For Machine",10,1974
+23234,"Furnece Oil",,2000,1975
+23134,"Hydrolic Oil","To Operate Machinery",NULL,1976
+22818,Diesel,"To operate generator",3000,1977
+21788,Diesel,"To operate generator",67,1978
+19807,Diesel,"To operate generator",NULL,1979
+11411,"public supply",,1,1980
+10839,ferosoil,machinaery,1,1981
+11073,kerosene,washing,5,1982
+10947,Diesel,"to the operate airpressure gun with scavater",400,1983
+12600,DESEL,"FOR MACHINERIES",40,1984
+26420,Kerosene,,6000,1985
+26423,DESEL,"FOR ENGINES",1,1986
+10831,deisel,"to compesure",NULL,1987
+19966,Diesel,,NULL,1988
+20018,"Oxigen, Asitling","Iron Cutting",1,1989
+11564,deisal,"to oven",15,1990
+19814,"Fire wood, Gas","To opwrate boiler and oven",525,1991
+11397,carosin,washing,0.5,1992
+8794,Diesel,"for machinery",0.04,1993
+26440,deasal,,NULL,1994
+26440,,,NULL,1995
+26448,"L P Gas","To boiling",6,1996
+22795,Kerosine,cleaning,1,1997
+20159,Diesel,"To Operate Generator & Burnner",NULL,1998
+11282,diesal,,15,1999
+26460,Carosin,Cleaning,1,2000
+22003,Diesel,"To operate generator",230,2001
+26469,Diesel,,NULL,2002
+22000,"Diesel, LP Gas, Wood","Generator, Cooking,Boiler",1120,2003
+20117,"Furnece Oil",Heating,25,2004
+21080,Keroson,,NULL,2005
+8772,Diesel,"for generators",0.03,2006
+8771,Diesel,"for generators",0.3,2007
+26471,oil,"for aluminium melting",0.01,2008
+19978,Diesel,"Operate drilling machine",NULL,2009
+21843,Diesel,"To Operate drilling machine",20,2010
+11015,"Timber powder,fire wood","Boiled water",NULL,2011
+11439,"cerosine ",washing,0.5,2012
+26482,deisal,,NULL,2013
+26503,Diesal,,500,2014
+11106,"kerosine oil",washing,2,2015
+11104,"keosine oil",Washing,1,2016
+22811,Diesel,"To operate Compressure",30,2017
+11599,"SBP petral","Prepaird Glue",20,2018
+20115,Diesel,"To generate electricity",8,2019
+21861,Diesel,"To operate wheel loader",5,2020
+21304,Diesel,"To operate generator",5,2021
+26521,Diesel,"power generation",NULL,2022
+22028,Diesel,"To operate generator",NULL,2023
+26535,DISEL,"FOR THE GENERATOR",20,2024
+26562,Diesel,"Generator, Vehicle",100,2025
+20375,Kerosion,Servicing,3,2026
+20914,Electricity,"To operate machine",250,2027
+26576,"Desal ",,NULL,2028
+26577,Desal,,NULL,2029
+22259,Diesel,"To operate generator",20,2030
+11093,Carosine,washing,0.5,2031
+11092,Cerosen,washing,1,2032
+11074,Dieasl,,35,2033
+10976,Deasal,,20,2034
+11650,deasal,,5,2035
+11650,Gas,,10,2036
+11457,carosine,washing,1,2037
+20123,Diesel,,100,2038
+20897,"coconut chells","To operate boiler",2900,2039
+11458,Dieasel,,10,2040
+22267,"Diesel, Petrol","For vehicle",70,2041
+8610,Diesal,"Excavator & Compresure",60,2042
+8611,Diesal,"Excavator & Compresure",10,2043
+6988,Deseal,"Hi Compresser",NULL,2044
+2228,Disel,,10,2045
+2412,"Hydraolic oil",,NULL,2046
+20724,Diesel,"To operate generator",NULL,2047
+20749,"Fire wood, Diesel","To operate generator & water boilling",1,2048
+11094,carosine,,1,2049
+26603,deisal,,10,2050
+21509,Petorl,Transport,20,2055
+23116,Diesel,"To operate generator",NULL,2056
+23232,"Coconut Shell","To operate boiler",2750,2057
+21495,Diesel,"To operate generator and Lift",100,2058
+20293,Diesel,"To operate generator",160,2059
+20129,"Fire wood","To operate boiler",10,2060
+20658,Diesel,"air pressure machine",20,2061
+11393,carosing,,NULL,2062
+22184,Kerosine,cleaning,3,2063
+22058,"Kerosine, Furenece Oil",Servicing,NULL,2064
+1893,Desal,transport,NULL,2065
+10975,dieasal,,20,2066
+11446,deisal,,100,2067
+11448,deisal,"to operate genarater",25,2068
+21972,Kerosine,,10,2069
+21847,Petrol,"Motor Bicycle",3,2070
+1690,"oyo  gase",,NULL,2071
+20244,"Kerosine, Fire Wood"," To operate oven",7,2072
+20938,Kerosine,"To operate generator",1.567,2073
+8346,carosine,"For Washing",0.002,2074
+1767,,,NULL,2075
+26623,,"cocanut shell, saw dusts",NULL,2076
+10984,carosing,,10,2077
+8589,carosine,"For Washing",0.005,2078
+26629,Diesal,"For Compresure",NULL,2079
+26631,,"kerasine oil",NULL,2080
+26634,Diesal,"For Compresure",0.0015,2081
+11451,Carosine,washing,2,2082
+26640,Diesal,"For Compresure",0.005,2083
+1820,Disel,,NULL,2084
+26210,Diesal,"For Compresure",20,2085
+26645,Diesal,"For Compresure",0.002,2086
+26649,Diesal,.001,NULL,2087
+10974,deaisal,,30,2088
+11487,deisal,,10,2089
+1552,Disel,,30,2090
+26677,Kerosin,cleaning,0.25,2091
+26680,Kerosin,cleaning,0.25,2092
+26685,Kerosin,cleaning,0.2,2093
+26689,Kerosin,cleaning,0.25,2094
+26692,Kerosin,cleaning,0.001,2095
+26695,Kerosin,cleaning,0.02,2096
+20323,Diesel,"To operate generator",NULL,2097
+26698,Diesal,"For Genarator",200,2098
+8251,Diesal,"For Vehicle",25,2099
+26700,Diesal,"For Compresure",0.03,2100
+8308,Diesal,"For Compresure",0.45,2101
+26720,Kerosene,"washing vehicles",8.2,2102
+2935,,,NULL,2103
+7784,"Furans Oil , Deisel","cieaning vehicle parts",0.5,2104
+26722,Desel,,20,2105
+7793,"cerazene oil","cleaning vehicle parts",1.5,2106
+7811,Deisel,"cieaning vehicle parts",1.5,2107
+11437,deasal,,50,2108
+7776,"cerazene oil","cieaning vehicle parts",1,2109
+8309,Diesal,"For Genarator",0.45,2110
+3132,Desel,,100,2111
+8534,Diesal,"For Genarator",NULL,2112
+8533,Diesal,"For Genarator",NULL,2113
+26728,Kerosin,"For Washing",0.2,2114
+11096,carosine,,1,2115
+26730,Disel,,NULL,2116
+11098,dieasal,,7,2117
+11099,kerosene,,1,2118
+11099,kerosene,,1,2119
+7550,Deisel,"Hi Compresser",500,2120
+7786,"cerazene oil","cleaning vehicle parts",0.5,2121
+7777,"cerazene oil","Cleaning vehicle parts",0.5,2122
+11440,carosine,,1,2123
+26739,Kerosin,"For Cleaning",8,2124
+3076,Desel,,NULL,2125
+26744,Desel,,10,2126
+11090,karosine,washing,2,2127
+4512,ocsijan,,NULL,2128
+26747,Kerosin,"For Cleaning",2000,2129
+26748,Diesal,"For Genarator",150,2130
+26758,Kerosin,"For Washing",0.001,2131
+26761,Diesal,"For Compresure",0.02,2132
+8267,Diesal,"For Genarator",0.3,2133
+11382,,carosin,0.5,2134
+10918,carosin,,1.5,2135
+26771,Diesal,"For Compresure",0.05,2136
+7796,"Boilled Cinommon Leaves & wood","Water Boiling",11,2137
+7796,,,NULL,2138
+10888,Diesal,,NULL,2139
+11057,carosine,,NULL,2140
+26788,Desel,,NULL,2141
+26789,Diesal,"For Genarator",0.15,2142
+10966,Diesal,,100,2143
+26773,Diesal,"For Compresure",0.001,2144
+26800,"Lp Gas",Cook,20,2145
+20085,"Hydro Power","To Operate Machinery",8,2146
+26807,Desel,,10,2147
+26808,Desel,,10,2148
+26819,Diesel,,NULL,2149
+26820,diesel,"operating machines ",6,2150
+22033,"Diesel, Kerosine",,NULL,2151
+25329,"kerosin, diesal","for burning & operating generator",35,2152
+26825,kerosine,"removing greese",1,2153
+11222,carosine,,3,2154
+16682,diesal,"for machinaries",6,2155
+16374,"Diesel ","Generator & mechineries  ",120,2156
+16551,kerosine,burning,5,2157
+16552,kerosine,cleaning,5,2158
+16626,kerosine,cleaning,2,2159
+26837,"Diesel ","Operating Genarator",30,2160
+26838,Diesal,"For Compresher",0.008,2161
+16623,kerosinne,cleaning,1,2162
+26841,Diesal,"For Compresher",0.007,2163
+26844,"Paddy Husk",Boiler,1000,2164
+26843,kerosine,cleaning,2,2165
+21782,"Diesel, Thermic Fluid","Steam boiler, Heator and generator",275,2166
+21730,Kerosine,cleaning,10,2167
+19784,Diesel,"To operate generator, Water Pump, Lift",100,2168
+1154,"Kaltex oil",,10,2169
+26860,"l.p Gas","For Cooking ",4,2170
+20912,Diesel,"To operate generator",NULL,2171
+26866,Diesal,"For Compresher",7,2172
+16850,Diesel,"For operating Generator",NULL,2173
+26868,Diesal,"For Genarator",0.001,2174
+26886,Diesel,"To Operate Machinery",10,2175
+8359,Kerosin,"For Cleaning",0.001,2176
+20707,Diesel,"To Operate Machinery",NULL,2177
+20708,Diesel,"To Operate drilling machine",NULL,2178
+26892,Diesel,,5,2179
+20433,Diesel,"To operate Compressure",5,2180
+20655,"Hydrolic Oil","To Operate Machinery",250,2181
+26898,Disal,,NULL,2182
+26909,Diesel,Grinding,20,2183
+20389,Diesel,,NULL,2184
+26911,Diesal,"For Compresure",0.02,2185
+26912,"Paddy Husk","Used for boiler",500,2186
+26913,"Lp Gas","For Cooking",5,2187
+10934,diesal,,20,2188
+10936,diesal,,40,2189
+10917,dieasal,,NULL,2190
+21348,"Engine Oil",,0.01,2191
+2155,kerosene,,NULL,2192
+21588,"Furnece Oil","Brass melting",130,2193
+1207,"Lp Gas","For Cooking",4,2194
+1175,Desal,,2,2195
+1175,kerosene,,2,2196
+1242,Desal,,NULL,2197
+26969,Kerosion,,NULL,2198
+1263,"Lp Gas","For Cooking",NULL,2199
+20875,Diesel,"To operate Machine  ",26,2200
+26994,"Lp Gas","For Cooking",NULL,2201
+1214,"Engine oil ","Smoothing and Gear Wheels",4,2202
+27003,kerosene,"for clear",3,2203
+21970,"L P Gass",,NULL,2204
+1253,"Lp Gas","For Cooking",10,2205
+14166,,,NULL,2206
+13808,Diesel,"operating Compressor",20,2207
+2791,Disel,,20,2208
+14037,"carousing oil","to clear iron ",NULL,2209
+27010,"LP Gass",cooking,2,2210
+14030,no,,NULL,2211
+5127,"Lp Gas","For Cooking",16,2212
+5103,Disal,,NULL,2213
+14116,Deisal,Generator,5,2214
+11024,Diesel,,10,2215
+14114,Deisal,"Generator operation",5,2216
+1262,"Lp Gas","For Cooking",12,2217
+1128,kerosene,"For Washing",NULL,2218
+27059,"Lp Gas","For Cooking",5,2219
+5124," Gas",,NULL,2220
+27075,,"frying, cooking of food",9,2221
+1248,"Lp Gas","For Cooking",15,2222
+5132,"Lp Gas","For Cooking",10,2223
+1251,Desal,,4,2224
+27084,"Lp Gas","For Cooking",7,2225
+3136,Desel,,15,2226
+3147,"Bumi Thel",,NULL,2227
+5128,"Lp Gas","For Cooking",13.5,2228
+27095,"PADDY HUSK","FOR BOILER",500,2229
+3153,,,NULL,2230
+4172,electric,,300,2231
+4306,Disel,,20,2232
+13711,"Diesel ","use for compressor ",20,2233
+2091,Desal,,40,2234
+13710,"Deasal ","Compressor ",20,2235
+11579,kerosin,washing,0.5,2236
+13713,"Desal ","Compressor ",20,2237
+27120,,,NULL,2238
+3148,,,NULL,2239
+4901,Gas,,13,2240
+14462,Diesel,"Operating for generator",100,2241
+14460,Diesel,"Operating Compressor",50,2242
+21630,kerosene,,2,2243
+14455,Diesel,"Compressor operating",50,2244
+14458,Diesel,"operating Compressor",5,2245
+14457,Diesel,"Operating Compressor",20,2246
+14453,Diesel,"Operating Compressor",30,2247
+20532,Elecricity,,NULL,2248
+14454,,,NULL,2249
+14459,Diesel,"Operating Compressor",50,2250
+13864,Kerosine,Wash,2,2251
+13712,"Diesel  ","Compressor ",5,2252
+3143,,,NULL,2253
+14461,Diesel,Compressor,120,2254
+13714,Diesel,"Compressor ",20,2255
+27137,Diesel,"Compressor Oprating",5,2256
+2821,Desel,,30,2257
+14463,,,NULL,2258
+3545,,washing,10,2259
+4884,"oil,grees",,2,2260
+22025,Diesel,Generators,NULL,2261
+27144,Diesal,"For Genaration",0.2,2262
+21744,Diesel,,NULL,2263
+27158,Diesal,"For Machine",0.2,2264
+27160,Kerosin,Cleaning,0.001,2265
+27172,Desel,,NULL,2266
+27178,Desel,,10,2267
+3446,"machine oil",,NULL,2268
+27181,Desel,,8,2269
+14567,Diesel,"Compressor operation",800,2270
+14572,Diesel,"Machine operating",100,2271
+14570,Nil,,NULL,2272
+14571,Diesel,"Compressor operation",15,2273
+21487,Diesel,"For Generator vehicle",200,2274
+14633,Nil,,NULL,2275
+4980,"LP Gas",15,NULL,2276
+25186,Diesel,,100,2277
+21589,Diesel,"For genarator during power cut",NULL,2278
+14634,Nil,,NULL,2279
+14616,Nil,,NULL,2280
+14617,Nil,,NULL,2281
+2785,Desel,,5,2282
+14464,,,NULL,2283
+14467,,,NULL,2284
+14468,,,NULL,2285
+14470,,,NULL,2286
+14471,,,NULL,2287
+20771,Diesel,"For Machine",0.3,2288
+20672,Diesel,,20,2289
+3083,,,NULL,2290
+3025,Desel,,30,2291
+11072,L.P.Gas,,1.2,2292
+20387,,,NULL,2293
+3114,Disel,,10,2294
+2890,Desel,,50,2295
+3116,Desel,,3,2296
+3128,"L.A Gas",,56,2297
+3123,Desel,,20,2298
+2825,Desel,,40,2299
+1513,,,20,2300
+27218,Disel,,6,2301
+1455,Disel,,NULL,2302
+11544,kerosine,,1.5,2303
+14618,NA,,NULL,2304
+14609,Nil,,NULL,2305
+4810,"L.A Gas",,24,2306
+2270,Desal,15,NULL,2307
+5126,"LP Gas",Cooking,44.5,2308
+5125,Gas,Cooking,1,2309
+27259,"LP Gas",Cooking,10,2310
+27262,"LP Gas",Cooking,32,2311
+27267,"LP Gas","Cooking ",5,2312
+20922,"L P Gass","To cooking",13,2313
+27269,"LP Gas",Cooking,26,2314
+27268,Diesel,"For Machine",20,2315
+27270,Deisel,20,NULL,2316
+20182,Kerozine,"For Washing",3,2317
+21508,Diesel,Loading,50,2318
+20097,Diesel,"To operate generator",2000,2319
+22206,Diesel,"To operate generator",100,2320
+20738,Kerosine,"To operate boiler",100,2321
+21489,"LP Gas","Gas Cutting",NULL,2322
+4787,Gas,,10,2323
+4804,Gas,,NULL,2324
+4778,Desel,,5,2325
+27300,"LP Gas",Cooking,15,2326
+14611,NIL,,NULL,2327
+14608,Nil,,NULL,2328
+14612,NA,,NULL,2329
+14619,NA,,NULL,2330
+14620,NA,,NULL,2331
+14639,Nil,,NULL,2332
+14637,Kerosene,"Washing Parts",2,2333
+14632,Kerosene,"Parts washing",1,2334
+14638,Kerosene,"part washing",2,2335
+1365,Desal,,10,2336
+22032,Diesel,,NULL,2337
+19849,Diesel,"For fork lift trucks",10,2338
+20466,Diesel,,NULL,2339
+27310,"Electricity ","Operate the machine",70,2340
+19553,Electricity,,NULL,2341
+19565,Electricity,"For Machine",275,2342
+20251,Diesel,,NULL,2343
+19838,Wood,,NULL,2344
+27313,Deisel,20l,NULL,2345
+21759,"Furnace Oil","Steam Generator",540,2346
+22662,Diesel,,2,2347
+27324,Deisel,"For operating generator",NULL,2348
+23080,"Saw dust,Coconut Shells","For drying the desicated coconut",12,2349
+22717,"Kerosene ","For Washing",1,2350
+27327,Deisel,"For oprate the Compreasure machine",10,2351
+27329,"Furnace oil",,NULL,2352
+27333,Deisel,40,NULL,2353
+27351,"L.P. Gas ","Heating the oven",7,2354
+21320,"Induction furnace",25.,NULL,2355
+10952,Diesal,"mashine operating",60,2356
+27364,kerosine,cleaning,1,2357
+27368,Deisel,,20,2358
+27371,Deisel,,20,2359
+27376,kerosene,,2,2360
+21748,Deisel,"For operate the generator",8,2361
+19605,"Gas,Diesel",,NULL,2362
+22826,Diesel,,NULL,2363
+22023,Diesel,"Generator running",15,2364
+20285,Deisel,"For the loder",NULL,2365
+21027,Kerosine,"For Washing",2,2366
+22552,Kerozine,,2,2367
+27393,ඩීසල්,"කම්ප්‍රෙෂර් යන්ත්‍රය සදහා",5,2368
+19805,Petrol/Deisel,Transport/Vehecle,30,2369
+20132,Deisel,"For repairing activities",5,2370
+20680,"Furnes oil","Boiler heating",1200,2371
+20667,Deisel,"For vehicle transportation",500,2372
+21553,Diesel,"For operation production machine",400,2373
+2837,Disel,,0.1,2374
+2754,Disel,,0.1,2375
+3171,Disel,,NULL,2376
+19558,"LP Gas",Cooking,NULL,2377
+20840,Deisel,,18,2378
+10864,Deisal,"mettal crushing",70,2379
+27301,"kerosone oil",cleaning,500,2380
+27437,kerosone,cleaning,500,2381
+27438,kersone,cleaning,100,2382
+21036,Diesel,"Forklift and Jenerator",NULL,2383
+23290,Diesel,"To operate oven",30,2384
+19874,Diesel,"To operate generator, Water Pump, Lift",300,2385
+21709,Diesel,"For Boilors",900,2386
+22421,Deisel,"For generate the electricity",NULL,2387
+22318,"Furnece Oil","Copper Melting",10,2388
+22402,"Kerosine & Dissel",,10,2389
+22303,"Furnece oil",melting,100,2390
+22211,"Furnece oil","billet heating",3000,2391
+22227,Dissel,"To operate generate",5000,2392
+22326,Dissel,"To operate generate",400,2393
+27506,"Paddy Husk","For boiler",500,2394
+27507,"PADDY HUSK","FUEL FOR BURNER",500,2395
+20804,Deisel,"For Comprasure machine",20,2396
+20351,"Furnace Oil","For billet heating ",2000,2397
+22403,Dissel,"To operate generate",NULL,2398
+22291,Dissel,"To operate generate",1500,2399
+10733,dieasal,mining,20,2400
+20691,Kerosene,Cleaning,10,2401
+21516,Dissel,"For oven ",12,2402
+27561,,,NULL,2403
+20978,"Diesel, Kerosine","To operate machinery",39,2404
