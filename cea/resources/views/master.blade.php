@@ -17,8 +17,9 @@ and open the template in the editor.
         // put your code here
         ?>
 
-        <div class="container"> <!-- Start Container --> 
-            <img src="../resources/assets/images/nb2.jpg" style="height: 100px;width: 100%"/>
+        <div class="container-fluid"> <!-- Start Container --> 
+            <!--<img src="../resources/assets/images/nb2.jpg" style="height: 100px;width: 100%"/>-->
+            <img src="{{asset('assets/images/nb2.jpg')}}" style="height: 100px;width: 100%"/>
             <!--<img src="{{url('../assets/images/newBanner.jpg')}}"  /> -->
             <!-- -------------------------- Banner----------------------------------- -->
             <!--<div class="well well-lg" style="font-family: serif; height: 100px;width: 100%; padding: 0.5px ; padding-left: 50px; " >
@@ -29,6 +30,8 @@ and open the template in the editor.
             <!-- -------------------------- ----------------------------------- -->
             <!-- Main menu start -->
             <!--<nav class="navbar navbar-inverse" style="background-color: #001133"  >-->
+            <br/>
+            <br/>
                 <nav class="navbar navbar-inverse" style="background-color: #1A782A"  >
                 <div class="container-fluid">
                     <div class="navbar-header">

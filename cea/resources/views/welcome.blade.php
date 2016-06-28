@@ -10,7 +10,8 @@
        </div>
 
        <div class = "panel-body">
-           <img src="../resources/assets/images/eplpsi.jpg" class='img-responsive'/>
+           <img src="{{asset('assets/images/eplpsi.jpg')}}" class='img-responsive'/>
+           
        </div>
     </div>
 </div>
@@ -21,7 +22,8 @@
    </div>
    
    <div class = "panel-body">
-       <img src="../resources/assets/images/hwmnew.jpg" class='img-responsive' />
+       <img src="{{asset('assets/images/hwmnew.jpg')}}" class='img-responsive' />
+       
    </div>
 </div>
 </div>

@@ -12,7 +12,10 @@ class IndustryController extends Controller
      */
     public function index()
     {
-        return view('industry.index');
+        $industries = \App\Industry::all();
+//        var_dump($categories); // to display errors
+        $data["industries"] = $industries;
+        return view('industry.index',$data);
     }
     
     public function create()
@@ -29,6 +32,7 @@ class IndustryController extends Controller
     {
         return view('industry.edit');
     }
+    
     
 //    public function delete()
 //    {
