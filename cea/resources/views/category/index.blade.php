@@ -15,32 +15,16 @@
                 <th>Option</th>
             </tr>
         </thead>
-        <tbody>
+        @foreach($categories as $category)
             <tr>
-                <td>A1</td>
-                <td>Service Station</td>
-                <td>This is regarding the service station</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('/category/show')}}">Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
-            </tr>
-            <tr>
-                <td>A2</td>
-                <td>Food</td>
-                <td>This is regarding the Food related industries</td>
+                <td>{{$category->catID}}</td>
+                <td>{{$category->catname}}</td>
+                <td>{{$category->catdescription}}</td>
                 <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
                     <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
                     <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
             </tr>
-            <tr>
-                <td>A3</td>
-                <td>Hotels</td>
-                <td>This is regarding the Hotels</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
-            </tr>
-        </tbody>
+        @endforeach
     </table>
 
 @endsection

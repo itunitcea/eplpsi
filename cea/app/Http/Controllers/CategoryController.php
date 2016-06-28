@@ -15,7 +15,10 @@ class CategoryController extends Controller
      */
     public function index()
     {
-        return view('category.index');//We should create folder called "Category" and file called 'index.blade.php'
+        $categories = \App\Category::all();
+    //    var_dump($categories);
+       $data["categories"] = $categories;
+        return view('category.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }
 
     /**
@@ -25,7 +28,7 @@ class CategoryController extends Controller
      */
     public function create()
     {
-       return view('category.çreate');//
+       return view('category.create');//
     }
 
     /**
@@ -36,7 +39,16 @@ class CategoryController extends Controller
      */
     public function store(Request $request)
     {
-        //
+//        $input = $request::all();
+//        \App\Category::create($input);
+//        return redirect()->back();
+        $cat = new \App\Category();
+        $cat->catID = $request->get("catID");
+        $cat->catname = $request->get("catname");
+        $cat->catdescription = $request->get("catdescription");
+        $cat->save();
+        
+        return redirect()->back();
     }
 
     /**
@@ -47,7 +59,10 @@ class CategoryController extends Controller
      */
     public function show($id)
     {
-        return view('category.show');//
+        $category = \App\Category::find($id);
+        $data["category"] = $category;
+        
+        return view('category.show',$dsata);//
     }
 
     /**
@@ -58,7 +73,10 @@ class CategoryController extends Controller
      */
     public function edit($id)
     {
-        return view('category.edit');//
+        $caregory = \App\Category::find($id);
+        $data["category"] = $caregory;
+        
+        return view('category.edit',$data);//
     }
 
     /**
