@@ -1,0 +1,5 @@
+noticeID,industryID,applicationID,senderID,receiverID,sendDate,readDate,stat,masage
+1,1,1,kalutharaepl,dsw,"2014-12-31 00:00:00",NULL,0,"Please Approve this"
+2,1,1,dsw,kalutharaepl,"2014-12-31 00:00:00",NULL,0,"Please Recheck this Industry Details"
+3,1,1,dsw,kalutharaepl,"2014-12-31 00:00:00",NULL,0,"Please Recheck this Industry Details and approve"
+4,1,1,dsw,kalutharaepl,"2015-01-01 00:00:00",NULL,0,ttttttt

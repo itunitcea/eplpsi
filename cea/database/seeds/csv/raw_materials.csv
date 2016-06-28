@@ -1,0 +1,4845 @@
+industruID,metirialID,metirialname,qty
+1,1,"Treated Rubber wood/MDF/Non toxic paints/Sanding sealer",
+3,2,"Suger/Vitamin A&C/Dextrose monohydrates/Orange flavour/Yellow colour powder/Citric Acid/Orange colour powder",
+4,3,PP/PVC/HDPF/LDPF,
+5,4,"Metal Sheet","1 MT"
+5,5,Zink,"160 Kg"
+5,6,Iron,"360 Kg"
+6,7,"Plain Galvanized Sheets",
+6,8,"Plain Color Coated Sheets",
+7,9,Greese,
+7,10,Lubricants,
+8,11,C.R.Sheet,
+8,12,"Fire Wood",
+8,13,"Furnace Oil",
+8,14,"Saw Dust",
+9,15,"Additives ",
+9,16,Pigments,
+9,17,Solvants,
+9,18,Resins,
+9,19,"Extender ",
+9,20,Binder,
+9,21,Driers,
+10,22,"waste Aluminum","100 Kg"
+10,23,"Furnes Oil","20 Gallon"
+11,24,"MDF Board",8
+11,25,Paints,6L
+12,26,"Calcium Carbonate",
+12,27,Pigments,
+12,28,Clay,
+12,29,Binders,
+12,30,Thicner,
+12,31,Preservative,
+12,32,Anti-Foam,
+12,33,Ammonia,
+12,34,Solvants,
+12,35,"Alkyd Rasin",
+12,36,Water,
+12,37,Plasticizer,
+12,38,Binders,
+13,39,"Rubber white WT 200",25Kg
+13,40,"Rubber Clear P.B.T.410","10 Kg"
+14,41,"Various Food",
+15,42,,
+15,43,,
+15,44,,
+15,45,,
+15,46,,
+16,47,"Cotten & Polyester Threds",
+18,48,G.I.Pipe,
+18,49,"Steel Wire",
+18,50,"Metal Sheet",
+19,51,"Steel Pipes",
+19,52,"Steel Sheets",
+19,53,"Steel Strips",
+19,54,Paints,
+19,55,"Corecated paper",
+19,56,"Polithin paper",
+20,57,"Steel Strips CRC","800Kg P/D"
+23,58,"100% Cotton Yarn",4
+23,59,"Organic Dyes",
+23,60,H2O2,
+24,61,P.V.C.Resin,"01 Metric ton"
+24,62,"calcium Carbonate"," 1/4 ton"
+24,63,stabilizer,"40 Kg"
+24,64,"Carbon Black"," 250 g"
+25,65,????,"5000 ??.??????"
+27,66,"Fiber glass Mat","40 Kg"
+27,67,"Fiberglass Resin",110Kg
+27,68,Wooden,"70 ft"
+27,69,Steel,"10 Ft"
+28,70,"G.I.  plane Sheets",
+29,71,"HDPE/LDPE granuales","4000 Kg"
+29,72,"Master Batch","70 Kg"
+30,73,"pvc Sheet","100 Kg"
+30,74,"HIPS Sheet","100 Kg"
+31,75,HDP,"300 Kg"
+31,76,PP,"200 Kg"
+32,77,"Calcium Carbonate","1500 kg"
+32,78,Cement,"20 Kg"
+32,79,Glue,"20 Kg"
+34,80,HDPE/PP,"150 kg"
+36,81,"??? ?? ??????????",
+37,82,"????? ????",
+37,83,"????????? ???????",
+37,84,"????????? ?????",
+528,85,"Semi Finised Rubber Sheets &RubberStrap",
+599,86,ජලය,"60000 L"
+604,87,මාළු,"500 kg"
+604,88,ලුනු,"150 kg"
+606,89,වතුර,25000L
+676,90,තීන්ත,"4 L"
+676,91,"3x5 ;yvq",30
+676,92,ජී.අයි.බෝල්ට්,500
+677,93,කිරි,"1100 L"
+677,94,"20 Kg",
+681,95,ඇළුමිනියම්,"20 Kg"
+681,96,යකඩ,30Kg
+681,97,තඹ,30Kg
+753,98,"කපු නූල්","10 Kg"
+753,99,තුවා,"10 Kg"
+774,100,"බඩ ඉරිගු","1000 Kg"
+774,101,සහල්,"650 Kg"
+774,102,සීනි,250Kg
+784,103,"සින්ගල් ජර්සි රෙදි","7000 M"
+797,104,"කපු නූල්","60 Kg"
+799,105,"වානේ තහඩු",75
+799,106,"තීන්ත ",20L
+799,107,ලොක්,45
+803,108,පොල්වතුර,"1000 L"
+803,109,සීනි,"100 Kg"
+808,110,"කපු නූල්","15000 Kg P/Quater"
+813,111,"කපු නූල්","20 Kg"
+826,112,හයිප්‍රෙෂර්,10L
+826,113,"බොඩි සබන්",1L
+871,114,"6x4 කළුගල්","5 Cube"
+872,115,"දිරන කසල ටොන්","10 Ton"
+904,116,"Coconut Toddy",75L
+905,117,"Cotton thread",200Kg
+907,118,Waste,"16 Ton"
+24430,119,"Metap ","06 Cube"
+24455,120,Sprig,2
+24455,121,Foam,"10 (10 S.M)"
+24455,122,Cloth,"10( .8 S.M)"
+24457,123,Iron,"300 Kg"
+24471,124,Cloth,"1000 yard"
+24475,125,Thinner,
+24475,126,Paint,
+24475,127,Catolog,
+24478,128,"Coconut Oil","150 L"
+24478,129,Water,"70 L"
+24478,130,"Kostic soda","25 Kg"
+24486,131,food,"250 Kg"
+24492,132,"Coconut Toddy","05 gallon"
+24516,133,"6x4 metal","5 Cube"
+24525,134,"6x4 metal","25 cube P/W"
+24535,135,Cloth,"150 Yard"
+24541,136,"Coconut Toddy","1000 L"
+24558,137,"solid Waste","10 ton p/d"
+17122,138,"Metal,Tar",475500kg
+24582,139,Thinner,
+24582,140,"NC  paint",
+2466,141,"oil, washing liquids",
+1364,142,Paints,
+1364,143,"Paint Thinners",
+1829,144,"Precured tread","550Kgs per day"
+3610,145,"Brine H2O/ Pond H2O of Ground Extracts of yams such as cassava, Batala/Innala",01kg
+1829,146,"Bonding Gum","75Kgs per day"
+16433,147,Water,"1500 lit"
+1405,148,Grease,
+1405,149,Oil,
+1405,150,Shampoo,
+1420,151,Paints,
+1420,152,"Sand Papers",
+1420,153,Sheets,
+17311,154,Metal,"5 cubes"
+16434,155,Water,"2000 litre/day"
+1830,156,"Natural rubber",
+1830,157,"Poly Butadine",
+1830,158,"Reclaim Rubber",
+1830,159,"Zinc Oxide",
+1830,160,"Stearic Acid",
+1830,161,"Rubber Process Oil",
+1830,162,"Anti Oxident",
+1830,163,Sulphur,
+1830,164,accellerators,
+1830,165,Resins,
+1830,166,"Carbon Black",
+1040,167,"Dry food",
+1040,168,Meat,
+1040,169,"Fish & vegetables",
+3282,170,"Stitching Wire, Corugel",
+2452,171,"Carbonated Bevarage, Ice cream, Co2 plant",
+2452,172,"Sugar, SMP, Vegitable Fat","15000Kg, 1620Kg, 2000Kg"
+15353,173,"Metal Rock","35 cubic meter/day"
+24608,174,"Metal Bitumix",
+6354,175,Metal,
+24617,176,Metal,50
+16443,177,Paddy,"4500 kg/day"
+4063,178,"Poly oil",
+4063,179,T.D.I.,
+4063,180,"Methylene Chloride",
+4063,181,"Amine Silicone",
+4063,182,Acetone,
+4063,183,"Magnesium Oxide",
+4063,184,"Zibc Oxide",
+16444,185,Paddy,"6500 kg/day"
+1842,186,"Steel and MDF",
+1842,187,Plywood,
+4223,188,"Wheat flour",
+4223,189,Rice,
+16445,190,Paddy,"5000 kg/day"
+16447,191,Paddy,"4000 kg/day"
+16448,192,Paddy,"3500 kg/day"
+1855,193,"Dry medicines(flowers,leaves etc...)",
+16451,194,PADDY,"4000 KG/DAY"
+1848,195,"Fabric Materials",
+4088,196,"Calcium Carbonate","10200 kg/day"
+4088,197,Dolamite,"2500 kg/day"
+4088,198,"China Clay","2035 kg/day"
+17748,199,Granite,
+16449,200,PADDY,"2500 KG/DAY"
+4093,201,"Caustic Soda Flakes","50 kg/day"
+17751,202,Metal,
+17829,203,Corn,800kg
+17744,204,Explosive,"4 kg"
+17745,205,Metal,
+17740,206,"Rock aggregates","40 cub per day"
+17753,207,Explosive,
+17754,208,"Rock Aggregates","250 Cube/Annual "
+17830,209,Granite,
+17831,210,Granite,
+17756,211,"6x9 Metal",20
+17747,212,Granite,
+17312,213,Explosive,
+17736,214,granite,500
+17736,215,,
+17319,216,Granite,
+17826,217,"Rock Boulder","10 Cube/ Day"
+17327,218,Granite,
+17301,219,"6*9 size Granite",
+17307,220,Granite,
+17741,221,"Rock Boulders","15 Cube/ Day"
+17253,222,Explosive,
+17332,223,Granite,
+17257,224,Explosive,
+17777,225,Granite,
+17118,226,Granite,
+17183,227,Granite,
+17120,228,"Rock Boulders","10 Cube/Day"
+17181,229,Granite,
+17155,230,Paddy,3000kg
+17374,231,Granite,
+17113,232,Paddy,"27690 kg"
+18729,233,Explosive,
+18734,234,6x9,
+17049,235,Granite,
+18730,236,"6x9 Metal",60
+17001,237,Granite,
+17250,238,"Car washing materials",
+17119,239,"Rock Boulders","50 Cube/ Month"
+18716,240,Granite,
+17117,241,"Rock Boulders","15 Cube/ Day"
+17053,242,"Prima animal foods",900
+18330,243,Broilers,40000
+18330,244,Layers,450
+18330,245,Goats,46
+18330,246,Cattle,03
+18330,247,"Poultry feed",
+18330,248,pasture,
+17056,249,Paddy,250000
+16450,250,Paddy,3300
+17061,251,Paddy,10000
+18170,252,Granite,
+16446,253,"Steel pipes","30 pipes/month"
+16446,254,"Iron bar","25 bars/month"
+3305,255,No,No
+16446,256,"Iron sheet",(75'x3')/month
+17933,257,Rock,"30 cube/day"
+18053,258,Granite,
+17057,259,"Broiler Chicken","100000 animal"
+10615,260,"Dolamite and Metal Quarry","8 cubes"
+18140,261,"'6x 9' Granaite",
+2038,262,"CFL bulbs",20000/day
+2038,263,"Tube lights",15000/day
+16452,264,Paddy,"6500 kg/day"
+18042,265,"Pig livestock",
+18041,266,Granite,09
+18039,267,Metal,"5 cubes"
+18039,268,Sand,"3 cubes"
+10614,269,"Potassium Chlorate, Black Manganeese, Sulfur Powder, Match Glue,Glass Powder, Gum Rosin, Red  phosperous","Potassium Chlorate - 56, Black Manganeese- 7 kg, Sulfur Powder-1kg Match Glue-7kg,Glass Powder-3 kg, Gum Rosin- 0.5004, Red  phosperous- 2 kg"
+18039,270,Cement,"3 tons"
+18039,271,Water,"3 L"
+17990,272,"6'*9' granite",
+18036,273,Granite,
+18031,274,"Car wash, Water",
+17942,275,Granite,
+18055,276,"Old Aluminium",50kg
+17939,277,"6’*9’ Granite",
+17991,278,Tar,48Kg
+17991,279,Dust,520Kg
+17945,280,Granite,3x4
+17060,281,"Rock Boulders","200 cube/ month"
+17991,282,"Chip Metal",200Kg
+17991,283,"3/4"" Metal",200Kg
+17991,284,"1"" Metal",80Kg
+10613,285,"Water & Oil","Water-300-500l, "
+17930,286,Granite,
+17505,287,"Rocks ",
+10611,288,"Commercial feed ",340
+16453,289,"Steel Pipes","20 pipes/month"
+16453,290,"Iron Bar","35 bars/month"
+16453,291,"Iron Sheet","50 sq.feet/month"
+16453,292,"Welding Road","20 kg/month"
+18173,293,Granite,
+17066,294,"Rock Boulders",
+16454,295,"Steel Pipes","15 pipes/month"
+16454,296,"Iron Bar","25 bars/month"
+16454,297,"Iron Sheet","40 sq.feet/month"
+16454,298,"Welding Road","15 kg/month"
+16455,299,Paddy,"5000 kg/day"
+18052,300,Paddy,4000
+16647,301,"Iron bar",1500kg/month
+17843,302,Granite,"10 cubes"
+17059,303,"Rock Boulders",
+18026,304,"Poultry Feed",
+16456,305,Paddy,"6500 kg/day"
+4160,306,"Granite Slabs",
+1831,307,"Polythene waste",750kg
+2620,308,"Powder Cotin",
+994,309,Cement,15000
+18035,310,Yooria,3000
+994,311,"River sand",22500
+18035,312,T.S.P.,2000
+18035,313,M.O.P.,4000
+994,314,"Manufactured sand",13500
+994,315,"Aggregate 3/4""",29250
+994,316,"Aggregate 1/2""",18000
+994,317,Water,9000
+994,318,Admixture,45
+3241,319,"Ball clay, Feldspar quarts, Plaster of paris, colour stain",
+4090,320,PVA,
+4090,321,"Caustic Soda",
+4090,322,Wax,
+4090,323,MEA,
+4090,324,"Coconut Oil",
+4090,325,"Tallow (Mineral Acids)",
+1832,326,"Steel sheets",
+1832,327,powder,
+1846,328,"Raw water","100000 l"
+1846,329,"Plastics Bottles",
+17846,330,"Plastic powder",
+17846,331,polyethylene,
+10597,332,"costic soda,baking soda",
+18324,333,"Poultry feed",
+4059,334,Fabric,"1750 yards"
+4059,335,Interlining,"80 yards"
+4059,336,Buttons,"65 gross"
+4059,337,"Poly bags","8000 pieces"
+18037,338,"6’*9’ Granite","6 cubes"
+1840,339,"Original Original and racycle PVC",
+4061,340,Polyester,"50 kg/day"
+4061,341,Cotton,"25 kg/day"
+4061,342,"PV ","18 kg/day"
+18503,343,Apatite,
+16457,344,Paddy,"5500 kg/day"
+4116,345,"Waste polythene",
+16458,346,Paddy,"5000 kg/day"
+10137,347,"kerosine,soap",
+1010,348,"Donor blood",
+16459,349,Paddy,"5000 kg/day"
+18588,350,Paddy,4000
+17847,351,"6 '* 4  ' Granite","10 cubes"
+2079,352,"White ironl sheets",
+2079,353,"Soft steel sheets",
+18499,354,Apatite,
+1859,355,Asphalt,
+1859,356,"Chemical Emulsificate",
+1265,357,"Meat, Vegetables, Rice",
+4091,358,"HDPE Blow material","500 kg"
+4091,359,"LDPE Injection","10 kg"
+4091,360,"HDPE injection","10 kg"
+1858,361,"China clay",
+1858,362,"Raw rubber",
+18414,363,Peddy,500
+2435,364,"Ditergent Powder",
+1861,365,Rubber,
+24721,366,Disel,45
+1861,367,Wood,
+24721,368,Greace,1
+24721,369,Lubricant,1
+1861,370,Fibers,
+18584,371,Apatite,
+16460,372,"Iron Sheet","4' x 4' sheet/month"
+16460,373,Gas,"15 kg/month"
+18123,374,Pig,
+18123,375,Poultry,
+4069,376,"Nitrocellulose DHL 120/170","106.63 day"
+4069,377,"Nitrocellulose DHL 25/45",55.19/day
+3307,378,NA,
+18639,379,"Coconut husk",2000
+18587,380,Paddy,10000
+18418,381,"6X9 Metal",6
+24725,382,Dolamite,"2 t"
+24724,383,Boulders,
+1068,384,"Rice, meat, eggs, vegetables",
+4102,385,"Cleaning Substances",
+4145,386,"PVC Injection Moulding Compound",
+10349,387,Granite,25
+17844,388,Granita,"12 cubes"
+24726,389,"Iron Bar",
+24727,390,Threads,100
+4080,391,GPPS,"100 kg"
+18514,392,Paddy,"9000 kg"
+4080,393,ABS,"50 kg"
+4080,394,HIPS,"50 kg"
+4080,395,PP,"150 kg"
+4134,396,"Waste Plastics",
+24729,397,Papers,"1500 kg - 1750 kg"
+4060,398,Polythene,"1000 kg"
+4060,399,Dye,"6 kg"
+4056,400,Copper,"20 Tons/month"
+2422,401,Boulders,
+4081,402,"PVC Resin","185 tons/month"
+4081,403,Stabilizers,"5 tons/month"
+4081,404,Wax,"0.5 tons/month"
+17849,405,Ammoium,5kg
+17849,406,"black powder",250kg
+1865,407,"Metal sheets",
+1865,408,"Electrical item",
+1865,409,Wire,
+4123,410,"Recycled Plastic & Polythene","30 kg/day"
+17849,411,"wter gel",
+4081,412,"Calcium Carbonate","34 tons/month"
+4081,413,"Titanium Oxides","1 tons/month"
+4081,414,"Stearic Acid","1 tons/month"
+24733,415,Rubbles,
+1864,416,"Polythene and nylone waste",
+10549,417,Flour,1750
+10549,418,Suger,600
+10549,419,Eggs,100
+10549,420,Other,525
+3289,421,"Denatured Rectified Sprit (Trade Names:Unikon, CDE)",
+4073,422,"Synthetic Camphor Powder",
+4073,423,"Refined Napthalene Powder",
+4153,424,"Paper rolls",
+4153,425,Gums,
+4153,426,"Solvent based paints",
+2446,427,"Kerosene Oil",
+3311,428,"Polytheene beads (H.D.P.E)",
+24742,429,"3x rubber",
+1867,430,Laminated(LDPB/HDPB),
+24742,431,"R.S.S rubber",
+24742,432,"Reclaimed rubber",
+4128,433,HDPE,
+4128,434,LLDP,
+4128,435,"Masterbatch (Colourng)",
+17923,436,Broilers,30000
+24743,437,Rubber,
+17923,438,Pigs,10
+24743,439,Filler,
+17923,440,Feed,
+24743,441,"Other minor chemicals",
+24743,442,Oil,
+1965,443,"Cut fabrics","4800 pieces"
+24744,444,UDPE,"1200 - 1300 kg/day"
+24744,445,HDPE,"1200 - 1300 kg/day"
+4082,446,"Textile Fabric",
+4082,447,"Sewing Thread",
+1873,448,Pigments,300kgs/day
+1873,449,Resins,800kgs/day
+1873,450,Solvents,300kgs/day
+1873,451,Additives,100kgs/day
+3262,452,"MDF board",10
+3262,453,"Plywood  boards",05
+10327,454,Limestone,
+4144,455,"HDPE Polythene","1000 kg/day"
+4106,456,"Plastic Polymer",
+2045,457,PVC,2000kg/day
+10331,458,Mica,
+24747,459,"'6 x 9 ' granaite",
+4118,460,"Melamine Boards",1500
+4118,461,"MDF Boards","35 units"
+3211,462,water,1000l
+3211,463,"Animal food",750lg
+24749,464,Feed,"500 kg/day"
+3206,465,H.D.P.E.,350kg
+3206,466,"Recycled H.D.P.E. ",250kg
+3206,467,CaCO3,100kg
+24756,468,"LLDPE/ HDPE",1200-1300Kg
+3256,469,"Polymer resins",400kg
+10517,470,"Curry leaves,Cardommon, Peper, Tumeric, Ginger",
+10489,471,"paddy & Water",115000
+18997,472,,
+16461,473,Paddy,"4000 kg/day"
+15351,474,Dust,"112 T/d"
+15351,475,Aggregates,"137 T/d"
+15351,476,Bitumen,"11.75 T/d"
+15351,477,Diesel,"3330 l/d"
+2147483647,478,Dolamite,20
+2147483647,479,pelspa,15
+2147483647,480,Quartz,15
+24766,481,Granite,
+10475,482,"polystyrene wool",
+18995,483,metals,10kg/month
+19215,484,Chile,1000kg
+16462,485,Paddy,"4000 kg/day"
+24767,486,Soya,
+18048,487,Water,
+18048,488,"Veheicle washing chemicals",
+16463,489,Paddy,"4500 kg/day"
+17941,490,Granite,
+10492,491,"Chips, Dust, 3/4 metal",
+10481,492,"Boulders mining from the quarry",
+18028,493,Paddy,
+10480,494,"cement,sand,admixture,water",
+17845,495,"6’*9’ Granite","18 cubes"
+16566,496,Paddy,4300kg/day
+16570,497,Paddy,
+1869,498,HD,
+16464,499,Paddy,"3500 kg/day"
+16647,500,"Steel Pipes",20Pipes/Month
+1896,501,"Organic/inorganic pigments",180kg
+1896,502,"Acrylic Co polymer","450 kg"
+16647,503,"Iron Sheet",25nos
+16647,504,"Iron  tore","30bars/ Month"
+16465,505,Paddy,"4000 kg/day"
+24778,506,"Beef, fish, chicken, vegetables",
+3292,507,"H.D.P.E. (blow and injection grade)",
+24779,508,"Metal sheets",
+24779,509,"Powder coating materials",
+24773,510,Granite,
+24779,511,"electrical swithch gears",
+24779,512,Cables,
+16648,513,"Iron tore",15nos
+16648,514,"Iron Bar",15nos
+1887,515,"Granite Bouldders",
+16648,516,"Iron Sheet",03nos
+16648,517,"steel pipes",15bar
+16648,518,"Welding rots",10kg
+16648,519,"anti - cross (paint)",05lit
+16648,520,Dinner,3lit
+10325,521,"Explosive materials",
+10229,522,Paddy,
+2041,523,"Sand papers","15 per day"
+2041,524,Lacker,"4 litters per day"
+2041,525,Seeler,"4 litters per day"
+2041,526,"Thinner ","2 litters per day"
+16466,527,Paddy,"5000 kg/day"
+3231,528,"Soap liquid",05ltr
+3231,529,Kerosine,05ltr
+1071,530,"Rice, vegetables, seafood, meat",
+24790,531,"Beef, fish, chicken, vegetables",
+1889,532,"Animal food",
+16467,533,Paddy,"4000 kg/day"
+24792,534,"Rice, vegetables,  fish &meat",
+18781,535,paddy,1800kg/day
+24793,536,Granite,
+16468,537,Paddy,"4000 kg/day"
+24794,538,Liquor,
+24794,539,"Rice, vegetables,  fish &meat",
+3215,540,"PET resins","30 tonns per month"
+3215,541,"PP resins","5 tonns per month"
+3215,542,"PET preforms","1.5million per month"
+1890,543,"RSS Rubber",
+1890,544,"Crape rubber","100kg per day"
+1073,545,"Rice, vegetables,  meat",
+24798,546,Paddy,"5000 Kg"
+1898,547,Granite,
+17396,548,Paddy,
+18695,549,Granite,
+1895,550,HDPE,"12 Tones per year"
+1895,551,LDPE,"12 Tons per year"
+16469,552,"Steel pipes","10 pipes/month"
+16469,553,"Iron Bar","20 bars/month"
+16469,554,"Iron Sheet","20 sq.feet/month"
+16469,555,"Welding Road","7 kg/month"
+16765,556,"Wheat flour ","150 kg /day"
+16765,557,Sugar,"15 kg/day"
+16765,558,Margarine,"12 kg/day"
+16765,559,"Eggs ","50 nos/day"
+16470,560,Paddy,"4000 kg/day"
+3222,561,polyropline,98%
+3222,562,"Master batch",2%
+24801,563,"Poultry feed","160 kg"
+16573,564,Paddy,4600kg
+16573,565,,
+1901,566,Timber,"500 Sq Ft"
+1901,567,"Bristel ","105 Kgs"
+16573,568,,
+1901,569,Ferrcile,"4000 Nos"
+1901,570,Tinner,"5 l"
+1901,571,Paint,10l
+1901,572,"Resin and Harolner","35 Kgs"
+1901,573,Nail,
+1901,574,Tags,
+16471,575,"Welding rod","7 kg/month"
+24803,576,Granite,
+24802,577,"refer to the file for appendix 02",
+1904,578,NA,
+17387,579,Tar,12.5
+3201,580,"Aluminium foil",2000kg
+3201,581,Paper,100kg
+3201,582,"Plastic film",2000kg
+11834,583,Paddy,6000kg
+3201,584,"Ink and  solvents",350kg
+3201,585,"Heat seal coating",75kg
+1899,586,"Imported and local recycling plastics",
+1069,587,"Rice, vegetables,  fish & meat, fruit",
+17465,588,Cement,"2.5 tons"
+17465,589,"3/4 Grante","6 cubes"
+17465,590,Sand,"5 cubes"
+6159,591,"granite ",10
+12037,592,sludge,
+17400,593,Metal,
+17400,594,Tar,
+12074,595,service,
+1902,596,Polypropline,
+11842,597,Paddy,5100kg
+16473,598,"Steel pipes","10 pipes/month"
+16473,599,"Iron bar","10 kg/month"
+16473,600,"Iron sheet","20 sq/feet/month"
+16473,601,"Welding rod","7 kg/month"
+24806,602,Paddy,6000
+16597,603,Paddy,4000kg/day
+1046,604,"Papers & paints",
+2047,605,"Angle Iron","100kg per day"
+17384,606,Granite,6x9
+16474,607,Water,"500 lit/day"
+2047,608,"Channel iron","100kg per day"
+2047,609,"Iron sheets","100kg per day"
+2047,610,"Bolt pins","100kg per day"
+16475,611,Paddy,"4000 kg/day"
+1906,612,"Rim wire","2kg per day"
+16650,613,"Iron Sheet",1500kg/month
+16650,614,Paint,25lit/month
+1906,615,pliers,
+1906,616,nails,"2kg per day"
+17401,617,Diesel,
+17401,618,Gas,
+16476,619,Paddy,"4000 kg/day"
+6257,620,"Aluminum extrusions",100
+6257,621,,
+6257,622,,
+1021,623,"Cement, sand, aggregate, water, admixture, fly ash",
+16800,624,"Wheat flour ","100 kg/day"
+16800,625,Sugar,"5 kg/day "
+16800,626,Vegetables,"5 kg/day "
+16800,627,,
+16477,628,Paddy,"40000 kg/day"
+16478,629,Paddy,"4000 kg/day"
+17398,630,Granite,6x9
+16479,631,"Steel pipes","10 pipes/month"
+16479,632,"Iron Bar","10 bars/month"
+16479,633,"Iron sheet","20 sq.feet/month"
+16479,634,"Welding rod","7 kg/month"
+16654,635,"Iron tore",3bar/month
+3228,636,"Alcohol ",
+16654,637,"Iron bar",6bar/month
+3228,638,"Ascorbic acid",
+3228,639,"Benzoic acid",
+3228,640,"Canpher powder",
+3228,641,"Cherry flavour",
+3228,642,"Citric acid anhydrous",
+1908,643,"expanded Polysterin",
+17399,644,Granite,
+16480,645,Paddy,"2000 kg/day"
+17375,646,"Explosive material",
+16481,647,"Steel pipes","10 pipes/month"
+16481,648,"Iron bar","10 bars/month"
+16481,649,"Iron sheet","20 sq.feet/month"
+16481,650,"Welding rod","7 kg/month"
+16865,651,,
+16562,652,Paddy,
+16562,653,,4600kg/day
+1921,654,Papers,"1000 kgs per day"
+1921,655,"Korigal gum",50kg
+4130,656,Bitumen,"9920 kg/day"
+4130,657,Water,"4880 kg/day"
+4130,658,Emulsifier,"80 kg/day"
+4130,659,Kerosene," 180 kg/day"
+4130,660,"Calcium Chloride","1.8 kg/day"
+24820,661,"Waste polythene",
+4084,662,"High density polythene","600 kg/day"
+4084,663,,
+4084,664,," "
+4084,665,,
+17389,666,Granite,
+2069,667,"Granite 2""X2""",
+1917,668,"BBlasting rock",
+4987,669,"Rice, vegetables, groceries, liqour",
+1922,670,lether,"9000 ft2"
+3339,671,"Plastic recycle materials ",
+1922,672,HDPE,"3000 bag per month"
+4085,673,"Steel Sheets","35 units/day"
+4085,674,"Powder Paint"," 56 kg/day"
+4085,675,"134A Gas","5 kg/day"
+4085,676,"Hips Sheets","50 units/day"
+18666,677,Granite,
+24821,678,Granite,"10 cubes"
+17392,679,"Clothes ",5000m
+24822,680,Soap,
+24822,681,Water,
+4124,682,Polythene,250
+1920,683,Rice,"11730 kgs per month"
+17755,684,,
+1920,685,"Red Chillese","2500kgs per month"
+1920,686,Corriander,"2216kgs per month"
+1920,687,"Cummin seeds","197kgs per month"
+18363,688,"Rock Boulders",
+1920,689,"Fennel seeds","189kgs per month"
+3227,690,"Ordinary portland cement","25 tonns / Day"
+3227,691,sand,"20 cubes  / Day"
+17232,692,Granite,6x9
+4133,693,"Saw dust","8000 kg/day"
+1915,694,"Scrape rubber",1200kg
+18352,695,"Rock Boulders",
+4078,696,HDPE,"4000 kg"
+4078,697,"Masterbatch ","150 kg"
+4078,698,"Solvents + Ink","20 kg"
+18427,699,"Tar, metal ",
+4071,700,"Veterinary & Pharmaceutical Raw Materials",
+18679,701,Granite,
+17385,702,Explosive,
+18362,703,Rock,
+4129,704,Cement,
+4129,705,"River sand",
+4129,706,"High tensile steel",
+4129,707,"Mild Steel",
+5129,708,"Rice,meat, fish",
+24826,709,,
+18664,710,Explosive,"1 kg"
+24826,711,Paddy,10000
+2059,712,"Short Oil Alkyd resin","15000kgs per month"
+18648,713,Granite,
+5133,714,Rice,500
+5133,715,"Fruits, vegetables",5626
+5133,716,"Oil cans",200
+4111,717,"Metal Sheets",
+4111,718,"Metal Powders",
+4111,719,"LPG/O2 Gas",
+5040,720,"Rice,meat, fish, vegetables",
+2065,721,Polythene,
+4064,722,"LV Copper","414 kg"
+4064,723,"HV Copper","2794 kg"
+4064,724,"Core Steel ","2530 kg"
+4064,725,MS,"100 kg"
+4064,726,"Powder Paints","12 kg"
+4064,727,"TIF Oil","2285 kg"
+4064,728,"Nuts & Bolts","482 nos"
+4064,729,Insulation,"143 kg"
+4143,730,Yarn,"3000 kg/day"
+3302,731,"Plastic beads",
+2173,732,"granite boulders",
+2039,733,"BOPP Film",
+3233,734,"Timber adhesives hardware finishing materials (water based)",
+4075,735,"Full crem milk powder","28 MT/day"
+4075,736,"Skimmed milk powder","7.2 MT/day"
+5142,737,"Food & beverages",
+3314,738,H.D.P.E.,600kg
+3314,739,LLDPE,100kg
+3314,740,"Recycled polythene",
+16755,741,Paddy,"4500 kg/day"
+4083,742,Milk,
+4083,743,"Wheat flour",
+4083,744,Sugar,
+4083,745,Glucose,
+4083,746,Gelatine,
+4083,747,Salt,
+4083,748,"Cocoa Powder",
+4083,749,Flovours,
+1927,750,"Ball clay","3000 T/M"
+1927,751,"Cilica sand",1500T/M
+1927,752,Feldspar,
+1927,753,Dolamite,
+1927,754,Talc,
+3338,755,"Plastic wastes",
+4140,756,"Mechanical mild steel",
+1930,757,"Granite Bouldders",
+5001,758,Perchloroethylene,5
+5001,759,"Washing powder",25
+5001,760,Softner,25
+5001,761,Emulsifier,25
+4057,762,"Galvanized Sheets",
+1925,763,Rubber,390kg
+1925,764,"Zinc oxide",13.5kg
+1925,765,"Stearic acid",7.5kg
+1925,766,TMTD,1kg
+1925,767,MBTS,2.6kg
+3331,768,"fabric panels",
+1932,769,"Local raw materials","100kg per day"
+1932,770,"Local dry raw materials ",100kgs/day
+1932,771,"Sesami oil",200kg
+4100,772,Polyproplene,
+4100,773,HDPE,
+4100,774,LDPE,
+3322,775,"Polythene wastes",
+1937,776,"Powder coating powder","20kgs per day"
+4109,777,"Caustic Soda",
+4109,778,Auxilaries,
+4109,779,Water,
+4109,780,Dyes,
+4109,781,Softners,
+5030,782,"Lab reagents",
+1828,783,"Precured treads",
+1828,784,"Bonding Gum",
+3239,785,No,
+4114,786,Polythene,"250 kg/day"
+1067,787,"Rice, vegetables, fish, meat, fruits",
+16756,788,Paddy,"4500 kg/day"
+16572,789,Paddy,4500kg/day
+16564,790,Paddy,4200kg/day
+16763,791,Paddy,"5000 kg/day"
+16773,792,Paddy,"4500 kg/day"
+16482,793,Paddy,"4000 kg/day"
+16486,794,Paddy,"4000 kg/day"
+16489,795,Paddy,"7000 kg/day"
+16762,796,"Wheat flour ","1050 kg/day"
+16762,797,Sugar,"100 kg/day"
+16762,798,Margerine,"80 kg/day"
+16762,799,Eggs,"150 nos/day"
+16813,800,Rice,"10 kg/day"
+16813,801,Vegetables,"4 kg/day"
+16785,802,Water,"500 l/day"
+16809,803,"water ",5oo
+16791,804,"Water ","600 lit/day"
+11718,805,Grnait,
+24837,806,Paddy,3000Kg
+11839,807,Paddy,7000
+16653,808,"Iron Pipe",50bars/Month
+16653,809,"Iron Bar",950kg/Month
+16653,810,"Box Bar",25bar/month
+16653,811,"L Line","10Bar/ Month"
+16653,812,S/Bar,"100Bar/ Month"
+16653,813,"Welding electrodes","12kg/ Month"
+11710,814,Granite,
+11736,815,granite,"30 cubes"
+16784,816,Water,"2000 lit/day"
+16485,817,,
+16485,818,Paddy,"4000 kg/day"
+16483,819,"Wheat Flour","100 kg/day"
+16483,820,Margarine,"10 kg/day"
+16483,821,Sugar,"15 kg/day"
+16483,822,Yest,"0.25 kg/day"
+16483,823,Egg,"50 nos/day"
+16912,824,"iron tore/month",30
+16483,825,Water,"50 lit/day"
+16651,826,"Iron Bar",100bars/month
+16651,827,"Plat iron bar","600kg/ month"
+2752,828,"Amonia, Dainamite",4
+16651,829,"Iron sheet",15nos/month
+1938,830,Aggregates,
+16651,831,"Steel pipes","15Pipes/ month"
+16912,832,"iron bar/month",50
+1938,833,Bitumen,
+16651,834,"Welding electrodes","25kg/ month"
+16651,835,Paint,5lit/month
+16912,836,"iron sheet/month",25
+11712,837,Granite,
+16912,838,"steel pipes/month",25
+18498,839,Paddy,4000Kg
+16484,840,"Wheat Flour","2450 kg/month"
+16484,841,Margarine,"200 kg/month"
+16484,842,Sugar,"250 kg/month"
+16484,843,Vegetables,"100 kg/month"
+16484,844,Egg,"1500 nos/month"
+16484,845,Water,"100 lit/day"
+3224,846,"Plywood Boards",
+3224,847,glue,
+3224,848,Thiner,
+3224,849,wooden,
+3224,850,"Aluminium board",
+3224,851,paints,
+3224,852,cement,
+3224,853,steel,
+3224,854,"stainless steel boards",
+3224,855,sand,
+11722,856,Granite,
+2258,857,"Granite 2""X2""",
+18353,858,"Rock Boulders","7 Cube/ Day"
+3224,859,nails,
+11847,860,Paddy,600
+16487,861,Paddy,"4000 kg/day"
+16655,862,"Iron Bar",150kg/month
+16655,863,"Iron Sheet",5ft
+16655,864,"Steel Pipes","2Pippes/ month"
+16655,865,"Welding rod",1kg/month
+24859,866,"'3/4' chips",
+24859,867,"ston dust",
+24859,868,tar,
+16488,869,"Steel pipes","10 pipes/month"
+16488,870,"Iron bar","10 bars/month"
+16488,871,"Iron sheet","20 sq.feet/month"
+16488,872,"Welding rod","7 kg/month"
+11913,873,Granite,
+16490,874,Paddy,"6500 kg/day"
+11861,875,Dinamite,
+11780,876,granite,
+16491,877,Paddy,"6500 kg/day"
+16649,878,Water,55lit/day
+2405,879,Cement,"80 tons"
+2405,880,Aggregates,"140 tons"
+2405,881,Sand,"120 m3"
+2405,882,water,"40000 l"
+11911,883,Granite,
+3309,884,Timber,"07 items per day"
+16492,885,"Iron ","3 kg/month"
+3309,886,"Fiober glass","07 items per day"
+18373,887,"Rock Boulder",12
+11867,888,Dinamite,
+11867,889,"Water jel",
+16757,890,"Wheat flour ","800 kg/day"
+16757,891,Sugar,"50 kg/day "
+16492,892,"Welding road","02 kg/month"
+16757,893,"Margarine ","10 kg/day "
+16757,894,Eggs,"60 nos /day"
+16757,895,Yest,"0.25 kg/day "
+16493,896,Water,"500 lit/day"
+18665,897,Granite,"100 cubes"
+16494,898,"Welding rod","7 kg/month"
+16494,899,"Iron sheet","20 sq.feet sheet/month"
+16652,900,"Car Wash",300ml/month
+16652,901,Water,
+17248,902,cement,1000kg
+1950,903,Granite,
+17248,904,sand,"01 cube"
+17248,905,"crushed stone","01 cube"
+11878,906,paddy,3500kg
+16495,907,"Steel pipes","5 pipes/month"
+16495,908,"Iron bar","5 bars/month"
+16495,909,"Iron sheet","10 sq.feet/month"
+16495,910,"Welding rod","3 kg/month"
+16570,911,Paddy,4500kg/day
+16496,912,Paddy,"5000 kg/day"
+16656,913,"Iron pipe",40bar/month
+16656,914,"Iron Bar",750kg/month
+16656,915,"Box Bar",15bar/month
+16656,916,S/Bar,100bar/month
+16656,917,"Welding  Electrodes",12kg/month
+6110,918,"Imported materials",10%
+6110,919,"Recycled Plastic",90%
+11933,920,granite,
+6610,921,Paddy,7000
+1934,922,"Granite 6""X4""","10 boulders"
+3274,923,"wooden (teak, Mahogani)","cubic ft 60"
+3274,924,cealer,"06 ltrs"
+3274,925,colours,"08 ltrs"
+3274,926,Thiner,"20 ltrs"
+3274,927,Lacker,"08 ltrs"
+3274,928,glue,
+3274,929,nails,
+16657,930,"Iron  Pipe",10bars/month
+16657,931,"Iron bar",20kg/month
+4137,932,HDPE,
+24873,933,Paddy,
+4137,934,"Virgin  & rejected materials",
+10275,935,Paddy,
+16914,936,"steel pipes",50kg
+16914,937,"iron bar",20bar
+16914,938,"Amona sheet",2
+16914,939,"welding rod",10kg
+16914,940,revert,1kg
+4107,941,Kerosine,"2 litters"
+4107,942,"Cotton waste","2 kg"
+16565,943,Paddy,4800kg/day
+11844,944,Paddy,5100kg
+5353,945,"Scrap,Silika,Iron,Paints",
+1947,946,Granite,
+18428,947,Granite,
+11831,948,Paddy,6200
+11880,949,Paddy,3500
+11900,950,Paddy,"3200 kg per day"
+1939,951,"Steel pipes",
+1939,952,"welding rods",
+1939,953,"Oxygen gas",
+24880,954,"Metal 6X9",
+1939,955,"Steel rods",
+4097,956,Shampoo,
+11904,957,Paddy,
+6111,958,"PVC resins",250kg
+11850,959,Paddy,6000kg
+6111,960,Stabilizer,50kg
+6111,961,,
+11785,962,Paddy,2860000
+11902,963,Paddy,5500
+24882,964,"High density polyethelene",400kg
+24882,965,CaCO3,100kg
+22092,966,Water,6000li
+11918,967,Paddy,"6200 kg"
+6111,968,Calsium,300kg
+6111,969,wax,20kg
+11868,970,paddy,6200kg
+4062,971,HDPE,
+11917,972,Granite,
+16441,973,Paddy,"12000 kg/day"
+16574,974,Paddy,4500kg/day5
+6620,975,Paddy,4000
+6242,976,"cotton thread",20
+6242,977,"silk thread",7
+4108,978,"100% Polyester","3000 kg"
+4108,979,"Polyester ","5000 kg"
+3298,980,"High pressure","60 ltr"
+3298,981,Kerosine,"30 ltr"
+11916,982,Grnaite,
+16916,983,"Steel pipes",50bar
+16916,984,"iron bar","1 30'"
+16916,985,"iron sheet","1 40Sq.ft"
+16916,986,"iron tore",30bar
+11912,987,Granaite,
+16916,988,"welding rod",15kg
+16563,989,Paddy,4000kg/day
+11832,990,paddy,5500kg
+11901,991,Granite,
+11835,992,Paddy,5800
+16797,993,"Water ","10000  lit/day"
+11921,994,Paddy,"6500 kg per day"
+11826,995,paddy,3000kg
+16567,996,Paddy,4850kg/day
+24887,997,"Polythene food grade ","80 Water tanks /day"
+11915,998,Granite,
+11898,999,paddy,"4800 kg "
+11982,1000,Granite,
+16770,1001,water,"1500 lit/day"
+16789,1002,Water,"800 lit/day"
+16575,1003,Paddy,4000kg/day
+16569,1004,Paddy,4000kg/day
+16571,1005,Paddy,4000kg/day
+18358,1006,"Rock Boulders","12 Cube/ Day"
+16917,1007,"Steel pipes/month",15pipes
+16917,1008,"iron bar/month",25bar
+16917,1009,"iron sheet/month","40 Sq.feet"
+11991,1010,Granite,
+16917,1011,"welding rod/month",15kg
+16774,1012,"Water "," 200 /lit/day"
+1933,1013,"Natural rubber",
+1933,1014,Fillers,
+1933,1015,Accelarators,
+1933,1016,Oils,
+5033,1017,Cement,"22350 kg"
+5033,1018,Sand,"6.15 cubes"
+5033,1019,"3/4"" Metal","10 cubes"
+5033,1020,"1/2"" Metal","2.41 cubes"
+5033,1021,"H.T.S. 6.35 mm","1312 kg"
+16858,1022,,
+5033,1023,"Pendrol shoulder","1296 nos"
+11843,1024,paddy,3200kg
+16858,1025,Water,"500 Lit/day"
+3209,1026,"Resin PVC compound","300 kg"
+4072,1027,"Cold rolled sheets",
+4072,1028,Zinc,
+11972,1029,Paddy,"2500 Kg"
+16987,1030,"Iron Shaft","75 kg /Mounth"
+16987,1031,"Welding Rot","1.5 kg /Day"
+18880,1032,"steel,iron",85bars/month
+1940,1033,"50ft3 wood",
+12011,1034,Paddy,"6000 Kg"
+17189,1035,"Paddy rice",6000
+5160,1036,Flour,"70 kg"
+12001,1037,Paddy,"4200 Kg"
+16758,1038,"Iron bar","50 bar/day"
+16758,1039,G.I.pipes,"500 kg/month"
+11992,1040,Paddy,"2500 Kg"
+1945,1041,"test liner paper","3.6 MT per day"
+1945,1042,"Medium paper","3.6 MT per day"
+4148,1043,Diesel,"10 L/day"
+16409,1044,"iron Bar 3/4""",10
+16409,1045,"iron bar 1/2""",11
+4148,1046,Kerosene,"10 L/day"
+4148,1047,"Lubricant oil","50 L/day"
+11864,1048,Dinamite,5kg
+12002,1049,Paddy,1500kg
+5137,1050,"Vegetables, Meat, Retti, Seafood",
+18884,1051,steeliron,75bars/montgh
+4139,1052,"Polythene pellets",
+16865,1053,Water,"500 Lit/day"
+24898,1054,"Wheat Powder",500
+24898,1055,"Rice Flour",250
+1955,1056,"Pthalic Anhysride","1680 kg"
+1955,1057,"malic Anhydride",1000kg
+1955,1058,"Propyline Glycole",1320kg
+1955,1059,"Mono ethyl glycol",440kg
+1955,1060,"Di ethyl glycol",520kg
+1955,1061,"Styrene Monomor",2320kg
+1955,1062,"ISO pathalic Acid","80 kg"
+11964,1063,Paddy,4500kg
+24898,1064,"Black gram flour",200
+11837,1065,Paddy,5000kg
+16988,1066,"Poultry Mash",40kg
+16988,1067,"Cattle Feed",25kg
+16988,1068,"Rice Brain",25kg
+1301,1069,"Linear low density polythene","17820 kg/month"
+1843,1070,Granite,
+12004,1071,Paddy,"4800 Kg"
+6116,1072,"Card boards",176kg
+16793,1073,"Iron bar","300 kg /day "
+16793,1074,"G.i.pipes ","500 kg/month"
+3226,1075,metal,"25 cubes"
+3226,1076,sand,"15 cubic meters"
+3226,1077,cement,"10 tonns"
+16793,1078,"Welding rods ","10 box/month"
+11823,1079,Paddy,7000kg
+3226,1080,water,"2500 gallons"
+1949,1081,Granite,
+5036,1082,"Rice, flour, chocalate, sugar",
+1946,1083,Granite,
+16870,1084,Water,"500 Lit/day"
+24909,1085,Rock,
+2534,1086,"Paper, paint","Paper- 5 ton, Paint - 35kg"
+18863,1087,"steel iron",95m/month
+4662,1088,Glucose,
+938,1089,Yarn,20kg
+2068,1090,Amonia,"3 kg"
+12005,1091,Paddy,1500kg
+4662,1092,Sugar,
+2068,1093,Granite,
+11824,1094,Paddy,5000kg
+16766,1095,"Iron bar ","200 kg/day "
+12003,1096,Paddy,
+16766,1097,"G.I.pipe ","300 kg/month "
+4662,1098,Salt,
+4662,1099,Flavours,
+24910,1100,Soap,
+16380,1101,Rock,"240 cubes/month"
+4637,1102,"Steel sheets","3 tons/month"
+4637,1103,"Steel Rods","1 tons/month"
+11875,1104,"Soap solution",4l
+4637,1105,"Flat Iron","2 tons/month"
+16871,1106,"Iron bar/ Steel and pipes","Depend on the order"
+6116,1107,"potassium chlorate",75kg
+6116,1108,wax,250kg
+6116,1109,"Red posperus",7.5kg
+6116,1110,"Carbon Black",2kg
+6116,1111,"60 GSM paper",200kg
+6116,1112,"Glas powder ",14kg
+6116,1113,sulpher,8kg
+6116,1114,Diromats,1kg
+24913,1115,LDPE,750
+24913,1116,HDPE,750
+24913,1117,IPA,5
+24913,1118,NBA,3
+24913,1119,Ink,10
+11989,1120,Paddy,4500kg
+1276,1121,HDPE,
+18205,1122,"Ingredients used in Biscuit production",6.27/day
+16873,1123,"Iron bar, Steel & pipes","Depend on the order"
+17185,1124,Paddy,
+11999,1125,Paddy,900kg
+11877,1126,paddy,6000kg
+2688,1127,"PVC Resin, PVC stabilizer, Pvc filler, Polyrthylene wax",
+6109,1128,"Rubber FAB",420kg
+6109,1129,"Reclame Rubber",195kg
+6109,1130,"Rubber Carbon Black",45kg
+6109,1131,whiting,375kg
+11979,1132,Granite,
+1957,1133,Chicken,"1250kg per day"
+1957,1134,Beet,"150kg per day"
+1957,1135,Salt,"30kg per day"
+1957,1136,Vegetable,"200kg per day"
+1957,1137,Fish,"100kg per day"
+11998,1138,Paddy,1850
+10260,1139,"Granite (kalu Gal)",25
+11840,1140,Paddy,4500kg
+11961,1141,Granite,
+11830,1142,paddy,6500kg
+3284,1143,kerosine,"8 ltrs"
+3221,1144,-,
+3284,1145,"pentratin oil","10 ltrs"
+3284,1146,"grease oil",
+4620,1147,"Tin plates","3 MT/day"
+11848,1148,paddy,6000kg
+4620,1149,"TFS plate","0.5 MT/day"
+10263,1150,Paddy,7500
+4620,1151,Ink,"5 kg/day"
+4620,1152,Coating,"100 kg/day"
+4620,1153,Compound,"5 kg/day"
+4620,1154,"Copper wire","25 kg/day"
+4620,1155,Tagger,"25 kg/day"
+4620,1156,Solvents,"35 l/day"
+11676,1157,granite,"75 cubes"
+3225,1158,"MDF plywood",
+19019,1159,"Iron ",1kg/day
+11829,1160,paddy,4000kg
+4638,1161,LDPE,
+4638,1162,HDPE,
+6109,1163,"Chaina Clay",90kg
+10264,1164,"cement kg",15600
+6109,1165,"stearick acid",8.5
+6109,1166,"Zink Oxide",22.5
+10264,1167,"Aggregates (kg)",40800
+10264,1168,"River Sand kg",33600
+10264,1169,"Add mixture (kg)",146
+10264,1170,"Water (l)",7200
+16923,1171,"Steel pipes/month","15 bar"
+16923,1172,"iron bar/month",1
+16923,1173,"iron sheet/month","1 (10 Sq.Feet)"
+16875,1174,Water,"about 200-400 Lit/day"
+16923,1175,"iron tore","10 bar"
+11981,1176,Paddy,1500
+16409,1177,"Iron 1'",20
+16923,1178,"welding rod","10 kg"
+16409,1179,"Iron 1 1/4'",10
+4627,1180,"Scrapped Lead","8500 kg/day"
+11849,1181,paddy,6000kg
+4627,1182,"Scrapped Iron","850 kg/day"
+16409,1183,"Iron sheet",100
+4627,1184,"M Cork","450 kg/day"
+4627,1185,Tin,"10 kg/day"
+4627,1186,Antimony,"90 kg/day"
+4627,1187,Aresenic,"60 kg/day"
+4627,1188,Selenium,"55 kg/day"
+4627,1189,"Lead Oxides","8900 kg/day"
+4627,1190,"Polyester fiber","6 kg/day"
+11976,1191,Granite,
+6258,1192,"IRON SHEET",2000
+3190,1193,Copper,"12MT per day"
+3190,1194,Aluminium,45MT
+3190,1195,Steel,4MT
+3190,1196,PVC,7MT
+1070,1197,"Rice,vegetables,seafood, meat",
+6109,1198,DPG,1.3kg
+6109,1199,MBTS,6.6
+6109,1200,"rosing light",10.5
+24933,1201,"Lubricant oil and filters",
+4645,1202,Plastic,"75 kg"
+24932,1203,Metal,
+24926,1204,Watter,150Kg
+24926,1205,Suger,20Kg
+24926,1206,Fruit,30Kg
+2302,1207,Granite,
+24926,1208,Calaring,7g
+922,1209,"Diesel, Karosene",
+2276,1210,iron,
+4606,1211,Copper,"2.5 MT/day"
+4606,1212,PVC,"4 MT/day"
+4606,1213,Aluminium,"10  MT/day"
+17187,1214,granaite,
+4611,1215,"Deflated soya flour",
+3225,1216,timber,
+3483,1217,"Artificial threads",
+3483,1218,"Cotton treads",
+18501,1219,Paddy,12000Kg
+16879,1220,"Iron bar","Depend on the order"
+11884,1221,paddy,5500kg
+11766,1222,Dinamite,500g
+4696,1223,Cement,"400 MT/day"
+4696,1224,Fibre,"60 MT/day"
+2407,1225,fabric,
+2407,1226,lable,
+2407,1227,cardboard,
+2407,1228,polythene,
+11767,1229,Kerosine,4l
+11767,1230,soap,1kg
+11977,1231,Gaíite,
+11767,1232,"car wash",6l
+11971,1233,Granite,
+11772,1234,paddy,2000
+3304,1235,"L.D.P.E. 25%","180 kg"
+3304,1236,"L.L.D.P.E. 75%","540 kg"
+11988,1237,Paddy,3000
+16410,1238,"Steel pipes / month",30
+4692,1239,"Polythene pellets","1000 kg/day"
+16410,1240,"Iron bar /month",50
+16410,1241,"Iron sheet /month",40
+16410,1242,"welding rod /month",35Kg
+16410,1243,"Iron bar /month","60 Kg"
+12010,1244,Granaite,
+973,1245,"News print papers",8MT
+973,1246,"Printing plates",100sheets
+973,1247,"Plate processing developer",10L
+2037,1248,Cement,16Ton
+2037,1249,Sand,10cubes
+973,1250,"Printing ink",150kg
+2037,1251,stone,"14 cubes"
+2037,1252,Water,10000L
+973,1253,"Fountation solution","15 L"
+2037,1254,Chemical,60L
+24946,1255,Papers,
+24946,1256,Ink,
+24946,1257,Glue,
+11984,1258,Granaite,
+11760,1259,Paddy,
+3254,1260,"polythene wastes",200kg
+3254,1261,"HDPE vergin",200kg
+11966,1262,Paddy,3500
+1971,1263,ABS,"240 kg per day"
+1971,1264,HIPS,"90 kg per day"
+1971,1265,GPPS,90
+1971,1266,SAN,"36 per day"
+1971,1267,PET,"48 per day"
+17186,1268,Paddy,"2000kg/ Day"
+4751,1269,"Aluminium sheets",
+11768,1270,iron,
+4751,1271,"Zinc Aluminium",
+4751,1272,"Zinc coating",
+11983,1273,Granite,
+5196,1274,Flour,"400 kg"
+4603,1275,Flour,"65000 kg"
+4603,1276,Sugar,"13750 kg"
+4603,1277,Fat,"8500 kg"
+11959,1278,Granite,
+24949,1279," Hardware Items",
+24949,1280,,
+18923,1281,"food items",100kg/day
+16411,1282,Water,"0.5 m3 / day"
+17210,1283,Paddy,
+12171,1284,Dinamite,
+1974,1285,LDPE,"1000kgs per day"
+1974,1286,PP,"1000kgs per day"
+1974,1287,"HD/PP injection","500kgs per day"
+6613,1288,Granite,
+12169,1289,Dinamite,2
+11994,1290,Paddy,4750
+24952,1291,HDPE,200
+24952,1292,M.B,200
+12170,1293,Dinamite,2
+12000,1294,Paddy,3000
+4615,1295,"Sewing Machine components",
+1969,1296,"Plastic raw material",
+18206,1297,cement,"6 tons"
+18206,1298,Metal,"4 cubes"
+18206,1299,Sand,"2 cubes"
+2032,1300,"Grand Parent Chicks",
+11987,1301,Paddy,4500
+18187,1302,"washing powder",
+18187,1303,detergent,
+17050,1304,"Metal bar",3
+4640,1305,"Sopa noodles","2700 kg"
+4640,1306,Perfumes,"27  kg"
+4640,1307,"Herbal extract","27  kg"
+4640,1308,Paraffin,"1.8  kg"
+4689,1309,"CTP nad PS Plates/Image setter film",
+16802,1310,"Iron bar","300 kg/ day"
+16802,1311,"G.I.pipes ","200 kg/day"
+16802,1312,"Welding rod ","10 box/month"
+3504,1313,polythene,"200 g"
+3504,1314,"fresh leafy vegetables",
+1973,1315,Granite,
+4693,1316,Flour,"250 kg"
+4693,1317,Sugar,"300 kg"
+4693,1318,Margarine,"350 kg"
+4693,1319,Butter,"80 kg"
+4693,1320,Milke,16
+4693,1321,"Condensed milk",15
+4693,1322,"Icing sugar"," 25 kg"
+4693,1323,"Coca powder","1 kg"
+4693,1324,Egg,5000/day
+4693,1325,Cream,"24 litters"
+1976,1326,"Metal sheets","35 nos (8'x4') sheets per day"
+1976,1327,Powder,"35 to 40kg per day"
+16580,1328,"Lagoon Water",21000m3
+16412,1329,"Iron tore","50 / month"
+16412,1330,"Iron bar","500Kg / month"
+17048,1331,Water,
+4605,1332,HDPE,
+4605,1333,LDPE,
+4605,1334,PP,
+24962,1335,"raw foods materials(rice, vegetables, leafy vege.,chicken, fish etc.) ",
+1980,1336,maize,
+1980,1337,rice,
+1980,1338,"fish powdeer",
+6623,1339,Granite,
+1980,1340,soya,
+12045,1341,"Raw fertilizer",
+16412,1342,"Iron pipes","20 / month"
+16947,1343,"Steel Pipes","10 pipes/ month"
+16947,1344,"iron bar ","15 Bar"
+4795,1345,Cement,"400 MT/day"
+4795,1346,Fiber,"60 MT/day"
+1975,1347,Polythene,
+18195,1348,Aluminium,
+16947,1349,"Iron Sheet","10 Sq.feet/month "
+16947,1350,"Welding rod",15kg
+16947,1351,"Iron bar",25kg
+24951,1352,"Washing Liquid","1.5 L"
+1074,1353,"Rice, vegetables, meat, ",
+24951,1354,"Kerosene oil","2 L"
+16803,1355,"white iron bar ","500 kg/day"
+1970,1356,"Iron cable",160kg
+1970,1357,"Plastic tube","10 kg"
+3603,1358,"inner wire rope","10000 m"
+18924,1359,"food items",75kg/day
+3603,1360,"PVC coated outer casings","8000 m"
+3603,1361,"PVC outer sleeves","1000 m"
+3603,1362,"Cable packing's","4000 pieces"
+3603,1363,"end fittings","12000 pieces"
+3603,1364,"Zinc alloy ingots","6 kg"
+16811,1365,"Iron bar ","200 kg/ day"
+16811,1366,"G..I. .pipes ","300 kg/day"
+16811,1367,"Welding rod ","8 box /day"
+18185,1368,,
+18185,1369,,
+16413,1370,"Steel pipes","18 / month"
+16413,1371,"Iron bar","20 / month"
+16413,1372,"Iron sheet ","30 / month"
+16413,1373,"welding rods","15 / month"
+4642,1374,"Polythene materials","150 kg"
+11776,1375,Paddy,11000
+11997,1376,Paddy,5000kg
+3588,1377,"imported electronic spare parts",
+4686,1378,"PVC Plug",27144/month
+4686,1379,"Plastic Measuring Cup",27144/month
+4686,1380,"Plastic caps",27144/month
+11965,1381,Paddy,"4500 kg"
+4686,1382,"Glass Bottles",27144/month
+4686,1383,"Printed cartons",183360/month
+4686,1384,"Paper leaflet",183360/month
+4686,1385,Stickers,54288/month
+11773,1386,"paddy husk,water","1000 tons"
+6612,1387,Paddy,13000
+16415,1388,"Steel pipes ","20 / month"
+16415,1389,"Iron bar 18'","15 / month"
+16415,1390,"Iron sheet","1 (75'*3)"
+16415,1391,"welding rod","5 / month"
+4991,1392,PVSroll,10
+4991,1393,Cardboard,"20 packets"
+11962,1394,Granite,
+1299,1395,Flour,
+1299,1396,Sugar,
+1299,1397,Margarine,"60 kg"
+1299,1398,Salt,"20 kg"
+1299,1399,Eggs,2100
+1299,1400,Fish,"30 kg"
+1299,1401,Vegetables,"30 kg"
+18185,1402,"Poultry Feed","10000 kg"
+3533,1403,metal,
+3533,1404,brass,
+3533,1405,steel,
+3564,1406,paints,
+3564,1407,thiner,
+3564,1408,lackers,
+1033,1409,"Wheet flour","30 sacs"
+17228,1410,Paddy,
+1293,1411,Water,"3000 l/day"
+1293,1412,"Lubricant oil","40 l/day"
+12009,1413,Granite,
+1978,1414,Soya,"550 T per month"
+1978,1415,Rice,"550 T per month"
+1978,1416,Cofee,"5 T per day"
+11985,1417,Granite,
+1979,1418,"imported polythene",
+24977,1419,"raw foods (vegetables, rice, fish, chicken etc.)",
+11995,1420,Granite,
+11963,1421,"Granite ","3 Qube"
+4610,1422,Sugar,"2000 kg"
+4610,1423,"Liquid glucose","1230 kg"
+4610,1424,"Milk powder","175 kg"
+4610,1425,"Cocoa powder","21 kg"
+4610,1426,Flavours,"6 L"
+16386,1427,Rock,
+16386,1428,Rock,N/A
+16588,1429,"Lagoon Water",13500m3
+12006,1430,,
+18320,1431,Broiler,2000
+16588,1432,"Prown Feed",
+18320,1433,Pigs,70
+1072,1434,"Rice, vegetables, fish, meat,",
+3552,1435,"tomato sauce",
+3552,1436,"wheat flour",
+3552,1437,"soya oil",
+2406,1438,-,
+3552,1439,cheese,
+3552,1440,"processed chicken",
+24979,1441,"Partially volcanized tradeliner",
+11969,1442,Granaite,
+16416,1443,"Wheat flour","2100Kg / month"
+1292,1444,"Plastic pellets","25 kg"
+16416,1445,Margarine,"150Kg /month"
+2073,1446,"5.5mm wire rod","15 MT per day"
+1246,1447,"Dry rashions, vegetables, & meat items",
+17212,1448,Paddy,
+16416,1449,Sugar,"200Kg /month"
+16416,1450,Vegitables,"100 / month"
+16944,1451,"Steel piopes","10 piopes"
+16944,1452,"iron bar ","18 bar"
+16944,1453,"Iron sheet","15 Sq feet"
+11968,1454,Granite,
+16944,1455,"Welding rod",20kg
+16944,1456,"Iron bar",30kg
+16760,1457,"iron bar ","200 kg/month"
+16760,1458,"Antic corrosive ","8 lit/month "
+24983,1459,Chemicals,
+16583,1460,"Lagoon Water",12000m3
+11939,1461,Metal,"20 Qube"
+1270,1462,"Steel sheets","03 tons"
+1270,1463,"Steel rods","01 tons"
+1270,1464,"Flat iron","02 tons"
+10146,1465,"Ammonia Nitrate, Electric deterneter",
+17225,1466,Paddy,
+16780,1467,"iron bar","100 /kg/mont"
+16780,1468,G.I.pipes,"50 kg/month "
+16417,1469,"Wheat flour","2450Kg /month"
+16780,1470,"welding rod ","3 box /month"
+16417,1471,Margarine,"200Kg /month"
+16417,1472,Sugar,"250Kg /month"
+12024,1473,Paddy,12000kg
+16417,1474,Vegitables,"100Kg / month"
+11957,1475,Granite,
+16767,1476,"iron bar ","300 kg/day"
+16767,1477,G.I.pipes,"200 kg/day "
+16767,1478,"welding rod ","8 box/ month"
+5131,1479,"Rice,meat,vegetables,fish",
+11958,1480,"municipal waste","3 tons"
+1277,1481,PET,"25 kg"
+1277,1482,LDPE,"50 kg"
+1277,1483,BOPP,"25 kg"
+1983,1484,"Soya, punnak, vitamins for animal food",
+16418,1485,Diesel,"10 letter"
+16418,1486,"Rock / 0.0506Ha","210cube / month"
+936,1487,"Copper sulphate, nickei sulphate, boric acid, glue, coconut oil, kerosine oil, brushers, clothe mops",
+16945,1488,"Steel Pipes	","20 pipes/ month"
+16945,1489,"iron bar 	","30 Bar"
+16945,1490,"Iron Sheet"," 25 Sq.feet/month"
+1992,1491,"Poly proplene",750kg
+16945,1492,"Welding rod 	",30kg
+16945,1493,"Iron bar			","40kg	"
+4624,1494,Paper,"35 MT"
+1992,1495,"Low density polythene",100kg
+4624,1496,Ink,"88 kg"
+4624,1497,Gum,"1200 kg"
+1992,1498,"High density polythene",20kgs
+3198,1499,aerosil,
+1992,1500,"All other resines",
+3198,1501,"Aluminium hydroxide",
+3198,1502,amoxycilline,
+3198,1503,"Ethyline oxide",
+3198,1504,Methonol,
+3198,1505,"Sorbic acids",
+16783,1506,"Aluminium bar ","200 bar/month "
+3198,1507,paracetomol,
+3198,1508,"Magnesium stearate",
+16783,1509,"M.D.F.Board ","15 sheet /month"
+16783,1510,"Glass (4''x 6'')","10 sheet/month "
+16959,1511,"Water	",400lit/da
+16959,1512,,
+16959,1513,,
+16959,1514,,
+16959,1515,"	",
+16959,1516,,
+16786,1517,"iron bar ","200 -250 kg/day"
+16786,1518,G.I.pipes,"200 -250 kg/day"
+16768,1519,"iron bar","7500 kg/day"
+16768,1520,"welding rod ","300 kg/month"
+16768,1521,oxygen,"15 kg/month"
+16768,1522,acetylic,"8 kg/month"
+16594,1523,Water,"2600 lit."
+16594,1524,"Body Wash",1.5litre.
+16594,1525,"High power","02 litre."
+16594,1526,Kerosene,"02 litre."
+16658,1527,Water," 33000li"
+16385,1528,Rock-0.6976ha,
+16637,1529,"Items used for food perparation for occupannts",
+11929,1530,paddy,7500
+17221,1531,Rock,
+4690,1532,"Sand Papers",10/day
+4690,1533,Thinner,"15 l/day"
+4690,1534,Sealers,"08 l/day"
+4690,1535,"Wodd finishing","08 l/day"
+4690,1536,Nails,"1 kg/day"
+4690,1537,"Teak stains","01 l/day"
+24990,1538,"animal feed",
+1261,1539,Flour,450kg
+1261,1540,Onions,80kg
+1261,1541,Potatoes,60kg
+1261,1542,Rice,70kg
+1261,1543,Chicken,60kg
+1261,1544,Fish,12kg
+1261,1545,Vegetables,110kg
+1261,1546,Eggs,1200
+1261,1547,Sugar,15kg
+12028,1548,paddy,20000
+24991,1549,"LLDPE (Mt/month)",25
+4599,1550,"Viva bulk blend",
+4599,1551,"Horlicks malted food bulk blend",
+3428,1552,fiber,"100 kg"
+4599,1553,"Chocolate horlicks bulk",
+3428,1554,"Rubber latex","25 ltrs"
+10472,1555,"Lime stone",
+16989,1556,Rock,"0.0253 Ha"
+24992,1557,Metal,
+11935,1558,Granite,100
+4811,1559,"Food Grade (BOPP,PET,MPET,CPP,Nylon)",
+3543,1560,Rexin,"5 m"
+3543,1561,glue,"1.5 ltrs"
+3543,1562,lackers,"50 g"
+4811,1563,"PLA Material/LLDPE",
+4811,1564,Ink,
+18621,1565,Granite,
+6596,1566,"animal feed",
+3543,1567,"grey cloth","0.5 m"
+13807,1568,Rock,
+1280,1569,"Dry rubber compound",
+16640,1570,Water,1000/day
+18608,1571,Paddy,500
+1002,1572,"Steel, brass, iron, aluminium",
+1281,1573,"Paper and board",
+1281,1574,"Printing ink",
+1281,1575,"Washing solvent",
+1281,1576,"UV Varnish",
+17200,1577,Paddy,
+2603,1578,"PP yarn Grade ",88.5%
+2603,1579,"Calcium Carbonate",10%
+2603,1580,"Master Batch",1.5%
+4670,1581,"Wheat flour","3 Tons"
+17230,1582,Paddy,
+4670,1583,"Soya flour","3 Tons"
+4670,1584,"Vegetables Fat","01 tons"
+4670,1585,"Tomato paste","500 kg"
+4670,1586,Emulsifier,"0.1 Tons"
+4670,1587,Enzymes,"0.1 Tons"
+16990,1588,Rock,"0.0259 ha"
+4639,1589,"Recycled pellets",
+5039,1590,"Rice,meat,vegetables,fish,pasta,seafood",
+17213,1591,Paddy,
+1419,1592,"Zinc Aluminium powder coated sheets",
+15386,1593,Aggregate,"100 Ton"
+15386,1594,Dust,"100 Ton"
+16991,1595,"Rock ","0.0990 ha"
+15386,1596,Bitumen,"100 Kg"
+16871,1597,,
+16861,1598,"Iron bar, L Iron","Depend on the order"
+17220,1599,Paddy,
+16874,1600,"Iron sheets & Paints","1 to 2 vehicles per month"
+16960,1601,"Steel pipes","10 pipes/month"
+16960,1602,"Iron Bar	","20 bars/month"
+16960,1603,"Iron Sheet	","20 sq.feet/month"
+16960,1604,"Welding Road","7 kg/month"
+2307,1605,Sugar,
+2307,1606,Margarin,
+2307,1607,wheatmeal,
+1988,1608,"Iron tube",
+1988,1609,"Coated powder",
+1988,1610,"Ruber bush",
+1988,1611,Cusions,
+1988,1612,"MDF board",
+16419,1613,"Roack / 0.0506ha","210 / cube"
+18623,1614,"Iron,, Paint",
+1998,1615,Papers,"200 Ton per month"
+25011,1616,"'6x9' granate","20 cube"
+1995,1617,HDP,"30kg per day"
+1995,1618,LLDP,"60kg per day"
+18602,1619,"Iron, wood, paint",
+16815,1620,"iron sheet ","3 -4 /month"
+16815,1621,"paste ","1 kg/day "
+16815,1622,"oxen ","5 kg /day "
+1996,1623,"Waste plastics",
+16376,1624,Rock/0.0506ha,240/cubes
+16924,1625,"Iron bar/month",500kg
+16924,1626,"Steel, pipes/month",400kg
+18622,1627,"Coconut husk","2000  2500"
+16812,1628,"iron sheet ","2- 3 nos/month"
+16812,1629,"paste ","1 kg/day "
+16812,1630,"oxen ","5 kg/day "
+1997,1631,Hyjin,
+1997,1632,Compound,
+1997,1633,"Luster soap",
+25015,1634,Rice,10Kg
+25015,1635,Vegetable,5Kg
+17726,1636,"Granite Boulders","50 cubes"
+17231,1637,Paddy,"6000 kg/ Day"
+2009,1638,Papers,
+2539,1639," Printing Paints",8Kg
+17224,1640,Explosive,
+2539,1641,"Polythene Pallets",100Kg
+1994,1642,"Granite Boulders",
+25016,1643,Cement,
+25016,1644,Metal,
+25016,1645,Sand,
+16595,1646,"Car Wash",300ml
+2063,1647,soil,"15 cubes"
+16594,1648,,
+16595,1649,Water,620litre
+16595,1650,"High power",200ml
+15392,1651,"Metal Rock","600 cubes"
+25017,1652,Fabric,
+25017,1653,Thread,
+16926,1654,"Steel pipes/month",40bar
+16926,1655,"Iron bar/month",1
+2004,1656,"Raw cow hides 300","2400kgs per month"
+2004,1657,"Raw buffalo hides 300","4500kgs per month"
+2004,1658,"Raw goat skins 250","250kgs per month"
+17511,1659,"6x9 granaitr",
+16926,1660,"iron tore/month","20 bar"
+16926,1661,"welding rod/mnth",14kg
+2641,1662,"Flour, Soya oil, Vegetables",
+16641,1663,Water,1000
+16799,1664,"iron sheet ","3 - 4 nos/month "
+16799,1665,"welding rod ","5 box /day "
+16799,1666,"paste ","5 kg /day"
+16799,1667,oxen,"5 kg /month"
+16420,1668,Pigs,20
+16420,1669,Goat,39
+16420,1670,Cows,7
+16420,1671,Hens,100
+17544,1672,Aggregate,
+17544,1673,Bitumen,
+18637,1674,"Coconut husk",
+17519,1675,"60/70 Bitumen",16000Kg/day
+17519,1676,"Rubber powder","250 Kg/day"
+17519,1677,Kaolin,"250 Kg/day"
+17526,1678,"Amonia, Ninatit, explosives, Caps, Service yarns",10kg
+17519,1679,"Kerosone oil","100 Kg/day"
+16612,1680,"Iron tore","40 bars/month"
+16516,1681,paddy,"5000 kg/month"
+16421,1682,"Steel pipes","8 /month"
+16421,1683,"Iron bar","10 /month"
+16421,1684,"Iron sheet","20 sq.feet/month"
+16421,1685,"Welding rods",10Kg
+16622,1686,"Iron tore","30 bars"
+16622,1687,"Iron bar",950kg
+16622,1688,"Iron sheet","15 / month"
+17222,1689,Paddy,
+16622,1690,"Steel pipes","10 pipes"
+18628,1691,Granite,6x4
+16422,1692,chicks,"850 /Week"
+16422,1693,feed,"850Kg /Week"
+17529,1694,"6x9 granaite",
+25034,1695,"Granite Boulders",
+17215,1696,Rock,
+16521,1697,paddy,5000kg/day
+18619,1698,Granite,
+16423,1699,,
+16423,1700,Water,"0.5 m3 / day"
+17217,1701,Rock,
+17521,1702,"6x9 Metal","10 Cube"
+17727,1703,"6x4 granaite","20 cube"
+16428,1704,Rice,"100Kg /day"
+16428,1705,Chilies,"20 Kg/day"
+16612,1706,"Iron bar",1500Kg/month
+17547,1707,"6x9 Metal",30
+17534,1708,Cloth,700Y
+17534,1709,Les,200y
+17534,1710,pearl,115LB
+16561,1711,Mash,2275kg
+19009,1712,rice,1500kg/day
+19010,1713,Rice,1500kg/day
+19011,1714,Rice,1500
+19012,1715,Paddy,1000
+17555,1716,Rock,
+17533,1717,Granite,6x9
+19018,1718,Paddy,2400kg/day
+17522,1719,Granite,
+17214,1720,Paddy,"2500 kg/ Day"
+18430,1721,"Granite Bulders","10 cubes"
+17723,1722,Granite,
+17549,1723,"Amonium Nittrate ",1kg
+17527,1724,Granite,
+17523,1725,Rock,
+18198,1726,"Washing Powder",Washing
+17540,1727,Granite,6x9
+17559,1728,,
+17559,1729,,
+18184,1730,Kerosine,"5 L"
+18184,1731,Highpressure,"15 L"
+17512,1732,"Explosives ",6
+18190,1733,"6x9 ","12 cube"
+17642,1734,Granite,6x9
+17638,1735,Explosive,
+17552,1736,Bitumn,"28200 Kg"
+17655,1737,Granite,
+18462,1738,Paddy,
+17728,1739,Rock,
+17657,1740,Granite,
+18467,1741,Rice,1200
+25046,1742,"6""*9"" and 6""*4"" Boulders",
+17659,1743,Granite,
+17565,1744,"Granite Boulders 6""*9""",
+17524,1745,Rock,
+17573,1746,Rock,"100 Cube/ Day"
+25048,1747,"Vegitable Fat",1200Kg
+25048,1748,Suger,2000Kg
+11732,1749,Paddy,5000kg
+12071,1750,Paddy,"7200 kg"
+25050,1751,"Paddy rice",
+25049,1752,paddy,5000
+18452,1753,Explosive,
+17643,1754,Granite,
+11702,1755,Paddy,5000kg
+16764,1756,"iron sheet ","2 - 3 nos/ month"
+11932,1757,Granite,"10 cubes"
+12113,1758,,
+5358,1759,"Dyanamite.Caps, Other Explosive material ",Good
+25048,1760,Wheatmeal,4500Kg
+16764,1761,"welding rod ","2 -3 sheet /month"
+25048,1762,"Milk Powder",75Kg
+25048,1763,essence,12Kg
+16872,1764,"Iron bar, Steel, Pipes","Depend on the order"
+16764,1765,"paste ","oxen  /5kg/day"
+6599,1766,Paddy,2000
+11716,1767,Dinamite,2kg
+16576,1768,"Lagoon Water",9000m3
+17646,1769,Granity,
+25051,1770,rocks,
+18199,1771,Cow,60
+16794,1772,"iron sheet ","1 -2 nos/month"
+16794,1773,"welding rod","5 kg /month"
+16992,1774,"Iron  Shaft","100Kg / month"
+16794,1775,"paste ","1 kg/ momth"
+16794,1776,oxen,"5 kg /month"
+16992,1777,"welding rot ","1.5 kg / day"
+12041,1778,Paddy,21000
+16992,1779,"Carborn ","7.5 kg /day"
+5367,1780,Metal,"Cube 10"
+16868,1781,"Iron bar, ","Depend on the order"
+6609,1782,paddy,5000
+12148,1783,Granite,
+16810,1784,"iron sheet ","2 -3 nos/month"
+16810,1785,"welding rod ","5 box/month"
+16810,1786,"oxen ","5 kg /month"
+16810,1787,"paste ","5 lit /month"
+12142,1788,Paddy,3500kg
+16929,1789,"Steel pipes/month","35 bar"
+11926,1790,Paddy,10000
+16946,1791,"Lagoon Water",16000m3
+16929,1792,"iron bar 25x1""",1
+18469,1793,Explosive,
+12129,1794,Paddy,4800kg
+16929,1795,"iron Sheet/ 40Sq.feet",1
+6606,1796,Paddy,5000
+16929,1797,"iron tore/month","20 bar"
+16929,1798,"Welding rod/ month","10 kg"
+16776,1799,"iron sheet ","5 -6 nos /month"
+16776,1800,"welding rod","7 box /month"
+16776,1801,"paste ","3 lit /mnth"
+16776,1802,"oxen ","10 kg /month"
+12111,1803,Paddy,4500kg
+16993,1804,Water,"550 litter"
+16643,1805,,
+11681,1806,Granite,
+16643,1807,,
+12120,1808,Paddy,3200kg
+11730,1809,Paddy,2500kg
+16931,1810,"Steel pipes/month","40 bar"
+16931,1811,"Iron bar/month","25x1"""
+16931,1812,"iron sheet/month","40 Sq - feet"
+16577,1813,"Lagoon Water",31000m3
+16931,1814,"iron tore/month","20 bar"
+16931,1815,"Welding rod/month",14
+12014,1816,Paddy,
+11703,1817,Dinamite,
+25066,1818,"Solid Waste ",13000Kg
+25067,1819,"Black powder",
+25067,1820,Dynamite,
+25067,1821,"Ammonia Nitrate",
+16955,1822,"Lagoon Water",18000m3
+16994,1823,wasteiron,"50kg / Month"
+16525,1824,Paddy,5000kg/day
+16578,1825,"Lagoon Water",9000m3
+16639,1826,Water,
+16639,1827,Mash,
+16639,1828,Chiken,
+11936,1829,Granite,10
+17816,1830,Granite,
+16801,1831,"iron sheet","2 -3 sheet /month"
+16801,1832,"paste ","5 lit /month"
+16801,1833,"welding rod ","4 box/ month "
+17832,1834,Granite,
+17539,1835,"Granite Boulders 18"" x 24""","80 cubes/day"
+18456,1836,Paddy,"6000 Kg"
+16932,1837,"Chic/ 1 batch",700
+16932,1838,"mash /week",120
+16956,1839,"Lagoon Water",16000m3
+18311,1840,"Solid Waste",13000Kg
+10453,1841,"Plastic varities (kg)",300
+16957,1842,"Lagoon Water",18000m3
+25081,1843,"Plastic Packaging Components",
+25081,1844,"Polypropylene Copolymer",
+25081,1845,"High Density poly Ethylene",
+10664,1846,Corn,500
+10664,1847,"Rice bran",500
+10664,1848,"Soya poonac",400
+10664,1849,"Coconut poonac",200
+10664,1850,"Hunu sahal",400
+16579,1851,"Lagoon Water",18000m3
+6630,1852,"Solid Waste",0.5
+16645,1853,Water,6000l
+16645,1854,Foodites,
+18454,1855,EXplosive,
+18640,1856,"Metal 75x3",
+16995,1857,"Iron  Shaft",75kg/mounth
+16995,1858,"welding rods","1.5 kg / day"
+11705,1859,Dinamite,1kg
+10348,1860,"Grass & Concentrate Feed",
+17796,1861,Granite,
+10148,1862,"Poultry feed, medicine , water  (L)",400
+12101,1863,Paddy,
+16860,1864,Paddy,"6000 kg"
+15388,1865,"Metal Rock","600 Cube"
+25086,1866,Water,2000
+25086,1867,"Dry pharmaceuticals",150
+11711,1868,Paddy,2000kg
+16958,1869,"Lagoon Water",18000m3
+16581,1870,"Lagoon Water",13000m3
+2015,1871,Papers,"2 Tons per day"
+11738,1872,Granite,12
+2015,1873,"Quarry Jel powder","25kg per day"
+12079,1874,Paddy,4700kg
+2015,1875,"Sodium silicate","150kg per day"
+2015,1876,wire,"1kg per day"
+12096,1877,Paddy,4500kg
+3220,1878,"HDPE materials",
+3220,1879,"Master batch",
+3220,1880,"LDPE materials",
+3220,1881,"Recycled materials",
+2010,1882,threads,"40 kg per day"
+3220,1883,"Photo Dec 96 (Degrading material)",
+15389,1884,"Metal Rock","600 Cube"
+16997,1885,"Iron  Shaft","30kg / month"
+16997,1886,"welding rot",1kg/day
+11719,1887,Dinamite,
+16962,1888,"Lagoon Water",10000m3
+12030,1889,paddy,35000
+2018,1890,Newsprint,8800kg
+2018,1891,ink,216kg
+25087,1892,"Soya flour",3000
+25087,1893,"Wheat flour",500
+12088,1894,Iron,
+25087,1895,"Rice flour",250
+6554,1896,Rock,
+15393,1897,"Metal Rock","600 cubes"
+11704,1898,Paddy,
+12094,1899,Paddy,4500kg
+2392,1900,"Box board ",
+2392,1901,"Printing ink",
+2392,1902,K-oil,
+2392,1903,"cotton wast",
+16963,1904,"Lagoon Water",18000m3
+6554,1905,Metal,"20 kube"
+6554,1906,,
+11706,1907,Paddy,5000kg
+15391,1908,"Metal Rock","600 Cubes"
+16592,1909,"Lagoon Water",13500m3
+4580,1910,Granite,
+18604,1911,"Paddy rice",
+16964,1912,"Lagoon Water",20000m3
+16996,1913,"Roack ","0.0253 Ha"
+15387,1914,"Metal Rock","600 Cubes"
+2462,1915,Copper,"3.5 MT"
+2462,1916,PVC,"4 MT"
+2462,1917,"Al (Aluminium)","6 Mt"
+12132,1918,Paddy,6000kg
+16877,1919,Paddy,"8000 kg/week"
+25094,1920,"Precured belts",32860
+25094,1921,Solution,11110
+25093,1922,Plastic,
+16966,1923,"Lagoon Water",200000m3
+15413,1924,"Electric Detenators",15
+15413,1925,ANFO,15
+15413,1926,"Water Gel",10
+18600,1927,"Paddy rice",700
+18431,1928,"Bull and Cow",
+25098,1929,"Precured Belts","32860 kg"
+25098,1930,Solution,"11110 t"
+16582,1931,"Lagoon Water",9000.0
+16967,1932,"Lagoon Water",18000m3
+2023,1933,Granite,
+16519,1934,Paddy,5000kg/day
+12077,1935,Paddy,5500kg
+16876,1936,"Iron bar, Steel & pipes","Depend on the order"
+15390,1937,"Metal Rock","600 Cubes"
+16968,1938,"Lagoon Water",20000
+12102,1939,Paddy,4000kg
+6628,1940,Paddy,3000
+12085,1941,Paddy,7000kg
+16519,1942,Paddy,5000kg/day
+16591,1943,"Lagoon Water",31000m3
+16585,1944,"Lagoon Water",13500m3
+16584,1945,"Lagoon Water",22500m3
+4647,1946,Rice,"15 kg"
+4647,1947,Meat,"4 kg"
+4647,1948,Fish,"2 kg"
+4647,1949,Vegetables,"3 kg"
+4647,1950,Common,"2 kg"
+10335,1951,Quarts,5t
+16788,1952,"iron bar ","15 - 20 bar /month"
+2019,1953,"Polyester powder","200kg per month"
+2019,1954,Gas,
+1285,1955,Water,"1000 litters/day"
+10454,1956,"6*9 size dolamite",
+4646,1957,HDPE,"100 kg/day"
+18448,1958,Explosive,"2 kg"
+16788,1959,G.I.pipes,"12 -15 bar/month"
+12089,1960,Paddy,"4000 kg"
+16788,1961,"welding rod ","5 box/month"
+2022,1962,Granite,
+17721,1963,Bitumen,
+17721,1964,Aggregate,
+3601,1965,water,"200 ltrs per day"
+3601,1966,"Detergent (car wash)",
+4629,1967,"Green dye",
+4629,1968,Guargum,
+4629,1969,"Thippi powder",
+4629,1970,"Perfume 1890",
+12125,1971,Paddy,4700kg
+16869,1972,"Iron bar",10-12
+2021,1973,PP,3T
+2021,1974,IPA,163kg
+2021,1975,NBA,163kg
+12078,1976,Paddy,"6500 kg"
+16778,1977,"iron bar ","20 -25 bar /month"
+12118,1978,Paddy,2000kg
+16778,1979,G.I.pipes,"30- 40 bar/month"
+16778,1980,"welding rod","15 box/month"
+12092,1981,Paddy,"6000 kg"
+6237,1982,board,102
+6237,1983,wax,1875
+6237,1984,paper,1500
+6237,1985,"wrapping papers",12
+25107,1986,"coconut husk",
+12121,1987,Paddy,
+2388,1988,Wood,
+2388,1989,Sponch,
+2388,1990,Cloths,
+4613,1991,"Plastic films,Alufoil and Paper","2500 kg/day"
+4613,1992,"Lamination adhesives","200 kg/day"
+4613,1993,"Printable ink","150 kg/day"
+4613,1994,Solvents,"300 lit/day"
+947,1995,"Low crushing ",50MT
+947,1996,Crushing,25MT
+16775,1997,"water ","500 lit /day "
+12127,1998,Paddy,4500kg
+16869,1999,"Steel bar",12-15
+10134,2000,"6""*9"" Stone",40qube
+12103,2001,Paddy,"4500 kg"
+1278,2002,"Natural rubber",
+1278,2003,"Synthetic rubber",
+1278,2004,"EVA white fillers",
+12100,2005,Paddy,"4500 kg"
+10603,2006,Stone,
+13910,2007,Chicks,1000nos
+16377,2008,Water,1.05m3
+16807,2009,"iron bar","20 -25 bar /month"
+10448,2010,Dolamite,
+16807,2011,G.I.pipes,"15 -20 bar /month"
+16878,2012,"Iron bar","Depend on the order"
+16878,2013,Steel,"Depend on the order"
+16878,2014,Pipes,"Depend on the order"
+16807,2015,"welding rod ","15 /box/month"
+16807,2016,"oxen ","10 kg/month"
+19005,2017,Iron,"5 bar per/week"
+25116,2018,"Detergents ",
+3510,2019,"Soap noodle","3320 kg per day"
+3510,2020,colour,"14 kg per day"
+3510,2021,Cabso,"231 kg per day"
+3510,2022,"China clay","300 kg per day"
+2020,2023,"Zn,Al(ASTM.A792-standard  Gl-Al)",
+16881,2024,Water,"500 lit"
+25114,2025,HDPE,
+6557,2026,Rock,
+1845,2027,water,
+4630,2028,"Mineral Turpentine","1200 kg/day"
+4630,2029,"Paraffin wax","200 kg/day"
+4630,2030,"Synthetic Iron oxide","150 kg/day"
+4630,2031,"Demineralized water","500 kg/day"
+4630,2032,Emulsifier,"20 kg/day"
+4630,2033,"Feldspar powder","100 kg/day"
+12128,2034,Paddy,4900kg
+2694,2035,"Galvernized Seets",
+1030,2036,Tea,"25000 kg"
+18620,2037,"paddy rice",1500kg
+13916,2038,Rock,"5 Cub"
+25123,2039,Explosive,
+6185,2040,granite,
+19108,2041,"wheat,sugar,misellanious","wheat-200kg,sugar-20kg ,Misellanious-20kg"
+16880,2042,Water,0.5
+12106,2043,Paddy,"4500 kg"
+941,2044,"Alluminium cabales",
+25126,2045,"aluminium off cut ","50 kg/month"
+12134,2046,Paddy,"4600 kg"
+6155,2047,Dolamite,7000
+25127,2048,HIPS,10
+25127,2049,PP,100
+25127,2050,ABS,40
+3327,2051,"Plastic pellets","200 kg per day"
+3327,2052,"Pittala screw nail",
+12123,2053,Paddy,3200kg
+12073,2054,Paddy,4500kg
+11786,2055,Paddy,15000
+4794,2056,"Imported and Locally Procured parts and Accessories",
+2029,2057,"Quarry Gate Reels","4MT per day"
+6247,2058,flour,2100
+2029,2059,"Poster Paper","5MT per day"
+6247,2060,"milk powder",75
+2029,2061,Gum,"175kg per day"
+6247,2062,"chocolate powder",75
+6247,2063,sugar,625
+6247,2064,"coconut milk powder",10
+6247,2065,magarine,3
+12126,2066,Paddy,4300kg
+982,2067,"Sri Lanka granite",
+4612,2068,PET,"1150 kg/month"
+4612,2069,HDPE,"100 kg/month"
+4612,2070,PP,"25 kg/month"
+2027,2071,"King coconut","10000 per day"
+2027,2072,"Coconut kernels",2000kg/day
+2027,2073,"Deccated coconut","4000 kg/day"
+16862,2074,Water,"1000 lit"
+4651,2075,LDPE,"20 tons"
+4651,2076,HDPE,"8 tons"
+4651,2077,Polypropylene,"2 tons"
+3361,2078,Plastics,"200 kg"
+3361,2079,wire,"500 meters"
+3361,2080,"screw nuts",2500
+3361,2081,cardboards,"225 kg"
+3361,2082,"polythene bags",1750
+1914,2083,"LDPE plastics raw materials",1MT
+1914,2084,"Printing ink","5 l per day"
+949,2085,"Stainless steel sheets",
+1914,2086,"Alchol(1pr NB)","5 l per day"
+16879,2087,"L iron","Depend on the order"
+10702,2088,"Poultry Feed, anti biotics",
+25137,2089,,
+12098,2090,Paddy,5500kg
+1291,2091,"Wheat flour","100 kg/day"
+1291,2092,Sugar,"1166.8 kg/day"
+4141,2093,Fabric,
+4141,2094,Thread,
+4141,2095,Binders,
+4141,2096,Dyes,
+1291,2097,"Milk powder","85.2 kg/day"
+1291,2098,Lesanin,"0.6 g/day"
+16864,2099,"Mash (1;4 kg % 45 days)","8000 kg/45 days"
+1291,2100,Salt,"1.4 kg/day"
+1291,2101,"Vegetables Oil","16.7 kg/day"
+2080,2102,Granite,
+1291,2103,Colourins,"0.3 g/day"
+1291,2104,"Liquid Glucose",243.6kg/day
+1291,2105,Milk,"500 lit/day"
+12072,2106,Granite,
+3328,2107,"PET pellets","200 kg per day"
+3328,2108,"HDPE pellets","50 kg per day"
+12084,2109,Paddy,4300kg
+16423,2110,"Used oil",10lit/month
+12082,2111,Paddy,4250kg
+25138,2112,"mas ","3000 kg/day"
+12022,2113,"3 Rubber","775 kg"
+12022,2114,"R55 rubber","740 kg"
+12022,2115,"PRB Rubber","120 kg"
+12090,2116,Paddy,4800kg
+12022,2117,"Ricklame tyre","1290 kg"
+16859,2118,Paddy,"1200 - 1500 kg"
+12032,2119,caco3,
+12032,2120,Ink,
+12032,2121,polyprophelene,
+17110,2122,Explosive,
+19109,2123,"wheat,sugar,missellanious","wheat-125kg "
+25151,2124,Polythene,"200 kg"
+10451,2125,"Lime stones","10 cubes"
+3267,2126,"Black tea",
+3267,2127,"Green tea",
+3267,2128,"Packages (wooden boxes, cane bags, cardboard boxes, porcelain )",
+969,2129,Water,2000l
+969,2130,Oil,20l
+12119,2131,Paddy,"6000 kg"
+969,2132,Greese,2kg
+969,2133,Tripol,7l
+25149,2134,"MDR Board",10
+25149,2135,"Steel Board",120
+25149,2136,"Paint ",12
+25154,2137,"Polythene Role","150 kg - 200 kg"
+971,2138,"PVC compound",
+11770,2139,,
+10340,2140,"Dolamite Stones 6*9",27MT
+25155,2141,Paddy,"3 tons"
+18025,2142,"Cocount husk",
+1964,2143,"Dash High power powder","0.5kg per day"
+4665,2144,"Flair tube",
+25157,2145,"Methenol ",163
+4665,2146,"Exhaust tube",
+4665,2147,Filaments,
+4665,2148,"Capping cement",
+4665,2149,"Aluminium caps",
+4665,2150,"Solder wire",
+3196,2151,"poly propelene","150 kg"
+1844,2152,Granite,
+3196,2153,"Master batch","30 g "
+16863,2154,Leathar,
+25158,2155,"MDF Board",
+16429,2156,Chicks,"1000 / month"
+16429,2157,Feeder,"2000 kg/month"
+16429,2158,Water,"0.15 m3/day"
+16867,2159,Yarn,"1500 kg/month"
+3293,2160,"Allen key","06 per month"
+3293,2161,"Assemble fitting","10 per month"
+3293,2162,Connecters,"17 per month"
+3293,2163,"Brass Baller catches (L)","25 per month"
+3293,2164,"Caster wheel pin type","17 per month"
+3293,2165,"finish nails","20564 per month"
+2053,2166,Granite,
+1257,2167,"Oil filters",
+4338,2168,"PET Resine",
+4622,2169,"Wheat flour","3500 kg"
+4622,2170,Water,"5800 kg"
+4622,2171,"Vegetables Fat","1800 kg"
+4622,2172,Sugar,"2400 kg"
+4622,2173,"Milk powder","30 kg"
+4622,2174,Salt,"12 kg"
+4622,2175,Lesithine,"15 kg"
+934,2176,"Cement, sand, metal, concrete dmixture",
+3045,2177,Metal,"30 cubs"
+3045,2178,Sand,"30 cubs"
+2078,2179,"Feldspar and Quartz",
+3238,2180,"Resins modified resins","25 kg per day"
+3238,2181,pigments,"170 kg per day"
+3238,2182,Antioxidents,"25 kg per day"
+3238,2183,waxes,"25 kg per day"
+3238,2184,solvents,"200 kg per day"
+16593,2185,"Lagoon Water",31000m3
+16589,2186,"Lagoon Water",22000m3
+16590,2187,"Lagoon Water",18000m3
+16596,2188,"GL pipe","50 bar per month"
+16596,2189,"5:8 Iron bar","60 per month"
+15352,2190,Cow,01
+15354,2191,"Metal Rock","600 Cubes"
+15355,2192,"Metal Rock","600 Cubes"
+16684,2193,water,1300l/day
+15356,2194,"Electric Detenators",26
+15356,2195,ANFO,15
+15356,2196,"Water Gel",15
+15357,2197,ANFO,26
+15357,2198,"Water Gel",15
+15359,2199,Rubble,"525 cubes"
+15366,2200,"Raw Milk","20 Litre"
+15366,2201,Sugar,5kg
+15366,2202,Vanila,0.25litre
+15366,2203,"custard powder",0.25kg
+15367,2204,"Raw milk",25Litre
+15367,2205,Sugar,5Kg
+15367,2206,"Yoghurt culture",0.25Kg
+15368,2207,Paddy,800Kg
+15369,2208,"Day old chicken","600 Nos"
+15370,2209,"GI Pipe","20 Bar"
+15370,2210,"Tin Sheet","5 Roll"
+15370,2211,"Iron Rod","5 box"
+15370,2212,"Oxyacetalene gas","1 cylinder"
+15371,2213,"Iron Bar","10 Bar"
+15371,2214,"Tin Sheet","2 Roll"
+15371,2215,"Iron Rod","2 Box"
+15372,2216,"Iron Bar","3 Bar"
+15372,2217,"Tin Sheet","8 Roll"
+15373,2218,"Spare parts","As per requirement"
+15373,2219,"Car wash","5 Litre"
+15373,2220,Kerosene,"2 Litre"
+15374,2221,"Spare Parts","As per requirement"
+15374,2222,"Car Wash","5 Litre"
+15375,2223,"Coconut Sap","100 Litre"
+15376,2224,"Metal Rock","625 Cubes"
+15377,2225,Rubble,"500 Cubes"
+15382,2226,"Wheat Flour","50 Kg"
+15382,2227,Yeast,"50 g"
+15382,2228,Salt,"50 g"
+15382,2229,Water,"As per requirement"
+15382,2230,Sugar,"2 Kg"
+15383,2231,"Day old chicks","600 Nos"
+15384,2232,"GI Pipe","5 Bar"
+15384,2233,"Tin sheet","2 roll"
+15384,2234,"Iron Rod","2 box"
+15385,2235,"Electric Detenators",10
+15385,2236,ANFO,"10 Kg"
+15385,2237,"Water Gel","5 Kg"
+15394,2238,"Metal Rock","600 Cubes"
+16685,2239,"post larvea","20-25/square meter "
+15397,2240,"Car Wash","5 Litre"
+15398,2241,"Car wash","5 Litre"
+15405,2242,"Wheat Flour",25Kg
+15405,2243,Sugar,"5 Kg"
+15405,2244,Yeast,"0.25 Kg"
+15406,2245,"Rice Flour","5 Kg"
+15406,2246,"Pea Nuts","2 Kg"
+15406,2247,Spices,"1 Kg"
+15407,2248,Paddy,"1800 Kg"
+15408,2249,"Day old Chicks","600 Nos"
+15409,2250,"GI Pipe","5 Bar"
+15409,2251,"Iron Strip","5 Bar"
+15409,2252,"Welding rod","2 Box"
+15410,2253,"GI Pipe","5 Bar"
+15410,2254,"Iron Strip","3 Bar"
+15410,2255,"Welding Rod","2 Box"
+15411,2256,"GI Pipe","8 bar"
+15411,2257,"Tin sheet","3 roll"
+15412,2258,"GI Pipe","5 Bar"
+15412,2259,"Iron Strip","3 Bar"
+15412,2260,"Welding Rod","3 Box"
+15461,2261,"Coconut sap","210 Litres"
+15462,2262,Cow,"02 Nos"
+15463,2263,Paddy,"1500 kg"
+15466,2264,"Car wash","5 Litre"
+15467,2265,"Car wash","2 Litre"
+15468,2266,"Car wash","2 Litre"
+1834,2267,Salt,
+2662,2268,Flour,350
+1834,2269,Chilies,
+1834,2270,Cinnamon,
+1834,2271,clove,
+1834,2272,Tamarind,
+1834,2273,cardamon,
+1834,2274,sugar,
+3260,2275,"steel sheets","100 sheets"
+3260,2276,paints,"20 ltrs"
+3260,2277,thinner,"20 ltrs"
+25164,2278,"King coconut",
+946,2279,"Auto diesel",200l/hr
+946,2280,"Ammonium nitrate",60kg/hr
+946,2281,"Calcium carbide",2400kg/day
+4648,2282,"Knitted fabric",
+4745,2283,Water,"3000 l/day"
+2049,2284,Granite,
+10341,2285,dolamite,"3 tiper"
+4616,2286,"Natural rubber",
+4616,2287,Velcro,
+4616,2288,Laces,
+4616,2289,Eyelets,
+4616,2290,"C7 and C8 Boxes",
+16431,2291,"Iron pipe","40 bars / month"
+16431,2292,"iron bar","750Kg / month"
+16431,2293,"Box bar","15 bar /month"
+16431,2294,S/bar,"100 bar /month"
+16431,2295,"welding electroodes","12kg / month"
+2709,2296,LDPE,400
+2709,2297,LLDPE,1000
+2014,2298,"Metalised polyester","500kg per day"
+2014,2299,LLDPE,"1.5mts per day"
+2014,2300,"Plain polyester","100kg per day"
+2014,2301,Ink,50KG
+2014,2302,Adhesive,"150kg per day"
+3230,2303,"HDPE  for bottles","70 kgs  "
+3230,2304,"LLDPE for caps","25 kgs  "
+16517,2305,"wheat flour",50
+19002,2306,Iron,"15 bar/Week"
+16528,2307,"Steel pipes/month",20bar
+16430,2308,Rock,1
+1931,2309,Granite,
+4074,2310,Copper,"20 tons/month"
+4074,2311,"PVC ","20 tons/month"
+4074,2312,Aluminium,"30 tons/month"
+1952,2313,Papers,
+1952,2314,Ink,
+1952,2315,Gum,
+3235,2316,Lubricants,
+16608,2317,water,2400
+16608,2318,teepol,2l
+15471,2319,"Wheat Flour","50 Kg"
+15471,2320,Sugar,"5 Kg"
+16608,2321,"king powder",20l
+10126,2322,"Lime Stones",
+15471,2323,Yeast,"250 g"
+15471,2324,Salt,"50 g"
+15471,2325,Water,"As per requirement"
+16608,2326,"Used oil",12l/month
+2006,2327,Detergent,"50l per day"
+15472,2328,"Wheat Flour","50 Kg"
+15472,2329,Sugar,"5 Kg"
+15472,2330,Yeast,"250 g"
+16969,2331,"Lagoon Water",20000m3
+2437,2332,"Dish Wash Powder",1000
+15473,2333,"Wheat Flour","50 Kg"
+15473,2334,Sugar,"5 Kg"
+15473,2335,Salt,"100 g"
+15473,2336,Yeast,"100 g"
+3216,2337,No,
+2002,2338,Aggregates,"80cubes per day"
+2002,2339,sand,"25 cubes per day"
+2002,2340,Cement,"40tons per day"
+10545,2341,"9*6 felsdpar ",
+11739,2342,Paddy,5000
+16971,2343,"Lagoon Water",15000m3
+2423,2344,Granite,
+14492,2345,Rock,"210 Cube"
+2017,2346,"Soap noodles","20 mt per day"
+2017,2347,"Soap perfume","120 kgs per day"
+3199,2348,"wood ","250 sq ft"
+3199,2349,glue,"3 kg"
+3199,2350,"roll of ribbon",0.25
+3199,2351,"Cellopane bundles",0.5
+25186,2352,Timber,
+2640,2353,"P.V.C Compound",100
+25186,2354,nails,
+1849,2355,PVCresine,"6   Mt per day"
+1696,2356,"Animal food",
+16527,2357,"metal sheet/month","18 sheet"
+2488,2358,"Water, Plastic bottles, Cardboard boxes",
+16527,2359,"box tube iron/month","5 bar"
+3829,2360,No,
+12031,2361,Paddy,200000
+15474,2362,Paddy,"1800 Kg"
+16527,2363,"MDF Board/month","3 board"
+16527,2364,Glass/month,1
+16527,2365,"iron rod/month","0.25 kg"
+16970,2366,"Lagoon Water",18000m3
+2642,2367,"Water, Plastic bottles, Cardboard boxes",
+16537,2368,"wheat plour ",100kg
+15475,2369,Paddy,"1400 Kg"
+1279,2370,"Synthetic rubber",
+12040,2371,Milk,
+16965,2372,"Lagoon Water",18000m3
+15476,2373,Paddy,"1200 Kg"
+16614,2374,paddy,4500Kg/day/month
+16523,2375,"Wheat Plour",50
+16524,2376,"Iron pipes/month",10
+16524,2377,"Iron bar/month",10
+16524,2378,"Iron tore/month",20
+16524,2379,"Iron sheet/month",5
+16961,2380,"Water	","500 lit/day"
+15477,2381,"GI Pipe","5 Bar"
+15477,2382,"Tin sheet","5 roll"
+15477,2383,"Welding rod","2 box"
+3316,2384,"polythene beeds",
+3316,2385,colourants,"03 kg"
+1853,2386,Timber,
+1853,2387,"MDF board",
+1853,2388,"Ply wood",
+1853,2389,Paints,
+4617,2390,Pigments,"200 kg"
+4617,2391,Resins,"400  kg"
+4617,2392,"Drying oils","75  kg"
+25198,2393,"feldspar ",0.5cubes
+4617,2394,"Mineral oil","150  kg"
+4617,2395,Solvents,"400  kg"
+3321,2396,"polythene beeds",
+4617,2397,"PE wax","10  kg"
+4617,2398,Driers,"5  kg"
+945,2399,"Admixture materials & water proofing materials",
+2404,2400,"Polythene wastages",
+1833,2401,"Aluminium ",
+958,2402,Polyethenene,
+17081,2403,Granite,
+3296,2404,HDPE,"100 KG"
+4661,2405,Paper,
+4661,2406,Ink,
+4661,2407,"Adhesive gums",
+3296,2408,LDPE,"100 kg"
+1061,2409,"Wood powder, calcium carbonate, PVC resins, impact modifire, processing aid & lubricant",
+16939,2410,"Lagoon Water",16000m3
+15478,2411,"GI Pipe","5 bar"
+15478,2412,"Tin Sheet","3 roll"
+15478,2413,"Welding rod","2 box"
+16617,2414,"iron tore",30bars/month
+16617,2415,"iron bar",800Kg/month
+16617,2416,"iron sheet",20
+16617,2417,"steel pipes",20/month
+25203,2418,stone,"7 cube"
+25205,2419,"CaO2 Lime","3 tons "
+4146,2420,"Epoxy resins","600 kg/day"
+4146,2421,"Epoxy hardner","520 kg/day"
+4146,2422,Pigments,"100 kg/day"
+1075,2423,"Gum base",250
+4146,2424,Extenders,"800 kg/day"
+1075,2425,Glycerin,1
+4146,2426,Solvents,"750 kg/day"
+1075,2427,Sorbitol,1
+1075,2428,Sugar,850
+3360,2429,"printing / Binders / Ink","50 kg per month"
+1075,2430,Glucose,250
+3360,2431,"water base binders","50 kg"
+3360,2432,Dyes,"01 kg"
+3360,2433,"Screen mesh","05 m"
+2085,2434,Improthrin,
+2085,2435,D-cyphenothrine,
+2085,2436,"Deodorized kerosene",
+2085,2437,LPG,
+25208,2438,Water,
+17084,2439,Granite,
+4681,2440,Kerosene,
+4681,2441,Grease,
+4681,2442,"Electrical equipments",
+1042,2443,"Polyol, catalyst, hardner, isocyanate",
+11737,2444,Granite,10
+1836,2445,Granite,
+3866,2446,"palm oil","18000 tonns per month"
+3866,2447,Flour,"120 tonns per month"
+3866,2448,Sugar,"20 tonns per month"
+16618,2449,"iron tore",25
+16618,2450,"iron bar","200 kg/month"
+16618,2451,"iron sheet",20/month
+4663,2452,Plastic,"300 kg"
+16618,2453,"steel pipes",20/month
+16599,2454,"Lagoon Water",9600m3
+4663,2455,"Soya,riice,corn and dry fish powder","350 kg"
+11774,2456,Paddy,
+2304,2457,Sheets,"5 per day"
+2304,2458,"iron bar",2
+1031,2459,Chicken,175kg
+1031,2460,Oil,15l
+4608,2461,Yarn,"750 kg"
+4608,2462,"Grey fabric","2000 kg"
+4608,2463,Chemicals,"65 kg"
+4608,2464,Dyes,"35 kg"
+11783,2465,wax,300
+11783,2466,"Poster paper",350
+11783,2467,KCl,100
+15479,2468,,
+15479,2469,"Tin sheet","3 roll"
+15479,2470,"GI Pipe","5 Bar"
+15479,2471,"Welding rod","2 box"
+1987,2472,"steel cable",
+3297,2473,"soap ","03 ltrs"
+3297,2474,"Engine oil","10 ltrs"
+3297,2475,Grease,0.5
+1063,2476,Polycarbonate,100
+4604,2477,"HDPE/LDPE resin","2500 kg"
+4604,2478,"Master batch","50 kg"
+4604,2479,"Degradable additives","20 kg"
+4604,2480,Ink,"10 L/month"
+4604,2481,IPA/NBA,"1 barrel/6 month"
+16620,2482,"iron tore",400Kg/month
+16620,2483,"iron bar",950Kg/month
+16620,2484,"iron sheet",25
+16620,2485,"steel pipes",20/month
+16382,2486,Boulders,"cube /month "
+4626,2487,"Adhesive tape","5 tons/month"
+16795,2488,"water ","1000 lit/day"
+1052,2489,Chicken,200kg
+1052,2490,Vegetables,250kg
+25210,2491,"P.V.C. sheets","100 kg per day"
+14072,2492,Paddy,4000
+942,2493,"Melamine moulding compound (melamine powder)",
+16623,2494,"iron sheet",15Kg/day
+16623,2495,"welding rots",
+16798,2496,"waste plastic ","60 kg /day"
+25212,2497,"soap liquid","04 ltrs"
+1835,2498,Granite,
+1062,2499,Fabric,2000kg/day
+1062,2500,Dyes,4kg/day
+1062,2501,Water,40000l/day
+15480,2502,"GI Pipe","5 Bar"
+15480,2503,"Tin sheet","3 roll"
+15480,2504,"Welding Rod","2 box"
+15481,2505,"GI Pipe","3 Bar"
+15481,2506,"Tin sheet","2 roll"
+15481,2507,"Welding rod","2 box"
+15482,2508,"GI Pipe","5 bar"
+15482,2509,"Tin sheet","2 roll"
+15482,2510,"Welding Rod","2 box"
+15483,2511,"GI Pipe","8 Bar"
+15483,2512,"Tin sheet","4 Roll"
+15483,2513,"Welding rod","4 box"
+15484,2514,"GI Pipe","5 Bar"
+15484,2515,"Tin Sheet","4 roll"
+15484,2516,"Welding Rod","2 box"
+15485,2517,"GI Pipe","5 Bar"
+15485,2518,"Tin sheet","4 roll"
+15485,2519,"Welding rod","2 box"
+15486,2520,"GI Pipe","5 bar"
+15486,2521,"Tin sheet","3 Roll"
+15486,2522,"Welding rod","2 box"
+15487,2523,"G.I Pipe","4 bar"
+15487,2524,"Tin sheet","3 roll"
+15487,2525,"Welding rods","2 box"
+15489,2526,"G.I. Pipe","5 Bar"
+15489,2527,"Tin sheet ","3 Roll"
+15489,2528,"Welding rod","2 box"
+15490,2529,"GI Pipe","8 Bar"
+15490,2530,"Tin sheet","4 roll"
+15492,2531,"Spare Parts","As per requirement"
+15493,2532,"Spare parts","As per requirement"
+15494,2533,"Car Wash ","2 Litre"
+15495,2534,"Car Wash","2 Litre"
+15496,2535,"Car Wash","2 Litre"
+15415,2536,Fibre,"100 Ton"
+15420,2537,"Car Wash","5 litre"
+15421,2538,"Car Wash","5 Litre"
+15428,2539,"Required Chemicals","Required quantity"
+3210,2540,"polyester powder","20 kg per day"
+3869,2541,water,
+2046,2542,Granite,
+3869,2543,"white sprit","5 ltrs"
+3869,2544,Binder,"6 kg"
+3869,2545,wood,
+3869,2546,colourants,"01 kg"
+4655,2547,Softners,
+4655,2548,Enzymes,
+4655,2549,Silicones,
+2058,2550,Granite,
+3897,2551,clothes,
+3897,2552,threads,
+3897,2553,buttons,
+4641,2554,Slippers,350/day
+4641,2555,"Transmission poles",70/day
+4641,2556,"Sawn wood","6 m3/day"
+4641,2557,Logs,"8 m3/day"
+1968,2558,"Tissue papers","4 tons per day"
+1043,2559,"Fabric, yarn & thread",
+25213,2560,"PET Resine","2mt per day"
+25213,2561,"Poly proplyene","6000kg per day"
+25213,2562,HDDP,"500kg per day"
+25213,2563,LLDPE,"200kg per day"
+3854,2564,"Polythene wastes",
+1045,2565,"Old aluminium platse",
+2414,2566,water,"2000l per day"
+2414,2567,"Lignasulfonate powder","250 kg per day"
+2414,2568,"Sodium aluconate","250kg per day"
+2414,2569,"Poly Nepthalene sulfonate","250kg perday"
+3318,2570,HDPE,"400 kg"
+3318,2571,"Recycled HDPE","250 kg"
+4644,2572,Menthol,"23 kg/day"
+4644,2573,Camphor,"16 kg/day"
+4644,2574,"Tupentine oil","23 kg/day"
+3263,2575,wood,
+3263,2576,glue,
+3263,2577,nails,
+918,2578,P.P,500k.h
+4644,2579,"Eucalyptus oil","55 kg/day"
+918,2580,L.D.P.E,650k..h
+4644,2581,"Cinnamon oil","36 kg/day"
+918,2582,H.D.P.E,350kh
+4644,2583,"Citronella oil","42 kg/day"
+4644,2584,Vasline,"86 kg/day"
+4644,2585,"Parafin wax","43 kg/day"
+3889,2586,NA,
+25219,2587,Glycerine,"23 kg/day"
+25219,2588,Vanilin,"4  kg/day"
+25220,2589,Aluminium,"150 kgs per day"
+25219,2590,"Coconut oil","8  kg/day"
+25219,2591,Sugar,"27  kg/day"
+25219,2592,Salt,"0.1  kg/day"
+15429,2593,"Wheat Flour","50 Kg"
+15429,2594,Sugar,"5 kg"
+15429,2595,Salt,"100 g"
+15429,2596,Yeast,"50 g"
+4312,2597,Plastics,
+4312,2598,Rubber,
+3334,2599,"Quarry dust","388.8 tonn per day"
+3334,2600,Bitumen,"37.6 tonn per day"
+3334,2601,"19 mm","152.4 tonn per day"
+3334,2602,"14 mm","221 tonn per day"
+4619,2603,"Re rollable steel bars","20 MT/day"
+15430,2604,"Wheat Flour","50 Kg"
+15430,2605,Sugar,"5 Kg"
+15430,2606,Yeast,"100 g"
+15430,2607,Salt,"50 g"
+25221,2608,Latex,
+3333,2609,"Rock 20 mm or 40 mm","364 tonn"
+3333,2610,sand,"287 tonns"
+3333,2611,"cement ","133 tonn"
+3333,2612,"Metal 20mm/40 mm","364 tonn"
+3596,2613,"cleaning raw materials",
+4317,2614,"Rubber latex",
+980,2615,"Buffalo, cow skins ",6000
+980,2616,"Goat skin",750kg
+3369,2617,soap,
+3369,2618,oil,
+4625,2619,"Mild Steel Plates",
+4625,2620,"Stainless Steel Plates",
+4333,2621,Rice,"1700 kg per day"
+4333,2622,"cone flour","1700kg per day"
+3842,2623,Kerosine,
+3842,2624,Grease,
+3842,2625,soap,
+3842,2626,shampoo,
+15431,2627,"Wheat flour","50 Kg"
+15431,2628,Sugar,"5 Kg"
+15431,2629,Salt,"50 g"
+15431,2630,Yeast,"50 g"
+4415,2631,Plastic,
+4415,2632,Brazo,
+4415,2633,wire,
+15432,2634,"Wheat Flour","50 Kg"
+15432,2635,Sugar,"5 Kg"
+3875,2636,paper,"22 tonns per month"
+15432,2637,Salt,"100 g"
+15432,2638,Yeast,"50 g"
+3875,2639,paints,"150 kg per month"
+3875,2640,Plate,"200 per month"
+15434,2641,"Wheat flour","50 Kg"
+15434,2642,Sugar,"5 Kg"
+15434,2643,Salt,"50 g"
+15434,2644,Yeast,"50 g"
+3887,2645,"BOPP reals",
+4402,2646,"Rubber logs",
+3847,2647,"Recycled plastic","30 kg"
+3847,2648,HIPS,
+3903,2649,,
+3903,2650,"garments pieces",
+4344,2651,Rubber,1000l
+3852,2652,No,
+932,2653,"Cement powder",2500Mt/day
+4308,2654,Rubber,
+3319,2655,HDPE,
+3319,2656,LLDPE,
+1035,2657,HDPE,250kg
+1035,2658,LDPE,250kg
+1035,2659,PP,1000kg
+4392,2660,Granite,
+3306,2661,H.D.P.E.,
+3306,2662,LLDPE,
+3306,2663,Pellets,
+4408,2664,Granite,
+3242,2665,"white cement","700 kg"
+3242,2666,C.M.C.,"25 kg"
+3242,2667,Dolamite,"600 kg"
+4335,2668,"Raw water",
+3295,2669,"Tapioca starch",
+3295,2670,"Gum Rosin",
+3295,2671,P.V.A.,
+1056,2672,"Kerosine oil",8
+1056,2673,Teepol,0.5
+4416,2674,"Aluminium powder",
+1302,2675,Rice,
+1302,2676,Vegetables,
+4444,2677,"coconut jack",
+3886,2678,No,
+4649,2679,"Lubricant oil","50 L"
+4649,2680,Kerosene,"5 L"
+2649,2681,"Glass pices",
+5026,2682,Medicine,
+3899,2683,"washing powder",
+15435,2684,"Wheat Flour","50 Kg"
+15435,2685,Sugar,"5 Kg"
+15435,2686,yeast,"100 g"
+15435,2687,"Salt ","50 g"
+15436,2688,"Raw Milk","50 Litre"
+15436,2689,Sugar,"5 Kg"
+15436,2690,Vanila,"100 ml"
+15437,2691,"Raw Milk","50 litre"
+15437,2692,Vanila,"100 ml"
+15437,2693,Sugar,"5 Kg"
+15438,2694,"Raw Milk","60 Litre"
+15438,2695,"Yoghurt culture","50 g"
+15438,2696,Sugar,"2 Kg"
+15438,2697,Vanila,"100 ml"
+15439,2698,Paddy,"1800 Kg"
+15440,2699,Water,"1000 Litre"
+15441,2700,Water,"1500 Litre"
+15443,2701,"Iron Bar","4 Bar"
+15444,2702,"GI Pipe","5 Bar"
+15444,2703,"Tin sheet","3 Roll"
+15445,2704,"GI Pipe","5 bar"
+15445,2705,"Tin Sheet","2 Roll"
+15446,2706,"GI  Pipe","5 Bar"
+15446,2707,"Tin Sheet","4 Roll"
+15446,2708,"Iron Strip","3 Bar"
+15447,2709,"GI Pipe","5 Bar"
+15447,2710,"Tin Sheet","2 Roll"
+15448,2711,"GI Pipe","5 Nos"
+15448,2712,"Tin sheet","3 Bar"
+15449,2713,"Spare parts","As per requirement"
+15452,2714,"Spare parts","as per requirement"
+15453,2715,"Spare Parts","As per requirement"
+15454,2716,"Spare Parts","As per requirement"
+15455,2717,"Spare Parts","As per requirement"
+15456,2718,"Car wash","5 Litre"
+15456,2719,Kerosene,"2 litre"
+15457,2720,"Car wash","5 litre"
+15457,2721,Kerosene,"2 Litre"
+15458,2722,"Car Wash","5 Litre"
+15458,2723,Kerosene,"3 Litre"
+15459,2724,"Car wash","5 Litre"
+15459,2725,Kerosene,"2 Litre"
+15460,2726,"Car Wash","5 Litre"
+15460,2727,Kerosene,"2 Litre"
+15498,2728,"Car Wash","5 Litre"
+15498,2729,Kerosene,"5 Litre"
+15501,2730,"Car wash","5 Litre"
+15501,2731,Kerosene,"2 Litre"
+25235,2732,"Electric Detenators","15 Nos"
+25235,2733,ANFO,"15 Kg"
+25235,2734,"Water Gel","5 Kg"
+15414,2735,ANFO,"16.5 Kg"
+15414,2736,"Electric Detenator","17 Nos"
+15414,2737,Dynamide,"1.7 Kg"
+15414,2738,"Water Gel","1.7 Kg"
+10149,2739,"Natural Granite Rock",30cubes
+11937,2740,Granite,
+25236,2741,"Coconut Sap","120 Litre"
+25236,2742,Yeast,"50 g"
+25236,2743,"Sodium Benzoate","50 g"
+16586,2744,"Lagoon Water",13000m3
+12026,2745,Paddy,"40 Ton Per day"
+14070,2746,"wheet powder",100kg
+11756,2747,Granite,
+10164,2748,"grass (CO3), rice bran",
+12012,2749,Granite,
+17356,2750,Exollosive,
+25239,2751,"liquid Glucose",100kg
+25239,2752,Sugar,350kg
+25239,2753,Flavours,1L
+25239,2754,"Citric Acid",1kg
+25239,2755,"malic Acid",1kg
+25239,2756,Salt,1kg
+14071,2757,"wheet flour",100
+25240,2758,"Rice polish, coconet punnek, Soy, Fish meil. solt, Shells, Corn ",
+3207,2759,"Tin sheets","1200 units"
+3207,2760,"Tin free sheets","3700 units"
+3207,2761,"Aluminium sheets","1000 units"
+4585,2762,Granite,
+3207,2763,"Lacquer & varnish","120 kg"
+3207,2764,Compound,"300 kg"
+3207,2765,"Printed ink","08 kg"
+972,2766,"Castor oilk",
+972,2767,"Red oxide",
+972,2768,"Borex powder",
+14073,2769,paddy,4000
+4418,2770,Granite,
+1479,2771,Spirit,"25000 L"
+3828,2772,"High impec polystyerene (HIPS)","500 kg per month"
+3828,2773,"Used and recycled crush","60 kg"
+4409,2774,Granite,
+992,2775,"F/G CSM",40kg
+992,2776,Resin,120kg
+992,2777,"Talc powder",15kg
+992,2778,Gelcoat,10kg
+992,2779,wood,3cubft
+4411,2780,Granite,
+4419,2781,Granite,
+1697,2782,"Animal food",
+3833,2783,"cardboards, papers","150 kg"
+1059,2784,Sand,635200kg
+1059,2785,stones,342600kg
+1059,2786,Cemment,300000kg
+4330,2787,"Portland cement",
+1059,2788,Water,113600kg
+4330,2789,"Calcium carbonate",
+4330,2790,Sand,
+1059,2791,Admixture,3200kg
+25245,2792,"Thalathu Miniran",
+4367,2793,Granite,
+3273,2794,"cotton thread","100 kg"
+3273,2795,salt,
+1495,2796,Rubber,"25000 kg"
+4364,2797,Granite,
+1519,2798,Rubber,"300 L/day"
+1519,2799,"Coir dust","350 kg/day"
+25248,2800,"Waste paper",3000Mt
+25248,2801,"Waste cotton",150Mt
+25248,2802,Polythene,15Mt
+1506,2803,Soya,"4 ton"
+1506,2804,"Rice powder","8 ton"
+1506,2805,Corn,"4 tons"
+3249,2806,"Aluminium ingots","50 MT per day"
+1474,2807,"Animal food",
+14530,2808,"Flour, Sugar, magerin, Water, Yeast, ",40kg/day
+25250,2809,"Waste paper",3000Mt
+25250,2810,"Waste cotton",150Mt
+25250,2811,Polythene,15Mt
+1521,2812,"Animal food","2.5 tons"
+25251,2813,Paint,5L
+25251,2814,Thinner,6L
+25251,2815,"Velding Rod",1kg
+25252,2816,No,
+25251,2817,"Ketalu pace",4kg
+1799,2818,"Waste food","1000 kg"
+4432,2819,Cement,
+4432,2820,Sand,
+4432,2821,"3/4 stones",
+10606,2822,plastic,
+3667,2823,"Nylon Yarn",600kg/day
+10606,2824,plastic,
+10425,2825,"Paint, Thinner",
+3860,2826,water,
+3632,2827,"Alluminium ",2000kg/day
+3860,2828,soap,
+3860,2829,Kerosine,
+10389,2830,Wax,20kg
+10389,2831,Dye,1.75
+10389,2832,Soap,30
+1514,2833,HDPE,"250 kg per day"
+10389,2834,"kerosene oil",5L
+1514,2835,LDPE,"175kg per day"
+1514,2836,CaCO3,"75kg per day"
+3880,2837,Dyes,"200 g"
+3880,2838,Fixer,"500 g"
+3880,2839,"Rubber white","5 kg"
+3880,2840,"Rubber clear","2.5 kg"
+4324,2841,Rubber,
+1542,2842,Herbals,
+17074,2843,Paddy,"3500 kg"
+1476,2844,"Animal food","2500 kg"
+3641,2845,"River sand",1128kg/day
+3641,2846,"White sugar",7.35kg/day
+3641,2847,"Carbofuran 75 WP",50kg/day
+14302,2848,,
+4311,2849,Clay,
+4311,2850,banxite,
+3832,2851,"Potassium Nitrate","900 kg per year"
+10375,2852,"Kerosene Oil",
+25259,2853,"Stainles steel bars ",2
+25259,2854,"welding Material ",1
+3838,2855,No,
+1475,2856,Soya,"140 kg/day"
+10379,2857,"Flour,Butter, Sugar margarine, Eggs",
+1475,2858,Corn,"370 kg/day"
+1475,2859,"Rice polish","300 kg/day"
+1475,2860,"Poonac ","140 kg/day"
+1469,2861,"GI wire","3350 kg"
+14076,2862,"Iron Iterm","2 gate 3 grile"
+11735,2863,Dinamite,
+3626,2864,Naptha,920000l/day
+3626,2865,Diesel,800000l/day
+3626,2866,Water,4800m3/day
+18952,2867,paddy,6000kg/day
+4575,2868,Milk,500l
+4575,2869,Sugar,
+3824,2870,"News print - 45 gsm","300 reels per week"
+3824,2871,"Printing plates 750mm *546 mm* 0.28mm","500 nos. per week"
+3824,2872,"ink CMYK","4500 kg per week"
+3824,2873,Developer,"50 ltrs per week"
+3824,2874,Gum,"5 ltrs per week"
+3824,2875,"strapping tape 5mm*7000 mtrs","04 rolls per week"
+10412,2876,cloths,"455*9 ft"
+3627,2877,Diesel,800000L/day
+10412,2878,threads,"10000*10 ft"
+3627,2879,Water,25m3/day
+10412,2880,zips,350-400
+10412,2881,buttons,1500
+10426,2882,"high pressure","2 L"
+10426,2883,water,"500 L"
+3827,2884,HDPE,"750 kg per day"
+16615,2885,Water,"58000 l/day"
+16615,2886,salt,4500Kg/month
+16615,2887,Ammonia,1700l
+16754,2888,paddy,"4500 kg /day"
+4322,2889,"Feeding materials","11 tons per day"
+1825,2890,"Waste food",
+18841,2891,paddy,1200
+3617,2892,"Natural rubber",3528kg/day
+3617,2893,"Reclaim rubber",1408
+10368,2894,"Cloth materials","450-500 meters"
+25262,2895,Uria,
+25262,2896,"Ammonia ",
+25262,2897,"Potassium  ",
+4425,2898,Granite,
+3907,2899,"coconut oil","44 kg"
+3907,2900,"natural pine oil","60 kg"
+10377,2901,Metal,"500 kg"
+10377,2902,"welding rod","25 kg"
+18799,2903,paddy,"3500 kg/day"
+17096,2904,Shampoo,
+17096,2905,Highpressure,
+16616,2906,Water,"58000 l/day"
+25263,2907,"Steel bars (30), Steel sheets (25), Wires (50)",
+3907,2908,"Gum Rosine","05 kg per day"
+10427,2909,"kerosine oil",2
+14261,2910,-,-
+10410,2911,Cloths,"140 yards"
+10410,2912,"Thread ",7000m
+10410,2913,Button,110
+16621,2914,"iron tore","25 bars/month"
+16621,2915,"iron bar",1000Kg/month
+16621,2916,"iron sheet",30
+16621,2917,"steel pipes",20/month
+3891,2918,LDPE,"200 kg"
+18372,2919,Explosive,
+14364,2920,-,-
+4361,2921,"C5 Resin","500kg per day"
+4361,2922,"Glass beds","600kg per day"
+4361,2923,Talc,"36kg per day"
+4361,2924,wax,"9kg per day"
+4361,2925,EVA,"12kg per day"
+17102,2926,"Washing Material","15 l"
+10397,2927,"Iron and Brass",
+3863,2928,No,
+17097,2929,Paddy,6500
+17065,2930,Paddy,"4000 Kg"
+10374,2931,"Car wash",1
+3823,2932,No,
+3823,2933,,
+1535,2934,"Waste food","500 kg"
+3871,2935,chillie,"300 kg"
+3871,2936,Fennel,"200 kg"
+3871,2937,Amberalla,"540 kg"
+3871,2938,coriander,"300 kg"
+3871,2939,cummin,"150 kg"
+3871,2940,turmeric,"100 kg"
+3871,2941,Mango,"50 kg"
+5002,2942,Shampoo,
+25269,2943,Rice,"6 Kg"
+25269,2944,Vegetable,"5 kg"
+3859,2945,No,
+25269,2946,Fish,"2 Kg"
+25269,2947,Spices,"1 Kg"
+25272,2948,"Gotukola powder, Welpenela powder, Curry leaf powder",
+25273,2949,cloth,"2000 m P/W"
+25275,2950,"Water, & soap ",
+1525,2951,Granite,"300 cubesday"
+10382,2952,"Oil, Grease, water",
+3831,2953,"Polystyrene dust","4 kg per day"
+25277,2954,"metal sheets, ",125
+25277,2955,Lockers,30
+3831,2956,"plastic sheets","30 sheets per year"
+3831,2957,"Polythene dust","750 g "
+25277,2958,Aselatene,01
+25277,2959,Primer,06
+25277,2960,Catloi,03
+25277,2961,Paint,07
+1494,2962,"Rubber wood","3500 ft2"
+3850,2963,HDP,"700 kg per day"
+3850,2964,"colour dye","75 kg per day"
+3640,2965,"Base oil",150T
+10417,2966,"sandalwood,Flowers,spices",
+3640,2967,Additives,15T
+17088,2968,Paddy,"3000 kg"
+1496,2969,"Fruit juices","250 kg/day"
+1496,2970,Sugar,"1000 kg/day"
+1496,2971,Pectin,"25 kg/day"
+3665,2972,"Coconut oil & palm oil",
+3878,2973,No,
+3778,2974,"Natural rubber",60000kg/day
+3778,2975,"Gypsum (Plastic of paris)",200kg/day
+1503,2976,"Animal food","400 kg"
+17095,2977,Granite,
+10431,2978,"Polos,Spices,Salt,Tamarine",
+3883,2979,oil,"20 ltrs"
+17089,2980,Explosive,
+930,2981,"Galvernized wire, nail wire",
+10430,2982,"6*9 kalu gal",
+14366,2983,"Sugar ",10kg
+1569,2984,"Water Gel","4 kg"
+3890,2985,"Recycled HIPS - polycarbonate","50 kg per day"
+1569,2986,Ammonia,"3 kg"
+14366,2987,"Butter ",1kg
+14366,2988,"Solt ",1kg
+14366,2989,"Wheat flower ",150kg
+14366,2990,"water ","16 lit"
+1463,2991,"engine oil","15 L"
+3834,2992,"mixed compounds","7000 kg per day"
+1463,2993,"Gear oil","2 L"
+1463,2994,Grease,"2 kg"
+17093,2995,Granite,
+14300,2996,paddy,4500
+1055,2997,"Food & beverage",
+3836,2998,"Dry rubber",
+3836,2999,Fillers,
+3836,3000,"Process oil",
+1461,3001,"Animal food","1000 kg"
+11928,3002,Granite,
+2505,3003,"Wasted cast iron",200
+1456,3004,"Animal food",
+11930,3005,Granite,
+3901,3006,"polythene ","120 kg"
+10391,3007,"Service tread ",5m
+3857,3008,soap,"02 ltrs"
+3857,3009,shampoo,"05 ltrs"
+3857,3010,"High pressure","05 ltrs"
+10439,3011,"Poonac (10kg),minerals(1kg), water, rice bran",
+3229,3012,wood,"305 sq ft"
+3229,3013,glue,"04 ltrs"
+10393,3014,thread,1000kg
+10415,3015,granite,
+3229,3016,ink,"60 ltrs"
+4399,3017,Granite,
+6152,3018,Granite,
+3664,3019,"Papers, ink",
+3840,3020,No,
+1467,3021,Blade,60
+1467,3022,Syringers,45
+4435,3023,ottapalu,
+1467,3024,Bandage,"2 kg"
+3858,3025,"Recycled pallets","15 kg per day"
+10437,3026,Dolamite,
+3894,3027,"Imported rezer",
+3894,3028,"vehicle engine parts",
+17456,3029,Granite,
+10395,3030,"Gelatin,Vanilla,Sugar,Fruties",
+17103,3031,Highpressure,
+17103,3032,Shampoo,
+17103,3033,Cerosen,
+18383,3034,Granite,
+3837,3035,LLDPE,"250   kg"
+3837,3036,LDPE,"250   kg"
+3837,3037,HDPE,"250   kg"
+3837,3038,PP,"250   kg"
+4439,3039,Granite,
+3681,3040,"Crape rubber, metal bar & sheets",
+10409,3041,"6*4 metal",
+10418,3042,"Service thread",2
+19048,3043,"6X9 rocks","30 cubic meters/daty"
+17443,3044,Paddy,
+3682,3045,Rubber,
+17458,3046,Granite,
+4387,3047,Thread,
+3910,3048,water,"1500 ltrs per day"
+3910,3049,"Caustic soda","2 kg per day"
+17422,3050,Paddy,
+25289,3051,chicken,"2000 pre 45 days"
+3622,3052,"HDPE/PVC/PP/LDPE/HD I/ polystyrol",
+17438,3053,Paddy,
+10432,3054,Soya,200
+3826,3055,No,
+1502,3056,"Animal food",
+3679,3057,"Grass & punac",20kg
+4378,3058,Granite,
+17423,3059,Paddy,
+3904,3060,No,
+3692,3061,"Re cycle plastic",5000kg
+10400,3062,dolomaite,
+16707,3063,Rock,1
+3629,3064,Cement,30T/Day
+3629,3065,Metal,"25 cubes"
+3629,3066,Sand,"18 cubes"
+3629,3067,Admixture,"100 ctvs"
+10383,3068,,
+1537,3069,Resins,"100 kg"
+1537,3070,"Drying agents","12 kg"
+1537,3071,Coluring,"15 kg"
+16699,3072,Rock,1
+3851,3073,"paint - sikkens/Auto finish",
+4397,3074,"Raw water","50000m3 "
+1483,3075,"Waste polythene",
+1483,3076,LDPE,
+1483,3077,HDPE,
+3621,3078,HDPE,2.5MT
+3621,3079,Dyes,25kg
+16701,3080,Rock,1
+16700,3081,Rock,1
+10433,3082,"Metal sheet",1
+10433,3083,Paint,4l
+10433,3084,"Oxygen ",13.5
+4318,3085,"Natural rubber latex",
+1630,3086,"Animal food",
+3631,3087,Alluminium,
+3881,3088,"cotton wastes","2 kg"
+4368,3089,Granite,
+3678,3090,Brass,100kg
+3678,3091,Aluminium,100kg
+1489,3092,"Animal food","5000 kg/day"
+3678,3093,"Furnace oil",40l
+3881,3094,shampoo,"3 ltrs"
+3881,3095,soap,"15 ltrs"
+3881,3096,"engine oil ","35 ltrs"
+3764,3097,Tea,
+3877,3098,"flex fabric",
+3877,3099,ink,
+4688,3100,Methanol,"20000 tons/month"
+4310,3101,"Ball clay",20MT
+4310,3102,Kaoline,21MT
+4310,3103,Feldspar,
+3868,3104,No,
+16759,3105,"Amona sheet ","65 (8'x $') "
+16759,3106,"G.I.pipe ","35 pipes /month "
+16759,3107,"welding rod ","24 box/month "
+1013,3108,"Filter paper, thread, wire, boards, tapes",
+25294,3109,Poliyproplene,
+3468,3110,"6*4 metal ","12 cubes per day"
+17459,3111,"Paddy ","6000 Kg"
+17455,3112,Paddy,3000
+3313,3113,"stainless steel sheets",
+3771,3114,Water,600cm3
+3313,3115,"mild steel sheets",
+17461,3116,Highpressure,
+17461,3117,Shampoo,
+17461,3118,OIl,
+10388,3119,Thread,15
+3287,3120,"brass sherb",
+18864,3121,"iron ",250m/month
+17452,3122,"Paddy ",
+10381,3123,"poultry feed, paddy husks",
+18384,3124,Granite,
+3205,3125,cotton,
+17439,3126,Explosive,
+25301,3127,paddy,2000kg
+17449,3128,Granite,
+25302,3129,"Cooling Gas",8kg
+3253,3130,"plastic sheets",
+18887,3131,"steel,iron and paint","95m/month, 10litre/month"
+3219,3132,"Rubber compounds","3 tonns per day"
+3219,3133,"Carbon black",
+3219,3134,"Furnace oil",
+18389,3135,Granite,
+10399,3136,"Lime stone",
+18867,3137,"seashell (dead)",4000kg/month
+3255,3138,"flavouring agents",
+3255,3139,sugar,
+3255,3140,glicose,
+3255,3141,Flour,
+18868,3142,"dead shells",20000kg/month
+16721,3143,"Wheat flour",1000kg/day
+3192,3144,wood,"20 cubic meters"
+3192,3145,"steel ","30 cubic meters"
+16721,3146,Rice,25kg/day
+16721,3147,Vegetables,20Kg/day
+16721,3148,"Vegetable oil",100kg/day
+3689,3149,Marlex,50kg
+3689,3150,LLDPE,1600
+3642,3151,"Used aluminium materials",500kg
+3825,3152,copper,"30 kg"
+3825,3153,plastics,"8 kg"
+3825,3154,elements,"04 kg"
+3825,3155,"white metal pipes","10 kg"
+3688,3156,"PVC compound",250kg
+25307,3157,papers,"500 packets per month"
+25307,3158,ink,"40 kg per month"
+17421,3159,Paddy,
+17100,3160," ",
+3893,3161,No,
+17450,3162,"Cow Milk","15 L /day"
+3888,3163,HDPE,"150 kg"
+3888,3164,LLDPE,"36 kg"
+3888,3165,LDPE,"24 kg"
+3888,3166,"Master batch","300 g"
+3843,3167,"washing liquid","10 ltrs"
+3843,3168,Kerosine,"10 ltrs"
+10403,3169,dinamite,5
+10403,3170,"ammonia (kg)",5
+10403,3171,Cap,5
+10403,3172,thred,5
+3812,3173,"Sheet metals, leather wear, tyre tubes, other electrical components",
+3874,3174,No,
+3658,3175,"Re cycled patals",
+2654,3176,"Rectified Spirit","10000 L/month"
+2654,3177,"Coconut Spirit","600 L/month"
+3830,3178,water,
+18728,3179,Granite,
+3844,3180,"vehicles washing liquid",
+3844,3181,water,
+3846,3182,water,
+3685,3183,"Bottom bar, rubber beading, plastic end clips & ring space",
+3885,3184,"fertilizers (NPK)",
+4050,3185,Fabric,01
+4050,3186,"Pigment dye","01 kg"
+18715,3187,"Explosives ",0.5
+3841,3188,No,
+3636,3189,"Cast iron",8000kg
+3636,3190,Bronze,300kg
+3636,3191,Aluminium,200kg
+25320,3192,"Iron and vehecle parts",
+25322,3193,"Gun powder",1kg
+25322,3194,Dynamite,1kg
+25322,3195,"Service threads ",2
+3845,3196,kottamalli,"100 kg per month"
+18714,3197,Granite,
+3615,3198,Nylon,0.09kg
+3615,3199,"Aloe vera powder",0.03kg
+3615,3200,Talc,9.13kg
+17364,3201,Explosive,
+16672,3202,"shrimp feeds",
+19064,3203,,
+19064,3204,"iron bar",5bars/day
+18722,3205,Granite,
+18702,3206,Granite,
+14536,3207,"Fresh Solid Waste","5 ton"
+25326,3208,"Flour kg",75
+17357,3209,Iron,
+3845,3210,sugar,"100 kg per month"
+3845,3211,aralu,"100 kg per month"
+3845,3212,katuwalbatu,"100 kg per month"
+3845,3213,pathpadagam,"100 kg per month"
+3845,3214,Wenivalgata,"100 kg per month"
+18727,3215,Granite,
+3873,3216,No,
+16717,3217,Water,1000
+16717,3218,"Liquid soap",
+14074,3219,Paddy,4500
+3707,3220,Soil,
+3882,3221,flour,"150 kg"
+3882,3222,eggs,
+3882,3223,"raw rice","35 kg"
+18718,3224,Granite,
+3704,3225,Soil,
+25334,3226,Explosive,
+18721,3227,Granite,
+3655,3228,Resin,100kg
+3655,3229,Mat,50kg
+3655,3230,Catalyst,5kg
+3655,3231,"Jel coat",20kg
+3655,3232,Acetone,1l
+3896,3233,"used tyres",
+25339,3234,Metal,"8 cube"
+3699,3235,Sand,"8 cubes"
+16895,3236,"washing detergent","0.7 l"
+16895,3237,water,"550 l"
+25342,3238,Explosive,
+14077,3239,iron,
+14078,3240,iron,25
+14080,3241,iron,"35 bar"
+25345,3242,ink,"20 kg per day"
+25349,3243,Fabric,57000
+25349,3244,"thread cones",1800
+25349,3245,Zippers,50000
+25349,3246,Buttons,"60000 pcs"
+25349,3247,polybags,"55000 pcs"
+25349,3248,cartons,"5000 pcs"
+25349,3249,Hangers,"55000 pcs"
+18238,3250,"Welding Sticks","750 g"
+25352,3251,Cloth,"150 yard"
+25352,3252,Threat,"25 cone"
+14534,3253,Rock,
+10280,3254,"Raw paddy",3500
+16907,3255,Water,"1000 l"
+16907,3256,"Washing detergents","2 l/day"
+3645,3257,"Raw milk",29000l/day
+3645,3258,Cream,225l/day
+3645,3259,"Full cream milk powder",200kg/day
+3645,3260,Sugar,2500kg/day
+3645,3261,"Cocoa powder",75kg/day
+3898,3262,"vehicles washing liquid",
+3912,3263,metal,
+3623,3264,"Steel plates",
+3280,3265,"polythene (LDP,  PP,  HDP)",
+14371,3266,Iron,
+4986,3267,No,
+3693,3268,Sludge,
+4852,3269,Diamond,
+4824,3270,oil,
+4824,3271,"washing detergent",
+3818,3272,Dredging,
+3818,3273,"Small stones",
+25367,3274,"raw tea leaves",8500kg
+3625,3275,"Glass shells",15000
+3625,3276,"Glass tubes",148kg
+3625,3277,"Aluminium caps",15000
+3625,3278,"Capping cement",25kg
+3625,3279,"Lead in wires",15000
+3625,3280,Filaments,15000
+4910,3281,CO2,25
+4910,3282,Water,
+4910,3283,"Dry powder",
+3717,3284,Dreadging,
+9306,3285,"Kerosine oil, Diesel,Blasting Material ",
+18870,3286,"dead shell",40000kg/month
+25378,3287,"metal plates,metal ,paint,rubber belts",
+1462,3288,Rubber,"38000 L"
+4812,3289,No,
+4816,3290,oil,
+4816,3291,water,
+4816,3292,air,
+4816,3293,"oil filters",
+4816,3294,"washing liquid",
+18873,3295,"Dead shell",45500
+25381,3296,Iron,
+18295,3297,Highpressure,
+4821,3298,water,
+3697,3299,"Re cycled PVC",400kg
+3683,3300,"Kerosene oil, soap & clothes",
+4957,3301,rice,"40 kg"
+4957,3302,noodles,"10 kg"
+4957,3303,fish,"10 kg"
+4957,3304,pork,"07 kg"
+25383,3305,Highpressure,
+25383,3306,Shampoo,
+3774,3307,"Drugs & medical instruments",
+4914,3308,"car wash","04 ltrs"
+4826,3309,sugar,
+4826,3310,"pine apple",
+4826,3311,"wood apple",
+4826,3312,Lime,
+4855,3313,"liquid soap",
+10346,3314,Cotton,200
+10346,3315,Cyringes,
+1490,3316,"Animal food","500 kg"
+1508,3317,"Food waste","2.5 tons"
+18909,3318,Paddy,1000kg/day
+4856,3319,"metal sheets",
+4856,3320,"Flex sheets",
+4856,3321,paints,
+4856,3322,Thiner,
+25391,3323,Fruit,"280 Kg"
+25391,3324,suger,200Kg
+4839,3325,plasters,
+4839,3326,gose,
+4851,3327,"car wash","4 ltrs"
+4851,3328,"High pressure","01 ltrs"
+4851,3329,shampoo,"03 ltrs"
+4680,3330,Chicken,"100 kg/day"
+4680,3331,Oil,"50 L/day"
+4680,3332,Rice,"20 kg/day"
+4680,3333,Vegetables,"4  kg/day"
+18861,3334,paddy,4000kg/day
+25397,3335,Clay,
+14311,3336,"iron,steel bar,steel pipe,paint",100
+18327,3337,Granite,
+25399,3338,"Fruit pulp,concentrates, fresh fruits & vegetables, vegetable psaste",
+4817,3339,"soap liquid",
+4817,3340,"detergent car wash",
+10322,3341,"Car wash",5L
+10322,3342,"Kerosene ",10L
+3780,3343,"Chemicals, shampoo, water, oil",
+4331,3344,Sorit,
+4331,3345,water,
+4822,3346,No,
+10324,3347,material,150
+3690,3348,"Cement, metal, sand, water, retarder",
+4424,3349,Granite,
+1798,3350,"Animal food",
+4846,3351,"car wash",
+4846,3352,"high pressure",
+25408,3353,"Cement, metal, sand, water, retarder",
+1491,3354,"Animal food","1000 kg"
+9291,3355,"Cast iron,Charchol Powder,Bentanite,iron ore,Dolamite,Sodium Silicate","3.5 ton"
+1520,3356,Rubber,"1000 kg/day"
+4838,3357,"PP (vergin)","250 kg"
+4813,3358,"Knitted fabric","3000 pcs"
+4820,3359,sand,
+4820,3360,etal,
+4820,3361,cement,
+4853,3362,chicken,"170 kg"
+4853,3363,Flour,"40 kg"
+4853,3364,Rice,"400 kg"
+4853,3365,Vegetables,"50 kg"
+4853,3366,oil,"18 ltrs"
+4853,3367,Butter,"300 kg"
+4853,3368,Cheese,"02 kg"
+4853,3369,Mayyonnaise,"05 kg"
+4853,3370,topping,"1.5 kg"
+4853,3371,salt,"0.1 kg"
+4853,3372,spices,"30 g"
+4853,3373,"thousand island","1.5 kg"
+14560,3374,Iron,
+10598,3375,metal,
+4819,3376,"Grease oil",
+4819,3377,"vehicle washing detergent",
+4860,3378,"Galvenized sheets",
+4860,3379,Brasso,
+4860,3380,Acrelic,
+4832,3381,shampoo,"01 ltr"
+4357,3382,"Polyester and cotton wool",
+3722,3383,"Iron plates","5 T"
+18296,3384,Highpower,
+18296,3385,Soap,
+3821,3386,"Water & muddy soil",
+25426,3387,"Paddy Husks",500
+3660,3388,"Flex (vinyl)",5kg
+3660,3389,"Banner material",260sqft
+3660,3390,"Self adhesive vinyl",400sqft
+3330,3391,No,
+3654,3392,Polyol,"100 kg"
+3654,3393,TDI,"80 kg"
+3654,3394,"Catalysts & stabilizers","50 kg"
+25430,3395,"Dupont Tipure- 902+","17 kg"
+25430,3396,"CC 250","32.96 KG"
+3902,3397,Kerosine,
+3902,3398,Grease,
+10518,3399,dolamite,
+4149,3400,"Virgin coconut oil","0.5 kg/day"
+3895,3401,"Plastic materials (poly carbonate/ nylon and ABS)",
+3895,3402,"Metal Materials (Brass, Copper, Mould steel)",
+18273,3403,"Wheat, Chicken, Rice, Fish, Vegetables","128 Kg/day"
+10495,3404,paddy,"3500 kg"
+18280,3405,"Food material",
+3700,3406,Soil,
+3602,3407,Pigments,"1.5 kg"
+18292,3408,"Poultry Feed",
+18289,3409,Paint,
+18289,3410,Thinner,
+18289,3411,"Sand papers",
+3204,3412,"wood/MDF boards",
+3204,3413,Fabric,
+3204,3414,"padding materials",
+3202,3415,"wheat flour","400 kg"
+3202,3416,Sugar,"50 kg"
+3202,3417,salt,"5 kg"
+3202,3418,Yeast,"1 kg"
+3202,3419,water,"200 ltrs"
+25438,3420,"card board","10 packs"
+25438,3421,"PVC sheeting","50 m"
+25438,3422,clips,"100 nos."
+25438,3423,"Rexin thread","2 corns"
+3337,3424,water,
+3337,3425,"Lubricating oil",
+3337,3426,"Detergent &  soap",
+3337,3427,Grease,
+3271,3428,"Plastic raw materials",
+3271,3429,"Polypropelene virgin",
+10497,3430,paddy,1500
+3237,3431,"Rubber and other wood","325 ft2"
+3237,3432,"MDF and Partical board","1500 ft2"
+3237,3433,Paint,"40 L"
+3237,3434,"White iron sheet",4
+3237,3435,"Metal sheets",10
+3839,3436,Plastic,"275 kg"
+3326,3437,Ink,8kg
+10537,3438,"6*4 metal","1.5 cube"
+4857,3439,P.P.,
+4857,3440,H.D.P.,
+10536,3441,"poultry feed , paddy husk",
+10531,3442,metal,
+10533,3443,metal,
+10539,3444,"cotton wool",10
+4815,3445,"China Clay supreme","856.23 kg/day"
+4815,3446,"Talc Powder",111.01
+25444,3447,"Poultry feed, Water, Cereal",
+4825,3448,Rice,
+4825,3449,Vegetables,
+4825,3450,Fish,
+4825,3451,Meat,
+4848,3452,"Car Shampoo","1 L/day"
+4848,3453,"Lubricant oil",
+4849,3454,No,
+25451,3455,Kalubeheth,100g
+25451,3456,Ammonium,250g
+25451,3457,Thead,20feet
+25451,3458,Cap,3
+25451,3459,Dynamite,700g
+4797,3460,"PU material","15 m/day"
+4797,3461,"Plastic heels",250/day
+4797,3462,"Wooden heels",20/day
+4797,3463,Shanks,270/day
+25452,3464,"shampoo, water ",
+3317,3465,Metal,
+3317,3466,Aluminium,
+3317,3467,Paints,
+3317,3468,Flex,
+3317,3469,Stickers,
+25453,3470,Dynamite,500g
+25453,3471,kalubeheth,200g
+25453,3472,"service thread (m)",10
+4797,3473,"PU adhesives","8 kg/day"
+25453,3474,"Ammonium nitrate ",5kg
+25453,3475,detenator,8
+4797,3476,M.E..K,"4 L/day"
+4797,3477,Latex,"4 L/day"
+4797,3478,"Card board","10 kg/day"
+3900,3479,"mixed compounds","10000 kg per day"
+3329,3480,"Domestic sewage",
+3906,3481,No,
+10692,3482,"9*6 metal",
+25454,3483,Linen,"150 yards"
+10604,3484,"natural colours by trees",
+10585,3485,metal,
+4850,3486,No,
+10565,3487,"6*9 metal",
+10046,3488,Oil,500L
+10046,3489,Colouring,50G
+10046,3490,"Chemical 1",50Kg
+10046,3491,"Chemical 2",5L
+10043,3492,Ciment,33792Kg
+10043,3493,"Metal Powder",9696Kg
+14628,3494,"Metal Blocks","10 cubic per day"
+9280,3495,"Cast iron, Dolamite, Charchoal ",
+10304,3496,"High pressure",5
+10304,3497,Shampoo,2
+9281,3498,Polythene,
+14614,3499,"Steel Bar","20 bar"
+14615,3500,Iron,"2 kg"
+14636,3501,N/A,N/A
+10276,3502,water,
+10310,3503,iron,
+10277,3504,"water,flour,yeast,sugar,flavors,salt",
+25471,3505,poplin(m),20
+25471,3506,,
+25471,3507,,
+2695,3508,Water,5000L
+2695,3509,"Acrylic Binders","1000 Kg"
+2695,3510,"Vam Binders","250 Kg"
+2695,3511,"Mono Ethylene Glycol","5 Kg"
+10639,3512,Paddy,8000
+3879,3513,"Printing ink","2 kg"
+3879,3514,LDPE,"400 kg"
+18249,3515,Thinner,
+18249,3516,Paint,
+18269,3517,"Vehicle parts",
+9283,3518,Rubber,
+25497,3519,Rubber,"600 kg/month"
+3276,3520,"non toxic raw materials (rubber emulsion paste / pigment  ink/fixer)",
+14624,3521,Rock,
+14607,3522,Paddy,4600kg
+14629,3523,"Metal Blocks","20 cube"
+14613,3524,"Steel Bar","30 kg"
+14613,3525,"Iron Bar","25 Kg"
+33,3526,"Plastic pelats","2000 Kg"
+33,3527,Coloring,"40 Kg"
+10647,3528,cloth,100
+10647,3529,thread(m),140000
+10635,3530,"Bubbels, Timber logs",
+9305,3531,Metal,
+25498,3532,"cotton wool",
+10631,3533,"Granite cubes",5
+25500,3534,Rice,
+25500,3535,Vegetables,
+25500,3536,Meat,
+25500,3537,Fish,
+9360,3538,Metal,
+25512,3539,"Decaying wastes",
+25520,3540,"Soil with gravel",
+25526,3541,Pipes,
+25526,3542,"2"" angle iron",50
+25526,3543,"Knotted PE ropes",50
+25526,3544,"Webbing beds",1000
+25530,3545,"Removed papers",
+10192,3546,"Granite rock",
+25536,3547,"Wheat flour",250Kg
+9313,3548,Granite,
+10179,3549,metal,
+25549,3550,P.V.C.,250Kg
+25549,3551,"Rexin ",100m
+25549,3552,Gum,"20 l"
+19658,3553,Metal,"cube 06"
+25564,3554,Granite,
+14533,3555,Steels,"5 ton"
+25572,3556,"vehicle spare parts",
+9292,3557,"Dynamite,Ammonium",
+25581,3558,Fabric,
+25581,3559,Ilastic,
+25581,3560,Button,
+25581,3561,Cardboard,
+25581,3562,"Gum tape",
+25585,3563,"Palm oil","15 Kg"
+25585,3564,"Wheat flour",27
+25585,3565,"Icing sugar","10 Kg"
+25585,3566,Salt,2300g
+25585,3567,Sugar,400g
+25585,3568,"Pastry margarin",12Kg
+24424,3569,paddy,4500
+25589,3570,paddy,1500kg
+25591,3571,"Regifoam E.P.S. ",50Kg
+25600,3572,"Aluminium material",
+25600,3573,"Rubber parts",
+25600,3574,P.V.C.,
+9337,3575,Granite,
+25591,3576,"Burned oil","110 l"
+25606,3577,Detergent,250ml
+25609,3578,"G.P.P.S.  plastic seed",
+9297,3579,Granite,
+25609,3580,K4,6
+848,3581,Metal,"5 Cube "
+4290,3582,Chiken,95
+4290,3583,Rice,200
+25618,3584,Latex,2000Kg
+10174,3585,Metal,
+10201,3586,"paddy husks,",50
+25622,3587,"Granite rock",
+10175,3588,,
+10175,3589,metal,
+25631,3590,Water,"6000 L"
+25626,3591,"Aluminium ",120
+10175,3592,kalugal,"12 cubes"
+10206,3593,"granite rock",
+9299,3594,Granite,
+10181,3595,"Paddy kg per day",1500
+25639,3596,"Gum Base",
+10182,3597,"Granite rock",
+25639,3598,Sugar,
+25639,3599,"Jelly powder",
+25639,3600,"Corn Grids",
+25639,3601,"Wheat flour",
+25639,3602,"Vegitable fat",
+25640,3603,"Kerosin, paraffin Wax","3 bottle, 10 KG"
+25639,3604,"Cocoa powder",
+25639,3605,"nata de coco",
+25639,3606,Preservatives,
+25639,3607,"Whey powder",
+25639,3608,"Vegitable oil",
+25639,3609,Glucose,
+25639,3610,"Milk powder",
+25647,3611,Flour,"2 Bundle"
+25647,3612,Margarin,15Kg
+25647,3613,Suger,5Kg
+25647,3614,east,"200 g"
+9283,3615,"Latex Rubber",6
+25652,3616,Metal,"cube 100 per month"
+25651,3617,Toddy,"250 Gallon"
+25653,3618,Water,
+25653,3619,Oil,
+25653,3620,Grease,
+25657,3621,Cloth,2000mts
+25657,3622,Thread,"50 cones"
+25657,3623,Illastic,"1000 ft"
+10047,3624,Fabric,"2000 M"
+25657,3625,"Poly bags","340 nos"
+10047,3626,Threds,"500000 M"
+25663,3627,Milk,"70 L"
+25662,3628,"Vulcanized rubber",90Kg
+25662,3629,"Off cuts ",240Kg
+9284,3630,Rubber,
+10028,3631,"Skeem Rubber",30000Kg
+25670,3632,"Assorted chemical fertilizer",120MT
+10036,3633,"Scrape Rubber",1000KG
+10024,3634,"Scrape Rubber",
+4591,3635,Granaite,10
+19560,3636,Code,
+19584,3637,Coconut,"3200 Kg"
+3131,3638,,
+25685,3639,,
+3108,3640,,
+13703,3641,Iron,1000kg
+2762,3642,"Black Granite 6",
+2777,3643,NA,
+19603,3644,"Wasted Polythene",265
+19562,3645,"4 D.P.E",
+25705,3646,,
+19570,3647,"paraffin Wax",230
+19570,3648,,
+10541,3649,quartz,
+19555,3650,"Metal, Asphalt, Dissel","60, 4, 850"
+25710,3651,,
+25711,3652,,
+25711,3653,,
+25714,3654,paddy,750
+10191,3655,paddy,1600
+25720,3656,paddy,10000
+25718,3657,"Aluminium ","150 kg"
+10499,3658,"6*9 metal","2 cubes"
+10404,3659,"Fuel,metal,welding material",
+25722,3660,"Unused Plastics",
+10525,3661,Paddy,4000
+25723,3662,"Calcium carbonate ",5000kg
+25723,3663,"Titanium Dioxide ",200kg
+10504,3664,"Dolamite rock","2 cube"
+19582,3665,Granite,
+25733,3666,"Waste Aluminium",
+25733,3667,Aluminium,1000kg
+25733,3668,"Burned oil",100l
+19580,3669,Granite,12
+19580,3670,Granite,12
+25740,3671,"flour ",300kg
+25740,3672,Salt,10kg
+25740,3673,"Chili Power",10kg
+25740,3674,Oil,150l
+25740,3675,Yeast,
+25742,3676,sesame,40Kg
+25742,3677,Jaggery,40Kg
+25755,3678,"MS plate",
+25755,3679,"Off Cuts",
+25757,3680,Textiles,
+25757,3681,Threads,
+25757,3682,Buttons,
+25757,3683,Elastics,
+25757,3684,Zippers,
+19554,3685,"Cement, Granite, sand","6.5, 15,12"
+19586,3686,"pre cure tyre, curabion gum",
+19587,3687,"Suger ,Margerin,Milk Powde,Cornfloor",
+19575,3688,,
+19557,3689,"Poultry feed, Water Vitamins, Pharmaceuticales",
+19606,3690,"Suger ,Margerin,Milk Powde,Cornfloor",
+2864,3691,,
+25775,3692,,
+4503,3693,"iron base",
+10223,3694,"poly propeline",2500
+10223,3695,"calicium carbonate",300
+10223,3696,"master batch",75
+10223,3697,paints,40
+25777,3698,,
+1754,3699,Granaite,
+19550,3700,"Chiken feeds",12t
+10616,3701,,
+10616,3702,"flour,sugar powder,caramel, shortening,salt,corn flour,milk powder,",
+3082,3703,Meet,Food
+19689,3704,"Metal Sheets",
+3079,3705,"Animales food 50kg",
+25786,3706,,
+25787,3707,,
+25790,3708,,
+1821,3709,manure,
+3093,3710,,
+3091,3711,,
+19646,3712,Granite,12
+25797,3713,,"Begin Powder"
+19935,3714,"Shampoo,Greese,Oil",23
+3080,3715,,
+3092,3716,"Prepare Cloth",Nul
+3059,3717,Yakada,
+25803,3718,"Aluminium Coils ",
+25803,3719,"Offset plate",
+3026,3720,,
+25804,3721,Metal,"10 cube"
+2753,3722,,
+1713,3723,granaite,
+2943,3724,,
+3102,3725,,
+25815,3726,,
+25817,3727,Metal,"10 cube"
+1752,3728,granaite,
+2902,3729,,
+19887,3730,"Mid Steel Sheet,Isection,L.iron",
+10016,3731,"scrape Rubber","1200 Kg"
+20063,3732,,
+19677,3733,Granite,
+4464,3734,Jelatin,
+2224,3735,"Amoniyam Naitrat",
+20068,3736,"Iron bar",40
+10017,3737,"Dry Rubber",2000
+10039,3738,"scrape Rubber","1500 Kg"
+19732,3739,"Aluminium Billets","15 mt/day"
+19732,3740,"Polyester Powder","420 kg/day"
+19866,3741,"Flat iron,Plates, Aluminium coastings, Brass, cast iron coasting","20 tons"
+10035,3742,Corviner,2248.75ft(2)
+10035,3743,Glue,"13.73 Kg"
+10035,3744,Facewinier,12
+10035,3745,flour,4.8Kg
+19773,3746,"Papers, Ink, ",
+19735,3747,"Aluminium Bar, Brass","50 Kg, 50 Kg"
+25864,3748,"Coconut Shell","3000 Kg"
+10022,3749,"scrape Rubber",1400kg
+9341,3750,"Pet Chips","850 Kg"
+9341,3751,"Food Grade PVC Sheets","450 Kg"
+19731,3752,"pure aliminium ingots and aluminium scraps",
+20021,3753,"Clothe,Threads",
+19847,3754,"Water, Oil, greece",
+25876,3755,Polythene,
+25877,3756,"Glass Bottel",2000
+25877,3757,"Plastic Can",400
+25878,3758,"Metal Dust",
+25878,3759,"1/2,3/4 metal",
+25878,3760,Bitumin,
+19861,3761,LLDPE,"5 tons"
+7830,3762,"6''*4'' Metal-","30 cubic cm"
+453,3763,Cloth,"3000 m"
+453,3764,Thread,"10000 m"
+19801,3765,Rubber,
+7547,3766,No,No
+19759,3767,"Milk powder, Mineral, Vitamin, Glucide, Vanila, Skimmed Milk Powder",
+8620,3768,"scrape Rubber","300 Kg"
+19734,3769,Aluminum,
+19811,3770,"Aluminium Scraps",
+19868,3771,"Rubber wood, Gum","200 feet, 275 kg"
+19765,3772,"Paints, Thinner","16 litter, 6 litter"
+19857,3773,"Cement, Granite",
+19761,3774,Aluminium,"100 kg"
+19758,3775,"Paper,Corn starch, Ink","45kg, 1250kg, 150kg"
+19813,3776,"Dolamite, Soda Ash, STPP, Sodium silicate, china clay, Magnisium sulpate, lime juice",
+19855,3777,"Plastic beads",
+7598,3778,"Shopping Bags/Waste Polythene/Polytheen Bags","75 kg/day"
+25892,3779,"Coconut husk",2500
+25893,3780,Paddy,
+25894,3781,Vitamin,
+9300,3782,Granite,
+25912,3783,H.D.P.E,"800 kg"
+25915,3784,"Box board",
+25915,3785,"printing ink",
+25915,3786,"Printing Steel plates",
+25925,3787,Cement,"45 t"
+25925,3788,Sand,"25 cubes"
+25925,3789,Metal,"40 cubes"
+18509,3790,"Paddy rice",2500
+25926,3791,paper,
+25926,3792,board,
+25926,3793,ink,
+25926,3794,varnish,
+25926,3795,"laminating films",
+25926,3796,foils,
+18555,3797,"Paddy rice",
+7829,3798,"6'' * 9' Metal","6'' * 9' - 10 cuic metre"
+18530,3799,"paddy rice",
+19843,3800,Aluminium,
+8105,3801,No,No
+18542,3802,"paddy rice",
+25937,3803,Glu,30ml
+25937,3804,Cho,20ml
+25937,3805,Try,20ml
+25937,3806,AH,10ml
+25937,3807,AST,10
+25937,3808,Cre,20ml
+25937,3809,Ure,10ml
+25937,3810,"Cell Pack",3000ml
+23186,3811,"Paper, Adhesive","2.5 MT , 200g"
+25937,3812,HDL,100ml
+25937,3813,Procell,150ml
+25937,3814,"Clean cell ",150ml
+25937,3815,"Sus water",1000ml
+25937,3816,sulpal,50ml
+25942,3817,Foood,
+25941,3818,husks,
+10680,3819,"Poutry feed, Paddy Husks, Water",
+25947,3820,Toddy,"150 L"
+25948,3821,Papers,"600 kg"
+25948,3822,"Glue ","7 kg"
+23194,3823,"Poultry feed, Water Vitamins, Pharmaceuticales","1.5 Ton"
+8754,3824,Paddy,50Kg
+14083,3825,Iron,10
+14085,3826,iron,1
+25956,3827,"Highpressure and Shampoo",
+14086,3828,iron,10
+14087,3829,iron,10
+14088,3830,alluminium,"2 sheets"
+14094,3831,Stone,6
+18293,3832,"Food material",
+14096,3833,n/a,n/a
+7791,3834,"Cinemon leaves / Fire wood","Cinnemon Leaves - 320 kg/"
+14098,3835,service,"washing powder"
+14099,3836,"washing powder",10
+14100,3837,"washing powder",5
+7797,3838,"Cinemon leaves / Fire wood","400 kg"
+23241,3839,Coconut,35000
+9796,3840,Aluminium,
+23084,3841,"Animal feed","1000 tons"
+14047,3842,"t-pool, car wash",4
+14045,3843,medicin,n/a
+9203,3844,flour,100
+7709,3845,"Cinemon leaves / Fire wood","bundles - 07 /shift "
+14478,3846,Paddy,4500kg
+9958,3847,"Piggery, Poultry",
+7696,3848,"Fresh Milk","600 kg/day"
+14479,3849,Paddy,4500.0
+14481,3850,Paddy,4500.0
+14482,3851,Paddy,4000.0
+14483,3852,Paddy,4500.0
+14487,3853,Mountant,-
+14488,3854,Mountant,
+14496,3855,"Metal blogks",10.0
+14494,3856,"Metal Blocks",5.0
+14495,3857,"Metal Blocks",6.0
+14338,3858,"Steel bar, Tin sheet",20kg
+25967,3859,"Costic Soda",25g
+25967,3860,"cocount Oil","10 L"
+25967,3861,Potas,18
+25967,3862,Persit,
+14485,3863,Metal,12.0
+9978,3864,Rice,2000Kg
+14484,3865,Poultry,500.0
+14489,3866,Mountant,
+14490,3867,Mountant,
+14497,3868,"Metal Blocks",45.5
+14497,3869,"Metal Blocks",10Cube
+14256,3870,Threats,"45 kg"
+14493,3871,Mountant,
+14259,3872,,
+23242,3873,"Ink, Kerosion","3 L, 1L"
+23240,3874,"HDPE,LDPE, LLDPE, PP","3 Ton"
+14260,3875,"infectious Waste","100 kg"
+14257,3876,Threats,50.0
+14253,3877,Threats,45
+14255,3878,Theats,60
+25980,3879,Iron,10
+25981,3880,"Dina, Amonium, Black powder",3
+14252,3881,Theats,60
+25984,3882,Iron,10
+14250,3883,Threats,40
+14251,3884,Threats,45
+23252,3885,"Offcut cloth",
+23171,3886,"PVC material, D.O.P.","100 Kg"
+22821,3887,"LLDP,LDP,HDP, MB","250kg, 225kg, 500kg, 25kg"
+25994,3888,Paddy,14500kg
+18274,3889,Flour,"50 kg"
+18274,3890,Sugar,"25 kg"
+18274,3891,Egg,500
+18274,3892,Margarine,"15 kg"
+25998,3893,Water,
+26000,3894,,
+18305,3895,"fiber ",30kg
+18305,3896,acid,1kg
+18242,3897,lead,
+18242,3898,radiator,
+2869,3899,,
+22800,3900,"Animal feed",
+14477,3901,"Wheet Flour, Suger,oil, Margarine",87kg
+14507,3902,Chicks,300.0
+14456,3903,"Amonium, Dianamid,Black Powder",5.0
+14456,3904,Mountant,
+14501,3905,,
+14503,3906,,
+14499,3907,,
+14505,3908,,
+22817,3909,Granite,
+22787,3910,Granite,"500 cube"
+22803,3911,"6*9 granite","100 cube"
+22808,3912,Granite,8
+22778,3913,Granite,"120 cube"
+26042,3914,"coconut shell",
+26043,3915,Fish,
+22776,3916,"Fresh milk, Sugar,Coco powder,Non fat milk, flavouring, Butter, Malted powder ","60000 litter, 6662 kg"
+18298,3917,"welding spines",500g
+26046,3918,"Explosive ",
+18237,3919,plates,
+18237,3920,Thinner,
+18237,3921,Paint,
+9691,3922,"waste papers","11 Tons/day"
+18113,3923,Explosive,"2.5 kg"
+18115,3924,"Washing material","1 kg"
+26050,3925,"1l cans","250000 nos/month"
+26050,3926,"4 l cans","90000 nos/month"
+26050,3927,"5 l cans","90000 nos/month"
+18176,3928,Explosive,
+21457,3929,"Thread, Elastic, PVC","20 kg,200g, 40 kg"
+21460,3930,"Animal feed",
+26053,3931,,
+26053,3932,,
+26057,3933,Clothes,"1500 m"
+26059,3934,"gun powder",
+21391,3935,"fiber glass",
+26064,3936,"Polythene ( LDP & HDP )",
+26064,3937,"colouring ",
+21362,3938,"box bar, flex, tube light, beedins, tinner,paint, stiker paper","300 squqre feet"
+21362,3939,"box bar, flex, tube light, beedins, tinner,paint, stiker paper","300 squqre feet"
+26067,3940,"Animal feed","100 kg"
+26068,3941,"Clothes ",
+26072,3942,"Polyester 300D ","12126 Kg"
+26072,3943,"Polyester 150D","3696 Kg"
+26072,3944,"Rubber tread C40Silicon super white","1221 Kg"
+26072,3945,"Rubber Thread C44 Silicon Super white","7165 kg"
+26084,3946,"Amano sheet ",
+26085,3947,"metal ",
+26086,3948,Metal,
+21439,3949,Metal,
+9679,3950,rock,
+26101,3951,"White cement, color pigments",
+26111,3952,"Iron ","5 kg"
+26117,3953,"Iron, bronze ",
+26129,3954,Water,
+22360,3955,Rubber,"70 kg"
+22360,3956,"China clay","50 kg"
+22518,3957,"Coconut shell ","4000 kg"
+21622,3958,"All finished goods",
+19872,3959,"Base oil ","150 T"
+19872,3960,"Additives ","15 T"
+21408,3961,Cloth,
+26137,3962,thread,
+19769,3963,"Rubber ","3 kg"
+21421,3964,"Aluminium Sheets, Gringing Wheel,",
+21423,3965,"Soap, Water","1000 litter"
+21430,3966,Yarn,
+21415,3967,"chick, Buckwheat, Rice,","100 Kg"
+21358,3968,"Ink, Steel, lock","12 litter, 50 Steel, lock 808"
+9157,3969,Goase,8g
+9157,3970,Cotton,20g
+9157,3971,Bandage,5
+9157,3972,Syrynger,7
+9157,3973,,
+21400,3974,"Iron, Steel",
+26158,3975,Water,"500 L"
+26163,3976,"Sulfuric acid",
+26165,3977,HPPE,"72 kg"
+26165,3978,LLDPE,"3 kg"
+21349,3979,"Soap, Water",
+26167,3980,"Rubber ","1 ton"
+21466,3981,"Flour, yeast, water, suger",
+26168,3982,Polythene,"400 kg "
+26168,3983,Calcium,"100 kg"
+26168,3984,"Master batch","0.11 kg "
+26169,3985,Hips,
+26169,3986,"CIC paint",
+26169,3987,"aluminium wire",
+26169,3988,"Tungsten  wire",
+26169,3989,EPS,
+26169,3990,Gas,
+26169,3991,electricity,
+26172,3992,"Paddy ","6000 kg"
+26173,3993,Wheat,
+26173,3994,Margarine,
+26174,3995,"iron ",
+21447,3996,"Coconut husk",
+21396,3997,"Ink, Tinner,filler",CIC
+21476,3998,"Metal Sheets, Ink",
+21458,3999,"Iron, Brass, aluminum",
+13231,4000,,
+9117,4001,Four,1250
+9117,4002,Sugar,100
+9117,4003,Yeast,10
+9117,4004,"Margarine oil",10
+9117,4005,rice,20
+9117,4006,"Coconut oil",30
+9104,4007,"Rubber latex",2500
+9104,4008,"Scrape  rubber",12000
+9118,4009,"Recycling papers",300
+21344,4010,"Broiler Farm",
+21401,4011,"Wheat flour, rice , salt, Udu flourFlour","40 wheat, 1 rice, 2 salt, 50 udu"
+21389,4012,Iron,
+21352,4013,"Paint,Thiner, Iron Bar, ","Paint 10L, Iron Bar 20, Thiner 8L"
+13341,4014,,
+9873,4015,metal,6000
+9128,4016,Glue,10
+9128,4017,Belt,60
+9128,4018,Ink,1
+21786,4019,Bitunem,"20000 kg"
+21786,4020,"Kerosin oil","400 l"
+21786,4021,Cacl2,"20 kg"
+21786,4022,Hcl,"30 l"
+21786,4023,Water,"15000 l"
+19668,4024,"Dynamite ","500 g"
+19668,4025,"gun powder","500 g"
+9910,4026,rock,1400000
+21394,4027,"Tin Sheet","75 KG"
+20652,4028,"Car wash ",
+21775,4029,"Steel cut tubes ","1600 kg "
+21775,4030,Fork,"300 kg"
+21775,4031,Handles,"250 kg"
+21775,4032,Rims,"300 kg"
+21775,4033,"Other materials ","12400 kg "
+26195,4034,BOPP,
+26195,4035,"paper spool",
+13329,4036,"liquid soap , Karosoine ","liquid soap = 20L , Karosoine =  10L"
+21244,4037,,
+21244,4038,,
+21211,4039,"Low & hight dencity Poltythene, Polypopline, ",
+21113,4040,"Loe & Hight dencity polythene, Polypoplene",
+21201,4041,Soap,
+13310,4042,,
+21260,4043,"remaining polythene",
+21117,4044,"PVC Resin","10 MT per day"
+21117,4045,Filler,"3 MT per day"
+21117,4046,DOP," 3.8 MT"
+21206,4047,"Calcite ","6500 kg"
+21105,4048,"Brass, Moters, Plastic cover",
+9681,4049,"saw dust",
+23165,4050,"P.V.C. Resin, P.V.C. Stablyser,Calcium Carbornate,,Titanium, Dioxide",
+21215,4051,"Uria, Rock pospate, Muriate das potas","18, 6,5,1, Metric Tons"
+22794,4052,"Ammonia Nitrate ","2 T"
+22794,4053,"Sulfur ","100 kg"
+22794,4054,"Aluminium Powder ","25 kg"
+21295,4055,"Coconut oil / Soya patty acid, Glycerine Benzonic acid","1200, 600, 20 kgs"
+21154,4056,"Poly proplyne","300 KG"
+21167,4057,"Waste plastic ","200 kg/day"
+21228,4058,"Coir fibra","14 tons"
+21196,4059,"Polythene & Plastic","300 Kg per day"
+21287,4060,"Tin plates ","10 tons "
+21287,4061,Gas,"300 kg"
+21287,4062,"paint ","20 l"
+21287,4063,"compounds ",10
+26206,4064,"Animal Oil",
+21274,4065,"Titanium Dioxide, Talc Whitting, Organic colour past, Emulsion Binder, Water","200,300,5,400 Kgs and 200 litter"
+21264,4066,"Water ",
+21122,4067,"Polythene palets ( LLDP, BOPP, LDP' PP)",
+25819,4068,metal,
+21144,4069,"Springs steel bars, Flat iron, Rivets,Paint, Thinner","2.7 MTS,30 kg, 2 kg, 10 litter, 10 litter"
+21159,4070,"P.P. , H.D.P.E.","1000 Kg"
+21242,4071,"CaCo3, Tio2, Kaolin, Aeralic binder, Alkyd Resinns",
+13326,4072,karosene,"2 l"
+23161,4073,Bobbin,"1200 per day"
+9147,4074,"Soap water",
+9147,4075,Gas,
+26211,4076,"Gun powder",
+21267,4077,"Soya flour ,Flavouring agent, Colouring, Sugar, Fruit","3050 Kg per day"
+9912,4078,bricks,"284 t"
+9900,4079,"Rubber ottapalu",800
+21240,4080,"wasted rubber, Sulper, silica, T.M.T.D, ","1400 Kg"
+9848,4081,"water, Ottapalu",
+9853,4082,"Rubber Milk","10700 L"
+9146,4083,"Biodegradable organic wastes","13 tons"
+26225,4084,Plastic,"25 Kg"
+21289,4085,"Disposable Syringes, Glass and Plactic tube",
+9504,4086,"100% cotton tread",50
+9844,4087,soap,
+9844,4088,water,
+21316,4089,Polyester,"2000 Kg"
+23260,4090,"Aluminium Foil, LPPE","2000m,  2 Tons"
+21292,4091,"Rice, Maize, farm oil, flavour, sugar, salt","280 Kg"
+26227,4092,"Optima  concrete ",
+26227,4093,"Water ",
+21288,4094,"Soap, Water, shampoo",
+21199,4095,"Pigs, spices","55 pigs, 90 kg"
+21102,4096,paint,"100 L"
+21102,4097,water,"180 L"
+21163,4098," waste Plastic ",
+21273,4099,Steel,
+19889,4100,"Iron, Steel",
+21139,4101,"Beef, Chicken, Pork","1000 kg"
+21139,4102,"Soya meat","400 kg"
+21139,4103,"Food additives","15 kg"
+21139,4104,"Cellulose ","25 kg "
+20405,4105,Threads,
+21182,4106,Paper,"2 ton"
+21182,4107,"Glue ","100 kg"
+21182,4108,"Tin sheet ","500 kg"
+14370,4109,"steel  bar",0.20
+14370,4110,Pips,0.30
+14370,4111,"Iron  parts",2.0
+19903,4112,"Iron, Brass,Bronze",
+26247,4113,"WELDING FIBERS",
+9521,4114,"Metal ",
+9521,4115,,
+19915,4116,Cloth,
+19993,4117,"Metal Sheets, Ink",
+9522,4118,"Recycling polythene",500
+9510,4119,Metal,25
+19989,4120,wheatmeal,"500 kg"
+19989,4121,"Margarine ","3 kg"
+20079,4122,"dynamite ","500 kg "
+20079,4123,"Ammonia ","1 kg "
+9908,4124,"Metal Bricks",
+19919,4125,threads,
+19919,4126,"buttons ",
+19888,4127,Granite,"9 cube"
+19999,4128,"Aluminium parts  ",
+8106,4129,"6'' * 9'' Metal","6'' * 9' - 10 cuic metre"
+19949,4130,"Wheat flour, rice , salt, Udu flourFlour",
+160,4131,Keoline,"150 ton p/M"
+442,4132,"Raw Rubber Milk","2000 Kg "
+442,4133,Scrap,225Kg
+26286,4134,CEMENT,7000
+26286,4135,SAND,5..25cubes
+26286,4136,"concrete metals ",8.4cubes
+19825,4137,"Aluminum ","400 kg"
+8084,4138,"Raw Metal",.
+19808,4139,"HDPE Plactic , LDPE plastic",
+19994,4140,"Cloths, Threads, Buttons ",
+20049,4141,"Clothes ",
+19879,4142,"Die steel ","30 kg "
+23102,4143,Coconut,"25000 per day"
+25211,4144,Granite,"500 cube"
+19927,4145,Threads,"130 kg"
+19881,4146,Iron,
+19913,4147,Iron,
+20206,4148,"6*4 Granite","20 cube"
+20095,4149,"6*4 Granite","15 cube"
+19942,4150,Iron,
+26330,4151,Plastic,"350 Kg"
+7610,4152,"food (chicken) ","200 kg/day"
+7558,4153,"food (chicken)",100kg/day
+13331,4154,,
+20064,4155,"Medicinal Plant, Seeds",
+19922,4156,"Iron Bar",
+26370,4157,"Biodegradable urban wastes","13 tons per day"
+8968,4158,"Polythene bags",
+8968,4159,`HDPE,
+8968,4160,IDPE,
+8968,4161,LLDPE,
+8989,4162,Bitumen,
+8989,4163,Kerosene,
+8989,4164,Diesel,
+8080,4165," Raw Metal",
+8977,4166,Colouring,10
+8977,4167,"Binding agents",200
+8977,4168,Chemicals,200
+20052,4169,Metal,
+8967,4170,"Metal (6""-9"")",
+8962,4171,"Rubber Latex",
+8915,4172,granite,"15 cubes"
+19527,4173," Poultry feed","90 metric tons per 60 day"
+21719,4174,Coconut,"40000 "
+22072,4175," Whole Fish ","5000 Kg"
+13334,4176,,
+20321,4177,Rice,"12500 Kg"
+19793,4178,"3*4 granite, sand,water, cement","75cube, 5 cube, 500 cement, 5250 litter"
+26388,4179,sand,
+26388,4180,"concrete bricks",
+26388,4181,cement,
+9511,4182,Cotton,
+9511,4183,Goase,
+9511,4184,Plastic,
+21769,4185,"Water, Air",
+23234,4186,"Gray Cloth",
+26390,4187,6X9,
+23134,4188,"palets ","50 Kg"
+22818,4189," Asphalt,Metal","1350 Kg, 300 Mt."
+21788,4190,"Cloth, Shiffer. Buttons, Thread",
+19807,4191,"P.V.C. Compound","300 KG"
+26396,4192,"sodium loril ether","25 kg"
+26396,4193,"Celulose acitate ","20 kg"
+26396,4194,Salt,"01 kg"
+26396,4195,EDTA,"0.5 kg"
+26396,4196,Methonol,"0.2 kg"
+26396,4197,"Sodium Sulphate","0.5 kg"
+10935,4198,"block ice",25
+26399,4199,metal,
+10839,4200,water,25
+10960,4201,"hdpe,calciam,pallate","150,175,75"
+26420,4202,Bitument,
+26420,4203,Kerosole,
+26420,4204,Diesel,
+10820,4205,Spices,925
+11564,4206,"wheat Flour",150
+19897,4207,Granite,
+19814,4208,"Citric acid, fumaric acid, malic acid, Sodium bicarbonate, Potassium sobate","15 Kg 750g"
+8717,4209,Sugar,
+8717,4210,Water,
+8717,4211,"Jelly powder",
+26435,4212,Clothes,
+20289,4213,"Animal feed",
+10995,4214,Rubber,30
+10907,4215,"Coconut husk",3000
+20773,4216,"Paper, Gum, Ink","10310 Kg"
+26451,4217,"Coconut Shell",
+22569,4218,"Animal feed",
+20159,4219,"Granite Powder, Chips, Bitumix",
+21675,4220,"Paints, Thinner",
+22804,4221,Granite,
+23424,4222,"Coconut husk",6000
+22839,4223,"Coconut Water","30000 L"
+19806,4224,"Poly ethylene ","500 kg"
+21724,4225,LDPE,"750 kg"
+21724,4226,IPA,"5 kg"
+21724,4227,NBA,"3 kg"
+21724,4228,Paint,"10 kg"
+20155,4229,Coconuts,"45000 per Day"
+22201,4230,"Mat, Rasin, Pigman, Katlish","940 Kg"
+26469,4231,"water jel, Amonium, Detanator",
+20117,4232,"Fumed Silica, Propylene Glycol, Phthalia Anhydride, Styrene Monomer, Compressed Nitrogen","3660 Kg"
+21080,4233,"Gray Cloth, Parapin Iti",
+21812,4234,"Carbite, Thiner, Ink",
+11021,4235,"Rice ",500kg
+8772,4236,"Rubber Milk","2500 kg"
+8771,4237,rock,
+26471,4238,Aluminium,70
+19978,4239,"water jel, Amonium, Detanator","1.5 Kg"
+21843,4240,Granite,
+21720,4241,"Polystyrene, Polythene, Polyproplyne, Saw Dust, Paddy Husks","500 kg"
+11015,4242,"Rice powder",250kg
+11015,4243,salt,5kg
+20741,4244,"PET Granules","370 Kg per day"
+11599,4245,Rubber,250
+20115,4246,"Natural Fibre","4200 Kg"
+21861,4247,Metal,"25 cube"
+21251,4248,"Water, Ice",
+22028,4249,"Fresh fish","5000 Kg"
+19544,4250,"Rubber wood,","700 Sq. Feet"
+23157,4251,"Poly ethalene. Calsium carbanate","200 Kg"
+20779,4252,"water jel, Amonium, Detanator",
+20909,4253,"Lubricant Oil, grease, Spare Parts",
+23163,4254,"Wasted Plastic",
+21259,4255,"HDP, LDP polythne","150 Kg"
+26562,4256,"2"" pipe, 2"" angle iron, Knotted PE ropes, Webbing belts","2375 per day"
+20091,4257,"Animal feed",
+20297,4258,"Bitumin, Aggregates, Kerosene , Fuel",
+20927,4259,"HDP, LDP,PP","200 Kg"
+22587,4260,Food,
+2418,4261,pvc,
+20123,4262,"Coconut husk, rubber,","1250 kg, 100 kg"
+11648,4263,"weed flour ","600 kg"
+11648,4264,egg,210
+11648,4265,Suger,"15 kg"
+11648,4266,Magaring,"9 kg"
+11648,4267,salt,"6 kg"
+11648,4268,"backing powder",1.5kg
+11648,4269,"Cocunt Oil","5 L"
+11650,4270,"Weed flour","250 kg"
+11650,4271,Sugar,"250 kg"
+11074,4272,"Weed flour",
+11074,4273,Eggs,
+11074,4274,Magaring,
+11074,4275,Coconut,
+20905,4276,"Coconut Shell","9000 Kg per week"
+20897,4277,Coconut,50000
+22267,4278,"Pigments, Resing, Process Oil, Water","2100 per Day"
+20245,4279,"Cotton Wool",
+20724,4280," C/1 Metal","1000 Tons"
+20749,4281,"Alcohol, Water","4000 L day"
+20766,4282,"Calcium Carbanate, portland Cement,Binder ","20000 Kg"
+26601,4283,"Organic matters",
+20198,4284,Granite,
+21509,4285,"Uria, Amonium Sulpate, Potaze Murate, Pospate, Dolamite, TSP,",100
+20928,4286,"Wasted Rubber, Sulper, ZDEC,Furnece Oil","201.75 Kg, 2 litter"
+23116,4287,"Fresh fish",
+23232,4288,Coconut,40000
+20293,4289,Metal,
+20129,4290,Broliers,"24000 Kg"
+22161,4291,Iron,
+22052,4292,"Wasted Plastic",
+22184,4293,"Iron, Brass",
+1893,4294,tea,
+26613,4295,"Cleaning Powder, Soap, ","3 Kg"
+21847,4296,Clothes,
+19749,4297,H.D.P.E,"800 Kg"
+20244,4298,"Flour, yeast, water, suger","215 Kg"
+20938,4299,"Cornflour,Flavouring, Colouring, Cocoa Powder, Sugar,Starch,Soda, SAPP","6850 Kg"
+20929,4300,"Metal, GU wire, Iron bar",
+26618,4301,"Dolamite & Calcium",
+8350,4302,Coir,3500
+10984,4303,"Iorn pipe, MDF Board",
+7593,4304,"cocunut husk","100 kg/day"
+26650,4305,Rice,50Kg
+26650,4306,Vegetable,15Kg
+26650,4307,"Fish & Meat",10Kg
+26651,4308,Rice,50kg
+26651,4309,Vegetables,15Kg
+26651,4310,"Meat & Fish",10Kg
+26652,4311,Rice,50Kg
+26652,4312,Vegetable,10Kg
+26652,4313,"Meat & Fish",5Kg
+26654,4314,"Coconut Husk",2000Kg
+26655,4315,"Coconut Husk",1500Kg
+26656,4316,"Wheat Flour",50Kg
+26656,4317,Sugar,2Kg
+26656,4318,Margarine,3Kg
+26657,4319,"What Flour",50Kg
+26657,4320,Sugar,3Kg
+26657,4321,Margarine,2Kg
+26658,4322,Paddy,500Kg
+26658,4323,"Wet Rice",50Kg
+26659,4324,Water,"25 cubic Metre"
+7594,4325,"cocunt husk","100 kg/day"
+7617,4326,meat,"1500 kg/month"
+26669,4327,Water,5000
+7549,4328,"6'*4; ; Metal","600  m3/month"
+20157,4329,Coconut,5000
+7563,4330,,
+7563,4331,"cocunt husk","200 kg/day"
+20323,4332,Coconut,"3500 per day"
+22338,4333,"Polythene Grains",
+22368,4334,Steel,
+20939,4335,"LDP,HDP,ABS",
+20940,4336,"round iron, washer, Bolt & Nut, ",
+7568,4337,"cocunut husk","250 kg/day"
+11553,4338,Nitrocelliulose,
+7613,4339,,
+7613,4340,"cocunut husk","500 kg/day"
+7596,4341,,
+7596,4342,,
+7596,4343,"core ","75 kd/day"
+7593,4344,,
+11610,4345,PPE,200
+11610,4346,HDPE,300
+7550,4347,Stone,
+26723,4348,"Metal Quarry",
+8594,4349,"Coir Husks",
+8535,4350,Faddy,12000
+26750,4351,Faddy,12000
+10931,4352,"Coconut husk",1000
+11658,4353,"Rice powdaer",75
+11658,4354,"Chilly ",15
+11658,4355,Spices,5
+7551,4356,"Row Metal",
+7796,4357,"Cinnomon leaves","8 bundles/shift"
+26789,4358,Cloth,500-1800
+5122,4359,paint,
+11515,4360,"Spices & Chilles",1550
+26805,4361,Metal,
+20362,4362,Metal,
+16844,4363,water,"40 lit/month"
+16849,4364,"Water, Tee pol, High power",
+16850,4365,"Feed for parents stocks (Crab, Cuttle fish, Cattle liver)",2-3kg
+26820,4366,,
+22033,4367,"Angle Iron, GI Pipe, Plate, Iron Sheets",
+25329,4368,,
+26825,4369,steel,100kg
+16374,4370,"Rock in veppaveduvan",1
+16551,4371,,
+16552,4372,water,1500
+16626,4373,steel,100
+16624,4374,"iron tore",30
+16624,4375,"iron bar",750
+16624,4376,"iron sheet",25
+16613,4377,"iron tore",30
+16613,4378,"steel pipes",20
+16625,4379,water,50000
+26834,4380,"Iron Bar","01 Bar"
+26834,4381,"Welding Rod",1Kg
+21991,4382,"Coconut Toddy",800
+21773,4383,"HDPE,LDPE,PP",
+21762,4384,"Water, Osu, Oil","2000 Galune, 150 kg, 100l"
+26836,4385,"Iron Bar","2 Bar"
+26836,4386,"Welding Rod",1Kg
+26837,4387,,
+26837,4388,Rock,"0.0266 hectare"
+26839,4389,Shell,2500kg
+21752,4390,"HDPE,LLDPC","20000 Kg"
+26842,4391,"iron bar 1""",500kg
+26842,4392,"Iron Pipe",30
+26844,4393,PADDY,12000
+21782,4394,"Rubber,Filler,Oil,Chemicals",
+19799,4395,"HDPE,HIPS,GPPS","100 Kg"
+19784,4396,"LPG Mixture",
+26852,4397,Cow,
+19830,4398,PP,"600 Kg"
+26854,4399,"Iron Bar","2 Bar"
+26854,4400,"Welding Rod",1kg
+26857,4401,"Polythene,Plastic","900 Kg"
+26860,4402,"Vagetables ",
+26860,4403,Rice,
+26860,4404,Fish,
+22530,4405,"Aluminium Extrusions",0.2
+20934,4406,"Soap, Water, shampoo",".5 litter"
+20290,4407,"Iron,Iron sheets,Ink,wire",
+26864,4408,Vagetables,
+26864,4409,Fish,
+16854,4410,Water,
+26869,4411,"Coir husk",5000
+26875,4412,"6"" 4"" Metal",
+26878,4413,Metal,
+26882,4414,"Iron, Steel, Ink,Wire",
+20331,4415,"6*4 Granite","8 cube"
+20600,4416,"6*4 Granite","6 cube"
+26887,4417,"Wheat Flour","50 kg"
+26887,4418,Sugar,"10 kg"
+26887,4419,Yeast,"250 g"
+20363,4420,"6*4 Granite",
+20707,4421,Metal,
+20708,4422,"Detornator, Dyina, Amonia",
+21928,4423,,
+26890,4424,"Coconut Husk",5000
+26895,4425,Fertilizer,
+20433,4426,Metal,
+22050,4427,"Water,Tinner,paint","3.5 unit, 3 litter, .5 litter"
+21549,4428,"LDPE, HDPE, PP, Ink","650 Kg, 250 Kg, 100 kg, 5 kg"
+26909,4429,Shell,2500kg/day
+26910,4430,"Soap, Soda, Nil",
+20389,4431,"Coconet Shell","10000 kg"
+26911,4432,Metal,
+21787,4433,"Polythene, Ink, Alchole","200 kg, 08 litter, 10 litter"
+26912,4434,Paddy,4000
+20196,4435,Broliers,5000
+26915,4436,Rice,"5000 kg "
+22067,4437,"Soap, Water, shampo, britolo",4
+10922,4438,"Coconut husk",2500
+21348,4439,"Soap, Water, shampo",
+26937,4440,"Tinner, Paint Piller, Catloy",
+26945,4441,Metal,
+21583,4442,"SLES, LABS,HCL,IPL, Liquid paragon, Carbolic Acid, glisareen, Coastic Soda","100 kg, 200 litter"
+21588,4443,Brass,"150 Kg"
+22159,4444,"Iron,Nylone, Brass Chenachchatti","38 Kg"
+1245,4445,Kurakkan,
+1245,4446,"Local Rice For Grainding",
+20743,4447,"Animal feed",
+21717,4448,"Vergin Pellets","2800 Kg"
+26964,4449,"UPVC, Glass","35 Kg"
+1217,4450,"Mild Steel;",
+1217,4451,Bronze,
+1217,4452,Brass,
+1207,4453,"Chicken ",120
+21767,4454,"Alkid rasin, Nitro celulose, Ethail acitate, Talk powder,cink stiarate powder, Soya lesithine, Pigmnet","370.5 Kg"
+20190,4455,Granite,
+22575,4456,Cconut,
+1167,4457,ion,
+20942,4458,Coconut,"40000 Coconut"
+1242,4459,Fabric,
+26969,4460,"Kaolin,Ball clay,Quartz powder,Dolomite,Clacite, High cast Ball clay,Plaster of Paris, Metal Oxide,","14.2 M.Tons, 2 Kg"
+1263,4461,Rice,
+1263,4462,Meet,
+20875,4463,Metal,
+1208,4464,Chiken,250
+1208,4465,Flour,50
+1208,4466,Rice,
+21916,4467,"Iron, Steel",
+21920,4468,"Iron, Tape, Sand Paper",
+21854,4469,Iron,
+3542,4470,Cloth,
+26992,4471,Rice,
+26992,4472,Fish,
+26992,4473,Meet,
+1240,4474,Vegetables,20
+22589,4475,"Methonol,Toliun,Butile Glycool,MIBK",2400L
+1214,4476,"Nail Wire ",1500
+1214,4477,"G.T Wire",4500
+5135,4478,Vegetables,
+5135,4479,Meet,
+5135,4480,Fish,
+1256,4481,Fabric,
+27000,4482,Rice,50kg
+27000,4483,"Chicken Meat",10Kg
+27000,4484,Fish,5kg
+14415,4485,Paddy,4500kg
+14421,4486,Rice,3500kg
+14421,4487,Rice,3500kg
+21813,4488,"Chiken Foods,Water",
+14425,4489,Rice,4500kg
+14388,4490,Rice,4000kg
+14402,4491,Rice,4000kg
+14418,4492,Rice,4000kg
+27004,4493,"Kerosene Oil","5 Litre"
+27004,4494,Water,"1000 Litre"
+27004,4495,"Car wash","0.5 Litre"
+21970,4496,"Jaggery,Cardamom,Cloves,Eggs,Milk",
+1260,4497,Maize,
+1260,4498,Soya,
+1260,4499,Meal,
+1260,4500,"Rice Polish",
+26105,4501,"Water,Highpreasure",1.5
+13806,4502,Rock,
+13808,4503,Rock,
+27019,4504,"Pepper ",
+27019,4505,Temeric,
+5127,4506,Meet,190
+5127,4507,Vegetables,60
+5127,4508,Flour,30
+5127,4509,oil,350
+5127,4510,Rice,20
+5103,4511,Rice,
+5103,4512,oil,
+5104,4513,Meet,
+5104,4514,Fish,
+5104,4515,Vegetables,
+1262,4516,Rice,
+1262,4517,Vegetables,
+1128,4518,paint,
+1128,4519,Thiner,
+27059,4520,Rice,
+27059,4521,Vegetables,
+27059,4522,Meet,
+5124,4523,Vegetables,
+5124,4524,Rice,
+11023,4525,"Cinnomon leaves","600 kg"
+1249,4526,Chiken,60
+1249,4527,Flour,20
+1249,4528,Rice,150
+1249,4529,Vegetables,25
+1249,4530,oil,10
+27084,4531,Rice,
+27084,4532,Fish,
+27084,4533,Vagetables,
+5128,4534,Vegetables,
+5128,4535,Rice,
+1213,4536,Thintha,
+27095,4537,PADDY,4000
+5114,4538,Cables,
+5114,4539,Cabinet,
+5114,4540,Nut&Bolt,
+10945,4541,Timber,"20 *20 feet"
+10945,4542,"Fiber Gam","225 kg"
+10945,4543,"Fiber mat","60 kg"
+10945,4544,Paint,"5 kg"
+14399,4545,Rice,0.45
+14426,4546,Paddy,4.5
+13711,4547,Rock,
+14406,4548,paddy,0.45
+13710,4549,Rock,"210 cube/Month"
+27116,4550,"Spare Parts","Required Amount"
+27116,4551,"Kerosene Oil","5 L"
+27116,4552,"Car Wash",10L
+13713,4553,Rock,210Cube/Month
+23444,4554,"Iron,Paint",
+21630,4555,"Air preasure machine,Water preasure machine,",
+14455,4556,,
+14455,4557,Rock,
+14458,4558,Rock,
+14457,4559,Rock,
+14453,4560,Rock,
+20532,4561,Paddy,
+14459,4562,Rock,
+2363,4563,"Calsiam carbonate",100
+2363,4564,"potassium iodide",1
+13712,4565,Rock,"210 Cube /Month"
+14461,4566,Rock,4.0
+13714,4567,Rock,"210 Cube/Month"
+27137,4568,Rock,
+13716,4569,Rock,210/Cube
+27144,4570,Sand,750
+27144,4571,Agrigate,1050
+27144,4572,Cement,70
+21744,4573,"Metal ",
+14554,4574,"Iron  bar",0.75
+14549,4575,"Flower,",0.15
+14549,4576,sugar,20kg
+14549,4577,Water,75kg
+14549,4578,East,1kg
+14550,4579,,
+14550,4580,Bans,350
+14555,4581,"Iron  Bar","75 kg per day"
+10850,4582,"Cinnoman  leaves",400kg
+14567,4583,"Metal Aggregates",
+14570,4584,Paddy,
+20694,4585,Iron,
+14571,4586,Rock,
+23077,4587,Plastic,
+22043,4588,"PP,HDPE/PP/PVC",
+27190,4589,"Spun Yarn ,Polyester Yarn",2000
+14616,4590,"Steel Bar and Iron Sheet",30
+14617,4591,"Steel Var",10
+20730,4592,",Water,husks","30000,1000"
+11072,4593,"Rice ","10 kg"
+11072,4594,Seeds,3kg
+11072,4595,Vegitables,5kg
+20387,4596,"Binding Gum, S.B.P.Petrol, Bag belt","145 Kg, 5 L"
+27212,4597,"Wheat Flour",50kg
+27212,4598,Salt,1kg
+27212,4599,Sugar,10kg
+27213,4600,"Day old Chicks",800Nos
+27213,4601,"Poultry Rations","As per requirement"
+27214,4602,"Matured cattle","01 No"
+14609,4603,"Steel Bar",
+11601,4604,Rubber,"200 kg"
+2270,4605,"Amoniyam Naitrate",
+2270,4606,Dainamait,
+27241,4607,"Rice ",
+27241,4608,Vegetable,
+27241,4609,Meet,
+27241,4610,Fish,
+27245,4611,Rice,
+27245,4612,Meet,
+27245,4613,Fish,
+27245,4614,Vegetable,
+1163,4615,"Steel Sheat",
+1163,4616,Lock,
+27255,4617,Water,
+27255,4618,Sand,
+27258,4619,Tin,
+27262,4620,Vegetable,
+27262,4621,Fish,
+27262,4622,Meet,
+27262,4623,Rice,
+27263,4624,Vegetable,20
+27263,4625,Fish,10
+27263,4626,Meet,45
+27264,4627,Rice,
+27264,4628,Vegetable,
+27267,4629,Rice,
+27267,4630,Vegetabales,
+27267,4631,Meat,
+27269,4632,Vegetables,
+27269,4633,Rice,
+5105,4634,Grees,
+20182,4635,"Water,Kerozine,Soap",
+20901,4636,,
+27276,4637,Pasta,
+27276,4638,Rice,
+27276,4639,Vegetable,
+21508,4640,"Urea, Potash, Triple super Phospate, Dolomite sulphate, Ammonia","155 Mt"
+20083,4641,"Animal feed, Vitamins",
+27280,4642,Metal,
+20097,4643,"Bitumen, Metal,Dust, Chips",
+27281,4644,Rice,
+27285,4645,Chillies,
+27285,4646,"Rice Grams",
+2269,4647,"Amoniyam Naitrate",
+27288,4648,"Coir Husks",10000
+20738,4649,"Natural Rubber","100 Kg"
+21489,4650,"Metal Plates, Shafts and Roads, Chanel Angless",
+27291,4651,Thintha,
+27295,4652,"Coconut Husk",10000
+27297,4653,Suger,120
+27297,4654,Flour,4.5
+1393,4655,Sugar,
+1393,4656,Oil,
+1393,4657,Potato,
+14611,4658,"Steel , Iron bar",6
+14608,4659,"Iron, Steel bar","5 bar"
+14612,4660,"Iron ,Steel Bar",15bar
+14619,4661,"iron steel Bar",10bar
+14620,4662,"Steel Bar","5 Bar"
+19834,4663,"Waste Alumium",
+1371,4664,Rice,
+1371,4665,Fish,
+1371,4666,Meet,
+1371,4667,Vegetable,
+21761,4668,"LLDPE, HDPE",
+19849,4669,"Coconut shells,Charcoal",
+27305,4670,Paddy,
+1417,4671,Magarin,3
+27310,4672,"Polyester Yarn",
+19553,4673,"Water ",
+20251,4674,"Explosive Meterial",
+27312,4675,Iron,
+20904,4676,"Fabric , Treads",
+19838,4677,"Valcunise rubber ",
+21613,4678,"Empty cement bags,Cement",
+21850,4679,Iron,
+21026,4680,"Coconut shells,Charcoal",10000
+27313,4681,,
+20956,4682,"Waste polythene",
+22546,4683,"CaCO3,Karolin,coconut Shell,Carbon",
+27320,4684,"Waste polrthene",
+27321,4685,Iron,
+22168,4686,"Greel getes and Paint",
+21862,4687,"Chiken Foods,Water",100
+27324,4688,Fabric,250
+27329,4689,"Rectified spirits,Coconut spirits,Sugar caramel  and flavours",
+27331,4690,"Soap and water ",
+27334,4691,"LDP ",25
+27350,4692,"Soap, Water, shampo",".5 litter"
+27351,4693,"Angel iron bars,,Mild steel sheets,SS Sheets,Flat iron,Radiators,Steel rods,Wires,GL Plates",1250kg
+20161,4694,Metal,"6 cube"
+19647,4695,"Soap, Water, shampo, britolo",
+21320,4696,"Brass scrap,Copper scrap,Zink","2tons,500kg,200kg"
+27365,4697,"Polythene Seeds",70Kg
+23189,4698,"Coir fiber dust",15
+19551,4699,"Oil,Rulan,gingelly",
+20166,4700,"Rice,Corn,Soya",
+20770,4701,"LLDPE,LDPE",
+21982,4702,"Water,Highpreasure,Teepol",
+27378,4703,"Clothe,Thread",
+27380,4704,"Soil,Cement,",
+27386,4705,"Plastic  and polythene",
+27387,4706,"Natural Rubber",
+22503,4707,"Sugar,East,Floar,Magarin",
+22605,4708,Coconut,
+20213,4709,,
+20213,4710,"Rice Polish,Wheet","350Kg,,40Kg"
+27393,4711,"වෙඩි බෙහෙත්",50
+19805,4712,"Pet risin,Master Batch",
+20352,4713,"Coconut Husks",800
+20274,4714,Paddy,3150kg
+20122,4715,"Coconut Husks",2500
+22174,4716,"Brass scrap,",
+20680,4717,"Water,Recitified spirit ","20000,150000"
+21523,4718,"Rolomilic Powder,Sheild powder",
+20667,4719,"High impack polytryene,Master batch","20,02, Tons"
+20726,4720,"Tar,Bitumin",
+21499,4721,"Water,Car wash",
+20759,4722,"Kerosine ",10
+22744,4723,,
+22744,4724,"Iron and Welding Sticks",
+21559,4725,"Butile Glycoon,SBP,Asiton","20,50,450L"
+21553,4726,"Granite,Soil,Cement",
+27399,4727,"ball clay",490000
+21529,4728,,
+19869,4729,"Wool,Groos,Bandage,Seltne",
+4702,4730,"Cotton Yarn,",
+21488,4731,"Copper ,Silver",
+4702,4732,Bottons,
+27410,4733,Water,"0.5cubic meters"
+10822,4734,kompawnd,25kg
+21519,4735,"Sugar,Milk powder,Glcoos,Cocoa","3000kg,200kg,900kg,360kg"
+23216,4736,"Gravel and soil",
+27423,4737,"Clothes, , gum, thread, packing bags and boxses","Clothes 35 kg, Thread 500m, Packing box and bags 240, Gum 2 l, foot wear 40, "
+20305,4738,Paddy,10000
+20840,4739,Amonia,
+20675,4740,Granite,
+21889,4741,Metal,"3 cube"
+27425,4742,Tea,
+20181,4743,Paddy,2400Kg
+22553,4744,"Poly Popline,Pilar,Colour",
+20098,4745,Paddy,
+22797,4746,"Dressed frozen chiken with skin,Chiken cutups",
+21552,4747,"Hanned hides","4000 pcs per month"
+27431,4748,Metal,"250 Cube"
+27379,4749,"galvernise pipe,welding rods ",
+23290,4750,"Flour, yeast, water, suger","560 kg"
+19874,4751,"Metal Sand, Cement, Water","Sand , Water,Metal 130 m3, Cement 91 MT"
+27451,4752," Rice ,Paddy Husk, Water, "," Water 1500l, Paddy Husk 375 Kg, Rice 1800 kg"
+20296,4753,Paddy,4500kg
+20240,4754,Paddy,
+20692,4755,Metal,"Cube 7"
+27454,4756,"Resin, Jellycot,Clay","5Kg,3Kg"
+22633,4757,"Coconut husks",1000
+22765,4758,Paddy,
+22642,4759,"Coconut husks",
+19863,4760,"PB3,PP,Ink","250 kg, 05, kg,9 litter"
+22695,4761,"Coconut husks",
+22730,4762,"Woods,Rubber,Plastic,Glue",
+22729,4763,"Coconut husks",
+27459,4764,"HDP, PVC",
+19716,4765,"Foot,Ricsin,Glue","300,"
+23231,4766,"Paper cube",10000
+21671,4767,"Iron and brass",
+21709,4768,"Fruits , Sugar,Strik acide,","6000Kg,2000Kg,15Kg"
+27465,4769,Metal,
+22421,4770,"Fabric , Threads","730,120"
+22585,4771,Plastic,
+27474,4772,"Resin, Jellycot,Clay",
+27479,4773,,
+27479,4774,"Tea Leaves",
+22261,4775,"HDPE, LDPE, LLDPC","50 Tons"
+22335,4776,"PP,HDPE,LDPE",
+22560,4777,Coconut,
+27480,4778,Steel,50
+27480,4779,Wood,50
+27480,4780,Aluminum,30
+22226,4781,"Soap, Water, shampo, britolo",
+22263,4782,"Iron , Welding",
+20947,4783,"Kerosine,Soap",5l
+22318,4784,"Copper, ",
+22264,4785,"Calciam Carbite","400 Kg"
+21652,4786,"Plate,Tinner,Paint",
+22344,4787,"PVC Compund",
+21659,4788,"Oil and Grees",
+22317,4789," Wasted Plastic","500 Kg per day"
+22389,4790,"Black Tea,Flavours, Herbs",
+21635,4791,"Fabric,Thread,Elastic,Tags,Poly bags,",
+21629,4792,"Paint and Plate",
+22314,4793,"Glass, Decarativeglass, Processing glass","50000 Sq.ft"
+22256,4794,Iron,
+22321,4795,"Rubber, Plate","40 kg"
+22363,4796,"Sea Sand","6 cube"
+22268,4797,Brassware,
+22288,4798,"Uria,Phospores, PotashAmonia","36.5  MT"
+22246,4799,"Water , Soap",
+22316,4800,"LDPE, HDPE",
+22303,4801,Brass,
+22211,4802,"Local scrap iron, Sponge iron","105 T"
+27502,4803,"Methanol, Ethiyl acid,SBP,BG","60000 l per month"
+27503,4804,Metal,"4 cube"
+27504,4805,Metal,"3670 MT"
+27505,4806,Metal,"100 cube"
+22367,4807,"Poply Popline (PP)","50 kg"
+22266,4808,"Methanol, solvent",
+22218,4809,"Water , Soap",
+22372,4810,"Uria, Dolamite, MOP,SOA, ERP,TSP","15 Tons"
+22208,4811,"PET,PP",
+22347,4812,"Water , Soap",
+22370,4813,"PP,LDPE, HDPE","1500 Kg"
+22227,4814,"PVC, Poly Carbanate","509 MT"
+22269,4815,"Virgine Pellets","550 Kg"
+27506,4816,Paddy,"4500 kg/day"
+27506,4817,Water,"1000 lit/day"
+27507,4818,PADDY,"4500 KG/DAY"
+20351,4819,"Scrap Iron ,M.S. Billet",
+19726,4820,Gas,2
+20962,4821,"Steel ",
+22296,4822,"poly Popline (PP), HDPE,LDPE,",
+22403,4823,"Frozen fish, Chiled Fish, Sea food, Ice,",
+22358,4824,"Sugar,Wheat flour, Farm Oil, Magarine",
+22286,4825,"Plastic, PVC, Natural coir",
+21493,4826,"Lirea,Suphate of Amonia,Triple super phosphate",10
+21855,4827,"Steel Sheets",
+21815,4828,"Iron,Steel",
+20311,4829,Metal,"20 Cube"
+20682,4830,"Paper, Explosive, thread",
+21516,4831,"Sugar,Wheat flour, Farm Oil, Magarine","500 Kg"
+21755,4832,"Water , Soap",
+27516,4833,Metal,
+21698,4834,"Animal feed, Water",
+27517,4835,Cloth,"1000 m per day"
+19764,4836,Aluminium,
+27518,4837,"Sugar,Wheat flour, Farm Oil, Magarine",
+20911,4838,Limestone,"20000 Kg"
+27538,4839,Polythen,"300 kg"
+27553,4840,"Raw Milk","100 l"
+27553,4841,"Sugar, Gelatin & Starter Culture","As per requirement"
+27554,4842,"Rice, Vegetable, Meat & Wheat flour","As per requirement"
+27559,4843,G.I.Pipe,05Bar
+20978,4844,"Cement, Polymer, Silica, Colours",

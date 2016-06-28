@@ -1,0 +1,6 @@
+eplID,eplCode,eplDesc
+1,HM,"Global Authority"
+2,PH,"Provincial Level Authority"
+3,DH,"District Level Authority"
+4,AM,"Application Managementy (Only for the Office)"
+5,IM,"Inspection Group Level Authority"
