@@ -1,0 +1,104 @@
+.eplbanner {
+	padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #829B40;
+    text-align: center;
+    font-weight: 200;
+    height: 20%;
+}
+
+.mainbody{
+	padding:10px;
+    font-family: "Segoe Ui";
+}
+
+.imagesize {
+	display: block;
+    width:150px;
+}
+
+.source {
+	font-style: italic;
+	font-size: 10px;
+}
+
+.menubar {
+    background-color: #F7F7F7;
+    font-weight: bold;
+    
+
+}
+
+
+.lefthome {
+    height: 400px;
+    margin: 10px;
+    margin-left: 100px;
+    float:left;
+    width: 40%;
+}
+
+.righthome {
+    height: 400px;
+    margin: 10px;
+    margin-right: 100px;
+    float:right;
+    width: 40%;
+}
+
+.leftepl {
+    background-color: #DAE8B6;
+    height: 400px;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #DAE8B6;
+    float:right;
+    width: 80%;
+    font-size: 30px;
+}
+
+.rightepl {
+    background-color: #DAE8B6;
+    height: 400px;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #DAE8B6;
+    float:center;
+    width: 80%;
+}
+
+#bannerfont {
+    font-size: 40px;
+    color:#142B56;
+    font-style: strong;
+    font-family: Calibri (Body);
+    font-weight: bold;
+}
+
+#bannerfontsub {
+    font-size: 25px;
+    color:#142B56;
+    font-style: italic;
+    font-style: bold;
+    font-family: Calibri (Body);
+}
+
+p.eplfont{
+    font-size: 30px;
+    text-align: left;
+    color: #142B56;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+p.eplfontlink {
+    font-size:20px;
+    text-align: right;
+    color: #142B56;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 10px;
+}
