@@ -11,9 +11,51 @@
 |
 */
 
+/**
+ * index Route
+ */
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/auth/login');
 });
+
+/**
+ * Authentication Routes
+ */
+Route::get('auth/login', [
+   'as'     => 'getLogin',
+   'uses'   => 'Auth\AuthController@getLogin'
+]);
+Route::post('auth/login', [
+    'as'     => 'postLogin',
+    'uses'   => 'Auth\AuthController@postLogin'
+]);
+Route::get('auth/logout', [
+    'as'     => 'getLogout',
+    'uses'   => 'Auth\AuthController@getLogout'
+]);
+
+// Registration routes...
+Route::get('auth/register', [
+    'as'    => 'getRegister',
+    'uses'  => 'Auth\AuthController@getRegister'
+]);
+Route::post('auth/register', [
+    'as'    => 'postRegister',
+    'uses'  => 'Auth\AuthController@postRegister'
+]);
+
+
+Route::controllers([
+   'password' => 'Auth\PasswordController',
+]);
+
+
+/**
+ * END
+ */
+
+
+
 
 Route::get('/manufact', function () {
     return view('manufactProcess');
@@ -55,14 +97,21 @@ Route::get('/emergency', function () {
     return view('emergency');
 });
 
+
+
+
 //----- sithara made start ----
 
 // ------ industry Details ------
+
+
 Route::get('/industry' , 'IndustryController@index'); // list the Industries
 Route::get('/industry/create' , 'IndustryController@create'); // add new Industries
 Route::get('/industry/{id}' , 'IndustryController@show'); // display Industries
 Route::get('/industry/{id}/edit' , 'IndustryController@edit'); // edit Industries
-Route::get('/industry/delete' , 'IndustryController@delete'); // delete Industries
+Route::get('/industry/delete' , 'IndustryController@delete');
+
+ // delete Industries
 // ------ end of industry Details ------
 
 // ------ appliction Details ------
@@ -82,3 +131,8 @@ Route::get('/payment/delete' , 'PaymentController@delete'); // delete Payment
 // ------ end of appliction Details ------
 
 //----- sithara made end ----
+
+//Environmental Monitoring
+
+Route::get('/envimonitoring/specific/{standard}' , 'EnvironmentalMonitoringController@getSpecificIndustry');
+Route::get('/envimonitoring' , 'EnvironmentalMonitoringController@index');
