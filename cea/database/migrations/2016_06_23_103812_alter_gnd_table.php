@@ -26,8 +26,12 @@ class AlterGndTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('gnd');
+=======
         Schema::table('gnd', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

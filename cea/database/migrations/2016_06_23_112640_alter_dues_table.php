@@ -15,7 +15,11 @@ class AlterDuesTable extends Migration
         Schema::table('dues', function (Blueprint $table) {
             $table->foreign('industryID')->references('industryID')->on('industry');
             $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence'); 
+<<<<<<< HEAD
+            //$table->foreign('officeID')->references('officeID')->on('office');
+=======
             $table->foreign('officeID')->references('officeID')->on('office');
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
         });
     }
 
@@ -26,8 +30,12 @@ class AlterDuesTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('dues');
+=======
         Schema::table('dues', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

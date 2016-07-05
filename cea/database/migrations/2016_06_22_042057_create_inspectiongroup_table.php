@@ -14,7 +14,11 @@ class CreateInspectiongroupTable extends Migration
     {
         Schema::create('inspectiongroup', function (Blueprint $table) {
             $table->increments('insgroupID');
+<<<<<<< HEAD
+            $table->integer('officeID');
+=======
             $table->integer('officeID')->unsigned();
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
             $table->string('groupname');   
             $table->unique('groupname');       
             $table->timestamps();

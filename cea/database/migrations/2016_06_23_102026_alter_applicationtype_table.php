@@ -25,8 +25,12 @@ class AlterApplicationtypeTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('applicationtype');
+=======
         Schema::table('applicationtype', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

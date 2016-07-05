@@ -15,6 +15,9 @@ class CreateWaterTable extends Migration
         Schema::create('water', function (Blueprint $table) {
             $table->increments('w_id');
             $table->integer('industryID')->unsigned();
+<<<<<<< HEAD
+            $table->integer('epl_licence_id')->unsigned();   
+=======
             $table->integer('epl_licence_id')->unsigned();
             $table->integer('stndrd1_01_id')->unsigned();
             $table->integer('stndrd2_02_id')->unsigned();
@@ -25,6 +28,7 @@ class CreateWaterTable extends Migration
             $table->integer('stndrd7_07_id')->unsigned();
             $table->integer('stndrd36_08_id')->unsigned();
             $table->integer('stndrd7_09_id')->unsigned();   
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
             $table->double('wr_processing');
             $table->double('wr_cooling');
             $table->double('wr_washing');

@@ -16,6 +16,16 @@ class AlterIndustryTable extends Migration
             $table->foreign('provincecode')->references('prcode')->on('province');
             $table->foreign('districtcode')->references('dicode')->on('district');
             $table->foreign('laid')->references('lid')->on('localauthority');
+<<<<<<< HEAD
+            //$table->foreign('gnd_id')->references('gnd_id')->on('gnd');
+            //$table->foreign('dsd_id')->references('dsd_id')->on('dsdiv');
+            $table->foreign('sector')->references('scode')->on('sector');
+            $table->foreign('eplcategoryID')->references('idno')->on('epl_category');
+            $table->foreign('hwmcat_id')->references('hwmcat_id')->on('hwm_category');
+            //$table->foreign('officeID')->references('officeID')->on('office');
+            //$table->foreign('user_id')->references('user_id')->on('users');
+            //$table->foreign('cust_id')->references('cust_id')->on('customer');
+=======
             $table->foreign('gnd_id')->references('gnd_id')->on('gnd');
             $table->foreign('dsd_id')->references('dsd_id')->on('dsdiv');
             $table->foreign('sector')->references('scode')->on('sector');
@@ -24,6 +34,7 @@ class AlterIndustryTable extends Migration
             $table->foreign('officeID')->references('officeID')->on('office');
             $table->foreign('user_id')->references('user_id')->on('users');
             $table->foreign('cust_id')->references('cust_id')->on('customer');
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
             $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence');
             $table->foreign('hwm_id')->references('hwm_id')->on('hwm_licence');
             $table->foreign('indhwmcontact_id')->references('indhwmcontact_id')->on('industry_hwm_contactinfo');
@@ -42,8 +53,12 @@ class AlterIndustryTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('industry');
+=======
         Schema::table('industry', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

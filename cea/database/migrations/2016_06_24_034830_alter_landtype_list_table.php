@@ -24,8 +24,12 @@ class AlterLandtypeListTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('landtype_list');
+=======
         Schema::table('landtype_list', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

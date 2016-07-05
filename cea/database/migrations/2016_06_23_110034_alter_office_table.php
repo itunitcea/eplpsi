@@ -27,8 +27,12 @@ class AlterOfficeTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('office');
+=======
         Schema::table('office', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

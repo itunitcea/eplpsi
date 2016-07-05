@@ -16,8 +16,13 @@ class CreateNoticesTable extends Migration
             $table->increments('noticeID');
             $table->integer('industryID')->unsigned();
             $table->integer('epl_licence_id')->unsigned();
+<<<<<<< HEAD
+            $table->integer('senderID');
+            $table->integer('receiverID');
+=======
             $table->string('senderID');
             $table->string('receiverID');
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
             $table->datetime('sendDate');
             $table->datetime('readDate');
             $table->integer('stat');

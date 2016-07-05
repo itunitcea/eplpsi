@@ -15,6 +15,8 @@ class AlterWaterTable extends Migration
         Schema::table('water', function (Blueprint $table) {
             $table->foreign('industryID')->references('industryID')->on('industry');  
             $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence');
+<<<<<<< HEAD
+=======
             $table->foreign('stndrd1_01_id')->references('stndrd1_01_id')->on('ww_stndrd1_01');
             $table->foreign('stndrd2_02_id')->references('stndrd2_02_id')->on('ww_stndrd2_02');
             $table->foreign('stndrd3_03_id')->references('stndrd3_03_id')->on('ww_stndrd3_03');
@@ -25,6 +27,7 @@ class AlterWaterTable extends Migration
             $table->foreign('stndrd36_08_id')->references('stndrd36_08_id')->on('ww_stndrd3_6_08');
             $table->foreign('stndrd7_09_id')->references('stndrd7_09_id')->on('ww_stndrd7_09');           
 
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
         });
     }
 
@@ -35,8 +38,12 @@ class AlterWaterTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('water');
+=======
         Schema::table('water', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }

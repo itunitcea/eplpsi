@@ -25,8 +25,12 @@ class AlterIndustryHwmContactinfoTable extends Migration
      */
     public function down()
     {
+<<<<<<< HEAD
+        Schema::drop('industry_hwm_contactinfo');
+=======
         Schema::table('industry_hwm_contactinfo', function (Blueprint $table) {
             //
         });
+>>>>>>> eed154157274eb25cb1e2e1ae906d719332ddf83
     }
 }
