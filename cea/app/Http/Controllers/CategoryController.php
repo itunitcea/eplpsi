@@ -17,7 +17,7 @@ class CategoryController extends Controller
     {
         $categories = \App\Category::all();
     //    var_dump($categories);
-       $data["categories"] = $categories;
+        $data["categories"] = $categories;
         return view('category.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }
 

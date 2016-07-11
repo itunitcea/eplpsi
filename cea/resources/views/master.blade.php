@@ -70,6 +70,9 @@ and open the template in the editor.
                             <li>
                                 <a href="{{url('/category')}}">Category</a>
                             </li>
+                            <li>
+                                <a href="{{url('/province')}}">Province</a>
+                            </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reminders<span class="caret"></span></a>
                                 <ul class="dropdown-menu" role="menu">

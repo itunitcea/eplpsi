@@ -4,7 +4,10 @@
 
 <h2>Details of Water</h2>  
 
-<form action="water" method="post">
+<form action="water" action="{{url('/water')}}" method="post" >
+    <input type="hidden" name="_method" value="POST">
+    <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
+    
     <label>Processing (m3/day)</label>
     <input type="text" class="form-control" placeholder="Enter Processing (m3/day)" name="processing">
     <label>cooing (m3/day)</label>

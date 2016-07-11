@@ -16,6 +16,10 @@ class WaterController extends Controller
     public function index()
     {
         return view('water.index'); //we should create folder called "category" and file called"index.blade.php"
+//        $water = \App\Water::all();
+//    //    var_dump($categories);
+//        $data["categories"] = $categories;
+//        return view('category.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }
 
     /**

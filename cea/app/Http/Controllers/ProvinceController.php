@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class AtmoshericController extends Controller
+class ProvinceController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,7 +15,10 @@ class AtmoshericController extends Controller
      */
     public function index()
     {
-        return view('atmosheric.index'); //we should create folder called "category" and file called"index.blade.php"
+        $province = \App\Province::all();
+    //    var_dump($categories);
+        $data["province"] = $province;
+        return view('province.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }
 
     /**
@@ -25,7 +28,7 @@ class AtmoshericController extends Controller
      */
     public function create()
     {
-        return view('atmosheric.create'); //we should create file called "create.blade.php"
+       return view('province.create');//
     }
 
     /**
@@ -36,7 +39,15 @@ class AtmoshericController extends Controller
      */
     public function store(Request $request)
     {
-        return view('atmosheric.store');
+//        $input = $request::all();
+//        \App\Category::create($input);
+//        return redirect()->back();
+        $pro = new \App\Province();
+        $pro->prcode = $request->get("prcode");
+        $pro->prname = $request->get("prname");
+        $pro->save();
+        
+        return redirect()->back();
     }
 
     /**
@@ -47,7 +58,10 @@ class AtmoshericController extends Controller
      */
     public function show($id)
     {
-      return view('atmosheric.show');  
+        $province = \App\Province::find($id);
+        $data["province"] = $province;
+        
+        return view('province.show',$dsata);//
     }
 
     /**
@@ -58,7 +72,10 @@ class AtmoshericController extends Controller
      */
     public function edit($id)
     {
-        return view('atmosheric.edit');
+        $province = \App\Province::find($id);
+        $data["province"] = $province;
+        
+        return view('province.edit',$data);//
     }
 
     /**

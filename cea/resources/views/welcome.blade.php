@@ -10,8 +10,9 @@
        </div>
 
        <div class = "panel-body">
+           <a href="{{url('/eplApplication')}}">
            <img src="{{asset('assets/images/eplpsi.jpg')}}" class='img-responsive'/>
-           
+           </a>
        </div>
     </div>
 </div>

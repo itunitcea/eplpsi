@@ -11,20 +11,22 @@
             <tr>
                 <th>Inspection Date</th>
                 <th>Inspection Officers</th>
+                <th>Inspection Status</th>
                 <th>Reason for Inspection</th>
                 <th>Options</th>
             </tr>
         </thead>
-        <tbody>
+        @foreach($inspections as $inspection)
             <tr>
-                <td>03/22/2012</td>
-                <td>S.P. Guruge / L.K. Himakanthi</td>
-                <td>EPL Issued</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="industry/show">Show</a>
+                <td>{{$inspection->nameOfInspectionOfficer}}</td>
+                <td>{{$inspection->inspectiondate}}</td>
+                <td>{{$inspection->inspectionSatus}}</td>
+                <td>{{$inspection->reason}}</td>
+                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
                     <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
                     <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
             </tr>
-        </tbody>
+        @endforeach
     </table>
 
 @endsection

@@ -1,88 +1,36 @@
+
 @extends('master')
+
 @section('content')
-    <h3> List of Industries</h3>
-    <a href="{{url('industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
-    <table class="table table-striped">
+
+    <h2>List Of Industries</h2>
+    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
+    <a href="{{url('/industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <table class="table">
         <thead>
             <tr>
-            <th>No</th>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Location</th>
-            <th>Address</th>
-            <th>LA Code</th>
-            <th>Sector</th>
-            <th>Category</th>
-            <th>File No</th>
-            <th>OPTIONS</th>
+                <th>Industry ID</th>
+                <th>Industry Name</th>
+                <th>Industry Type</th>
+                <th>Industry Category</th>
+                <th>Sector</th>
+                <th>Province</th>
+                <th>Option</th>
             </tr>
         </thead>
-        
-        <tr>
-            <th>26230</th>
-            <th>Karukupane, Bangadeniya, Chilaw.</th>
-            <th>Other</th>
-            <th></th>
-            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Chilaw</th>
-            <th>PAA</th>
-            <th>BM</th>
-            <th>A66</th>
-            <th>NW/PX/PAA/BM/A66//</th>
-            <td>
-                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
-                <a class="glyphicon glyphicon-info-sign btn btn-success">Edit</a> 
-                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
-            </td>
-        </tr>
-        
-        <tr>
-            <th>26255</th>
-            <th>Ananthaya Resorts, Karukupane, Bangadeniya, Chilaw.</th>
-            <th>Other</th>
-            <th></th>
-            <th>Ananthaya Resorts, Karupane, Bangadeniya,Chilaw., , Chilaw</th>
-            <th>PAA</th>
-            <th>BM</th>
-            <th>A66</th>
-            <th>NW/PX/PAA/BM/A66//</th>
-            <td>
-                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
-                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
-            </td>
-        </tr>
-        
-        <tr>
-            <th>26366</th>
-            <th>Hotal of tourism</th>
-            <th>Other</th>
-            <th></th>
-            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Chilaw</th>
-            <th>PAA</th>
-            <th>BM</th>
-            <th>A66</th>
-            <th>NW/PX/PAA/BM/A66//</th>
-            <td>
-                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
-                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
-            </td>
-        </tr>
-        
-        <tr>
-            <th>26367</th>
-            <th>Ananthaya Resorts, Karukupane, Bangadeniya, Chilaw.</th>
-            <th>Other</th>
-            <th></th>
-            <th>Karukupane, Bangadeniya,Chilaw,Sri Lanka, , Bangadeniya</th>
-            <th>PAA</th>
-            <th>BM</th>
-            <th>A66</th>
-            <th>NW/PX/PAA/BM/A66//</th>
-            <td>
-                <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
-                <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
-            </td>
-        </tr>
-        
-        
+        @foreach($industries as $industry)
+            <tr>
+                <td>{{$industry->industryID}}</td>
+                <td>{{$industry->industryName}}</td>
+                <td>{{$industry->industrytype}}</td>
+                <td>{{$industry->eplcategoryid}}</td>
+                <td>{{$industry->sector}}</td>
+                <td>{{$industry->provincecode}}</td>
+                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
+                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
+                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
+            </tr>
+        @endforeach
     </table>
+
 @endsection

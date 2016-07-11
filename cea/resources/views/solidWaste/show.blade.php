@@ -8,9 +8,6 @@
     <label>Type and Nature of Soild Wastes :</label>
     <label>Total quantity of soild waste - kg/day:</label>
     <label>Method of Disposal of Soild Waste :</label>
-
-
-
 </form>
 
 
