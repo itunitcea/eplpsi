@@ -1,9 +1,11 @@
 <?php
 
 namespace App;
-use Illuminate\Database\Eloquent\Model; // use to import the Model
+use Illuminate\Database\Eloquent\Model;
 
 class Industry extends Model{
+    
     protected $table = 'industry';
-    public $timestamps = false;
+    protected $primaryKey = 'industryID';
+    public $timestamps = false; // timestamp who are the save person date time
 }

@@ -15,11 +15,10 @@ class WaterController extends Controller
      */
     public function index()
     {
-        return view('water.index'); //we should create folder called "category" and file called"index.blade.php"
-//        $water = \App\Water::all();
-//    //    var_dump($categories);
-//        $data["categories"] = $categories;
-//        return view('category.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
+       $water = \App\Water::all();
+    //    var_dump($categories);
+       $data["water"] = $water;
+        return view('water.index',$data);
     }
 
     /**
@@ -40,7 +39,24 @@ class WaterController extends Controller
      */
     public function store(Request $request)
     {
-        return view('water.store');
+        $water = new \App\Water();
+        $water->wr_processing = $request->get("wr_processing");
+        $water->wr_cooling = $request->get("wr_cooling");
+        $water->wr_washing = $request->get("wr_washing");
+        $water->wr_domestic = $request->get("wr_domestic");
+        $water->swater_publicsupply = $request->get("swater_publicsupply");
+        $water->swater_groundwater = $request->get("swater_groundwater");
+        $water->swater_sufacewater = $request->get("swater_sufacewater");
+        $water->totaldailydischargewwater = $request->get("totaldailydischargewwater");
+        $water->totaldisDome = $request->get("totaldisDome");
+        $water->totaldisIndu = $request->get("totaldisIndu");
+        $water->discharge_method = $request->get("discharge_method");
+        $water->finalpointofDischarge_ww = $request->get("finalpointofDischarge_ww");
+       
+        $water->save();
+        
+        return redirect()->back();
+//        return view('water.store');
     }
 
     /**
@@ -49,9 +65,13 @@ class WaterController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($w_id)
     {
-      return view('water.show');  
+//      return view('water.show');  
+        $water = \App\Water::find($w_id);
+        $data["water"] = $water;
+        
+        return view('water.show',$data);//
     }
 
     /**
@@ -60,9 +80,13 @@ class WaterController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($w_id)
     {
-        return view('solidwaste.edit');
+        $water = \App\Water::find($w_id);
+        $data["water"] = $water;
+        
+        return view('water.edit',$data);//
+//        return view('water.edit');
     }
 
     /**

@@ -1,12 +1,13 @@
-
 @extends('master')
 
 @section('content')
 
     <h2>List Of Industries</h2>
-    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
-    <a href="{{url('/industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
-    <table class="table">
+    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>
+    <a style="float: right;" class="btn btn-success" href="{{url('/industry/create')}}"  role="button"><span class="glyphicon glyphicon-plus"></span> CREATE INDUSTRY</a>
+    <br>
+    <br>
+    <table class="table table-bordered">
         <thead>
             <tr>
                 <th>Industry ID</th>
@@ -26,11 +27,11 @@
                 <td>{{$industry->eplcategoryid}}</td>
                 <td>{{$industry->sector}}</td>
                 <td>{{$industry->provincecode}}</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
+                <td><a class=" btn btn-info" href="{{url('/industry/'.$industry->industryID.'/show')}}" ><span class="glyphicon glyphicon-eye-open"></span> Show</a>
+                    <a class=" btn btn-warning" href="{{url('/industry/'.$industry->industryID.'/edit')}}"><span class="glyphicon glyphicon-edit"></span> Edit</a></td>
             </tr>
         @endforeach
-    </table>
 
+    </table>
+    <div>{!! $industries->render() !!}</div>
 @endsection

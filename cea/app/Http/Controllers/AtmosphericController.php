@@ -3,23 +3,21 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
 use App\Http\Requests;
 
-class AtmoshericController extends Controller
-{
+class AtmosphericController extends Controller {
+
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
-    {
-        $atmospheric = \App\Atmosheric::all();
-    //    var_dump($categories);
-        $data["atmospheric"] = $atmospheric;
-        return view('atmospheric.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
-//        return view('atmosheric.index'); //we should create folder called "category" and file called"index.blade.php"
+    public function index() {
+        $atmospheric_emission = \App\AtmosphericEmission::all();
+        //    var_dump($categories);
+        $data["atmospheric_emission"] = $atmospheric_emission;
+        return view('atmosphericEmission.index', $data);
+//        return view('atmosphere.index'); //we should create folder called "category" and file called"index.blade.php"
     }
 
     /**
@@ -27,9 +25,8 @@ class AtmoshericController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
-    {
-        return view('atmosheric.create'); //we should create file called "create.blade.php"
+    public function create() {
+        return view('atmosphericEmission.create'); //we should create file called "create.blade.php"
     }
 
     /**
@@ -38,27 +35,21 @@ class AtmoshericController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
-    {
-        // industryID, epl_licence_id
-        $atmospheric = new \App\Atmosheric();
-        $atmospheric->nitrogenOxide = $request->get("nitrogenOxide");
-        $atmospheric->sulfurOxide = $request->get("sulphureOxide");
-        $atmospheric->dustAndSoot = $request->get("dustSoot");
-        $atmospheric->other = $request->get("anyOther");
-        $atmospheric->noOfStacks = $request->get("noOfChimneys");
-        $atmospheric->height = $request->get("chimneyHeight");
-        $atmospheric->causedOdorProblems = $request->get("isodour");
-        $atmospheric->source = $request->get("odourSource");
-        $atmospheric->modeofabatement = $request->get("abatement");
-        
-        // date updated
-        $atmospheric->created_at = new DateTime();
-        $atmospheric->updated_at = new DateTime();
-        $atmospheric->save();
+    public function store(Request $request) {
+        $atmospheric_emission = new \App\AtmosphericEmission();
+        $atmospheric_emission->nitrogenOxide = $request->get("nitrogenOxide");
+        $atmospheric_emission->sulfurOxide = $request->get("sulfurOxide");
+        $atmospheric_emission->dustAndSoot = $request->get("dustAndSoot");
+        $atmospheric_emission->other = $request->get("other");
+        $atmospheric_emission->noOfStacks = $request->get("noOfStacks");
+        $atmospheric_emission->height = $request->get("height");
+        $atmospheric_emission->causedOdorProblems = $request->get("causedOdorProblems");
+        $atmospheric_emission->source = $request->get("source");
+        $atmospheric_emission->modeofabatement = $request->get("modeofabatement");
+        $atmospheric_emission->save();
         
         return redirect()->back();
-//        return view('atmosheric.store');
+//        return view('atmosphere.store');
     }
 
     /**
@@ -67,13 +58,12 @@ class AtmoshericController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
-    {
-        $atmospheric = \App\Atmosheric::find($id);
-        $data["atmospheric"] = $atmospheric;
+    public function show($ai_id) {
+//        return view('atmosphere.show');
+        $atmospheric_emission = \App\AtmosphericEmission::find($ai_id);
+        $data["atmospheric_emission"] = $atmospheric_emission;
         
-        return view('atmospheric.show',$dsata);//
-//      return view('atmosheric.show');  
+        return view('atmosphericEmission.show',$data);//
     }
 
     /**
@@ -82,13 +72,12 @@ class AtmoshericController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
-    {
-        $atmospheric = \App\Atmosheric::find($id);
-        $data["atmospheric"] = $atmospheric;
+    public function edit($ai_id) {
+        $atmospheric_emission = \App\AtmosphericEmission::find($ai_id);
+        $data["atmospheric_emission"] = $atmospheric_emission;
         
-        return view('atmospheric.edit',$data);//
-//        return view('atmosheric.edit');
+        return view('atmosphericEmission.edit',$data);//
+//        return view('atmosphere.edit');
     }
 
     /**
@@ -98,8 +87,7 @@ class AtmoshericController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
-    {
+    public function update(Request $request, $id) {
         //
     }
 
@@ -109,8 +97,8 @@ class AtmoshericController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
-    {
+    public function destroy($id) {
         //
     }
+
 }

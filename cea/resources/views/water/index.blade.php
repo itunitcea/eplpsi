@@ -1,113 +1,35 @@
+
 @extends('master')
+
 @section('content')
 
+    <h2>Water Details</h2>
+    <a href="{{url('/water/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <table class="table">
+        <thead>
+            <tr>
+                <td>No</td>
+                <th>Total Daily Discharge Of Water</th>
+                <th>Discharge Method</th>
+                <th>Total Domestic Discharge</th>
+                <th>Total Industrial Discharge</th>
+                <th>Final Point of Discharge Water</th>
+                <th>Options</th>
+            </tr>
+        </thead>
+        @foreach($water as $water)
+            <tr>
+                <td>{{$water->w_id}}</td>
+                <td>{{$water->totaldailydischargewwater}}</td>
+                <td>{{$water->discharge_method}}</td>
+                <td>{{$water->totaldisDome}}</td>
+                <td>{{$water->totaldisIndu}}</td>
+                <td>{{$water->finalpointofDischarge_ww}}</td>
+                <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('/water/'. $water->w_id. '/show')}}" >Show</a>
+                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
+                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
+            </tr>
+        @endforeach
+    </table>
 
-    <body>
-       <div class="jumbotron">
-       		<form class="form-horizontal" action="water_action.php" method="post" enctype="multipart/form-data">
-			<br/>
-		    <fieldset>
-			<legend style="color:green;text-align:left;">Details of Water</legend>
-			<br/>
-			<div class="form-group">
-			    <label class="col-sm-2 control-label" >Processing (m3/day):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Processing (m3/day)" name="processing">
-				</div>
-			</div>
-			<div class="form-group">
-			    <label class="col-sm-2 control-label">Cooling (m3/day):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Cooling (m3/day)" name="cooling">
-				</div>
-		    </div>
-		 	<div class="form-group">
-			    <label class="col-sm-2 control-label">Washing (m3/day):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Washing (m3/day)" name="washing">
-				</div>
-			</div>
-			<div class="form-group">
-			    <label class="col-sm-2 control-label">Domestic (m3/day):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Domestic (m3/day)" name="domestic">
-				</div>
-		    </div>
-		    <div class="form-group">
-			    <label class="col-sm-2 control-label">Public Supply:</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Public Supply " name="publicsupply">
-				</div>
-			</div>
-			<div class="form-group">
-			    <label class="col-sm-2 control-label">Ground Water (Wells, Springs):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Ground Water (Wells, Springs)" name="groundwater">
-				</div>
-		    </div>
-		 	<div class="form-group">
-			    <label class="col-sm-2 control-label">Surface Water (Stream, River):</label>
-			    <div class="col-sm-10">
-					<input type="text" class="form-control" placeholder="Enter Surface Water (Stream, River)" name="surfacewater">
-				</div>
-			</div>
-
-			<div class="form-group">
-	  			<fieldset>
-					<legend style="color:green;text-align:left;"> Total daily discharge (m3/day): </legend>
-					    <label class="col-sm-2 control-label">Domestic</label>
-					    <div class="col-sm-10">
-							<input type="text" class="form-control" placeholder="Enter Total daily discharge of domestic" name="totaldomestic">
-						</div>
-						<br/><br/>
-						<label class="col-sm-2 control-label">Industrial</label>
-					    <div class="col-sm-10">
-							<input type="text" class="form-control" placeholder="Enter Total daily discharge of Industrial" name="totalIndustrial">
-						</div>
-				</fieldset>
-		  	</div>
-
-			<div class="form-group">
-			    <label class="col-sm-2 control-label">Method of Discharge water :</label>
-			    <div class="col-sm-10">
-					<select class="form-control" width="100" name="dischargemethod">
-						<option value="" selected="selected"></option>
-						<option value="1" >Open channel</option>
-						<option value="2" >Pipeline</option>
-						<option value="3" >Covered Drain</option>
-						<option value="3" >Other</option>
-				    </select>
-				</div>
-		    </div>
-
-		    <div class="form-group">
-			    <label class="col-sm-2 control-label">Final point of discharge of waste water :</label>
-			    <div class="col-sm-10">
-					<select class="form-control" width="100" name="dischargepoint">
-						<option value="" selected="selected"></option>
-						<option value="1" >Agricultural Land</option>
-						<option value="2" >Marshy Land</option>
-						<option value="3" >Sewer</option>
-						<option value="4" >Lake</option>
-						<option value="5" >River</option>
-						<option value="6" >Ela</option>
-						<option value="5" >Sea</option>
-						<option value="6" >Other</option>
-				    </select>
-				</div>
-		    </div>
-		  	
-              <div>
-                <center>
-                    <a href="#" class="btn btn-success"  style="width:80px">Save</a>
-                   	<a href="epldashboard.php" class="btn btn-danger" style="width:80px">Cancel</a>
-                </center>
-            </div>
-		</fieldset>
-		</form>
-
- 			 </div>
-        <br/>
-      </div>
-    </body>
 @endsection

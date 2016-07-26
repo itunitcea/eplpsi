@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class SolidwasteController extends Controller
+class SolidWasteController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -19,7 +19,7 @@ class SolidwasteController extends Controller
         $solidwaste = \App\SolidWaste::all();
     //    var_dump($categories);
         $data["solidwaste"] = $solidwaste;
-        return view('solidwaste.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
+        return view('solidWaste.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }
 
     /**
@@ -29,7 +29,7 @@ class SolidwasteController extends Controller
      */
     public function create()
     {
-        return view('solidwaste.create'); //we should create file called "create.blade.php"
+        return view('solidWaste.create'); //we should create file called "create.blade.php"
     }
 
     /**
@@ -56,13 +56,13 @@ class SolidwasteController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($sw_id)
     {
-        $solidwaste = \App\SolidWaste::find($id);
-        $data["solidwaste"] = $solidwaste;
+        $sw = \App\SolidWaste::find($sw_id);
+        $data["sw"] = $sw;
         
-        return view('category.show',$dsata);//
-//      return view('solidwaste.show');  
+        return view('solidWaste.show',$data);//
+//      return view('solidWaste.show');  
     }
 
     /**
@@ -71,12 +71,12 @@ class SolidwasteController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($sw_id)
     {
-        $solidwaste = \App\SolidWaste::find($id);
-        $data["solidwaste"] = $solidwaste;
+        $sw = \App\SolidWaste::find($sw_id);
+        $data["sw"] = $sw;
         
-        return view('solidwaste.edit',$data);//
+        return view('solidWaste.edit',$data);//
 //        return view('solidwaste.edit');
     }
 

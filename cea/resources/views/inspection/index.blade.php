@@ -5,7 +5,7 @@
 
     <h2>Inspection Details</h2>
     <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
-    <a href="{{url('/industry/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <a href="{{url('/inspection/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
     <table class="table">
         <thead>
             <tr>

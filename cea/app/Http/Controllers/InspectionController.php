@@ -15,12 +15,7 @@ class InspectionController extends Controller
      */
     public function index()
     {
-        //return view('inspection.index');//We should create folder called "inspection" and file called 'index.blade.php'
-        $inspection = \App\Inspection::all();
-    //    var_dump($categories);
-       $data["inspections"] = $inspection;
-        return view('inspection.index',$data);//We should create folder called "inspection" and file called 'index.blade.php'
-    
+        return view('inspection.index');//We should create folder called "inspection" and file called 'index.blade.php'
     }
 
     /**
@@ -41,14 +36,7 @@ class InspectionController extends Controller
      */
     public function store(Request $request)
     {
-        $insp = new \App\Inspection();
-        $insp->nameOfInspectionOfficer = $request->get("officerName");
-        $insp->inspectiondate = $request->get("inspectionDate");
-        $insp->inspectionSatus = $request->get("inspectionSatus");
-        $insp->reason = $request->get("inspectionReason");
-        $insp->save();
-        
-        return redirect()->back();
+        //
     }
 
     /**
@@ -59,11 +47,7 @@ class InspectionController extends Controller
      */
     public function show($id)
     {
-        //return view('inspection.show');//
-        $inspection = \App\Inspection::find($id);
-        $data["inspection"] = $inspection;
-        
-        return view('inspection.show',$dsata);//
+        return view('inspection.show');//
     }
 
     /**
@@ -74,10 +58,7 @@ class InspectionController extends Controller
      */
     public function edit($id)
     {
-        $inspection = \App\Inspection::find($id);
-        $data["inspection"] = $inspection;
         
-        return view('inspection.edit',$data);//
     }
 
     /**

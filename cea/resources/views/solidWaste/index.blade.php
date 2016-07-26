@@ -2,8 +2,7 @@
 @section('content')
 
 <h2>Solid Waste Details</h2>
-    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
-    <a href="{{url('/solidwaste/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <a href="{{url('/solidWaste/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
     <table class="table table-striped">
         <thead>
             <tr>
@@ -13,17 +12,17 @@
                 <th>Options</th>
             </tr>
         </thead>
-        @foreach($inspections as $inspection)
+        @foreach($solidwaste as $solidwaste)
             <tr>
-                <td>{{$sw->natureOfSolidWaste}}</td>
-                <td>{{$sw->total_qty_sw}}</td>
-                <td>{{$sw->sw_disposal_method}}</td>
-                <td><a class="glyphicon glyphicon-eye-open btn btn-info" >Show</a>
+                <td>{{$solidwaste->natureOfSolidWaste}}</td>
+                <td>{{$solidwaste->total_qty_sw}}</td>
+                <td>{{$solidwaste->sw_disposal_method}}</td>
+                <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('/solidWaste/'.$solidwaste->sw_id).'/show'}}">Show</a>
                     <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
+                    <a class="glyphicon glyphicon-edit btn btn-warning" href="{{url('/solidWaste/'.$solidwaste->sw_id).'/edit'}}">Edit</a></td>
             </tr>
         @endforeach
     </table>
-    
+    solidWaste
 @endsection
 

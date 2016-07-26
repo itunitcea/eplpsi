@@ -62,7 +62,7 @@ class CategoryController extends Controller
         $category = \App\Category::find($id);
         $data["category"] = $category;
         
-        return view('category.show',$dsata);//
+        return view('category.show',$data);//
     }
 
     /**

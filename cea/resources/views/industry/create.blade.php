@@ -1,14 +1,13 @@
 @extends('master')
+
 @section('content')
 
-
-<h2>Add New Industry </h2>
+<h2>Add New Industry</h2>
 
 <form class="form-horizontal" action="{{url('/industry')}}" method="post" >
 
     <input type="hidden" name="_method" value="POST">
     <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
-
     <div class="form-group">
         <label class="col-sm-2 control-label">Application Language</label>
         <div class="col-sm-10">
@@ -23,7 +22,7 @@
     <div class="form-group">
         <label class="col-sm-2 control-label">Name of Industry</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" name="industryName" placeholder="Enter Name of Industry">
+            <input type="text" class="form-control" placeholder="Enter Name of Industry" name="industryName">
         </div>
     </div>
     <div class="form-group">
@@ -31,9 +30,12 @@
         <div class="col-sm-10">
             <select class="form-control" width="100" name="industrytype">
                 <option value="" selected="selected"></option>
-                <option value="1" >Manufacture</option>
-                <option value="2" >........</option>
-                <option value="3" >.....</option>
+                <option value="Assembly" >Assembly</option>
+                <option value="Formulation" >Formulation</option>
+                <option value="Manufacture" >Manufacture</option>
+                <option value="Processing" >Processing</option>
+                <option value="Repacking" >Repacking</option>
+                <option value="Other" >Other</option>
             </select>
         </div>
     </div>
@@ -43,30 +45,20 @@
             <select class="form-control" width="100" name="BOIregistration">
                 <option value="" selected="selected"></option>
                 <option value="1" >Yes</option>
-                <option value="2" >No</option>
+                <option value="0" >No</option>
             </select>
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">Category of Industry</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100" name="eplcategoryid">
-                <option value="" selected="selected"></option>
-                <option value="1" >A68</option>
-                <option value="2" >.....</option>
-                <option value="3" >...</option>
-            </select>
+            {!! Form::select('eplcategoryid', $epl_categories, null, ['class' => 'form-control']) !!}
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">Sector of Industry</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100" name="sector">
-                <option value="" selected="selected"></option>
-                <option value="1" >SL</option>
-                <option value="2" >...</option>
-                <option value="3" >...</option>
-            </select>
+            {!! Form::select('sector', $sector, null, ['class' => 'form-control']) !!}
         </div>
     </div>
     <div class="form-group">
@@ -78,161 +70,176 @@
     <div class="form-group">
         <label class="col-sm-2 control-label">Industry Location Address Line 1</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" name="indadd1" placeholder="Enter Industry Location Address Line 1">
+            <input type="text" class="form-control" placeholder="Enter Industry Location Address Line 1" name="indadd1">
         </div>
     </div>
     <div class="form-group">
-        <label class="col-sm-2 control-label">Industry Location Address Line 2</label>
+        <label class="col-sm-2 control-label"></label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" name="indadd2" placeholder="Enter Industry Location Address Line 2">
+            <input type="text" class="form-control" placeholder="Enter Industry Location Address Line 2" name="indadd2">
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">City</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" name="indadd3" placeholder="Enter City">
+            <input type="text" class="form-control" placeholder="Enter City" name="indadd3">
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">Province</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100" name="provincecode">
-                <option value="" selected="selected"></option>
-                <option value="1" >Western Province</option>
-                <option value="2" >....</option>
-                <option value="3" >.....</option>
-            </select>
+            <select name="province" id="provinceDropDown" class="form-control">
+                @foreach($province as $p)
+                    <option value="{{$p->prcode}}">{{$p->prname}}</option>
+                @endforeach
+            </select>       
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">District</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100" name="districtcode">
-                <option value="" selected="selected"></option>
-                <option value="1" >Kalutara</option>
-                <option value="2" >...</option>
-                <option value="3" >....</option>
-            </select>
+             <select name="district" id="districtDropdown" class="form-control district"></select>
         </div>
     </div>
     <div class="form-group">
         <label class="col-sm-2 control-label">Local Authority</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100"name="laid">
+            <select name="localauthority" id="localauthorityDropdown" class="form-control district"></select>
+        </div>
+    </div>
+    <div class = jumbotron>Investment Details
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Local:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="localinvestment">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Foreign</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="foreigninvestment">
+        </div>
+    </div>
+    </div>
+    <div class="form-group">
+        <!-- DATE PICKER -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">  
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.5.0/css/bootstrap-datepicker.css" rel="stylesheet">  
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>  
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.5.0/js/bootstrap-datepicker.js"></script>  
+        <label class="col-sm-2 control-label">Date of Commencement of Operation</label>  
+        <div class="col-sm-10">
+            <input class="date form-control" type="text">  
+        </div>
+        
+        <script type="text/javascript">  
+            $('.date').datepicker({  
+               format: 'MM-dd-yyyy'  
+             });  
+        </script> 
+    </div>
+    
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Number of Shifts/Day and Times :</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="noOfWorkersEachShift">
+        </div>
+    </div >
+    <div class="form-group">
+        <label class="col-sm-2 control-label">No of Workers in Each Shift :</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="foreigninvestment">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Land use of the area within five km radius :</label>
+        <div class="col-sm-10">
+            <select class="form-control" width="100" name="landUseWithIn5Km">
                 <option value="" selected="selected"></option>
-                <option value="1" >Kalutara U. C.</option>
-                <option value="2" >...</option>
-                <option value="3" >....</option>
+                <option value="Residential" >Residential</option>
+                <option value="Commercial" >Commercial</option>
+                <option value="Agricultural" >Agricultural</option>
+                <option value="Open Space" >Open Space</option>
+                <option value="Public Area" >Public Area</option>
+                <option value="Marshy Land" >Marshy Land</option>
+                <option value="Salty Marshy Land" >Salty Marshy Land</option>
+                <option value="Mangrove" >Mangrove</option>
+                <option value="Natural Reserve" >Natural Reserve</option>
+                <option value="Other" >Other</option>
+
             </select>
         </div>
     </div>
     <div class="form-group">
-        <label class="col-sm-2 control-label">Grama Niladari Division</label>
+        <label class="col-sm-2 control-label">Land available for treatment plant :</label>
         <div class="col-sm-10">
-            <select class="form-control" width="100"name="gnd_id">
-                <option value="" selected="selected"></option>
-                <option value="1" >BBB</option>
-                <option value="2" >...</option>
-                <option value="3" >....</option>
+            <input type="text" class="form-control" name="landAvailableForTreatmantPlant">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Inspection Group Name :</label>
+        <div class="col-sm-10">
+
+            <select name="insGrpID" class="form-control">
+                <option value = ""></option>
+                @foreach($groupname as $g)
+                    <option value = "{{$g->insgroupID}}">{{$g->groupname}}</option>
+                @endforeach
             </select>
         </div>
-    </div>
-    <div class="form-group">
-        <label class="col-sm-2 control-label">Divisional Secretariat Division</label>
-        <div class="col-sm-10">
-            <select class="form-control" width="100"name="dsd_id">
-                <option value="" selected="selected"></option>
-                <option value="1" >Kalutara U. C.</option>
-                <option value="2" >...</option>
-                <option value="3" >....</option>
-            </select>
-        </div>
-    </div>
-    <div class="form-group">
-        <label class="col-sm-2 control-label">Is the site within an Approved Industrial Zone</label>
-        <div class="col-sm-10">
-            <div class="radio">
-                <label>
-                    <input type="radio" name="isWithinIndustrialZone" id="optionsRadios1" value="option1" checked>
-                    Yes
-                </label>
-                <label>
-                    <input type="radio" name="isWithinIndustrialZone" id="optionsRadios2" value="option2">
-                    No
-                </label>
-            </div>
-        </div>
-    </div>
-    <div class="form-group">
-        <fieldset>
-            <legend style="color:green;text-align:left;"> Investment Details </legend>
-            <label class="col-sm-2 control-label">Local</label>
-            <div class="col-sm-10">
-                <input type="text" class="form-control" name="localinvestment" placeholder="Enter Local Investment">
-            </div>
-            <br/><br/>
-            <label class="col-sm-2 control-label">Foreign</label>
-            <div class="col-sm-10">
-                <input type="text" class="form-control" name="foeigninvestment" placeholder="Enter Foreign Investment">
-            </div>
-        </fieldset>
     </div>
 
-    <fieldset>
-        <legend style="color:green;text-align:left;">Other Details</legend>
-        <div class="form-group">
-            <label class="control-label col-sm-2" for="datOperation">Date of Commencement of operation :</label>
-            <div class="col-sm-10">          
-                <input type="date" class="form-control" id="datOperation" name="dateofCommencementofOperation">
-            </div>
-        </div>
-        <br/>
-        <div class="form-group">
-            <label class="col-sm-2 control-label">Number of Shifts/Day and Times</label>
-            <div class="col-sm-10">
-                <input type="text" class="form-control" name="noOfShift" placeholder="Enter Number of Shifts/Day and Times">
-            </div>
-        </div>
-        <div class="form-group">
-            <label class="col-sm-2 control-label">No of Workers in Each Shift</label>
-            <div class="col-sm-10">
-                <input type="text" name="noOfWorkersEachShift" class="form-control" placeholder="Enter No of Workers in Each Shift">
-            </div>
-        </div>
-        <div class="form-group">
-            <label class="col-sm-2 control-label">Land use of the area within five km radius</label>
-            <div class="col-sm-10">
-                <select class="form-control" width="100" name="landUseWithIn5Km">
-                    <option value="" selected="selected"></option>
-                    <option value="1" >Residential</option>
-                    <option value="2" >......</option>
-                    <option value="3" >......</option>
-                </select>
-            </div>
-        </div>
-        <div class="form-group">
-            <label class="col-sm-2 control-label">Land available for treatment plant</label>
-            <div class="col-sm-10">
-                <input type="text" name="landAvailableForTreatmantPlant" class="form-control" placeholder="Enter Land available for treatment plant">
-            </div>
-        </div>
-        <div class="form-group">
-            <label class="col-sm-2 control-label">Inspection Group Name</label>
-            <div class="col-sm-10">
-                <select class="form-control" width="100" name="insGrpID">
-                    <option value="" selected="selected"></option>
-                    <option value="1" >grp 1</option>
-                    <option value="2" >......</option>
-                    <option value="3" >......</option>
-                </select>
-            </div>
-        </div>
-        <div>
-            <center>
-                <input type="submit" value="SAVE" class="glyphicon glyphicon-eye-open btn btn-success"/>
-                <input type="submit" value="CANCEL" class="glyphicon glyphicon-eye-open btn btn-danger" />
-            </center>
-        </div>
-    </fieldset>
-</form>
+<script>
+    $(document).ready(function () {
+    var prcode = $('#provinceDropDown').val();
+    console.log(prcode);
+    $.ajax({
+      url: '{{route('district')}}',
+      data: {prcode: prcode},
+      type: 'get',
+      success: function (result) {
+        $('#districtDropdown').html(result);
+      }
+    });
+    });
+    jQuery('#provinceDropDown').on('change', function (event) {
+    var prcode = $('#provinceDropDown').val();
+    console.log(prcode);
+    $.ajax({
+      url: '{{route('district')}}',
+      data: {prcode: prcode},
+      type: 'get',
+      success: function (result) {
+        $('#districtDropdown').html(result);
+      }
+    });
+    });
+
+    $(document).ready(function () {
+    var dicode = $('#districtDropdown').val();
+    console.log(dicode);
+    $.ajax({
+      url: '{{route('localauthority')}}',
+      data: {dicode: dicode},
+      type: 'get',
+      success: function (result) {
+        $('#localauthorityDropdown').html(result);
+      }
+    });
+    });
+    jQuery('#districtDropdown').on('change', function (event) {
+    var dicode = $('#districtDropdown').val();
+    console.log(dicode);
+    $.ajax({
+      url: '{{route('localauthority')}}',
+      data: {dicode: dicode},
+      type: 'get',
+      success: function (result) {
+        $('#localauthorityDropdown').html(result);
+      }
+    });
+    });
+</script>
 @endsection
+    

@@ -35,7 +35,7 @@
                 <th>EPL Application</th>
                 <th>13738</th>
                 <td>
-                    <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('industry/1')}}">Show</a>
+                 
                     <a class="glyphicon glyphicon-info-sign btn btn-success">Edit</a> 
                     <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
                 </td>
