@@ -5,7 +5,7 @@
 
     <h2>List Of Categories</h2>
     <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
-    <a href="{{url('/category/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <a href="{{url('/sector/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
     <table class="table">
         <thead>
             <tr>
@@ -17,7 +17,7 @@
                 <th>Option</th>
             </tr>
         </thead>
-        @foreach($categories as $category)
+        @foreach($sectors as $sector)
             <tr>
                 <td>{{$sector->scode}}</td>
                 <td>{{$sector->sdescription}}</td>

@@ -11,7 +11,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-       
+
     </head>
     <body>
         <?php
@@ -24,13 +24,13 @@ and open the template in the editor.
             <!--<img src="{{url('../assets/images/newBanner.jpg')}}"  /> -->
             <!-- -------------------------- Banner----------------------------------- -->
             <div class="well well-lg" style="font-family: monotype Corsiva; height: 150px;width: 100%; padding: 0.5px ; padding-left: 50px; background-color: #5cb85c; font-size: 65px; color: #ffffff "  >
-               <center> Pollution Source Inventory   </center>
-               <center> <h1>Central Environmental Authority</h1> </center>
+                <center> Pollution Source Inventory   </center>
+                <center> <h1>Central Environmental Authority</h1> </center>
             </div>
             <!-- -------------------------- ----------------------------------- -->
             <!-- Main menu start -->
             <!--<nav class="navbar navbar-inverse" style="background-color: #001133"  >-->
-        
+
             <nav class="navbar navbar-inverse" style="background-color: #1A782A"  >
                 <div class="container-fluid">
                     <div class="navbar-header">
@@ -55,21 +55,23 @@ and open the template in the editor.
                 </div>
             </nav>  
 
-            
+
             <div class="row">
                 <div class="col-md-3">
-                    <button type="button" class="btn btn-success " style="width: 100%;height: 50px">Industries</button>
+
                     <div id="wrapper">
                         <ul class="nav sidebar-nav " style="background-color: #DFF0D8">
                             <li>
-                                <button type="button" class="btn btn-success " style="width: 100%;height: 50px">Industries</button>
-                                 <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/industry')}}"  role="button">Industries </a>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/industry')}}"  role="button">Industries </a>
                             </li>
                             <li>
-                                <button type="button" class="btn btn-success " style="width: 100%;height: 50px" onclick="{{url('/searchind')}}" >Search Industry</button>
+                                 <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/searchind')}}"  role="button"> Search Industry </a>
                             </li>
                             <li>
-                                <button type="button" class="btn btn-success " style="width: 100%;height: 50px" onclick="{{url('/industry')}}" >Industry List</button>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/sector')}}"  role="button"> Sector </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/sector')}}"  role="button"> Sector </a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries<span class="caret"></span></a>
@@ -131,11 +133,11 @@ and open the template in the editor.
             </div>
 
             <hr/>
-        <footer class="container-fluid" style="background-color: #1A782A; text-align: center; padding: 5px">
-            <p style="color: #ffffff">Copyrights © Central Environmental Authority</p>
-        </footer>
-    </div> <!--End Container -->
+            <footer class="container-fluid" style="background-color: #1A782A; text-align: center; padding: 5px">
+                <p style="color: #ffffff">Copyrights © Central Environmental Authority</p>
+            </footer>
+        </div> <!--End Container -->
 
-</body>
+    </body>
 </html>
 

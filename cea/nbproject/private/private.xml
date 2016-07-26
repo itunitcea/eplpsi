@@ -3,28 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/master.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/solidwaste/edit.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/water/edit.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/config/database.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/app/Http/Controllers/WaterController.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/atmosphere/create.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/solidWaste.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/emission.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/atmosphere/index.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/water/create.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/atmosphere/show.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/water/show.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/config/app.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/solidwaste/show.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/app/Http/Controllers/AtmoshericController.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/solidwaste/create.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/atmosphere/edit.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/welcome.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/water/index.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/solidwaste/index.blade.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/app/Http/Controllers/SolidwasteController.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/master2.blade.php</file>
             <file>file:/C:/wamp/www/eplpsi/cea/app/Http/routes.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/app/SolidWaste.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/master.blade.php</file>
         </group>
     </open-files>
 </project-private>

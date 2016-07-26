@@ -61,10 +61,10 @@ class SectorController extends Controller
      */
     public function show($id)
     {
-        $province = \App\Province::find($id);
-        $data["province"] = $province;
+        $sector = \App\Sector::find($id);
+        $data["sector"] = $sector;
         
-        return view('province.show',$dsata);//
+        return view('sector.show',$dsata);//
     }
 
     /**
@@ -75,10 +75,10 @@ class SectorController extends Controller
      */
     public function edit($id)
     {
-        $province = \App\Province::find($id);
-        $data["province"] = $province;
+        $sector = \App\Sector::find($id);
+        $data["sector"] = $sector;
         
-        return view('province.edit',$data);//
+        return view('sector.edit',$data);//
     }
 
     /**
