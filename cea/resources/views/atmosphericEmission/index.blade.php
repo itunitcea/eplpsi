@@ -1,7 +1,10 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3> List of Atmospheric Emission</h3>
-<a class="glyphicon glyphicon-plus btn btn-success"></a>
+<a style="float: right;" class="btn btn-success" href="{{url('/atmosphericEmission/create')}}"  role="button"><span class="glyphicon glyphicon-plus"></span> CREATE ATMOSPHERIC EMISSION DETAILS
+</a>
+    <br>
+
 <table class="table table-striped">
     <thead>
         <tr>
@@ -26,8 +29,7 @@
         <td>{{$emission->modeofabatement}}</td>
         <td>
             <a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('/atmosphericEmission/'.$emission->ai_id.'/show')}}" >Show</a>
-            <a class="glyphicon glyphicon-info-sign btn btn-success">Edit</a> 
-            <a class="glyphicon glyphicon-remove btn btn-danger">Delete</a> 
+            <a class="glyphicon glyphicon-info-sign btn btn-success" href="{{url('/atmosphericEmission/'.$emission->ai_id.'/edit')}}">Edit</a> 
         </td>
     </tr>
 

@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3> Recycle / Reuse Details</h3>
 <a href="{{url('recycle/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>

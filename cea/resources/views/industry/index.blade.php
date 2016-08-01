@@ -3,7 +3,6 @@
 @section('content')
 
     <h2>List Of Industries</h2>
-    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>
     <a style="float: right;" class="btn btn-success" href="{{url('/industry/create')}}"  role="button"><span class="glyphicon glyphicon-plus"></span> CREATE INDUSTRY</a>
     <br>
     <br>
@@ -24,7 +23,7 @@
                 <td>{{$industry->industryID}}</td>
                 <td>{{$industry->industryName}}</td>
                 <td>{{$industry->industrytype}}</td>
-                <td>{{$industry->eplcategoryid}}</td>
+                <td>{{$industry->category()["attributes"]["categoryID"]}}</td></td>
                 <td>{{$industry->sector}}</td>
                 <td>{{$industry->provincecode}}</td>
                 <td><a class=" btn btn-info" href="{{url('/industry/'.$industry->industryID.'/show')}}" ><span class="glyphicon glyphicon-eye-open"></span> Show</a>

@@ -26,8 +26,6 @@ class AlterSecurityTable extends Migration
      */
     public function down()
     {
-        Schema::table('security', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('security');
     }
 }

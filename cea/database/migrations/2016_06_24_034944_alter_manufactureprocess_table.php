@@ -27,8 +27,6 @@ class AlterManufactureprocessTable extends Migration
      */
     public function down()
     {
-        Schema::table('manufactureprocess', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('manufactureprocess');
     }
 }

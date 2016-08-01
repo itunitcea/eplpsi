@@ -54,8 +54,6 @@ and open the template in the editor.
                     </div>
                 </div>
             </nav>  
-
-
             <div class="row">
                 <div class="col-md-3">
 
@@ -71,7 +69,13 @@ and open the template in the editor.
                                 <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/sector')}}"  role="button"> Sector </a>
                             </li>
                             <li>
-                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/sector')}}"  role="button"> Sector </a>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/inspectionUsers_groups')}}"  role="button"> Inspection Officers / Groups </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/reports')}}"  role="button"> Reminders</a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/reports')}}"  role="button"> Reports </a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries<span class="caret"></span></a>

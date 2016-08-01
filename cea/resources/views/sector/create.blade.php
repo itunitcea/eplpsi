@@ -41,7 +41,7 @@
     </div>
     
     <input type="submit" value="SAVE" class="glyphicon glyphicon-eye-open btn btn-success"/>
-    <input type="submit" value="CANCEL" class="glyphicon glyphicon-eye-open btn btn-danger" />
+    <a class="glyphicon btn btn-danger" href="/sector">Back </a>
     
 </form>
 @endsection

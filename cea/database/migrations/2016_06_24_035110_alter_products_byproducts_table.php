@@ -24,8 +24,6 @@ class AlterProductsByproductsTable extends Migration
      */
     public function down()
     {
-        Schema::table('products_byproducts', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('products_byproducts');
     }
 }

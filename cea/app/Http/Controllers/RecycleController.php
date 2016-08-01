@@ -15,7 +15,7 @@ class RecycleController extends Controller
      */
     public function index()
     {
-        $industry = \App\Industry::all();
+        $industry = \App\Industry::paginate(20);
     //    var_dump($categories);
        $data["industry"] = $industry ;
         return view('recycle.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

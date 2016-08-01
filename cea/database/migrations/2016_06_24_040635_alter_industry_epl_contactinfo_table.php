@@ -26,8 +26,6 @@ class AlterIndustryEplContactinfoTable extends Migration
      */
     public function down()
     {
-        Schema::table('industry_epl_contactinfo', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('industry_epl_contactinfo');
     }
 }

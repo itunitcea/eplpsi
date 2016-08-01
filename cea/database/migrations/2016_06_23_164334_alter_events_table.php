@@ -25,8 +25,6 @@ class AlterEventsTable extends Migration
      */
     public function down()
     {
-        Schema::table('events', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('payref');
     }
 }

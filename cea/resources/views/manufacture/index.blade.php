@@ -2,8 +2,7 @@
 @section('content')
 
 
-    <body>
-       <div class="jumbotron">
+    
        		<form class="form-horizontal" action="manufact_action.php" method="post" enctype="multipart/form-data"> 
                 
                 <ul class="nav nav-pills">
@@ -283,6 +282,5 @@
                   
  			 </div>
         <br/>
-      </div>
-    </body>
+    
 @endsection

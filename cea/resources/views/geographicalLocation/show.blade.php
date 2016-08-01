@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <form class="form-horizontal" >
     <h2>Geographical Location Details</h2>

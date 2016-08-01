@@ -14,7 +14,7 @@ class CreateInspectiongroupTable extends Migration
     {
         Schema::create('inspectiongroup', function (Blueprint $table) {
             $table->increments('insgroupID');
-            $table->integer('officeID')->unsigned();
+            $table->integer('officeID');
             $table->string('groupname');   
             $table->unique('groupname');       
             $table->timestamps();

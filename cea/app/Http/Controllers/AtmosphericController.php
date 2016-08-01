@@ -13,7 +13,7 @@ class AtmosphericController extends Controller {
      * @return \Illuminate\Http\Response
      */
     public function index() {
-        $atmospheric_emission = \App\AtmosphericEmission::all();
+        $atmospheric_emission = \App\AtmosphericEmission::paginate(20);
         //    var_dump($categories);
         $data["atmospheric_emission"] = $atmospheric_emission;
         return view('atmosphericEmission.index', $data);

@@ -1,11 +1,7 @@
-@extends('master')
+@extends('master3')
 @section('content')
 
 
-    <body>
-       <div class="jumbotron">
-                
-            
      	<form class="form-horizontal" >
             <div class="form-group">
                     <label class="col-sm-4 control-label">File Number :</label>
@@ -53,7 +49,5 @@
             </div>
 	</form>
         <br/>
-    </div>
-
-</body>
+   
 @endsection

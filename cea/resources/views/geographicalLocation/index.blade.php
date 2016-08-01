@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3> Details of Geographical Location</h3>
 <a href="{{url('geographicalLocation/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>

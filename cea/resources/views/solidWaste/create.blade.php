@@ -1,8 +1,8 @@
-@extends('master')
+@extends('master2')
 
 @section('content')
 
-<h2>List of Solid Waste </h2>
+<h2> Solid Waste Details</h2>
 
 <form class="form-horizontal" action="{{url('/solidWaste')}}" method="post" >
     <input type="hidden" name="_method" value="POST">
@@ -28,12 +28,9 @@
 
     <center>
         <input type="submit" value="SAVE" class="glyphicon glyphicon-eye-open btn btn-success"/>
-        <input type="submit" value="CANCEL" class="glyphicon glyphicon-eye-open btn btn-danger" />
+        <a class="glyphicon btn btn-danger" href="/solidWaste">Back </a>
 
-        <!--
-        <button type="button" class="btn btn-success" onclick="alert('Add New Solid Waste!')">New Solid Waste</button>
-        <button type="button" class="btn btn-danger" style="width:80px;" onclick="alert('Cancel!')">Cancel</button>
-        -->
+        
     </center>
 
 </form>

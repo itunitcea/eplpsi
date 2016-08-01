@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3> List of Fuel Details</h3>
 <a href="{{url('fuel/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>

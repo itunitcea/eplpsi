@@ -15,7 +15,7 @@ class CategoryController extends Controller
      */
     public function index()
     {
-        $categories = \App\Category::all();
+        $categories = \App\Category::paginate(20);
     //    var_dump($categories);
         $data["categories"] = $categories;
         return view('category.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

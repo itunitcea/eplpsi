@@ -26,8 +26,6 @@ class AlterEnergyReqtTable extends Migration
      */
     public function down()
     {
-        Schema::table('energy_reqt', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('energy_reqt');
     }
 }

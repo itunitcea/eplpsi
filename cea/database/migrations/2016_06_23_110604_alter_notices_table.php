@@ -14,10 +14,7 @@ class AlterNoticesTable extends Migration
     {
         Schema::table('notices', function (Blueprint $table) {
             $table->foreign('industryID')->references('industryID')->on('industry');  
-            $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence'); 
-            $table->foreign('senderID')->references('user_id')->on('users');  
-            $table->foreign('receiverID')->references('user_id')->on('users');           
-
+            $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence');
         });
     }
 
@@ -28,8 +25,6 @@ class AlterNoticesTable extends Migration
      */
     public function down()
     {
-        Schema::table('notices', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('notices');
     }
 }

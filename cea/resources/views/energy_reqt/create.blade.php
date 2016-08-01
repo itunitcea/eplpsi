@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h2>Add New Energy Requirement Details </h2>
 
@@ -27,7 +27,7 @@
         <div>
             <center>
                 <input type="submit" value="SAVE" class="glyphicon glyphicon-eye-open btn btn-success"/>
-                <input type="submit" value="CANCEL" class="glyphicon glyphicon-eye-open btn btn-danger"/>
+                <a class="glyphicon btn btn-danger" href="/energy_reqt">Back </a>
             </center>
         </div>
     </fieldset>

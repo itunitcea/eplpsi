@@ -56,7 +56,7 @@ class IndustryController extends Controller
         $localauthority = LocalAuthority::lists('laname','lid');
         $groupname = InspectionGroup::all();
         return view('industry.create',['epl_categories'=> $epl_categories,'sector'=>$sector,'province'=>$province,'district'=>$district,
-                    'localauthority'=>$localauthority,'groupname'=>$groupname]);
+                    'localauthority'=> $localauthority, 'groupname'=>$groupname]);
     }
     
     public function store(Request $request)

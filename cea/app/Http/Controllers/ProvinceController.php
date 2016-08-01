@@ -15,7 +15,7 @@ class ProvinceController extends Controller
      */
     public function index()
     {
-        $province = \App\Province::all();
+        $province = \App\Province::paginate(20);
     //    var_dump($categories);
         $data["province"] = $province;
         return view('province.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

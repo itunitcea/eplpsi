@@ -27,8 +27,6 @@ class AlterOfficeTable extends Migration
      */
     public function down()
     {
-        Schema::table('office', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('office');
     }
 }

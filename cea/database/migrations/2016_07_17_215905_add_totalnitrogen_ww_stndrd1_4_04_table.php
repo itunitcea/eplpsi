@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class AlterUsersTable extends Migration
+class AddTotalnitrogenWwStndrd1404Table extends Migration
 {
     /**
      * Run the migrations.
@@ -12,9 +12,8 @@ class AlterUsersTable extends Migration
      */
     public function up()
     {
-        Schema::table('users', function (Blueprint $table) {
-            $table->foreign('officeID')->references('officeID')->on('office');
-            $table->foreign('groupname')->references('groupname')->on('inspectiongroup');
+        Schema::table('ww_stndrd1_4_04', function (Blueprint $table) {
+            $table->double('totalnitrogen');
         });
     }
 
@@ -25,7 +24,7 @@ class AlterUsersTable extends Migration
      */
     public function down()
     {
-        Schema::table('users', function (Blueprint $table) {
+        Schema::table('ww_stndrd1_4_04', function (Blueprint $table) {
             //
         });
     }

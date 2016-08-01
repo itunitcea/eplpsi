@@ -16,7 +16,7 @@ class SolidWasteController extends Controller
     public function index()
     {
 //        return view('solidwaste.index'); //we should create folder called "category" and file called"index.blade.php"
-        $solidwaste = \App\SolidWaste::all();
+        $solidwaste = \App\SolidWaste::paginate(20);
     //    var_dump($categories);
         $data["solidwaste"] = $solidwaste;
         return view('solidWaste.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
@@ -58,8 +58,8 @@ class SolidWasteController extends Controller
      */
     public function show($sw_id)
     {
-        $sw = \App\SolidWaste::find($sw_id);
-        $data["sw"] = $sw;
+        $solidwaste = \App\SolidWaste::find($sw_id);
+        $data["solidwaste"] = $solidwaste;
         
         return view('solidWaste.show',$data);//
 //      return view('solidWaste.show');  
@@ -73,8 +73,8 @@ class SolidWasteController extends Controller
      */
     public function edit($sw_id)
     {
-        $sw = \App\SolidWaste::find($sw_id);
-        $data["sw"] = $sw;
+        $solidwaste = \App\SolidWaste::find($sw_id);
+        $data["solidwaste"] = $solidwaste;
         
         return view('solidWaste.edit',$data);//
 //        return view('solidwaste.edit');

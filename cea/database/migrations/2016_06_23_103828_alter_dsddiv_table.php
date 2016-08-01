@@ -25,8 +25,6 @@ class AlterDsddivTable extends Migration
      */
     public function down()
     {
-        Schema::table('dsdiv', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('dsdiv');
     }
 }

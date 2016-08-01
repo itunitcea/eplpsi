@@ -26,8 +26,6 @@ class AlterInspectionTable extends Migration
      */
     public function down()
     {
-        Schema::table('inspection', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('inspection');
     }
 }

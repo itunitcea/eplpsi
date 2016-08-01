@@ -25,8 +25,6 @@ class AlterHwmStoreTable extends Migration
      */
     public function down()
     {
-        Schema::table('hwm_store', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('hwm_store');
     }
 }

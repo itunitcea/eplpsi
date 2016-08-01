@@ -18,7 +18,7 @@ class CreateCustomerTable extends Migration
             $table->string('groupname');
             $table->string('password',254)->bcrypt();
             $table->integer('scope');
-            $table->integer('officeID')->unsigned();
+            $table->integer('officeID');
             $table->string('user_name',145);
             $table->string('userAdd1',254);
             $table->string('userAdd2',254);

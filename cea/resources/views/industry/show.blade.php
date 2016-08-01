@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3>Industry Details </h3>
 <form class="form-horizontal" >
@@ -16,11 +16,12 @@
     </div>
     <div class="form-group">
         <label class="col-sm-5 control-label">BOI Registration :</label>
-        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->BOIregistration}}</label>
+        <label class="col-sm-7 control-label" style="text-align: left">{{array("Yes","No")[$industry->BOIregistration]}}</label>
     </div>
     <div class="form-group">
         <label class="col-sm-5 control-label">Category of Industry :</label>
-        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->eplcategoryid}}</label>
+        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->category()["attributes"]["categoryID"]}}</label>
+
     </div>
     <div class="form-group">
         <label class="col-sm-5 control-label">Sector of Industry :</label>
@@ -40,7 +41,8 @@
     </div>
     <div class="form-group">
         <label class="col-sm-5 control-label">District :</label>
-        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->districtcode}}</label>
+        <!--<label class="col-sm-7 control-label" style="text-align: left">{{$industry->districtcode}}</label>-->
+        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->district()->diname}}</label>
     </div>
     <div class="form-group">
         <a href="show.blade.php"></a>
@@ -58,7 +60,7 @@
     
     <div class="form-group">
         <label class="col-sm-5 control-label">Is the site within an Approved Industrial Zone :</label>
-        <label class="col-sm-7 control-label" style="text-align: left">{{$industry->isWithinIndustrialZone}}</label>
+        <label class="col-sm-7 control-label" style="text-align: left">{{array("Yes","No")[$industry->isWithinIndustrialZone]}}</label>
     </div>
     <div class="form-group">
         <fieldset>

@@ -26,8 +26,6 @@ class AlterGndTable extends Migration
      */
     public function down()
     {
-        Schema::table('gnd', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('gnd');
     }
 }

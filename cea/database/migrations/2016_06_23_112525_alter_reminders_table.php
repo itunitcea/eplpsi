@@ -26,8 +26,6 @@ class AlterRemindersTable extends Migration
      */
     public function down()
     {
-        Schema::table('reminders', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('reminders');
     }
 }

@@ -32,8 +32,6 @@ class AlterHwmLicenceTable extends Migration
      */
     public function down()
     {
-        Schema::table('hwm_licence', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('hwm_licence');
     }
 }

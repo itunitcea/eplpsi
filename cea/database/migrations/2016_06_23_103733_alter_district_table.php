@@ -24,8 +24,6 @@ class AlterDistrictTable extends Migration
      */
     public function down()
     {
-        Schema::table('district', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('district');
     }
 }

@@ -18,7 +18,7 @@ class ApplicationController extends Controller
      */
     public function index()
     {      
-         $epl_licence = \App\Application::all();
+         $epl_licence = \App\Application::paginate(20);
     //    var_dump($categories);
        $data["epl_licence"] = $epl_licence;
         return view('application.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

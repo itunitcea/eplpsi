@@ -20,7 +20,6 @@ class DatabaseSeeder extends Seeder
         $this->call('AppCategoriesTableSeeder');
         $this->call('ApplicationTypeTableSeeder');
         $this->call('ChemicalUsedTableSeeder'); 
-        $this->call('CustomerTableSeeder');
         $this->call('DistrictTableSeeder'); 
         $this->call('EPLCategoryTableSeeder'); 
         $this->call('EPLAuthorityTableSeeder'); 
@@ -38,7 +37,7 @@ class DatabaseSeeder extends Seeder
         $this->call('DuesTableSeeder'); 
         $this->call('EpaymentTableSeeder'); 
         $this->call('FeeTableSeeder');
-        $this->call('FilenoRefTableSeeder'); 
+         
         $this->call('FuelTableSeeder');
         $this->call('InsGroupOfficerTableSeeder');
         $this->call('InspectionGroupTableSeeder');

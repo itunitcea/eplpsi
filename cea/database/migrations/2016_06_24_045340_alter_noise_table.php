@@ -26,8 +26,6 @@ class AlterNoiseTable extends Migration
      */
     public function down()
     {
-        Schema::table('noise', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('noise');
     }
 }

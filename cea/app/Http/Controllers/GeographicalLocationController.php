@@ -15,7 +15,7 @@ class GeographicalLocationController extends Controller
      */
     public function index()
     {
-        $industries = \App\Industry::all();
+        $industries = \App\Industry::paginate(20);
         $data["industries"] = $industries ;
         return view('geographicalLocation.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }

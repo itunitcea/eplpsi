@@ -13,7 +13,7 @@ class AlterSvstandardTable extends Migration
     public function up()
     {
         Schema::table('svstandard', function (Blueprint $table) {
-            $table->foreign('officerID')->references('user_id')->on('users');
+            //$table->foreign('officerID')->references('user_id')->on('users');
             $table->foreign('applicationID')->references('applicationID')->on('epl_licence');
         });
     }
@@ -25,8 +25,6 @@ class AlterSvstandardTable extends Migration
      */
     public function down()
     {
-        Schema::table('svstandard', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('svstandard');
     }
 }

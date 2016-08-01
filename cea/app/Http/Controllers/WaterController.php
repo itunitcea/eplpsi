@@ -15,7 +15,7 @@ class WaterController extends Controller
      */
     public function index()
     {
-       $water = \App\Water::all();
+       $water = \App\Water::paginate(20);
     //    var_dump($categories);
        $data["water"] = $water;
         return view('water.index',$data);

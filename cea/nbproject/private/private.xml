@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/master2.blade.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/energy_reqt/create.blade.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/energy_reqt/index.blade.php</file>
             <file>file:/C:/wamp/www/eplpsi/cea/app/Http/routes.php</file>
-            <file>file:/C:/wamp/www/eplpsi/cea/app/SolidWaste.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/energy_reqt/edit.blade.php</file>
+            <file>file:/C:/wamp/www/eplpsi/cea/resources/views/energy_reqt/show.blade.php</file>
             <file>file:/C:/wamp/www/eplpsi/cea/resources/views/master.blade.php</file>
         </group>
     </open-files>

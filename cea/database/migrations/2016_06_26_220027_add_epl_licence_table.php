@@ -31,8 +31,6 @@ class AddEplLicenceTable extends Migration
      */
     public function down()
     {
-        Schema::table('epl_licence', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('epl_licence');
     }
 }

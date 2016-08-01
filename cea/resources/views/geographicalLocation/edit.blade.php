@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h2>Edit Geographical Location Details </h2>
 

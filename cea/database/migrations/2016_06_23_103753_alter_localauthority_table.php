@@ -25,8 +25,6 @@ class AlterLocalauthorityTable extends Migration
      */
     public function down()
     {
-        Schema::table('localauthority', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('localauthority');
     }
 }

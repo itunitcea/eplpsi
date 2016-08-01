@@ -54,126 +54,49 @@ and open the template in the editor.
                         </ul>
                     </div>
                 </div>
-            </nav>  
-            <!-- Main menu End -->
-
-            <!--            <div class="row">
-                            <div class="col-md-3">
-                                <div id="wrapper">
-                                    <ul class="nav sidebar-nav " style="background-color: #DFF0D8">
-                                        <li>
-                                            <a href="#" >Home</a>
-                                        </li>
-                                        
-                                        <li>
-                                            <a href="{{url('/industry')}}">Industry</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{url('/sector')}}">sector</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{url('/water')}}">Water</a>
-                                        </li>
-                                         <li>
-                                            <a href="{{url('solidWaste')}}">Solid Waste</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{url('/category')}}">Category</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{url('/province')}}">Province</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{url('/sector')}}">Sector</a>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reminders<span class="caret"></span></a>
-                                            <ul class="dropdown-menu" role="menu">
-                                                <li><a href="#">First Reminder</a></li>
-                                                <li><a href="#">Second Reminders</a></li>
-                                                <li><a href="#">Third Reminders</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<span class="caret"></span></a>
-                                            <ul class="dropdown-menu" role="menu">
-                                                <li><a href="#">Weekly Reports</a></li>
-                                                <li><a href="#">Monthly Reports</a></li>
-                                                <li><a href="#">Annual Reports</a></li>
-                                            </ul>
-                                        </li>
-                                        
-            
-                                    </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-9">
-                            @yield('content')
-                        </div>
-            
-                    </div>-->
+            </nav>
 
             <div class="row">
                 <div class="col-md-3">
+
                     <div id="wrapper">
                         <ul class="nav sidebar-nav " style="background-color: #DFF0D8">
                             <li>
-                                <a href="#" >Home</a>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/industry/show')}}"  role="button">Industry Details </a>
                             </li>
                             <li>
-                                <a href="{{url('/searchind')}}">Search Industry</a>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries<span class="caret"></span></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="{{url('/industry')}}">Industry Details</a></li>
-                                    <li><a href="#">Manufacturing Process</a></li>
-                                    <li><a href="{{url('/water')}}">Water</a></li>
-                                    <li><a href="{{url('/solidWaste')}}">Solid Waste</a></li>
-                                    <li><a href="{{url('/atmosphericEmission')}}">Atmospheric Emission</a></li>
-                                    <li><a href="{{url('/noise')}}">Noise Pollution</a></li>
-                                    <li><a href="{{url('/energy_reqt')}}">Energy Requirement</a></li>
-                                    <li><a href="{{url('/fuel')}}">Fuel Used</a></li>
-                                    <li><a href="{{url('/recycle')}}">Recycling / Reuse</a></li>
-                                    <li><a href="{{url('/geographicalLocation')}}">Geographical Location</a></li>
-                                    <li><a href="{{url('/emergency')}}">Emergency Contact</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industry Applications<span class="caret"></span></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="{{url('/application')}}">Application</a></li>
-                                    <li><a href="{{url('/payment')}}">Payments</a></li>
-                                    <li><a href="#">File Number</a></li>
-                                    <li><a href="{{url('/inspection')}}">Inspection Details</a></li>
-                                    <li><a href="#">EPL Details</a></li>
-                                    <li><a href="#">Environment Monitoring</a></li>
-                                </ul>
-                            </li>
-
-                            <li>
-                                <a href="{{url('/category')}}">Category</a>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reminders<span class="caret"></span></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#">First Reminder</a></li>
-                                    <li><a href="#">Second Reminders</a></li>
-                                    <li><a href="#">Third Reminders</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<span class="caret"></span></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#">Weekly Reports</a></li>
-                                    <li><a href="#">Monthly Reports</a></li>
-                                    <li><a href="#">Annual Reports</a></li>
-                                </ul>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/manufacture')}}"  role="button"> Manufacturing Process </a>
                             </li>
                             <li>
-                                <a href="#">Contact</a>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/water')}}"  role="button"> Water </a>
                             </li>
-
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/solidWaste')}}"  role="button"> Solid Waste </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/atmosphericEmission')}}"  role="button"> Atomosperic Emissions</a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/noise')}}"  role="button"> Noise Pollution </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/energy_reqt')}}"  role="button"> Energy Requirements </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/fuel')}}"  role="button"> Fuel Used</a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/recycle')}}"  role="button"> Recycling / Reuse </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/geographicalLocation')}}"  role="button"> Geographical Locations </a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/emergency')}}"  role="button"> Emergency Requirements</a>
+                            </li>
+                            <li>
+                                <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/application')}}"  role="button"> Applications </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

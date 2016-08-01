@@ -15,7 +15,7 @@ class FuelController extends Controller
      */
     public function index()
     {
-        $fuel = \App\Fuel::all();
+        $fuel = \App\Fuel::paginate(20);
     //    var_dump($categories);
        $data["fuel"] = $fuel ;
         return view('fuel.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

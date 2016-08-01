@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class AlterInspectiongroupTable extends Migration
+class DeleteTotalDissolvedSolidsWwStndrd1505Table extends Migration
 {
     /**
      * Run the migrations.
@@ -12,9 +12,8 @@ class AlterInspectiongroupTable extends Migration
      */
     public function up()
     {
-        Schema::table('inspectiongroup', function (Blueprint $table) {
-            $table->foreign('officeID')->references('officeID')->on('office');
-
+        Schema::table('ww_stndrd1_5_05', function (Blueprint $table) {
+            //
         });
     }
 
@@ -25,7 +24,7 @@ class AlterInspectiongroupTable extends Migration
      */
     public function down()
     {
-        Schema::table('inspectiongroup', function (Blueprint $table) {
+        Schema::table('ww_stndrd1_5_05', function (Blueprint $table) {
             //
         });
     }

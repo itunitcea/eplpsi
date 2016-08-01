@@ -25,8 +25,6 @@ class AlterHwmRecyclerRecovererTable extends Migration
      */
     public function down()
     {
-        Schema::table('hwm_recycler_recoverer', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('hwm_recycler_recoverer');
     }
 }

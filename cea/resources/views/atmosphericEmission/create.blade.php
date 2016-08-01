@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <form class="form-horizontal" action="{{url('/atmosphericEmission')}}" method="post">
     <br/>
@@ -135,7 +135,7 @@
             <div>
                 <center>
                     <a href="#" class="btn btn-success"  style="width:80px">Save</a>
-                    <a href="epldashboard.php" class="btn btn-danger" style="width:80px">Cancel</a>
+                    <a class="glyphicon btn btn-danger" href="/atmosphericEmission">Back </a>
                 </center>
             </div>
         </fieldset>

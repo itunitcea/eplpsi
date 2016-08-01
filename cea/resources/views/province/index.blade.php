@@ -4,7 +4,6 @@
 @section('content')
 
     <h2>List Of Provinces</h2>
-    <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>            
     <a href="{{url('/province/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
     <table class="table">
         <thead>

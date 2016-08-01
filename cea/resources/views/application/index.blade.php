@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
     <h3> List of Applications</h3>
     <a href="{{url('application/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>

@@ -13,7 +13,7 @@ class AlterCustomerTable extends Migration
     public function up()
     {
         Schema::table('customer', function (Blueprint $table) {
-            $table->foreign('officeID')->references('officeID')->on('office');
+            //$table->foreign('officeID')->references('officeID')->on('office');
             $table->foreign('groupname')->references('groupname')->on('inspectiongroup');
         });
     }
@@ -25,8 +25,6 @@ class AlterCustomerTable extends Migration
      */
     public function down()
     {
-        Schema::table('customer', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('customer');
     }
 }

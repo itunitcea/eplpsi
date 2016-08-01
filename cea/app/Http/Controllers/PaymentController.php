@@ -15,7 +15,7 @@ class PaymentController extends Controller
      */
     public function index()
     {
-        $payments = \App\Payment::all();
+        $payments = \App\Payment::paginate(20);
     //    var_dump($categories);
        $data["payments"] = $payments;
         return view('payment.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 
 @section('content')
 
@@ -20,8 +20,7 @@
     <div>
         <center>
             <a class="glyphicon glyphicon-plus btn btn-warning" href="{{url('solidWaste/'.$solidwaste->sw_id.'/edit')}}">Edit</a> 
-            <a href="#" class="btn btn-success"  style="width:80px">Save</a>
-            <a href="#" class="btn btn-danger" style="width:80px">Cancel</a>
+            <a class="glyphicon btn btn-danger" href="/solidWaste">Back </a>
         </center>
     </div>
 </form>

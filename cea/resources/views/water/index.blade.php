@@ -1,10 +1,12 @@
 
-@extends('master')
+@extends('master2')
 
 @section('content')
 
     <h2>Water Details</h2>
-    <a href="{{url('/water/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>
+    <a style="float: right;" class="btn btn-success" href="{{url('/water/create')}}"  role="button"><span class="glyphicon glyphicon-plus"></span> CREATE WATER DETAILS</a>
+    <br>
+    
     <table class="table">
         <thead>
             <tr>
@@ -26,8 +28,7 @@
                 <td>{{$water->totaldisIndu}}</td>
                 <td>{{$water->finalpointofDischarge_ww}}</td>
                 <td><a class="glyphicon glyphicon-eye-open btn btn-info" href="{{url('/water/'. $water->w_id. '/show')}}" >Show</a>
-                    <a class="glyphicon glyphicon-eye-close btn btn-danger" >Delete</a>
-                    <a class="glyphicon glyphicon-edit btn btn-warning">Edit</a></td>
+                    <a class="glyphicon glyphicon-edit btn btn-warning" href="{{url('/water/'. $water->w_id. '/edit')}}">Edit</a></td>
             </tr>
         @endforeach
     </table>

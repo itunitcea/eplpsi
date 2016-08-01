@@ -13,10 +13,9 @@ class CreateSvstandardTable extends Migration
     public function up()
     {
         Schema::create('svstandard', function (Blueprint $table) {
-            $table->string('officerID',45);   
+            $table->increments('officerID');
             $table->integer('applicationID')->unsigned(); 
-            $table->primary(['officerID','applicationID']);    
-            $table->date('appRcvd'); 
+            $table->date('appRcvd');
             $table->date('insFeeRequest'); 
             $table->date('insFeeRcvd'); 
             $table->date('fileHanded'); 

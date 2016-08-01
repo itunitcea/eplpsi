@@ -15,7 +15,7 @@ class Energy_reqtController extends Controller
      */
     public function index()
     {
-        $energy_reqt = \App\Energy_reqt::all();
+        $energy_reqt = \App\Energy_reqt::paginate(20);
     //    var_dump($categories);
        $data["energy_reqt"] = $energy_reqt;
         return view('energy_reqt.index',$data);//We should create folder called "Category" and file called 'index.blade.php'

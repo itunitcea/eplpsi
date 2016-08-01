@@ -15,9 +15,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/manufact', function () {
-    return view('manufactProcess');
-});
+//Route::get('/manufact', function () {
+//    return view('manufactProcess');
+//});
 
 //Route::get('/water', function () {
 //    return view('water');
@@ -102,8 +102,8 @@ Route::put('/province/{id}', 'ProvinceController@update');// this used to update
 //province
 Route::get('/sector', 'SectorController@index');
 Route::get('sector/create', 'SectorController@create');
-Route::get('sector/{id}', 'SectorController@show');
-Route::get('sectorprovince/{id}/edit', 'SectorController@edit');
+Route::get('sector/{id}/show', 'SectorController@show');
+Route::get('sector/{id}/edit', 'SectorController@edit');
 Route::post('/sector', 'SectorController@store'); //this is used to add data
 Route::put('/sector/{id}', 'SectorController@update');// this used to update data
 
@@ -133,9 +133,9 @@ Route::get('/eplApplication', function () {
     return view('EPLApplication');
 });
 
-Route::get('/manufact', function () {
-    return view('manufactProcess');
-});
+//Route::get('/manufact', function () {
+//    return view('manufactProcess');
+//});
 
 // Water // No database found
 Route::get('/water', 'WaterController@index');
@@ -171,9 +171,9 @@ Route::get('/searchind', 'SearchIndustryController@searchindustry');
 
 ## DropDownController - for Dropdown Functions
 #Dropdown Controllers for AJAX
-Route::get('ajaxviews/district', ['as' => 'district', 'uses' => 'DropdownController@getDistrictDropdown']);
-Route::get('ajaxviews/localauthority', ['as' => 'localauthority', 'uses' => 'DropdownController@getLocalAuthorityDropdown']);
-Route::get('epl-licence', ['as' => 'epl:licence', 'uses' => 'DropdownController@getEplLicence']);
+Route::get('ajaxviews/district', ['as' => 'district', 'uses' => 'DropDownController@getDistrictDropdown']);
+Route::get('ajaxviews/localauthority', ['as' => 'localauthority', 'uses' => 'DropDownController@getLocalAuthorityDropdown']);
+Route::get('epl-licence', ['as' => 'epl:licence', 'uses' => 'DropDownController@getEplLicence']);
 
 // ------ industry Details ------
 Route::get('/industry' , 'IndustryController@index'); // list the Industries
@@ -263,3 +263,30 @@ Route::get('/emergency/create' , 'EmergencyContactController@create'); // add ne
 Route::get('/emergency/{id}/show' , 'EmergencyContactController@show'); // display Emergency Contact
 Route::get('/emergency/{id}/edit' , 'EmergencyContactController@edit'); // edit Emergency Contact
 Route::get('/emergency/delete' , 'EmergencyContactController@delete'); // delete Emergency Contact
+
+//Manufacturing Process
+Route::get('/manufacture', 'ManufactureController@index');
+Route::get('manufacture/create', 'ManufactureController@create');
+Route::get('manufacture/{id}/show', 'ManufactureController@show');
+Route::get('manufacture/{id}/edit', 'ManufactureController@edit');
+Route::post('/manufacture', 'ManufactureController@store'); //this is used to add data
+Route::put('/manufacture/{id}', 'ManufactureController@update');// this used to update data
+
+/**
+ * Search Industry
+ */
+
+Route::get('/searchind', 'SearchIndustryController@index');
+
+Route::get('/inspectionUsers_groups', function () {
+    return view('inspectionUsers_groups');
+});
+
+
+// Inspection Group
+Route::get('/inspectiongroup', 'InspectiongroupController@index');
+Route::get('inspectiongroup/create', 'InspectiongroupController@create');
+Route::get('inspectiongroup/{id}/show', 'InspectiongroupController@show');
+Route::get('inspectiongroup/{id}/edit', 'InspectiongroupController@edit');
+Route::post('/inspectiongroup', 'InspectiongroupController@store'); //this is used to add data
+Route::put('/inspectiongroup/{id}', 'InspectiongroupController@update');// this used to update data

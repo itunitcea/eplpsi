@@ -25,8 +25,5 @@ class AlterHwmDisposerTable extends Migration
      */
     public function down()
     {
-        Schema::table('hwm_disposer', function (Blueprint $table) {
-            //
-        });
-    }
+        Schema::drop('hwm_disposer');    }
 }

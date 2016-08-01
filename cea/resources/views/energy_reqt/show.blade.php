@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 <h3>Industry Details </h3>
 <form class="form-horizontal" >
@@ -25,8 +25,7 @@
         <div>
             <center>
                 <a class="glyphicon glyphicon-plus btn btn-warning" href="{{url('energy_reqt/'.$energy_reqt->er_id.'/edit')}}">Edit</a> 
-                <a href="#" class="btn btn-success"  style="width:80px">Save</a>
-                <a href="#" class="btn btn-danger" style="width:80px">Cancel</a>
+                <a class="glyphicon btn btn-danger" href="/energy_reqt">Back </a>
             </center>
         </div>
     </fieldset>

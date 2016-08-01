@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
 
 <form class="form-horizontal" action="{{url('/inspection')}}" method="post" >

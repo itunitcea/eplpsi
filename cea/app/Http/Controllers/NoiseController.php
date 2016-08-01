@@ -18,7 +18,7 @@ class NoiseController extends Controller
    
     public function index()
     {
-        $noise = \App\Noise::all();
+        $noise = \App\Noise::paginate(20);
 //        var_dump($categories); // to display errors
         $data["noise"] = $noise;
         return view('noise.index',$data);

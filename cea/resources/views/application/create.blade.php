@@ -1,9 +1,9 @@
-@extends('master')
+@extends('master3')
 @section('content')
 
 
-    <body>
-       <div class="jumbotron">
+    
+       
                 
             
      	<form class="form-horizontal" >
@@ -71,7 +71,5 @@
             </div>
 	</form>
         <br/>
-    </div>
-
-</body>
+   
 @endsection

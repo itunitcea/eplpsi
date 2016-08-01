@@ -27,8 +27,6 @@ class AlterFeeTable extends Migration
      */
     public function down()
     {
-        Schema::table('fee', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('fee');
     }
 }

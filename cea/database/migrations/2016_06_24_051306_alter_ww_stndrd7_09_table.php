@@ -26,8 +26,6 @@ class AlterWwStndrd709Table extends Migration
      */
     public function down()
     {
-        Schema::table('ww_stndrd7_09', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('ww_stndrd7_09');
     }
 }

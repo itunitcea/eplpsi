@@ -25,8 +25,6 @@ class AlterEpaymentTable extends Migration
      */
     public function down()
     {
-        Schema::table('epayment', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('epayment');
     }
 }

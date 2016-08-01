@@ -36,16 +36,7 @@ class DropDownController extends Controller
         return view('ajaxviews.localauthority', compact('localauthority'));
     }
     
-    // public function getLocalAuthorityDropdown()
-    // {
-    //     $input = Input::get('option');
-    //     $asset_type = DB::table('localauthority')
-    //     ->where('dicode', $input)
-    //     ->orderBy('lid', 'asc')
-    //     ->lists('lid','localauthority');
     
-    //     return Response::json($localauthority);
-    // }
 
     public function getEplLicence(Request $request)
     {

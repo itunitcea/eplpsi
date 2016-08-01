@@ -17,6 +17,7 @@ class CreateWwStndrd709Table extends Migration
             $table->integer('industryID')->unsigned();
             $table->integer('epl_licence_id')->unsigned();
             $table->integer('w_id')->unsigned();
+            $table->string('monitoring',245);
             $table->char('year',4);
             $table->integer('quarter');
             $table->double('ddischarge_domestic');

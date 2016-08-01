@@ -24,8 +24,6 @@ class AlterLandtypeListTable extends Migration
      */
     public function down()
     {
-        Schema::table('landtype_list', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('landtype_list');
     }
 }

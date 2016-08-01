@@ -1,4 +1,4 @@
-@extends('master')
+@extends('master2')
 @section('content')
     <h3> List of Payments</h3>
     <a href="{{url('payment/create')}}" class="glyphicon glyphicon-plus btn btn-success"></a>

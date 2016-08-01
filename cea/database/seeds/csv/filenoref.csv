@@ -1,12 +1,12 @@
 prcode,fileno,fndesc
-11,24370,"Application number"
-AA,22,"A Catagory fileno"
+11,24370,Application number
+AA,22,A Catagory fileno
 CE,1,
 EA,1,
-EV,1,"Events ID"
-IN,1,"Index of the uploaded document (uploadfiles"
+EV,1,Events ID
+IN,1,Index of the uploaded document (uploadfiles
 NC,1,
-NN,27571,"Industry ID"
+NN,27571,Industry ID
 NO,1,
 NW,1,
 RR,92,PayRef

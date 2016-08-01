@@ -24,8 +24,6 @@ class AlterFuelTable extends Migration
      */
     public function down()
     {
-        Schema::table('fuel', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('fuel');
     }
 }

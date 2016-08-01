@@ -26,8 +26,6 @@ class AlterAtmosphericEmissionTable extends Migration
      */
     public function down()
     {
-        Schema::table('atmospheric_emission', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('atmospheric_emission');
     }
 }

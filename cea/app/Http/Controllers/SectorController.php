@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
+use Illuminate\Support\Facades\Session;
+
 class SectorController extends Controller
 {
     /**
@@ -15,7 +17,7 @@ class SectorController extends Controller
      */
     public function index()
     {
-        $sector = \App\Sector::all();
+        $sector = \App\Sector::paginate(20);
     //    var_dump($categories);
         $data["sector"] = $sector;
         return view('sector.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
@@ -44,13 +46,14 @@ class SectorController extends Controller
 //        return redirect()->back();
         $sec = new \App\Sector();
         $sec->scode = $request->get("scode");
-        $sec->sdescription = $request->get("sdescriotion");
+        $sec->sdescription = $request->get("sdescription");
         $sec->Alistnorange = $request->get("Alistnorange");
         $sec->Blistnorange = $request->get("Blistnorange");
         $sec->Clistnorange = $request->get("Clistnorange");
         $sec->save();
-        
-        return redirect()->back();
+        Session::flash('message','success');
+        Session::flash('alert-class','alert-success');
+        return redirect('/sector');
     }
 
     /**
@@ -59,12 +62,12 @@ class SectorController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($scode)
     {
-        $sector = \App\Sector::find($id);
+        $sector = \App\Sector::find($scode);
         $data["sector"] = $sector;
         
-        return view('sector.show',$dsata);//
+        return view('sector.show',$data);//
     }
 
     /**
@@ -73,9 +76,9 @@ class SectorController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($scode)
     {
-        $sector = \App\Sector::find($id);
+        $sector = \App\Sector::find($scode);
         $data["sector"] = $sector;
         
         return view('sector.edit',$data);//

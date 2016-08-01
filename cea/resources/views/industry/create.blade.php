@@ -12,7 +12,7 @@
         <label class="col-sm-2 control-label">Application Language</label>
         <div class="col-sm-10">
             <select class="form-control" width="100" name="language">
-                <option value="" selected="selected"></option>
+                <option value="" selected="selected" ></option>
                 <option value="1" >English</option>
                 <option value="2" >Sinhala</option>
                 <option value="3" >Tamil</option>
@@ -90,7 +90,7 @@
         <div class="col-sm-10">
             <select name="province" id="provinceDropDown" class="form-control">
                 @foreach($province as $p)
-                    <option value="{{$p->prcode}}">{{$p->prname}}</option>
+                <option value="{{$p->prcode}}">{{$p->prname}}</option>
                 @endforeach
             </select>       
         </div>
@@ -98,7 +98,7 @@
     <div class="form-group">
         <label class="col-sm-2 control-label">District</label>
         <div class="col-sm-10">
-             <select name="district" id="districtDropdown" class="form-control district"></select>
+            <select name="district" id="districtDropdown" class="form-control district"></select>
         </div>
     </div>
     <div class="form-group">
@@ -107,19 +107,41 @@
             <select name="localauthority" id="localauthorityDropdown" class="form-control district"></select>
         </div>
     </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">DS Division</label>
+        <div class="col-sm-10">
+            <select name="localauthority" id="localauthorityDropdown" class="form-control district"></select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Grama Niladari Division</label>
+        <div class="col-sm-10">
+            <select name="localauthority" id="localauthorityDropdown" class="form-control district"></select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 control-label">Is the site within an Approved Industrial Zone</label>
+        <div class="col-sm-10">
+            <select class="form-control" width="100" name="isWithinIndustrialZone">
+                <option value="" selected="selected"></option>
+                <option value="1" >Yes</option>
+                <option value="0" >No</option>
+            </select>
+        </div>
+    </div>
     <div class = jumbotron>Investment Details
-    <div class="form-group">
-        <label class="col-sm-2 control-label">Local:</label>
-        <div class="col-sm-10">
-            <input type="text" class="form-control" name="localinvestment">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Local:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" name="localinvestment">
+            </div>
         </div>
-    </div>
-    <div class="form-group">
-        <label class="col-sm-2 control-label">Foreign</label>
-        <div class="col-sm-10">
-            <input type="text" class="form-control" name="foreigninvestment">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Foreign</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" name="foreigninvestment">
+            </div>
         </div>
-    </div>
     </div>
     <div class="form-group">
         <!-- DATE PICKER -->
@@ -132,14 +154,13 @@
         <div class="col-sm-10">
             <input class="date form-control" type="text">  
         </div>
-        
-        <script type="text/javascript">  
-            $('.date').datepicker({  
-               format: 'MM-dd-yyyy'  
-             });  
-        </script> 
+
+        <script type="text/javascript">
+        $('.date').datepicker({
+format: 'MM-dd-yyyy'
+        });</script> 
     </div>
-    
+
     <div class="form-group">
         <label class="col-sm-2 control-label">Number of Shifts/Day and Times :</label>
         <div class="col-sm-10">
@@ -184,62 +205,63 @@
             <select name="insGrpID" class="form-control">
                 <option value = ""></option>
                 @foreach($groupname as $g)
-                    <option value = "{{$g->insgroupID}}">{{$g->groupname}}</option>
+                <option value = "{{$g->insgroupID}}">{{$g->groupname}}</option>
                 @endforeach
             </select>
         </div>
     </div>
-
-<script>
-    $(document).ready(function () {
-    var prcode = $('#provinceDropDown').val();
-    console.log(prcode);
-    $.ajax({
-      url: '{{route('district')}}',
-      data: {prcode: prcode},
-      type: 'get',
-      success: function (result) {
-        $('#districtDropdown').html(result);
-      }
-    });
-    });
-    jQuery('#provinceDropDown').on('change', function (event) {
-    var prcode = $('#provinceDropDown').val();
-    console.log(prcode);
-    $.ajax({
-      url: '{{route('district')}}',
-      data: {prcode: prcode},
-      type: 'get',
-      success: function (result) {
-        $('#districtDropdown').html(result);
-      }
-    });
-    });
-
-    $(document).ready(function () {
-    var dicode = $('#districtDropdown').val();
-    console.log(dicode);
-    $.ajax({
-      url: '{{route('localauthority')}}',
-      data: {dicode: dicode},
-      type: 'get',
-      success: function (result) {
-        $('#localauthorityDropdown').html(result);
-      }
-    });
-    });
-    jQuery('#districtDropdown').on('change', function (event) {
-    var dicode = $('#districtDropdown').val();
-    console.log(dicode);
-    $.ajax({
-      url: '{{route('localauthority')}}',
-      data: {dicode: dicode},
-      type: 'get',
-      success: function (result) {
-        $('#localauthorityDropdown').html(result);
-      }
-    });
-    });
-</script>
-@endsection
-    
+    <center>
+        <input type="submit" value="SAVE" class="glyphicon glyphicon-eye-open btn btn-success"/>
+        <input type="submit" value="CANCEL" class="glyphicon glyphicon-eye-open btn btn-danger" />
+    </center>
+    <script>
+        $(document).ready(function () {
+        var prcode = $('#provinceDropDown').val();
+            console.log(prcode);
+            $.ajax({
+                url: '{{route('district')}}',
+                        data: {prcode: prcode},
+                        type: 'get',
+                        success: function (result) {
+                        $('#districtDropdown').html(result);
+                        }
+                });
+        });
+        jQuery('#provinceDropDown').on('change', function (event) {
+        var prcode = $('#provinceDropDown').val();
+                console.log(prcode);
+                $.ajax({
+                url: '{{route('district')}}',
+                        data: {prcode: prcode},
+                        type: 'get',
+                        success: function (result) {
+                        $('#districtDropdown').html(result);
+                        }
+                });
+        });
+                $(document).ready(function () {
+        var dicode = $('#districtDropdown').val();
+                console.log(dicode);
+                $.ajax({
+                url: '{{route('localauthority')}}',
+                        data: {dicode: dicode},
+                        type: 'get',
+                        success: function (result) {
+                        $('#localauthorityDropdown').html(result);
+                        }
+                });
+        });
+                jQuery('#districtDropdown').on('change', function (event) {
+        var dicode = $('#districtDropdown').val();
+                console.log(dicode);
+                $.ajax({
+                url: '{{route('localauthority')}}',
+                        data: {dicode: dicode},
+                        type: 'get',
+                        success: function (result) {
+                        $('#localauthorityDropdown').html(result);
+                        }
+                });
+        });
+    </script>
+    @endsection

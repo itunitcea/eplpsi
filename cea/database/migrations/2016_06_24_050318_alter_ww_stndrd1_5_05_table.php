@@ -15,7 +15,6 @@ class AlterWwStndrd1505Table extends Migration
         Schema::table('ww_stndrd1_5_05', function (Blueprint $table) {
             $table->foreign('industryID')->references('industryID')->on('industry');  
             $table->foreign('epl_licence_id')->references('applicationID')->on('epl_licence');           
-            $table->foreign('w_id')->references('w_id')->on('water');
 
         });
     }
@@ -27,8 +26,6 @@ class AlterWwStndrd1505Table extends Migration
      */
     public function down()
     {
-        Schema::table('ww_stndrd1_5_05', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('ww_stndrd1_5_05');
     }
 }

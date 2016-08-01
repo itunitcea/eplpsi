@@ -1,5 +1,5 @@
 
-@extends('master')
+@extends('master2')
 
 @section('content')
 

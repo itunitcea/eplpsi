@@ -13,7 +13,7 @@ class AlterInsgroupofficerTable extends Migration
     public function up()
     {
         Schema::table('insgroupofficer', function (Blueprint $table) {
-            $table->foreign('userID')->references('user_id')->on('users');
+            //$table->foreign('userID')->references('user_id')->on('users');
             $table->foreign('insgroupID')->references('insgroupID')->on('inspectiongroup');  
         });
     }
@@ -25,8 +25,6 @@ class AlterInsgroupofficerTable extends Migration
      */
     public function down()
     {
-        Schema::table('insgroupofficer', function (Blueprint $table) {
-            //
-        });
+        Schema::drop('insgroupofficer');
     }
 }
