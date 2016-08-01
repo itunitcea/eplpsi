@@ -1,19 +1,14 @@
-@extends('master3')
+@extends('masterApplication')
 @section('content')
-
-
-    
-       
-                
             
      	<form class="form-horizontal" >
             <div class="form-group">
                     <label class="col-sm-4 control-label">File Number :</label>
-                    <label class="col-sm-8 control-label">EA/AP/PDA/MP/A53/4797/2010 </label>
+                    <label class="col-sm-8 control-label" style="text-align: left">EA/AP/PDA/MP/A53/4797/2010 </label>
             </div>
             <div class="form-group">
                     <label class="col-sm-4 control-label">Industry Name :</label>
-                    <label class="col-sm-8 control-label">Metal Quarry</label>
+                    <label class="col-sm-8 control-label" style="text-align: left">Metal Quarry</label>
             </div>
             <hr/>
             <div class="form-group">
