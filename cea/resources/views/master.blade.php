@@ -23,8 +23,11 @@ and open the template in the editor.
            <!-- <img src="{{asset('assets/images/nb2.jpg')}}" style="height: 100px;width: 100%"/> -->
             <!--<img src="{{url('../assets/images/newBanner.jpg')}}"  /> -->
             <!-- -------------------------- Banner----------------------------------- -->
+            <div class="raw">
+                
+            </div>
             <div class="well well-lg" style="font-family: monotype Corsiva; height: 150px;width: 100%; padding: 0.5px ; padding-left: 50px; background-color: #5cb85c; font-size: 65px; color: #ffffff "  >
-                <center> Pollution Source Inventory   </center>
+                <center> Pollution Source Inventory    </center>
                 <center> <h1>Central Environmental Authority</h1> </center>
             </div>
             <!-- -------------------------- ----------------------------------- -->
@@ -39,12 +42,12 @@ and open the template in the editor.
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>                        
                         </button>
-                        <a class="navbar-brand" href="#">HOME</a>
+                        <a class="navbar-brand" href="{{url('/')}}">HOME</a>
                     </div>
                     <div class="collapse navbar-collapse" id="myNavbar">
                         <ul class="nav navbar-nav">
                             <li class="active"><a href="{{url('/industry')}}">INDUSTRY</a></li>
-                            <li><a href="#">ABOUT US</a></li>
+                            <li><a href="{{url('/about')}}">ABOUT US</a></li>
                             <li><a href="#">CONTACT US</a></li>
                             <li><a href="#">MAIN DATA</a></li>
                         </ul>
@@ -77,7 +80,7 @@ and open the template in the editor.
                             <li>
                                 <a style="width: 100%;height: 50px" class="btn btn-success" href="{{url('/reports')}}"  role="button"> Reports </a>
                             </li>
-                            <li class="dropdown">
+                           <!-- <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries<span class="caret"></span></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="{{url('/industry')}}">Industry Details</a></li>
@@ -126,7 +129,7 @@ and open the template in the editor.
                             </li>
                             <li>
                                 <a href="#">Contact</a>
-                            </li>
+                            </li> -->
 
                         </ul>
                     </div>

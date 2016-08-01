@@ -18,7 +18,7 @@ class SectorController extends Controller
     public function index()
     {
         $sector = \App\Sector::paginate(20);
-    //    var_dump($categories);
+        var_dump($sector);
         $data["sector"] = $sector;
         return view('sector.index',$data);//We should create folder called "Category" and file called 'index.blade.php'
     }

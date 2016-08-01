@@ -19,19 +19,17 @@ and open the template in the editor.
 
         <div class="container-fluid"> <!-- Start Container --> 
             <!--<img src="../resources/assets/images/nb2.jpg" style="height: 100px;width: 100%"/>-->
-            <img src="{{asset('assets/images/nb2.jpg')}}" style="height: 100px;width: 100%"/>
+          <!--  <img src="{{asset('assets/images/nb2.jpg')}}" style="height: 100px;width: 100%"/> -->
             <!--<img src="{{url('../assets/images/newBanner.jpg')}}"  /> -->
             <!-- -------------------------- Banner----------------------------------- -->
-            <!--<div class="well well-lg" style="font-family: serif; height: 100px;width: 100%; padding: 0.5px ; padding-left: 50px; " >
-                <h1>EPL - PSI SYSTEM</h1>
-                <h4>Central Environmental Authority</h4>
-                <hr/>
-            </div> -->
+            <div class="well well-lg" style="font-family: monotype Corsiva; height: 150px;width: 100%; padding: 0.5px ; padding-left: 50px; background-color: #5cb85c; font-size: 65px; color: #ffffff "  >
+                <center> Pollution Source Inventory   </center>
+                <center> <h1>Central Environmental Authority</h1> </center>
+            </div>
             <!-- -------------------------- ----------------------------------- -->
             <!-- Main menu start -->
             <!--<nav class="navbar navbar-inverse" style="background-color: #001133"  >-->
-            <br/>
-            <br/>
+           
             <nav class="navbar navbar-inverse" style="background-color: #1A782A"  >
                 <div class="container-fluid">
                     <div class="navbar-header">

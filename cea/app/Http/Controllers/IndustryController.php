@@ -12,10 +12,10 @@ use App\LocalAuthority;
 use App\Models\InspectionGroup;
 use DB;
 use View;
+use App\Industry;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Input;
-use App\Industry;
 
 use App\Http\Requests;
 
@@ -40,7 +40,7 @@ class IndustryController extends Controller
     public function index()
     {
         
-        $industries = \App\Industry::paginate(20);
+        $industries = \App\Industry::paginate(25);
 //        var_dump($categories); // to display errors
         $data["industries"] = $industries;
         return view('industry.index',$data);
@@ -56,7 +56,7 @@ class IndustryController extends Controller
         $localauthority = LocalAuthority::lists('laname','lid');
         $groupname = InspectionGroup::all();
         return view('industry.create',['epl_categories'=> $epl_categories,'sector'=>$sector,'province'=>$province,'district'=>$district,
-                    'localauthority'=> $localauthority, 'groupname'=>$groupname]);
+                    'localauthority'=>$localauthority,'groupname'=>$groupname]);
     }
     
     public function store(Request $request)
@@ -90,22 +90,21 @@ class IndustryController extends Controller
     
     public function show($industryID)
     {
-          $industry = Industry::find($industryID);
+        $industry = Industry::find($industryID);
         if(is_null($industry)){
             return Redirect::to('/industry');
         }
         return view('industry.show', compact('industry'));
     }
-    
-     public function edit($industryID)
+        
+    public function edit($industryID)
     {
         $industry = Industry::find($industryID);
         if(is_null($industry)){
             return Redirect::to('/industry');
         }
         return view('industry.edit', compact('industry'));
-//        return view('industry.edit');
-    }
+    } 
     
     
 //    public function delete()
